@@ -27,4 +27,4 @@ ReactDOM.render((
       routes={routes}
     />
   </Provider>
-), document.getElementById('smartadmin-root'));
+), document.getElementById('app-root'));
