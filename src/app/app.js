@@ -14,6 +14,7 @@ const routes = {
   indexRoute: { onEnter: (nextState, replace) => replace('/test') },
   childRoutes: [
     require('./routes/test').default,
+    require('./routes/price').default,
 
     // comment unused routes
     // this will speed up builds
