@@ -1,6 +1,6 @@
 import React from 'react'
-
 import PriceTable from '../../../components/price/moonmaterials/PriceTable'
+
 
 export default class FerrogelPrice extends React.Component {
 
@@ -37,9 +37,27 @@ export default class FerrogelPrice extends React.Component {
 
   }
 
+  // Костыль для AJAX
+  tick = () => {
+    this.setState({
+      updatingData: []
+    });
+  }
+  componentDidMount() {
+    this.interval = setInterval(this.tick, 1000);
+  }
+  componentWillUnmount() {
+    clearInterval(this.interval);
+  }
+  // Конец костыля
+
+
   render() {
 
     const { ferrogelPrice } = this.state;
+
+    //console.log("Props:", this.props);
+    //console.log("State:", this.state);
 
     return (
       <div>
@@ -48,4 +66,4 @@ export default class FerrogelPrice extends React.Component {
       </div>
     )
   }
-}
+};

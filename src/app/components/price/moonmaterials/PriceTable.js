@@ -11,11 +11,12 @@ export default class PriceTable extends React.Component {
 
   renderTable(data) {
     if (data) {
-      console.log("Prices:", data);
+      //console.log("Prices:", this.props.data);
     }
   }
 
   render() {
+
     return (
       <div>
         <table>
