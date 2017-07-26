@@ -20,6 +20,12 @@ export default class Test extends React.Component {
   }
 
   componentWillMount() {
+    //  история цен
+    // request('GET', 'https://esi.tech.ccp.is/latest/markets/10000002/history/?datasource=tranquility&type_id=34', {json: true}).done((res)=> {
+    //   this.setState({ array: JSON.parse(res.getBody()) });
+    // })
+
+    //  ордера на покупку/продажу
     // request('GET', 'https://esi.tech.ccp.is/latest/markets/10000002/orders/?datasource=tranquility&order_type=all&type_id=34', {json: true}).done((res)=> {
     //   this.setState({ array: JSON.parse(res.getBody()) });
     // })
@@ -32,8 +38,6 @@ export default class Test extends React.Component {
         JSON.parse(res.getBody()).map((e) => {
             tx.executeSql("INSERT INTO Price (order_id, type_id, location_id, volume_total, volume_remain, min_volume, price, is_buy_order, duration, issued, range) values(?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)", [e.order_id, e.type_id, e.location_id, e.volume_total, e.volume_remain, e.min_volume, e.price, e.is_buy_order, e.duration, e.issued, e.range], null, null);
         });
-
-
 
       });
 

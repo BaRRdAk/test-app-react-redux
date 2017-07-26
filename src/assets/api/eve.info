@@ -1,0 +1,85 @@
+
+ADVANCED MOON MATERIALS
+
+    groupID: 429
+    marketGroupID: 499
+
+Crystalline Carbonide		  16670
+Fermionic Condensates		  17317
+Fernite Carbide			      16673
+Ferrogel			            16683
+Fullerides	              16679
+Hypersynaptic Fibers		  16682
+Nanotransistors			      16681
+Nonlinear Metamaterials		33362
+Phenolic Composites		    16680
+Photonic Metamaterials	  33359
+Plasmonic Metamaterials		33361
+Sylramic Fibers			      16678
+Terahertz Metamaterials		33360
+Titanium Carbide		      16671
+Tungsten Carbide 		      16672
+
+
+GALENTE
+
+    groupID: 334
+    marketGroupID: 1888
+
+Crystalline Carbonide Armor Plate	     11545
+Fusion Reactor Unit			               11547
+Ion Thruster				                   11531
+Magnetometric Sensor Cluster		       11535
+Oscillator Capacitor Unit		           11553
+Particle Accelerator Unit		           11688
+Photon Microprocessor			             11541
+Plasma Pulse Generator			           11695
+Pulse Shield Emitter			             11556
+
+
+MINMATAR
+
+    groupID: 334
+    marketGroupID: 1889
+
+Deflection Shield Emitter		           11555
+Electrolytic Capacitor Unit		         11551
+Fernite Carbide Composite Armor Plate  11542
+Ladar Sensor Cluster			             11536
+Nanomechanical Microprocessor		       11538
+Nuclear Reactor Unit			             11548
+Plasma Thruster				                 11530
+Thermonuclear Trigger Unit		         11691
+Nuclear Pulse Generator			           11692
+
+
+CALDARI
+
+    groupID: 334
+    marketGroupID: 803
+
+Gravimetric Sensor Cluster		         11534
+Graviton Pulse Generator		           11693
+Graviton Reactor Unit			             11550
+Magpulse Thruster			                 11533
+Quantum Microprocessor			           11540
+Superconductor Rails			             11690
+Sustained Shield Emitter		           11558
+Titanium Diborite Armor Plate		       11544
+Scalar Capacitor Unit			             11552
+
+
+AMARR
+
+    groupID: 334
+    marketGroupID: 802
+
+Antimatter Reactor Unit			           11549
+EM Pulse Generator			               11694
+Fusion Thruster				                 11532
+Laser Focusing Crystals			           11689
+Linear Shield Emitter			             11557
+Nanoelectrical Microprocessor		       11539
+Radar Sensor Cluster			             11537
+Tesseract Capacitor Unit		           11554
+Tungsten Carbide Armor Plate		       11543
