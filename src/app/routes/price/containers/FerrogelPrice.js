@@ -79,7 +79,16 @@ export default connect(
   }),
   dispatch => ({
     onQuery: (ferrogelPrice) => {
-      dispatch({ type: 'SHOW_PRICE', payload: ferrogelPrice })
+      const asyncGetPrice = () => {
+
+
+
+
+        return dispatch => {
+          dispatch({ type: 'SHOW_PRICE', payload: ferrogelPrice })
+        }
+      }
+      dispatch(asyncGetPrice())
     }
   })
 )(FerrogelPrice);
