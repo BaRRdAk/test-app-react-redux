@@ -18,6 +18,7 @@ const routes = {
   childRoutes: [
     require('./routes/test').default,
     require('./routes/price').default,
+    require('./routes/import').default,
 
     // comment unused routes
     // this will speed up builds
