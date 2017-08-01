@@ -1,0 +1,869 @@
+{
+   "11530": {
+      "description": {
+         "en": "Propulsion Component used primarily in Minmatar ships as well as some propulsion tech. A component in various other technology as well.",
+         "ru": "Реактивный компонент, используемый в основном на кораблях Minmatar и в других системах реактивной тяги. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2179,
+      "marketGroupID": 1889,
+      "mass": 1,
+      "name": {
+         "en": "Plasma Thruster",
+         "ru": "Plasma Thruster"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 2,
+      "volume": 1
+   },
+   "11531": {
+      "description": {
+         "en": "Propulsion Component used primarily in Gallente ships. A component in various other technology as well.",
+         "ru": "Реактивный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2178,
+      "marketGroupID": 1888,
+      "mass": 1,
+      "name": {
+         "en": "Ion Thruster",
+         "ru": "Ion Thruster"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 8,
+      "volume": 1
+   },
+   "11532": {
+      "description": {
+         "en": "Propulsion Component used primarily in Amarr ships. A component in various other technology as well.",
+         "ru": "Реактивный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2180,
+      "marketGroupID": 802,
+      "mass": 1,
+      "name": {
+         "en": "Fusion Thruster",
+         "ru": "Fusion Thruster"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 4,
+      "volume": 1
+   },
+   "11533": {
+      "description": {
+         "en": "Propulsion Component used primarily in Caldari ships. A component in various other technology as well.",
+         "ru": "Реактивный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2177,
+      "marketGroupID": 803,
+      "mass": 1,
+      "name": {
+         "en": "Magpulse Thruster",
+         "ru": "Magpulse Thruster"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 1,
+      "volume": 1
+   },
+   "11534": {
+      "description": {
+         "en": "Sensor Component used primarily in Caldari ships. A component in various other technology as well.",
+         "ru": "Сенсорный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2181,
+      "marketGroupID": 803,
+      "mass": 1,
+      "name": {
+         "en": "Gravimetric Sensor Cluster",
+         "ru": "Gravimetric Sensor Cluster"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 1,
+      "volume": 1
+   },
+   "11535": {
+      "description": {
+         "en": "Sensor Component used primarily in Gallente ships. A component in various other technology as well.",
+         "ru": "Сенсорный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2182,
+      "marketGroupID": 1888,
+      "mass": 1,
+      "name": {
+         "en": "Magnetometric Sensor Cluster",
+         "ru": "Magnetometric Sensor Cluster"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 8,
+      "volume": 1
+   },
+   "11536": {
+      "description": {
+         "en": "Sensor Component used primarily in Minmatar ships. A component in various other technology as well.",
+         "ru": "Сенсорный компонент, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2183,
+      "marketGroupID": 1889,
+      "mass": 1,
+      "name": {
+         "en": "Ladar Sensor Cluster",
+         "ru": "Ladar Sensor Cluster"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 2,
+      "volume": 1
+   },
+   "11537": {
+      "description": {
+         "en": "Sensor Component used primarily in Amarr ships. A component in various other technology as well.",
+         "ru": "Сенсорный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2184,
+      "marketGroupID": 802,
+      "mass": 1,
+      "name": {
+         "en": "Radar Sensor Cluster",
+         "ru": "Radar Sensor Cluster"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 4,
+      "volume": 1
+   },
+   "11538": {
+      "description": {
+         "en": "CPU Component used primarily in Minmatar ships. A component in various other technology as well.",
+         "ru": "Компонент центрального процессора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2187,
+      "marketGroupID": 1889,
+      "mass": 1,
+      "name": {
+         "en": "Nanomechanical Microprocessor",
+         "ru": "Nanomechanical Microprocessor"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 2,
+      "volume": 1
+   },
+   "11539": {
+      "description": {
+         "en": "CPU Component used primarily in Amarr ships. A component in various other technology as well.",
+         "ru": "Компонент центрального процессора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2188,
+      "marketGroupID": 802,
+      "mass": 1,
+      "name": {
+         "en": "Nanoelectrical Microprocessor",
+         "ru": "Nanoelectrical Microprocessor"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 4,
+      "volume": 1
+   },
+   "11540": {
+      "description": {
+         "en": "CPU Component used primarily in Caldari ships. A component in various other technology as well.",
+         "ru": "Компонент центрального процессора, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2185,
+      "marketGroupID": 803,
+      "mass": 1,
+      "name": {
+         "en": "Quantum Microprocessor",
+         "ru": "Quantum Microprocessor"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 1,
+      "volume": 1
+   },
+   "11541": {
+      "description": {
+         "en": "CPU Component used primarily in Gallente ships. A component in various other technology as well.",
+         "ru": "Компонент центрального процессора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2186,
+      "marketGroupID": 1888,
+      "mass": 1,
+      "name": {
+         "en": "Photon Microprocessor",
+         "ru": "Photon Microprocessor"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 8,
+      "volume": 1
+   },
+   "11542": {
+      "description": {
+         "en": "Armor Component used primarily in Minmatar ships. A component in various other technology as well.",
+         "ru": "Компонент брони, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2191,
+      "marketGroupID": 1889,
+      "mass": 1,
+      "name": {
+         "en": "Fernite Carbide Composite Armor Plate",
+         "ru": "Fernite Carbide Composite Armor Plate"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 2,
+      "volume": 1
+   },
+   "11543": {
+      "description": {
+         "en": "Armor Component used primarily in Amarr ships. A component in various other technology as well.",
+         "ru": "Компонент брони, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2192,
+      "marketGroupID": 802,
+      "mass": 1,
+      "name": {
+         "en": "Tungsten Carbide Armor Plate",
+         "ru": "Tungsten Carbide Armor Plate"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 4,
+      "volume": 1
+   },
+   "11544": {
+      "description": {
+         "en": "Armor Component used primarily in Caldari ships. A component in various other technology as well.",
+         "ru": "Компонент брони, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2189,
+      "marketGroupID": 803,
+      "mass": 1,
+      "name": {
+         "en": "Titanium Diborite Armor Plate",
+         "ru": "Titanium Diborite Armor Plate"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 1,
+      "volume": 1
+   },
+   "11545": {
+      "description": {
+         "en": "Armor Component used primarily in Gallente ships. A component in various other technology as well.",
+         "ru": "Компонент брони, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2190,
+      "marketGroupID": 1888,
+      "mass": 1,
+      "name": {
+         "en": "Crystalline Carbonide Armor Plate",
+         "ru": "Crystalline Carbonide Armor Plate"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 8,
+      "volume": 1
+   },
+   "11547": {
+      "description": {
+         "en": "Power Core component used primarily in Gallente ships. A component in various other technologies as well.",
+         "ru": "Компонент силовой установки, используемый преимущественно на галлентских кораблях. Кроме того, применяется в ряде других проектов."
+      },
+      "groupID": 334,
+      "iconID": 2194,
+      "marketGroupID": 1888,
+      "mass": 1,
+      "name": {
+         "en": "Fusion Reactor Unit",
+         "ru": "Fusion Reactor Unit"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 8,
+      "volume": 1
+   },
+   "11548": {
+      "description": {
+         "en": "Power Core component used primarily in Minmatar ships. A component in various other technology as well.",
+         "ru": "Компонент силового ядра, используемый преимущественно на кораблях Minmatar. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2195,
+      "marketGroupID": 1889,
+      "mass": 1,
+      "name": {
+         "en": "Nuclear Reactor Unit",
+         "ru": "Nuclear Reactor Unit"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 2,
+      "volume": 1
+   },
+   "11549": {
+      "description": {
+         "en": "Power Core component used primarily in Amarr ships. A component in various other technology as well.",
+         "ru": "Компонент силового ядра, используемый преимущественно на кораблях Amarr. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2196,
+      "marketGroupID": 802,
+      "mass": 1,
+      "name": {
+         "en": "Antimatter Reactor Unit",
+         "ru": "Antimatter Reactor Unit"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 4,
+      "volume": 1
+   },
+   "11550": {
+      "description": {
+         "en": "Power Core component used primarily in Caldari ships. A component in various other technology as well.",
+         "ru": "Компонент энергосети, используемый преимущественно на кораблях Caldari. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2193,
+      "marketGroupID": 803,
+      "mass": 1,
+      "name": {
+         "en": "Graviton Reactor Unit",
+         "ru": "Graviton Reactor Unit"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 1,
+      "volume": 1
+   },
+   "11551": {
+      "description": {
+         "en": "Capacitor component used primarily in Minmatar ships. A component in various other technology as well.",
+         "ru": "Компонент конденсатора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2199,
+      "marketGroupID": 1889,
+      "mass": 1,
+      "name": {
+         "en": "Electrolytic Capacitor Unit",
+         "ru": "Electrolytic Capacitor Unit"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 2,
+      "volume": 1
+   },
+   "11553": {
+      "description": {
+         "en": "Capacitor component used primarily in Gallente ships. A component in various other technology as well.",
+         "ru": "Компонент конденсатора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2198,
+      "marketGroupID": 1888,
+      "mass": 1,
+      "name": {
+         "en": "Oscillator Capacitor Unit",
+         "ru": "Oscillator Capacitor Unit"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 8,
+      "volume": 1
+   },
+   "11554": {
+      "description": {
+         "en": "Capacitor component used primarily in Amarr ships. A component in various other technology as well.",
+         "ru": "Компонент конденсатора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2200,
+      "marketGroupID": 802,
+      "mass": 1,
+      "name": {
+         "en": "Tesseract Capacitor Unit",
+         "ru": "Tesseract Capacitor Unit"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 4,
+      "volume": 1
+   },
+   "11555": {
+      "description": {
+         "en": "Shield Component used primarily in Minmatar ships. A component in various other technology as well.",
+         "ru": "Компонент щита, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2203,
+      "marketGroupID": 1889,
+      "mass": 1,
+      "name": {
+         "en": "Deflection Shield Emitter",
+         "ru": "Deflection Shield Emitter"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 2,
+      "volume": 1
+   },
+   "11556": {
+      "description": {
+         "en": "Shield Component used primarily in Gallente ships. A component in various other technology as well.",
+         "ru": "Компонент щита, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2202,
+      "marketGroupID": 1888,
+      "mass": 1,
+      "name": {
+         "en": "Pulse Shield Emitter",
+         "ru": "Pulse Shield Emitter"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 8,
+      "volume": 1
+   },
+   "11557": {
+      "description": {
+         "en": "Shield Component used primarily in Amarr ships. A component in various other technology as well.",
+         "ru": "Компонент щита, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2204,
+      "marketGroupID": 802,
+      "mass": 1,
+      "name": {
+         "en": "Linear Shield Emitter",
+         "ru": "Linear Shield Emitter"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 4,
+      "volume": 1
+   },
+   "11558": {
+      "description": {
+         "en": "Shield Component used primarily in Caldari ships. A component in various other technology as well.",
+         "ru": "Компонент щита, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2201,
+      "marketGroupID": 803,
+      "mass": 1,
+      "name": {
+         "en": "Sustained Shield Emitter",
+         "ru": "Sustained Shield Emitter"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 1,
+      "volume": 1
+   },
+   "11688": {
+      "description": {
+         "en": "Weapon Component used primarily in Blasters. A component in various other technology as well.",
+         "ru": "Орудийный компонент, используемый в основном в бластерах. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2233,
+      "marketGroupID": 1888,
+      "mass": 1,
+      "name": {
+         "en": "Particle Accelerator Unit",
+         "ru": "Particle Accelerator Unit"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 8,
+      "volume": 1
+   },
+   "11689": {
+      "description": {
+         "en": "Weapon Component used primarily in Lasers. A component in various other technology as well.",
+         "ru": "Орудийный компонент, используемый в основном в лазерах. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2234,
+      "marketGroupID": 802,
+      "mass": 1,
+      "name": {
+         "en": "Laser Focusing Crystals",
+         "ru": "Laser Focusing Crystals"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 4,
+      "volume": 1
+   },
+   "11690": {
+      "description": {
+         "en": "Weapon Component used primarily in Railguns. A component in various other technology as well.",
+         "ru": "Орудийный компонент, используемый в основном в рейлганах. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2227,
+      "marketGroupID": 803,
+      "mass": 1,
+      "name": {
+         "en": "Superconductor Rails",
+         "ru": "Superconductor Rails"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 1,
+      "volume": 1
+   },
+   "11691": {
+      "description": {
+         "en": "Weapon Component used primarily in Cannons. A component in various other technology as well.",
+         "ru": "Орудийный компонент, используемый в основном в артиллерии. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2228,
+      "marketGroupID": 1889,
+      "mass": 1,
+      "name": {
+         "en": "Thermonuclear Trigger Unit",
+         "ru": "Thermonuclear Trigger Unit"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 2,
+      "volume": 1
+   },
+   "11693": {
+      "description": {
+         "en": "Weapon Component used primarily in Caldari Missiles. A component in various other technology as well.",
+         "ru": "Орудийный компонент, используемый в основном в ракетах производства Caldari. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2229,
+      "marketGroupID": 803,
+      "mass": 1,
+      "name": {
+         "en": "Graviton Pulse Generator",
+         "ru": "Graviton Pulse Generator"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 1,
+      "volume": 1
+   },
+   "11694": {
+      "description": {
+         "en": "Weapon Component used primarily in Amarr Missiles. A component in various other technology as well.",
+         "ru": "Орудийный компонент, используемый в основном в ракетах производства Amarr. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2232,
+      "marketGroupID": 802,
+      "mass": 1,
+      "name": {
+         "en": "EM Pulse Generator",
+         "ru": "EM Pulse Generator"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 4,
+      "volume": 1
+   },
+   "11695": {
+      "description": {
+         "en": "Weapon Component used primarily in Gallente Missiles. A component in various other technology as well.",
+         "ru": "Орудийный компонент, используемый в основном в ракетах производства Gallente. Применяется и в других различных технологиях."
+      },
+      "groupID": 334,
+      "iconID": 2230,
+      "marketGroupID": 1888,
+      "mass": 1,
+      "name": {
+         "en": "Plasma Pulse Generator",
+         "ru": "Plasma Pulse Generator"
+      },
+      "portionSize": 1,
+      "published": true,
+      "raceID": 8,
+      "volume": 1
+   },
+   "16670": {
+      "basePrice": 10,
+      "description": {
+         "en": "An exeptionally hard material created from crystallite alloys and carbon polymers, crystalline carbonite is a primary component in various forms of advanced Gallente technology, such as thrusters and armor plating.",
+         "ru": "Исключительно тяжелый материал, созданный из кристаллических сплавов и углеродных полимеров. Кристаллический карбонид является основным компонентом разных форм продвинутых технологий Gallente, таких как щиты и обшивки."
+      },
+      "groupID": 429,
+      "iconID": 2679,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Crystalline Carbonide",
+         "ru": "Crystalline Carbonide"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 0.01
+   },
+   "16671": {
+      "basePrice": 10,
+      "description": {
+         "en": "Due to its immense strength and molecular malleability, Titanium Carbide has become the darling of the Caldari technological industry, seeing use in everything from reactor units to weapons systems.",
+         "ru": "Благодаря своей чрезвычайной силе и молекулярной пластичности, карбид титана стал очень любим технологической промышленностью Caldari, которые разглядели в нем потенциал использования как в реакторах, так и оружейных системах."
+      },
+      "groupID": 429,
+      "iconID": 2681,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Titanium Carbide",
+         "ru": "Titanium Carbide"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 0.01
+   },
+   "16672": {
+      "basePrice": 10,
+      "description": {
+         "en": "Tungsten Carbide is a much-used composite, greatly favored by the Amarrians for construction of their advanced technologies.",
+         "ru": "Карбид тунгстена - композитный материал, широко используемый Amarr в передовых технологиях."
+      },
+      "groupID": 429,
+      "iconID": 2682,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Tungsten Carbide",
+         "ru": "Tungsten Carbide"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 0.01
+   },
+   "16673": {
+      "basePrice": 10,
+      "description": {
+         "en": "A revolutionary ceramic carbide compound, much favored by the Matari both for its earthy quality and its extremely wide range of technological uses.",
+         "ru": "Революционная керамическая карбидовая смесь, любимая Minmatar как за ее земные качества, так и за ряд способов ее использования в технологиях."
+      },
+      "groupID": 429,
+      "iconID": 2680,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Fernite Carbide",
+         "ru": "Fernite Carbide"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 0.01
+   },
+   "16678": {
+      "basePrice": 20,
+      "description": {
+         "en": "Extremely strong fibers, used in laminated armor plating.",
+         "ru": "Крайне прочные волокна, используемые в многослойной бронированной обшивке."
+      },
+      "groupID": 429,
+      "iconID": 2662,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Sylramic Fibers",
+         "ru": "Sylramic Fibers"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 0.05
+   },
+   "16679": {
+      "basePrice": 230,
+      "description": {
+         "en": "Fullerides are highly superconductive materials used in capacitors, armor plating and weapons systems.",
+         "ru": "Фуллериды - высокопроводниковые материалы, используемые в конденсаторах, бронированной обшивке и системах оружия."
+      },
+      "groupID": 429,
+      "iconID": 2684,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Fullerides",
+         "ru": "Fullerides"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 0.15
+   },
+   "16680": {
+      "basePrice": 600,
+      "description": {
+         "en": "A extremely heat-resistant material used in thrusters and as heat shielding.",
+         "ru": "Чрезвычайно термостойкий материал, используемый в маневровых двигателях и системах защиты от перегрева."
+      },
+      "groupID": 429,
+      "iconID": 2661,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Phenolic Composites",
+         "ru": "Phenolic Composites"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 0.2
+   },
+   "16681": {
+      "basePrice": 700,
+      "description": {
+         "en": "Extremely complex molecular-level transistors used in nanoscale electronics, such as microprocessors and capacitor units.",
+         "ru": "Очень сложные молекулярные транзисторы, используемые в наноэлектронных устройствах, таких как микропроцессоры или конденсаторы."
+      },
+      "groupID": 429,
+      "iconID": 2686,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Nanotransistors",
+         "ru": "Nanotransistors"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 0.25
+   },
+   "16682": {
+      "basePrice": 2560,
+      "description": {
+         "en": "Whenever the transmission of visual or numerical data is a matter of life and death, the data network needs the fastest possible relay system. Hypersynaptic fibers, due to their immense frequency range and speed of conduction, have become the industry standard for sensor arrays and targeting systems.",
+         "ru": "Везде, где крайне важна передача наглядных или цифровых данных, для сетей данных требуется как можно более быстрая релейная система. Гиперсинаптические волокна обладают огромным диапазоном частот и скоростью передачи, они стали стандартным материалом для сенсоров и прицельных систем."
+      },
+      "groupID": 429,
+      "iconID": 2685,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Hypersynaptic Fibers",
+         "ru": "Hypersynaptic Fibers"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 0.6
+   },
+   "16683": {
+      "basePrice": 5500,
+      "description": {
+         "en": "A magnetised liquid, used to control the flow of cold plasma fields in shield systems, reactor cores, pulse generators and thruster systems.",
+         "ru": "Магнетическая жидкость, используемая, чтобы контролировать поток холодных плазменных полей в щитовых системах, реакторных ядрах, пульсовых генераторах и тяговых системах."
+      },
+      "groupID": 429,
+      "iconID": 2678,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Ferrogel",
+         "ru": "Ferrogel"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 1
+   },
+   "17317": {
+      "basePrice": 12000,
+      "description": {
+         "en": "One of the most complex composites known to man, fermionic condensates consist of superconductive boson particles all occupying the same quantum state, thus creating a nearly resistance-free environment for electric current. These condensates have therefore become a staple in advanced reactor manufacture.",
+         "ru": "Фермионные конденсаты состоят из сверхпроводящих бозонных частиц в одинаковом квантовом состоянии, за счет чего они создают электропроводящую среду с почти нулевым сопротивлением. Этот конденсат используется при производстве высокоэффективных реакторов."
+      },
+      "groupID": 429,
+      "iconID": 2683,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Fermionic Condensates",
+         "ru": "Fermionic Condensates"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 1.3
+   },
+   "33359": {
+      "basePrice": 3500,
+      "description": {
+         "en": "A carefully engineered latticework designed for precise optical control, photonic metamaterials are a component in advanced Gallente microprocessors and capacitor units.",
+         "ru": "Фотонные метаматериалы имеют сложную решетчатую структуру, обеспечивающую сверхточный оптический контроль; они широко используются в производстве новейших микропроцессоров и накопителей Галлентской Федерации."
+      },
+      "groupID": 429,
+      "iconID": 2678,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Photonic Metamaterials",
+         "ru": "Photonic Metamaterials"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 1
+   },
+   "33360": {
+      "basePrice": 3500,
+      "description": {
+         "en": "An advanced composite designed to manipulate electromagnetic waves just beyond the microwave band, terahertz metamaterials are found in the latest generation of processors and capacitor units in the Amarr Empire.",
+         "ru": "Терагерцевые метаматериалы представляют собой усовершенствованный композитный материал, предназначенный для манипулирования электромагнитными волнами с частотой, лишь немного превышающей частоты микроволнового диапазона, и они применяются для производства новейшего поколения процессоров и накопителей империи Амарр."
+      },
+      "groupID": 429,
+      "iconID": 2678,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Terahertz Metamaterials",
+         "ru": "Terahertz Metamaterials"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 1
+   },
+   "33361": {
+      "basePrice": 3500,
+      "description": {
+         "en": "Carefully fabricated composites of neo mercurite and fernite alloy, plasmonic metamaterials are a key component in advanced Minmatar processors and capacitor units.",
+         "ru": "Плазмонические метаматериалы -- сложные композиты из неомеркурита и фернитового сплава, и в республике Минматар они являются ключевым компонентом в производстве новейшего поколения процессоров и накопителей. "
+      },
+      "groupID": 429,
+      "iconID": 2678,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Plasmonic Metamaterials",
+         "ru": "Plasmonic Metamaterials"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 1
+   },
+   "33362": {
+      "basePrice": 3500,
+      "description": {
+         "en": "Labs in the Caldari State have recently managed to construct the first known composites with negative refractive indexes. Known as nonlinear metamaterials, these advanced composites are finding increasing use in the State's latest capacitor units and microprocessors.",
+         "ru": "В лабораториях государства Калдари недавно удалось получить первые композитные материалы с негативным коэффициентом рефракции. Им было присвоено название нелинейных метаматериалов, и они находят все более широкое применение в производстве новейших накопителей и микропроцессоров государства."
+      },
+      "groupID": 429,
+      "iconID": 2678,
+      "marketGroupID": 499,
+      "name": {
+         "en": "Nonlinear Metamaterials",
+         "ru": "Nonlinear Metamaterials"
+      },
+      "portionSize": 1,
+      "published": true,
+      "volume": 1
+   }
+}

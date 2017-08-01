@@ -1,920 +1,509 @@
 11545:
     description:
-        de: '    Eine Panzerungskomponente, die primär in Gallente-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Armor Component used primarily in Gallente ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de blindage utilisé principalement pour les vaisseaux gallente.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にガレンテ艦船に用いられるアーマー部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент брони, используемый в основном на кораблях Gallente. Применяется
-            и в других различных технологиях.'
-        zh: '主要由盖伦特舰船使用的装甲构件。这个部件也存在于别的各种科技类型中。    '
+        en: "Armor Component used primarily in Gallente ships. A component in various other technology as well."
+        ru: "Компонент брони, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
     groupID: 334
     iconID: 2190
     marketGroupID: 1888
     mass: 1.0
     name:
-        de: Crystalline Carbonide Armor Plate
-        en: Crystalline Carbonide Armor Plate
-        fr: Blindage en carbonite cristallin
-        ja: クリスタルインカーボナイドアーマープレート
-        ru: Crystalline Carbonide Armor Plate
-        zh: 碳化晶体附甲
+        en: "Crystalline Carbonide Armor Plate"
+        ru: "Crystalline Carbonide Armor Plate"
     portionSize: 1
     published: true
     raceID: 8
     volume: 1.0
 11547:
     description:
-        de: 'Energiekernkomponente, welche primär in Gallente-Schiffen eingesetzt
-            wird. Zudem eine Komponente zahlreicher anderer Technologien.    '
-        en: 'Power Core component used primarily in Gallente ships. A component in
-            various other technologies as well.    '
-        fr: 'Composant du réacteur principal essentiellement utilisé sur les vaisseaux
-            gallente. Diverses technologies mettent également ce composant à profit.    '
-        ja: '主にガレンテ艦船で使用されるパワーコア・コンポーネント。他の各種技術を用いたコンポーネントもある。    '
-        ru: 'Компонент силовой установки, используемый преимущественно на галлентских
-            кораблях. Кроме того, применяется в ряде других проектов.    '
-        zh: '主要由盖伦特舰船使用的能源核心构件。  这个部件也存在于别的各种科技类型中。    '
+        en: 'Power Core component used primarily in Gallente ships. A component in various other technologies as well.'
+        ru: 'Компонент силовой установки, используемый преимущественно на галлентских кораблях. Кроме того, применяется в ряде других проектов.'
     groupID: 334
     iconID: 2194
     marketGroupID: 1888
     mass: 1.0
     name:
-        de: Fusion Reactor Unit
         en: Fusion Reactor Unit
-        fr: Réacteur à fusion
-        ja: 核融合リアクターユニット
         ru: Fusion Reactor Unit
-        zh: 聚变反应堆机组
     portionSize: 1
     published: true
     raceID: 8
     volume: 1.0
 11531:
     description:
-        de: '  Eine Antriebskomponente, die primär in Gallente-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Propulsion Component used primarily in Gallente ships. A component in
-            various other technology as well.  '
-        fr: 'Composant de propulsion utilisé principalement pour les vaisseaux gallente.
-            Ce composant est également utilisé dans diverses autres technologies.  '
-        ja: '  主にガレンテ艦船に用いられる推進系部品。他にも幅広い機械装置に使われている。'
-        ru: '  Реактивный компонент, используемый в основном на кораблях Gallente.
-            Применяется и в других различных технологиях.'
-        zh: '主要由盖伦特舰船使用的推进器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Propulsion Component used primarily in Gallente ships. A component in various other technology as well.'
+        ru: 'Реактивный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2178
     marketGroupID: 1888
     mass: 1.0
     name:
-        de: Ion Thruster
         en: Ion Thruster
-        fr: Propulseur à ions
-        ja: イオンスラスター
         ru: Ion Thruster
-        zh: 离子推进器
     portionSize: 1
     published: true
     raceID: 8
     volume: 1.0
 11535:
     description:
-        de: '  Eine Sensorkomponente, die primär in Gallente-Schiffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Sensor Component used primarily in Gallente ships. A component in various
-            other technology as well.  '
-        fr: 'Composant de capteur utilisé principalement pour les vaisseaux gallente.
-            Ce composant est également utilisé dans diverses autres technologies.  '
-        ja: '  主にガレンテ艦船に用いられるセンサー部品。他にも幅広い機械装置に使われている。'
-        ru: '  Сенсорный компонент, используемый в основном на кораблях Gallente.
-            Применяется и в других различных технологиях.'
-        zh: '主要由盖伦特舰船使用的感应器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Sensor Component used primarily in Gallente ships. A component in various other technology as well.'
+        ru: 'Сенсорный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2182
     marketGroupID: 1888
     mass: 1.0
     name:
-        de: Magnetometric Sensor Cluster
         en: Magnetometric Sensor Cluster
-        fr: Réseau de détecteurs magnétométriques
-        ja: 磁力センサークラスタ
         ru: Magnetometric Sensor Cluster
-        zh: 磁力感应器组
     portionSize: 1
     published: true
     raceID: 8
     volume: 1.0
 11553:
     description:
-        de: '    Eine Energiespeicherkomponente, die primär in Gallente-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist'
-        en: 'Capacitor component used primarily in Gallente ships. A component in
-            various other technology as well.    '
-        fr: 'Composant de capaciteur utilisé principalement pour les vaisseaux gallente.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にガレンテ艦船に用いられるキャパシタ部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент конденсатора, используемый в основном на кораблях Gallente.
-            Применяется и в других различных технологиях.'
-        zh: '主要由盖伦特舰船使用的电容器构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Capacitor component used primarily in Gallente ships. A component in various other technology as well.'
+        ru: 'Компонент конденсатора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2198
     marketGroupID: 1888
     mass: 1.0
     name:
-        de: Oscillator Capacitor Unit
         en: Oscillator Capacitor Unit
-        fr: Capaciteur à oscillation
-        ja: オシレーターキャパシタユニット
         ru: Oscillator Capacitor Unit
-        zh: 震荡电容器单元
     portionSize: 1
     published: true
     raceID: 8
     volume: 1.0
 11688:
     description:
-        de: '  Eine Waffenkomponente, die primär in Blastern eingesetzt wird, aber
-            auch Teil unzähliger anderer Technologien ist.'
-        en: 'Weapon Component used primarily in Blasters. A component in various other
-            technology as well.  '
-        fr: 'Composant d''armement utilisé principalement dans les blasters. Ce composant
-            est également utilisé dans diverses autres technologies.  '
-        ja: '  主にブラスターに用いられる兵器部品。他にも幅広い機械装置に使われている。'
-        ru: '  Орудийный компонент, используемый в основном в бластерах. Применяется
-            и в других различных технологиях.'
-        zh: '主要由疾速炮使用的武器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Weapon Component used primarily in Blasters. A component in various other technology as well.'
+        ru: 'Орудийный компонент, используемый в основном в бластерах. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2233
     marketGroupID: 1888
     mass: 1.0
     name:
-        de: Particle Accelerator Unit
         en: Particle Accelerator Unit
-        fr: Accélérateur de particules
-        ja: 粒子加速器ユニット
         ru: Particle Accelerator Unit
-        zh: 粒子加速装置
     portionSize: 1
     published: true
     raceID: 8
     volume: 1.0
 11541:
     description:
-        de: '    Eine CPU-Komponente, die primär in Gallente-Schiffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'CPU Component used primarily in Gallente ships. A component in various
-            other technology as well.    '
-        fr: 'Composant CPU utilisé principalement pour les vaisseaux gallente. Ce
-            composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にガレンテ艦船に用いられるCPU部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент центрального процессора, используемый в основном на кораблях
-            Gallente. Применяется и в других различных технологиях.'
-        zh: '主要由盖伦特舰船使用的CPU构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'CPU Component used primarily in Gallente ships. A component in various other technology as well.'
+        ru: 'Компонент центрального процессора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2186
     marketGroupID: 1888
     mass: 1.0
     name:
-        de: Photon Microprocessor
         en: Photon Microprocessor
-        fr: Microprocesseur à photon
-        ja: 光子マイクロプロセッサー
         ru: Photon Microprocessor
-        zh: 光子微处理器
     portionSize: 1
     published: true
     raceID: 8
     volume: 1.0
 11695:
     description:
-        de: '  Eine Waffenkomponente, die primär in Gallente-Lenkwaffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Weapon Component used primarily in Gallente Missiles. A component in
-            various other technology as well.  '
-        fr: 'Composant d''armement utilisé principalement dans les missiles gallente.
-            Ce composant est également utilisé dans diverses autres technologies.  '
-        ja: '  主にガレンテのミサイルに用いられる兵器部品。他にも幅広い機械装置に使われている。'
-        ru: '  Орудийный компонент, используемый в основном в ракетах производства
-            Gallente. Применяется и в других различных технологиях.'
-        zh: '主要由盖伦特导弹使用的武器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Weapon Component used primarily in Gallente Missiles. A component in various other technology as well.'
+        ru: 'Орудийный компонент, используемый в основном в ракетах производства Gallente. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2230
     marketGroupID: 1888
     mass: 1.0
     name:
-        de: Plasma Pulse Generator
         en: Plasma Pulse Generator
-        fr: Générateur d'impulsions plasma
-        ja: プラズマパルスジェネレーター
         ru: Plasma Pulse Generator
-        zh: 等离子脉冲发生器
     portionSize: 1
     published: true
     raceID: 8
     volume: 1.0
 11556:
     description:
-        de: '   Eine Schildkomponente, die primär in Gallente-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Shield Component used primarily in Gallente ships. A component in various
-            other technology as well.   '
-        fr: 'Composant de bouclier utilisé principalement pour les vaisseaux gallente.
-            Ce composant est également utilisé dans diverses autres technologies.   '
-        ja: '   主にガレンテ艦船に用いられるシールド部品。他にも幅広い機械装置に使われている。'
-        ru: '   Компонент щита, используемый в основном на кораблях Gallente. Применяется
-            и в других различных технологиях.'
-        zh: '主要由盖伦特舰船使用的护盾构件。这个部件也存在于别的各种科技类型中。   '
+        en: 'Shield Component used primarily in Gallente ships. A component in various other technology as well.'
+        ru: 'Компонент щита, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2202
     marketGroupID: 1888
     mass: 1.0
     name:
-        de: Pulse Shield Emitter
         en: Pulse Shield Emitter
-        fr: Émetteur de bouclier à impulsions
-        ja: パルスシールドエミッター
         ru: Pulse Shield Emitter
-        zh: 脉冲护盾发射器
     portionSize: 1
     published: true
     raceID: 8
     volume: 1.0
 11555:
     description:
-        de: '    Eine Schildkomponente, die primär in Minmatar-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Shield Component used primarily in Minmatar ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de bouclier utilisé principalement pour les vaisseaux minmatar.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にミンマター艦船に用いられるシールド部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент щита, используемый в основном на кораблях Minmatar. Применяется
-            и в других различных технологиях.'
-        zh: '主要由米玛塔尔舰船使用的护盾构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Shield Component used primarily in Minmatar ships. A component in various other technology as well.'
+        ru: 'Компонент щита, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2203
     marketGroupID: 1889
     mass: 1.0
     name:
-        de: Deflection Shield Emitter
         en: Deflection Shield Emitter
-        fr: Émetteur du bouclier de déviation
-        ja: 偏向シールドエミッター
         ru: Deflection Shield Emitter
-        zh: 偏阻护盾发射器
     portionSize: 1
     published: true
     raceID: 2
     volume: 1.0
 11551:
     description:
-        de: '    Eine Energiespeicherkomponente, die primär in Minmatar-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Capacitor component used primarily in Minmatar ships. A component in
-            various other technology as well.    '
-        fr: 'Composant de capaciteur utilisé principalement pour les vaisseaux minmatar.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にミンマター艦船に用いられるキャパシタ部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент конденсатора, используемый в основном на кораблях Minmatar.
-            Применяется и в других различных технологиях.'
-        zh: '主要由米玛塔尔舰船使用的电容器构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Capacitor component used primarily in Minmatar ships. A component in various other technology as well.'
+        ru: 'Компонент конденсатора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2199
     marketGroupID: 1889
     mass: 1.0
     name:
-        de: Electrolytic Capacitor Unit
         en: Electrolytic Capacitor Unit
-        fr: Capaciteur électrolytique
-        ja: 電解キャパシタユニット
         ru: Electrolytic Capacitor Unit
-        zh: 电解电容器单元
     portionSize: 1
     published: true
     raceID: 2
     volume: 1.0
 11542:
     description:
-        de: '    Eine Panzerungskomponente, die primär in Minmatar-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Armor Component used primarily in Minmatar ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de blindage utilisé principalement pour les vaisseaux minmatar.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にミンマター艦船に用いられるアーマー部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент брони, используемый в основном на кораблях Minmatar. Применяется
-            и в других различных технологиях.'
-        zh: '主要由米玛塔尔舰船使用的装甲构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Armor Component used primarily in Minmatar ships. A component in various other technology as well.'
+        ru: 'Компонент брони, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2191
     marketGroupID: 1889
     mass: 1.0
     name:
-        de: Fernite Carbide Composite Armor Plate
         en: Fernite Carbide Composite Armor Plate
-        fr: Blindage en composé de carbure de fernite
-        ja: フェロナイト炭化化合物アーマープレート
         ru: Fernite Carbide Composite Armor Plate
-        zh: 碳化菲尔金属合成物附甲
     portionSize: 1
     published: true
     raceID: 2
     volume: 1.0
 11536:
     description:
-        de: '    Eine Sensorkomponente, die primär in Minmatar-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Sensor Component used primarily in Minmatar ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de détecteurs utilisé principalement dans les vaisseaux minmatar.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にミンマター艦船に用いられるセンサー部品。他にも幅広い機械装置に使われている。'
-        ru: '    Сенсорный компонент, используемый в основном на кораблях Minmatar.
-            Применяется и в других различных технологиях.'
-        zh: '主要由米玛塔尔舰船使用的感应器构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Sensor Component used primarily in Minmatar ships. A component in various other technology as well.'
+        ru: 'Сенсорный компонент, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2183
     marketGroupID: 1889
     mass: 1.0
     name:
-        de: Ladar Sensor Cluster
         en: Ladar Sensor Cluster
-        fr: Réseau de détecteurs ladar
-        ja: 光学センサークラスタ
         ru: Ladar Sensor Cluster
-        zh: 光雷达感应器组
     portionSize: 1
     published: true
     raceID: 2
     volume: 1.0
 11538:
     description:
-        de: '      Eine CPU-Komponente, die primär in Minmatar-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'CPU Component used primarily in Minmatar ships. A component in various
-            other technology as well.      '
-        fr: 'Composant CPU utilisé principalement pour les vaisseaux minmatar. Ce
-            composant est également utilisé dans diverses autres technologies.      '
-        ja: '      主にミンマター艦船に用いられるCPU部品。他にも幅広い機械装置に使われている。'
-        ru: '      Компонент центрального процессора, используемый в основном на кораблях
-            Minmatar. Применяется и в других различных технологиях.'
-        zh: '主要由米玛塔尔舰船使用的CPU构件。这个部件也存在于别的各种科技类型中。      '
+        en: 'CPU Component used primarily in Minmatar ships. A component in various other technology as well.'
+        ru: 'Компонент центрального процессора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2187
     marketGroupID: 1889
     mass: 1.0
     name:
-        de: Nanomechanical Microprocessor
         en: Nanomechanical Microprocessor
-        fr: Microprocesseur nanomécanique
-        ja: ナノメカニカルマイクロプロセッサー
         ru: Nanomechanical Microprocessor
-        zh: 纳米机械微处理器
     portionSize: 1
     published: true
     raceID: 2
     volume: 1.0
 11548:
     description:
-        de: '    Eine Reaktorkomponente, die primär in Minmatar-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Power Core component used primarily in Minmatar ships. A component in
-            various other technology as well.    '
-        fr: 'Composant de réacteur principal utilisé principalement pour les vaisseaux
-            minmatar. Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にミンマター艦船に用いられるパワーコア部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент силового ядра, используемый преимущественно на кораблях
-            Minmatar. Применяется и в других различных технологиях.'
-        zh: '主要由米玛塔尔舰船使用的能源核心构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Power Core component used primarily in Minmatar ships. A component in various other technology as well.'
+        ru: 'Компонент силового ядра, используемый преимущественно на кораблях Minmatar. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2195
     marketGroupID: 1889
     mass: 1.0
     name:
-        de: Nuclear Reactor Unit
         en: Nuclear Reactor Unit
-        fr: Réacteur nucléaire
-        ja: 原子リアクターユニット
         ru: Nuclear Reactor Unit
-        zh: 核反应堆机组
     portionSize: 1
     published: true
     raceID: 2
     volume: 1.0
 11530:
     description:
-        de: '  Eine Antriebskomponente, die primär in Minmatar-Schiffen sowie einigen
-            Antriebstechnologien eingesetzt wird, aber auch Teil unzähliger anderer
-            Technologien ist.'
-        en: 'Propulsion Component used primarily in Minmatar ships as well as some
-            propulsion tech. A component in various other technology as well.  '
-        fr: 'Composant de propulsion utilisé principalement pour les vaisseaux minmatar
-            ainsi que pour certaines technologies de propulsion. Ce composant est
-            également utilisé dans diverses autres technologies.  '
-        ja: '  主にミンマター艦船や一部の推進装置に用いられる推進系部品。他にも幅広い機械装置に使われている。'
-        ru: '  Реактивный компонент, используемый в основном на кораблях Minmatar
-            и в других системах реактивной тяги. Применяется и в других различных
-            технологиях.'
-        zh: '主要由米玛塔尔舰船和其他一些推进技术中使用的推进器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Propulsion Component used primarily in Minmatar ships as well as some propulsion tech. A component in various other technology as well.'
+        ru: 'Реактивный компонент, используемый в основном на кораблях Minmatar и в других системах реактивной тяги. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2179
     marketGroupID: 1889
     mass: 1.0
     name:
-        de: Plasma Thruster
         en: Plasma Thruster
-        fr: Propulseur à plasma
-        ja: プラズマスラスター
         ru: Plasma Thruster
-        zh: 等离子推进器
     portionSize: 1
     published: true
     raceID: 2
     volume: 1.0
 11691:
     description:
-        de: '  Eine Waffenkomponente, die primär in Kanonen eingesetzt wird, aber
-            auch Teil unzähliger anderer Technologien ist.'
-        en: 'Weapon Component used primarily in Cannons. A component in various other
-            technology as well.  '
-        fr: 'Composant d''armement utilisé principalement dans les canons. Ce composant
-            est également utilisé dans diverses autres technologies.  '
-        ja: '  主にキャノンに用いられる兵器部品。他にも幅広い機械装置に使われている。'
-        ru: '  Орудийный компонент, используемый в основном в артиллерии. Применяется
-            и в других различных технологиях.'
-        zh: '主要由加农炮使用的武器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Weapon Component used primarily in Cannons. A component in various other technology as well.'
+        ru: 'Орудийный компонент, используемый в основном в артиллерии. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2228
     marketGroupID: 1889
     mass: 1.0
     name:
-        de: Thermonuclear Trigger Unit
         en: Thermonuclear Trigger Unit
-        fr: Déclencheur thermonucléaire
-        ja: 熱核トリガーユニット
         ru: Thermonuclear Trigger Unit
-        zh: 热核反应击发装置
     portionSize: 1
     published: true
     raceID: 2
     volume: 1.0
 11534:
     description:
-        de: '  Eine Sensorkomponente, die primär in Caldari-Schiffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Sensor Component used primarily in Caldari ships. A component in various
-            other technology as well.  '
-        fr: 'Composant de capteur utilisé principalement pour les vaisseaux caldari.
-            Ce composant est également utilisé dans diverses autres technologies.  '
-        ja: '  主にカルダリ艦船に用いられるセンサー部品。他にも幅広い機械装置に使われている。'
-        ru: '  Сенсорный компонент, используемый в основном на кораблях Caldari. Применяется
-            и в других различных технологиях.'
-        zh: '主要由加达里舰船使用的感应器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Sensor Component used primarily in Caldari ships. A component in various other technology as well.'
+        ru: 'Сенсорный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2181
     marketGroupID: 803
     mass: 1.0
     name:
-        de: Gravimetric Sensor Cluster
         en: Gravimetric Sensor Cluster
-        fr: Réseau de détecteurs gravimétriques
-        ja: 重力センサークラスタ
         ru: Gravimetric Sensor Cluster
-        zh: 引力感应器组
     portionSize: 1
     published: true
     raceID: 1
     volume: 1.0
 11693:
     description:
-        de: '  Eine Waffenkomponente, die primär in Caldari-Lenkwaffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Weapon Component used primarily in Caldari Missiles. A component in various
-            other technology as well.  '
-        fr: 'Composant d''armement utilisé principalement dans les missiles caldari.
-            Ce composant est également utilisé dans diverses autres technologies.  '
-        ja: '  主にカルダリのミサイルに用いられる兵器部品。他にも幅広い機械装置に使われている。'
-        ru: '  Орудийный компонент, используемый в основном в ракетах производства
-            Caldari. Применяется и в других различных технологиях.'
-        zh: '主要由加达里导弹使用的武器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Weapon Component used primarily in Caldari Missiles. A component in various other technology as well.'
+        ru: 'Орудийный компонент, используемый в основном в ракетах производства Caldari. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2229
     marketGroupID: 803
     mass: 1.0
     name:
-        de: Graviton Pulse Generator
         en: Graviton Pulse Generator
-        fr: Générateur d'impulsions gravitationnelles
-        ja: 重力子パルスジェネレーター
         ru: Graviton Pulse Generator
-        zh: 引力子脉冲发生器
     portionSize: 1
     published: true
     raceID: 1
     volume: 1.0
 11550:
     description:
-        de: 'Eine Reaktorkomponente, welche primär in Caldari-Schiffen eingesetzt
-            wird, aber auch Teil vielzähliger anderer Technologien ist. '
-        en: Power Core component used primarily in Caldari ships. A component in various
-            other technology as well.
-        fr: Composant de réacteur principal utilisé principalement pour les vaisseaux
-            caldari. Ce composant est également utilisé dans diverses autres technologies.
-        ja: 主にカルダリ船に用いられるパワーコア部品。他にも幅広い機械装置に使われている。
-        ru: Компонент энергосети, используемый преимущественно на кораблях Caldari.
-            Применяется и в других различных технологиях.
-        zh: 主要由加达里舰船使用的能源核心构件。这个部件也存在于别的各种科技类型中。
+        en: Power Core component used primarily in Caldari ships. A component in various other technology as well.
+        ru: Компонент энергосети, используемый преимущественно на кораблях Caldari. Применяется и в других различных технологиях.
     groupID: 334
     iconID: 2193
     marketGroupID: 803
     mass: 1.0
     name:
-        de: Graviton Reactor Unit
         en: Graviton Reactor Unit
-        fr: Réacteur gravitationnel
-        ja: 重力子リアクターユニット
         ru: Graviton Reactor Unit
-        zh: 引力子反应器机组
     portionSize: 1
     published: true
     raceID: 1
     volume: 1.0
 11533:
     description:
-        de: Eine Antriebskomponente, die primär in Caldari-Schiffen eingesetzt wird,
-            aber auch Teil verschiedener anderer Technologien ist.
-        en: Propulsion Component used primarily in Caldari ships. A component in various
-            other technology as well.
-        fr: Composant de propulsion utilisé principalement pour les vaisseaux caldari.
-            Ce composant est également utilisé dans diverses autres technologies.
-        ja: 主にカルダリ船の推進機関に用いられる部品。他にも幅広い機械装置に使われている。
-        ru: Реактивный компонент, используемый в основном на кораблях Caldari. Применяется
-            и в других различных технологиях.
-        zh: 主要由加达里舰船采用的推进器构件。这个部件也存在于别的各种科技类型中。
+        en: Propulsion Component used primarily in Caldari ships. A component in various other technology as well.
+        ru: Реактивный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях.
     groupID: 334
     iconID: 2177
     marketGroupID: 803
     mass: 1.0
     name:
-        de: Magpulse Thruster
         en: Magpulse Thruster
-        fr: Propulseur Magpulse
-        ja: マグパルススラスター
         ru: Magpulse Thruster
-        zh: 磁脉冲推进器
     portionSize: 1
     published: true
     raceID: 1
     volume: 1.0
 11540:
     description:
-        de: '    Eine CPU-Komponente, die primär in Caldari-Schiffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'CPU Component used primarily in Caldari ships. A component in various
-            other technology as well.    '
-        fr: 'Composant CPU utilisé principalement pour les vaisseaux caldari. Ce composant
-            est également utilisé dans diverses autres technologies.    '
-        ja: '    主にカルダリ船に用いられるCPU部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент центрального процессора, используемый в основном на кораблях
-            Caldari. Применяется и в других различных технологиях.'
-        zh: '主要由加达里舰船使用的CPU构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'CPU Component used primarily in Caldari ships. A component in various other technology as well.'
+        ru: 'Компонент центрального процессора, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2185
     marketGroupID: 803
     mass: 1.0
     name:
-        de: Quantum Microprocessor
         en: Quantum Microprocessor
-        fr: Microprocesseur quantique
-        ja: クアンタムマイクロプロセッサー
         ru: Quantum Microprocessor
-        zh: 量子微处理器
     portionSize: 1
     published: true
     raceID: 1
     volume: 1.0
 11690:
     description:
-        de: '  Eine Waffenkomponente, die primär in Railguns eingesetzt wird, aber
-            auch Teil unzähliger anderer Technologien ist.'
-        en: 'Weapon Component used primarily in Railguns. A component in various other
-            technology as well.  '
-        fr: 'Composant d''armement utilisé principalement dans les canons à rail.
-            Ce composant est également utilisé dans diverses autres technologies.  '
-        ja: '  主にレールガンに用いられる兵器部品。他にも幅広い機械装置に使われている。'
-        ru: '  Орудийный компонент, используемый в основном в рейлганах. Применяется
-            и в других различных технологиях.'
-        zh: '主要由磁轨炮使用的武器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Weapon Component used primarily in Railguns. A component in various other technology as well.'
+        ru: 'Орудийный компонент, используемый в основном в рейлганах. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2227
     marketGroupID: 803
     mass: 1.0
     name:
-        de: Superconductor Rails
         en: Superconductor Rails
-        fr: Rails superconducteurs
-        ja: 超電導体レール
         ru: Superconductor Rails
-        zh: 超导体轨道
     portionSize: 1
     published: true
     raceID: 1
     volume: 1.0
 11558:
     description:
-        de: '    Eine Schildkomponente, die primär in Caldari-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Shield Component used primarily in Caldari ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de bouclier utilisé principalement pour les vaisseaux caldari.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にカルダリ艦船に用いられるシールド部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент щита, используемый в основном на кораблях Caldari. Применяется
-            и в других различных технологиях.'
-        zh: '主要由加达里舰船使用的护盾构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Shield Component used primarily in Caldari ships. A component in various other technology as well.'
+        ru: 'Компонент щита, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2201
     marketGroupID: 803
     mass: 1.0
     name:
-        de: Sustained Shield Emitter
         en: Sustained Shield Emitter
-        fr: Émetteur de bouclier en continu
-        ja: 持続型シールドエミッター
         ru: Sustained Shield Emitter
-        zh: 恒定护盾发射器
     portionSize: 1
     published: true
     raceID: 1
     volume: 1.0
 11544:
     description:
-        de: '    Eine Panzerungskomponente, die primär in Caldari-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Armor Component used primarily in Caldari ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de blindage utilisé principalement pour les vaisseaux caldari.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にカルダリ艦船に用いられるアーマー部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент брони, используемый в основном на кораблях Caldari. Применяется
-            и в других различных технологиях.'
-        zh: '主要由加达里舰船使用的装甲构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Armor Component used primarily in Caldari ships. A component in various other technology as well.'
+        ru: 'Компонент брони, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2189
     marketGroupID: 803
     mass: 1.0
     name:
-        de: Titanium Diborite Armor Plate
         en: Titanium Diborite Armor Plate
-        fr: Blindage en diborite de titane
-        ja: チタンディボーライトアーマープレート
         ru: Titanium Diborite Armor Plate
-        zh: 迪波特钛合金附甲
     portionSize: 1
     published: true
     raceID: 1
     volume: 1.0
 11549:
     description:
-        de: '    Eine Reaktorkomponente, die primär in Amarr-Schiffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Power Core component used primarily in Amarr ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de réacteur principal utilisé principalement pour les vaisseaux
-            amarr. Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にアマー艦船に用いられるパワーコア部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент силового ядра, используемый преимущественно на кораблях
-            Amarr. Применяется и в других различных технологиях.'
-        zh: '主要由艾玛舰船使用的能源核心构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Power Core component used primarily in Amarr ships. A component in various other technology as well.'
+        ru: 'Компонент силового ядра, используемый преимущественно на кораблях Amarr. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2196
     marketGroupID: 802
     mass: 1.0
     name:
-        de: Antimatter Reactor Unit
         en: Antimatter Reactor Unit
-        fr: Réacteur antimatière
-        ja: アンチマターリアクターユニット
         ru: Antimatter Reactor Unit
-        zh: 反物质反应堆组件
     portionSize: 1
     published: true
     raceID: 4
     volume: 1.0
 11694:
     description:
-        de: '  Eine Waffenkomponente, die primär in Amarr-Lenkwaffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Weapon Component used primarily in Amarr Missiles. A component in various
-            other technology as well.  '
-        fr: 'Composant d''armement utilisé principalement dans les missiles amarr.
-            Ce composant est également utilisé dans diverses autres technologies.  '
-        ja: '  主にアマーのミサイルに用いられる兵器部品。他にも幅広い機械装置に使われている。'
-        ru: '  Орудийный компонент, используемый в основном в ракетах производства
-            Amarr. Применяется и в других различных технологиях.'
-        zh: '主要由艾玛导弹使用的武器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Weapon Component used primarily in Amarr Missiles. A component in various other technology as well.'
+        ru: 'Орудийный компонент, используемый в основном в ракетах производства Amarr. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2232
     marketGroupID: 802
     mass: 1.0
     name:
-        de: EM Pulse Generator
         en: EM Pulse Generator
-        fr: Générateur d'impulsions EM
-        ja: EMパルスジェネレーター
         ru: EM Pulse Generator
-        zh: 电磁发生器
     portionSize: 1
     published: true
     raceID: 4
     volume: 1.0
 11532:
     description:
-        de: '  Eine Antriebskomponente, die primär in Amarr-Schiffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Propulsion Component used primarily in Amarr ships. A component in various
-            other technology as well.  '
-        fr: 'Composant de propulsion utilisé principalement pour les vaisseaux amarr.
-            Ce composant est également utilisé dans diverses autres technologies.  '
-        ja: '  主にアマー艦船に用いられる推進系部品。他にも幅広い機械装置に使われている。'
-        ru: '  Реактивный компонент, используемый в основном на кораблях Amarr. Применяется
-            и в других различных технологиях.'
-        zh: '主要由艾玛舰船使用的推进器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Propulsion Component used primarily in Amarr ships. A component in various other technology as well.'
+        ru: 'Реактивный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2180
     marketGroupID: 802
     mass: 1.0
     name:
-        de: Fusion Thruster
         en: Fusion Thruster
-        fr: Propulseur à fusion
-        ja: フュージョンスラスター
         ru: Fusion Thruster
-        zh: 聚变推进器
     portionSize: 1
     published: true
     raceID: 4
     volume: 1.0
 11689:
     description:
-        de: '  Eine Waffenkomponente, die primär in Lasern eingesetzt wird, aber auch
-            Teil unzähliger anderer Technologien ist.'
-        en: 'Weapon Component used primarily in Lasers. A component in various other
-            technology as well.  '
-        fr: 'Composant d''armement utilisé principalement dans les lasers. Ce composant
-            est également utilisé dans diverses autres technologies.  '
-        ja: '  主にレーザーに用いられる兵器部品。他にも幅広い機械装置に使われている。'
-        ru: '  Орудийный компонент, используемый в основном в лазерах. Применяется
-            и в других различных технологиях.'
-        zh: '主要由激光器使用的武器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Weapon Component used primarily in Lasers. A component in various other technology as well.'
+        ru: 'Орудийный компонент, используемый в основном в лазерах. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2234
     marketGroupID: 802
     mass: 1.0
     name:
-        de: Laser Focusing Crystals
         en: Laser Focusing Crystals
-        fr: Cristaux de concentration de laser
-        ja: レーザーフォーカシングクリスタル
         ru: Laser Focusing Crystals
-        zh: 激光器定焦水晶
     portionSize: 1
     published: true
     raceID: 4
     volume: 1.0
 11557:
     description:
-        de: '    Eine Schildkomponente, die primär in Amarr-Schiffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Shield Component used primarily in Amarr ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de bouclier utilisé principalement pour les vaisseaux amarr.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にアマー艦船に用いられるシールド部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент щита, используемый в основном на кораблях Amarr. Применяется
-            и в других различных технологиях.'
-        zh: '主要由艾玛舰船使用的护盾构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Shield Component used primarily in Amarr ships. A component in various other technology as well.'
+        ru: 'Компонент щита, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2204
     marketGroupID: 802
     mass: 1.0
     name:
-        de: Linear Shield Emitter
         en: Linear Shield Emitter
-        fr: Émetteur de bouclier linéaire
-        ja: リニアシールドエミッター
         ru: Linear Shield Emitter
-        zh: 线性护盾能量发射器
     portionSize: 1
     published: true
     raceID: 4
     volume: 1.0
 11539:
     description:
-        de: '   Eine CPU-Komponente, die primär in Amarr-Schiffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'CPU Component used primarily in Amarr ships. A component in various other
-            technology as well.   '
-        fr: 'Composant CPU utilisé principalement pour les vaisseaux amarr. Ce composant
-            est également utilisé dans diverses autres technologies.   '
-        ja: '   主にアマー艦船に用いられるCPU部品。他にも幅広い機械装置に使われている。'
-        ru: '   Компонент центрального процессора, используемый в основном на кораблях
-            Amarr. Применяется и в других различных технологиях.'
-        zh: '主要由艾玛舰船使用的CPU构件。这个部件也存在于别的各种科技类型中。   '
+        en: 'CPU Component used primarily in Amarr ships. A component in various other technology as well.'
+        ru: 'Компонент центрального процессора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2188
     marketGroupID: 802
     mass: 1.0
     name:
-        de: Nanoelectrical Microprocessor
         en: Nanoelectrical Microprocessor
-        fr: Microprocesseur nanoélectrique
-        ja: ナノエレクトリカルマイクロプロセッサー
         ru: Nanoelectrical Microprocessor
-        zh: 纳米电子微处理器
     portionSize: 1
     published: true
     raceID: 4
     volume: 1.0
 11537:
     description:
-        de: '    Eine Sensorkomponente, die primär in Amarr-Schiffen eingesetzt wird,
-            aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Sensor Component used primarily in Amarr ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de capteur utilisé principalement dans les vaisseaux amarr.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にアマー艦船に用いられるセンサー部品。他にも幅広い機械装置に使われている。'
-        ru: '    Сенсорный компонент, используемый в основном на кораблях Amarr. Применяется
-            и в других различных технологиях.'
-        zh: '主要由艾玛舰船使用的感应器构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Sensor Component used primarily in Amarr ships. A component in various other technology as well.'
+        ru: 'Сенсорный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2184
     marketGroupID: 802
     mass: 1.0
     name:
-        de: Radar Sensor Cluster
         en: Radar Sensor Cluster
-        fr: Réseau de détecteurs radar
-        ja: 電波センサークラスタ
         ru: Radar Sensor Cluster
-        zh: 雷达感应器组
     portionSize: 1
     published: true
     raceID: 4
     volume: 1.0
 11554:
     description:
-        de: '  Eine Energiespeicherkomponente, die primär in Amarr-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Capacitor component used primarily in Amarr ships. A component in various
-            other technology as well.  '
-        fr: 'Composant de capaciteur utilisé principalement pour les vaisseaux amarr.
-            Ce composant est également utilisé dans diverses autres technologies.  '
-        ja: '  主にアマー艦船に用いられるキャパシタ部品。他にも幅広い機械装置に使われている。'
-        ru: '  Компонент конденсатора, используемый в основном на кораблях Amarr.
-            Применяется и в других различных технологиях.'
-        zh: '主要由艾玛舰船使用的电容器构件。这个部件也存在于别的各种科技类型中。  '
+        en: 'Capacitor component used primarily in Amarr ships. A component in various other technology as well.'
+        ru: 'Компонент конденсатора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2200
     marketGroupID: 802
     mass: 1.0
     name:
-        de: Tesseract Capacitor Unit
         en: Tesseract Capacitor Unit
-        fr: Capaciteur Tesseract
-        ja: テセラクトキャパシタユニット
         ru: Tesseract Capacitor Unit
-        zh: 超立方电容器单元
     portionSize: 1
     published: true
     raceID: 4
     volume: 1.0
 11543:
     description:
-        de: '    Eine Panzerungskomponente, die primär in Amarr-Schiffen eingesetzt
-            wird, aber auch Teil unzähliger anderer Technologien ist.'
-        en: 'Armor Component used primarily in Amarr ships. A component in various
-            other technology as well.    '
-        fr: 'Composant de blindage utilisé principalement pour les vaisseaux amarr.
-            Ce composant est également utilisé dans diverses autres technologies.    '
-        ja: '    主にアマー艦船に用いられるアーマー部品。他にも幅広い機械装置に使われている。'
-        ru: '    Компонент брони, используемый в основном на кораблях Amarr. Применяется
-            и в других различных технологиях.'
-        zh: '主要由艾玛舰船使用的装甲构件。这个部件也存在于别的各种科技类型中。    '
+        en: 'Armor Component used primarily in Amarr ships. A component in various other technology as well.'
+        ru: 'Компонент брони, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях.'
     groupID: 334
     iconID: 2192
     marketGroupID: 802
     mass: 1.0
     name:
-        de: Tungsten Carbide Armor Plate
         en: Tungsten Carbide Armor Plate
-        fr: Blindage en carbure de tungstène
-        ja: タングステン炭化物アーマープレート
         ru: Tungsten Carbide Armor Plate
-        zh: 碳化钨附甲
     portionSize: 1
     published: true
     raceID: 4
@@ -922,450 +511,210 @@
 16670:
     basePrice: 10.0
     description:
-        de: Ein außerordentlich hartes Material, das aus kristallinen Legierungen
-            und Carbonpolymeren besteht. Es ist ein wichtiger Grundstoff in der gallentischen
-            Hochtechnologie, insbesondere auf den Gebieten Antrieb und Panzerbeschichtungen.
-        en: An exeptionally hard material created from crystallite alloys and carbon
-            polymers, crystalline carbonite is a primary component in various forms
-            of advanced Gallente technology, such as thrusters and armor plating.
-        fr: Un matériau exceptionnellement dur créé à partir d'alliages cristallins
-            et de polymères de carbone. Le carbonite cristallin est un élément de
-            base dans diverses technologies avancées gallente, telles que les propulseurs
-            et le revêtement de blindage.
-        ja: クリスタライト合金と炭素重合体から作られる超硬度素材。ガレンテの先進的技術により、アーマープレートやスラスターなど様々な物の主原料となる。
-        ru: Исключительно тяжелый материал, созданный из кристаллических сплавов и
-            углеродных полимеров. Кристаллический карбонид является основным компонентом
-            разных форм продвинутых технологий Gallente, таких как щиты и обшивки.
-        zh: 碳化晶体是一种由微晶合金和碳聚合物合成的异常坚硬的物质，是多种形式的盖伦特高等科技产品中的主要部件，用于诸如推进器和装甲附甲等。
+        en: An exeptionally hard material created from crystallite alloys and carbon polymers, crystalline carbonite is a primary component in various forms of advanced Gallente technology, such as thrusters and armor plating.
+        ru: Исключительно тяжелый материал, созданный из кристаллических сплавов и углеродных полимеров. Кристаллический карбонид является основным компонентом разных форм продвинутых технологий Gallente, таких как щиты и обшивки.
     groupID: 429
     iconID: 2679
     marketGroupID: 499
     name:
-        de: Crystalline Carbonide
         en: Crystalline Carbonide
-        fr: Carbonite cristallin
-        ja: クリスタルインカーボナイド
         ru: Crystalline Carbonide
-        zh: 碳化晶体
     portionSize: 1
     published: true
     volume: 0.01
 16671:
     basePrice: 10.0
     description:
-        de: Wegen seiner enormen Widerstandsfähigkeit und seiner molekularen Geschmeidigkeit
-            ist Titankarbid der Liebling der caldarischen Technologie-Industrie und
-            wird überall verwendet, von Reaktoren bis hin zu Waffensystemen.
-        en: Due to its immense strength and molecular malleability, Titanium Carbide
-            has become the darling of the Caldari technological industry, seeing use
-            in everything from reactor units to weapons systems.
-        fr: En raison de sa grande solidité et de sa malléabilité moléculaire, le
-            carbure de titane est devenu le chouchou de l'industrie technologique
-            caldari. Il est utilisé dans toutes les pièces, des unités de réacteur
-            aux systèmes d'armement.
-        ja: 卓越した強度と分子レベルでの高い工作性から、カルダリハイテク業界に好まれ、リアクターユニットから兵器システムまで全ての物に使用される。
-        ru: Благодаря своей чрезвычайной силе и молекулярной пластичности, карбид
-            титана стал очень любим технологической промышленностью Caldari, которые
-            разглядели в нем потенциал использования как в реакторах, так и оружейных
-            системах.
-        zh: 碳化钛因其优秀的强度和分子延展性，为加达里合众国的科技行业所钟爱，因此被广泛使用，从反应堆装置到武器系统都有它的踪影。
+        en: Due to its immense strength and molecular malleability, Titanium Carbide has become the darling of the Caldari technological industry, seeing use in everything from reactor units to weapons systems.
+        ru: Благодаря своей чрезвычайной силе и молекулярной пластичности, карбид титана стал очень любим технологической промышленностью Caldari, которые разглядели в нем потенциал использования как в реакторах, так и оружейных системах.
     groupID: 429
     iconID: 2681
     marketGroupID: 499
     name:
-        de: Titanium Carbide
         en: Titanium Carbide
-        fr: Carbure de titane
-        ja: チタン炭化物
         ru: Titanium Carbide
-        zh: 碳化钛
     portionSize: 1
     published: true
     volume: 0.01
 16672:
     basePrice: 10.0
     description:
-        de: Wolframkarbid ist ein vielverwendeter Verbundwerkstoff, der besonders
-            von den Amarr für die Konstruktion ihrer Hochtechnologie verwendet wird.
-        en: Tungsten Carbide is a much-used composite, greatly favored by the Amarrians
-            for construction of their advanced technologies.
-        fr: Le carbure de tungstène est un composé très utilisé, en particulier par
-            les Amarr pour leurs technologies avancées.
-        ja: 広く使用される複合材で、アマーに大変に好まれ、彼らの進んだ技術の実現に使用されている。
-        ru: Карбид тунгстена - композитный материал, широко используемый Amarr в передовых
-            технологиях.
-        zh: 碳化钨是一种常用的化合物，艾玛人在构建先进技术时尤其爱用这种物质。
+        en: Tungsten Carbide is a much-used composite, greatly favored by the Amarrians for construction of their advanced technologies.
+        ru: Карбид тунгстена - композитный материал, широко используемый Amarr в передовых технологиях.
     groupID: 429
     iconID: 2682
     marketGroupID: 499
     name:
-        de: Tungsten Carbide
         en: Tungsten Carbide
-        fr: Carbure de tungstène
-        ja: タングステン炭化物
         ru: Tungsten Carbide
-        zh: 碳化钨
     portionSize: 1
     published: true
     volume: 0.01
 16673:
     basePrice: 10.0
     description:
-        de: Ein revolutionärer Keramik-Kohlenstoff Verbundwerkstoff, der von den Matari
-            wegen seiner Qualität und seiner technologischen Verwendungsbreite sehr
-            geschätzt wird.
-        en: A revolutionary ceramic carbide compound, much favored by the Matari both
-            for its earthy quality and its extremely wide range of technological uses.
-        fr: Un composé de carbure de céramique révolutionnaire, très apprécié des
-            Matari à la fois pour ses qualités terreuses et pour son très grand champ
-            d'applications technologiques.
-        ja: 革新的なセラミックカーバイド複合材。実用的な特性と非常に幅広い技術用途から、マタールに大変好まれている。
-        ru: Революционная керамическая карбидовая смесь, любимая Minmatar как за ее
-            земные качества, так и за ряд способов ее использования в технологиях.
-        zh: 一种革命性的陶瓷碳化物，因为其自然品质和广泛的技术使用范围而极受玛塔利人的喜爱。
+        en: A revolutionary ceramic carbide compound, much favored by the Matari both for its earthy quality and its extremely wide range of technological uses.
+        ru: Революционная керамическая карбидовая смесь, любимая Minmatar как за ее земные качества, так и за ряд способов ее использования в технологиях.
     groupID: 429
     iconID: 2680
     marketGroupID: 499
     name:
-        de: Fernite Carbide
         en: Fernite Carbide
-        fr: Carbure de fernite
-        ja: フェロナイト炭化物
         ru: Fernite Carbide
-        zh: 菲尔合金碳化物
     portionSize: 1
     published: true
     volume: 0.01
 16678:
     basePrice: 20.0
     description:
-        de: Extrem stabiles Fasermaterial, das für laminierte Panzerungsbeschichtungen
-            verwendet wird.
         en: Extremely strong fibers, used in laminated armor plating.
-        fr: Fibres extrêmement résistantes utilisées dans le revêtement de blindage
-            feuilleté.
-        ja: ラミネートアーマープレートに使用される超強化繊維。
         ru: Крайне прочные волокна, используемые в многослойной бронированной обшивке.
-        zh: 用于层压装甲附甲上的超高强度纤维。
     groupID: 429
     iconID: 2662
     marketGroupID: 499
     name:
-        de: Sylramic Fibers
         en: Sylramic Fibers
-        fr: Fibres en silramique
-        ja: シルラミックファイバー
         ru: Sylramic Fibers
-        zh: 多晶碳化硅纤维
     portionSize: 1
     published: true
     volume: 0.05
 16679:
     basePrice: 230.0
     description:
-        de: Fulleride sind hochgradig supraleitende Materialien, die in Energiespeichern,
-            Panzerungen und Waffensystemen Verwendung finden.
-        en: 'Fullerides are highly superconductive materials used in capacitors, armor
-            plating and weapons systems.  '
-        fr: 'Les fullerides sont des matériaux hautement supraconducteurs utilisés
-            dans les capaciteurs, le revêtement de blindage et les systèmes d''armement.  '
-        ja: '  キャパシタ、アーマープレート、兵器システムに使用される、高い超伝導性を持つ素材。'
-        ru: '  Фуллериды - высокопроводниковые материалы, используемые в конденсаторах,
-            бронированной обшивке и системах оружия.'
-        zh: 富勒化合物是用于电容器、装甲附甲和武器系统中的一种超导材料。
+        en: 'Fullerides are highly superconductive materials used in capacitors, armor plating and weapons systems.'
+        ru: 'Фуллериды - высокопроводниковые материалы, используемые в конденсаторах, бронированной обшивке и системах оружия.'
     groupID: 429
     iconID: 2684
     marketGroupID: 499
     name:
-        de: Fullerides
         en: Fullerides
-        fr: Fullerides
-        ja: フラライド
         ru: Fullerides
-        zh: 富勒化合物
     portionSize: 1
     published: true
     volume: 0.15
 16680:
     basePrice: 600.0
     description:
-        de: Ein extrem hitzebeständiges Material, das für Antriebssysteme und Hitzeschilde
-            verwendet wird.
         en: A extremely heat-resistant material used in thrusters and as heat shielding.
-        fr: Un type de matériau très résistant à la chaleur utilisé dans les propulseurs
-            et comme bouclier thermique.
-        ja: スラスターや耐熱シールドで使用される超耐熱素材。
-        ru: Чрезвычайно термостойкий материал, используемый в маневровых двигателях
-            и системах защиты от перегрева.
-        zh: 一种用于推进器的极耐热材料，还可用作隔热屏蔽。
+        ru: Чрезвычайно термостойкий материал, используемый в маневровых двигателях и системах защиты от перегрева.
     groupID: 429
     iconID: 2661
     marketGroupID: 499
     name:
-        de: Phenolic Composites
         en: Phenolic Composites
-        fr: Composés phénoliques
-        ja: フェノール化合物
         ru: Phenolic Composites
-        zh: 酚合成物
     portionSize: 1
     published: true
     volume: 0.2
 16681:
     basePrice: 700.0
     description:
-        de: Extrem komplexe Transistoren auf molekularer Ebene, die in Elektronik
-            der Nanogrößenklasse verwendet werden, zum Beispiel in Mikroprozessoren
-            und Energiespeichern.
-        en: Extremely complex molecular-level transistors used in nanoscale electronics,
-            such as microprocessors and capacitor units.
-        fr: Transistors à structure moléculaire extrêmement complexe utilisés en nano-électronique
-            (microprocesseurs, unités de capaciteur...).
-        ja: マイクロプロセッサーやキャパシタユニットなどの、ナノ電子製品で使用される、極めて複雑な分子レベルトランジスタ。
-        ru: Очень сложные молекулярные транзисторы, используемые в наноэлектронных
-            устройствах, таких как микропроцессоры или конденсаторы.
-        zh: 极其复杂的分子级晶体管，用于纳米等级电子设备，如微处理器和电容器等。
+        en: Extremely complex molecular-level transistors used in nanoscale electronics, such as microprocessors and capacitor units.
+        ru: Очень сложные молекулярные транзисторы, используемые в наноэлектронных устройствах, таких как микропроцессоры или конденсаторы.
     groupID: 429
     iconID: 2686
     marketGroupID: 499
     name:
-        de: Nanotransistors
         en: Nanotransistors
-        fr: Nanotransistors
-        ja: ナノトランジスター
         ru: Nanotransistors
-        zh: 纳米晶体管
     portionSize: 1
     published: true
     volume: 0.25
 16682:
     basePrice: 2560.0
     description:
-        de: Immer wenn es bei der Übertragung visueller oder numerischer Daten quasi
-            um Leben und Tod geht, benötigt das Datennetzwerk das schnellstmögliche
-            Relaissystem. Hypersynaptische Fasern sind wegen ihres immensen Frequenzspektrums
-            und ihrer Verbindungsgeschwindigkeit zum Industriestandard für Sensorverbunde
-            und Zielsysteme geworden.
-        en: Whenever the transmission of visual or numerical data is a matter of life
-            and death, the data network needs the fastest possible relay system. Hypersynaptic
-            fibers, due to their immense frequency range and speed of conduction,
-            have become the industry standard for sensor arrays and targeting systems.
-        fr: Quand la transmission de données visuelles ou numériques est une question
-            de vie ou de mort, le réseau de données doit faire le relais aussi rapidement
-            que possible. En raison de leur immense gamme de fréquences et de leur
-            vitesse conductrice, les fibres hyper-synaptiques sont devenues le composant
-            standard des modules de détection et des systèmes de ciblage.
-        ja: 画像や数値データの転送が生死を分ける状況では、データネットワークにも可能なかぎり高速な中継システムが必要だ。ハイパーシナプスファイバーは、極めて広い周波数帯域と伝送速度の高さから、センサーアレイやターゲットシステムの業界標準となっている。
-        ru: Везде, где крайне важна передача наглядных или цифровых данных, для сетей
-            данных требуется как можно более быстрая релейная система. Гиперсинаптические
-            волокна обладают огромным диапазоном частот и скоростью передачи, они
-            стали стандартным материалом для сенсоров и прицельных систем.
-        zh: 数据网络总需要最快速的继电系统，尤其是当传送可视信号或数值信号关系到生死时。由于其巨大的频率范围和传导速度，超级突触纤维已经成为感应器阵列和锁定系统的行业标准。
+        en: Whenever the transmission of visual or numerical data is a matter of life and death, the data network needs the fastest possible relay system. Hypersynaptic fibers, due to their immense frequency range and speed of conduction, have become the industry standard for sensor arrays and targeting systems.
+        ru: Везде, где крайне важна передача наглядных или цифровых данных, для сетей данных требуется как можно более быстрая релейная система. Гиперсинаптические волокна обладают огромным диапазоном частот и скоростью передачи, они стали стандартным материалом для сенсоров и прицельных систем.
     groupID: 429
     iconID: 2685
     marketGroupID: 499
     name:
-        de: Hypersynaptic Fibers
         en: Hypersynaptic Fibers
-        fr: Fibres hyper-synaptiques
-        ja: ハイパーシナプスファイバー
         ru: Hypersynaptic Fibers
-        zh: 超级突触纤维
     portionSize: 1
     published: true
     volume: 0.6
 16683:
     basePrice: 5500.0
     description:
-        de: Eine magnetisierte Flüssigkeit, die dazu verwendet wird, den Fluss kalter
-            Plasmaströme in Schildsystemen, Reaktorkernen, Pulsgeneratoren und Antriebssystemen
-            zu kontrollieren.
-        en: A magnetised liquid, used to control the flow of cold plasma fields in
-            shield systems, reactor cores, pulse generators and thruster systems.
-        fr: Un liquide magnétique utilisé pour contrôler le flux des champs de plasma
-            froids des systèmes de bouclier, des réacteurs, des générateurs d'impulsion
-            et des propulseurs.
-        ja: 磁力を帯びた液体。シールドシステムのコールドプラズマフィールド、炉心、パルスジェネレータ、スラスターシステムなどの管理に使用される。
-        ru: Магнетическая жидкость, используемая, чтобы контролировать поток холодных
-            плазменных полей в щитовых системах, реакторных ядрах, пульсовых генераторах
-            и тяговых системах.
-        zh: 一种磁化液体，用来控制护盾系统、反应堆核心、脉冲发生器和推进器系统中的冷等离子场的流向。
+        en: A magnetised liquid, used to control the flow of cold plasma fields in shield systems, reactor cores, pulse generators and thruster systems.
+        ru: Магнетическая жидкость, используемая, чтобы контролировать поток холодных плазменных полей в щитовых системах, реакторных ядрах, пульсовых генераторах и тяговых системах.
     groupID: 429
     iconID: 2678
     marketGroupID: 499
     name:
-        de: Ferrogel
         en: Ferrogel
-        fr: Ferrogel
-        ja: フェロージェル
         ru: Ferrogel
-        zh: 铁磁胶体
     portionSize: 1
     published: true
     volume: 1.0
 17317:
     basePrice: 12000.0
     description:
-        de: 'Dieses Material ist einer der komplexesten Verbundstoffe, die der Mensch
-            kennt. Er enthält supraleitende Bosonenpartikel, die sich alle im gleichen
-            Quantenzustand befinden und daher eine fast widerstandsfreie Umgebung
-            für elektrischen Strom bilden. Diese Kondensatoren sind deswegen ein wichtiges
-            Ausgangsmaterial in der fortschrittlichen Reaktortechnologie. '
-        en: One of the most complex composites known to man, fermionic condensates
-            consist of superconductive boson particles all occupying the same quantum
-            state, thus creating a nearly resistance-free environment for electric
-            current. These condensates have therefore become a staple in advanced
-            reactor manufacture.
-        fr: Un des composés les plus complexes connus de l'homme, les condensats fermioniques
-            sont composés de particules de boson superconductrices qui sont toutes
-            dans le même état quantique, créant ainsi un environnement quasiment sans
-            résistance au courant électrique. Ces condensats sont logiquement devenus
-            un produit de base dans la production de réacteurs avancés.
-        ja: 現在知られている最も複雑な合成物質の一つ。全て同一の量子状態にある超伝導ボース粒子で構成され、ほとんど電気抵抗ゼロの状態を作り出す。そのため、高性能リアクター製造における必需品となっている。
-        ru: Фермионные конденсаты состоят из сверхпроводящих бозонных частиц в одинаковом
-            квантовом состоянии, за счет чего они создают электропроводящую среду
-            с почти нулевым сопротивлением. Этот конденсат используется при производстве
-            высокоэффективных реакторов.
-        zh: 人类已知的最复杂的合成物之一。费米子冷凝物由具有相同量子态的超导玻色子组成，因此产生了一个对电流的接近零阻抗的环境。这些冷凝物因此成为了制造高级反应器的主要材料。
+        en: One of the most complex composites known to man, fermionic condensates consist of superconductive boson particles all occupying the same quantum state, thus creating a nearly resistance-free environment for electric current. These condensates have therefore become a staple in advanced reactor manufacture.
+        ru: Фермионные конденсаты состоят из сверхпроводящих бозонных частиц в одинаковом квантовом состоянии, за счет чего они создают электропроводящую среду с почти нулевым сопротивлением. Этот конденсат используется при производстве высокоэффективных реакторов.
     groupID: 429
     iconID: 2683
     marketGroupID: 499
     name:
-        de: Fermionic Condensates
         en: Fermionic Condensates
-        fr: Condensats fermioniques
-        ja: フェルミオン凝縮物
         ru: Fermionic Condensates
-        zh: 费米子冷凝物
     portionSize: 1
     published: true
     volume: 1.3
 33359:
     basePrice: 3500
     description:
-        de: Sorgfältig hergestellte, für präzise optische Steuerung optimierte Gitter
-            – photonische Metamaterialien werden in fortschrittlichen Mikroprozessoren
-            und Speichereinheiten der Gallente eingesetzt.
-        en: A carefully engineered latticework designed for precise optical control,
-            photonic metamaterials are a component in advanced Gallente microprocessors
-            and capacitor units.
-        fr: Ce treillage minutieux de métamatériaux photoniques est conçu pour optimiser
-            le contrôle optique, notamment des microprocesseurs et les capaciteurs
-            gallente.
-        ja: 光子型メタマテリアルは、正確な光学制御を期して注意深く人工的に造られた格子状の物質で、高度なガレンテマイクロプロセッサーとキャパシタユニットの鍵となるコンポーネントである。
-        ru: Фотонные метаматериалы имеют сложную решетчатую структуру, обеспечивающую
-            сверхточный оптический контроль; они широко используются в производстве
-            новейших микропроцессоров и накопителей Галлентской Федерации.
-        zh: 光子超材料是一种能够实现精密光学控制的高级合成物，用于盖伦特高级微处理器和电容器单元。
+        en: A carefully engineered latticework designed for precise optical control, photonic metamaterials are a component in advanced Gallente microprocessors and capacitor units.
+        ru: Фотонные метаматериалы имеют сложную решетчатую структуру, обеспечивающую сверхточный оптический контроль; они широко используются в производстве новейших микропроцессоров и накопителей Галлентской Федерации.
     groupID: 429
     iconID: 2678
     marketGroupID: 499
     name:
-        de: Photonic Metamaterials
         en: Photonic Metamaterials
-        fr: Métamatériaux photoniques
-        ja: 光子型メタマテリアル
         ru: Photonic Metamaterials
-        zh: 光子超材料
     portionSize: 1
     published: true
     volume: 1
 33360:
     basePrice: 3500.0
     description:
-        de: Terahertz-Metawerkstoffe sind fortschrittliche Verbundstoffe für die Beeinflussung
-            von elektronmagnetischen Wellen außerhalb des Mikowellenlängenbereichs.
-            Sie werden in der neusten Generation von Prozessoren und Energiespeichereinheiten
-            des Amarr Empire verwendet.
-        en: An advanced composite designed to manipulate electromagnetic waves just
-            beyond the microwave band, terahertz metamaterials are found in the latest
-            generation of processors and capacitor units in the Amarr Empire.
-        fr: Composite avancé conçu pour manipuler des ondes électromagnétiques légèrement
-            supérieures aux bandes de fréquence micro-ondes, les métamatériaux térahertz
-            composent la dernière génération des processeurs et des unités de capaciteur
-            au sein de l'Empire amarr.
-        ja: テラヘルツメタマテリアルは、マイクロ波帯を越えた電磁波を操作するための高度な化合物で、アマー帝国の最新世代のプロセッサーとキャパシタユニットで目にする。
-        ru: Терагерцевые метаматериалы представляют собой усовершенствованный композитный
-            материал, предназначенный для манипулирования электромагнитными волнами
-            с частотой, лишь немного превышающей частоты микроволнового диапазона,
-            и они применяются для производства новейшего поколения процессоров и накопителей
-            империи Амарр.
-        zh: 太赫兹超材料是一种用来控制高于微波频段的电磁波的高级合成物，用于艾玛最新一代的微处理器和电容器单元。
+        en: An advanced composite designed to manipulate electromagnetic waves just beyond the microwave band, terahertz metamaterials are found in the latest generation of processors and capacitor units in the Amarr Empire.
+        ru: Терагерцевые метаматериалы представляют собой усовершенствованный композитный материал, предназначенный для манипулирования электромагнитными волнами с частотой, лишь немного превышающей частоты микроволнового диапазона, и они применяются для производства новейшего поколения процессоров и накопителей империи Амарр.
     groupID: 429
     iconID: 2678
     marketGroupID: 499
     name:
-        de: Terahertz Metamaterials
         en: Terahertz Metamaterials
-        fr: Métamatériaux Terahertz
-        ja: テラヘルツメタマテリアル
         ru: Terahertz Metamaterials
-        zh: 太赫兹超材料
     portionSize: 1
     published: true
     volume: 1.0
 33361:
     basePrice: 3500.0
     description:
-        de: Plasmonische Metawerkstoffe sind sorgfältig hergestellte Verbundstoffe
-            aus Neo Mercurite und Fernite Alloy. Sie sind ein wichtiger Bestandteil
-            von fortschrittlichen Minmatar-Prozessoren und -Energiespeichereinheiten.
-        en: Carefully fabricated composites of neo mercurite and fernite alloy, plasmonic
-            metamaterials are a key component in advanced Minmatar processors and
-            capacitor units.
-        fr: Composites minutieusement fabriqués à partir de néo-mercurite et d'alliage
-            de fernite, les métamatériaux plasmoniques constituent un composant clé
-            dans les processeurs et les unités de capaciteur minmatar.
-        ja: プラズモンメタマテリアルは、ネオメロキュライトとフェロナイト合金を注意深く加工した化合物で、ミンマターの高度なプロセッサーとキャパシタユニットの鍵となるコンポーネントである。
-        ru: 'Плазмонические метаматериалы -- сложные композиты из неомеркурита и фернитового
-            сплава, и в республике Минматар они являются ключевым компонентом в производстве
-            новейшего поколения процессоров и накопителей. '
-        zh: 等离子体超材料由新汞合金和菲尔合金精密合成而来，是米玛塔尔高级微处理器和电容器单元的核心组件。
+        en: Carefully fabricated composites of neo mercurite and fernite alloy, plasmonic metamaterials are a key component in advanced Minmatar processors and capacitor units.
+        ru: 'Плазмонические метаматериалы -- сложные композиты из неомеркурита и фернитового сплава, и в республике Минматар они являются ключевым компонентом в производстве новейшего поколения процессоров и накопителей. '
     groupID: 429
     iconID: 2678
     marketGroupID: 499
     name:
-        de: Plasmonic Metamaterials
         en: Plasmonic Metamaterials
-        fr: Métamatériaux plasmoniques
-        ja: プラズモンメタマテリアル
         ru: Plasmonic Metamaterials
-        zh: 等离子体超材料
     portionSize: 1
     published: true
     volume: 1.0
 33362:
     basePrice: 3500.0
     description:
-        de: Laboratorien des Caldari State ist es kürzlich gelungen, die ersten bekannten
-            Verbundstoffe mit negativem Brechungsindex herzustellen. Diese auch als
-            nichtlineare Metawerkstoffe bezeichneten fortschrittlichen Verbundstoffe
-            finden zunehmend Einsatz in den neusten Energiespeichereinheiten und Mikroprozessoren
-            des Caldari State.
-        en: Labs in the Caldari State have recently managed to construct the first
-            known composites with negative refractive indexes. Known as nonlinear
-            metamaterials, these advanced composites are finding increasing use in
-            the State's latest capacitor units and microprocessors.
-        fr: Les laboratoires de l'État caldari ont récemment réussi à mettre au point
-            les premiers composites connus avec un indice de réfraction négatif. Appelés
-            métamatériaux non linéaires, ces composites avancés sont de plus en plus
-            utilisés dans les microprocesseurs et les unités de capaciteur de l'État.
-        ja: 最近、カルダリ連合の研究所が、屈折率がマイナスの初の化合物として知られる物質の生産にこぎつけた。この高度な化合物は非線形メタマテリアルとして知られており、連合の最新キャパシタユニットとマイクロプロセッサーで使用されることが増えてきている。
-        ru: В лабораториях государства Калдари недавно удалось получить первые композитные
-            материалы с негативным коэффициентом рефракции. Им было присвоено название
-            нелинейных метаматериалов, и они находят все более широкое применение
-            в производстве новейших накопителей и микропроцессоров государства.
-        zh: 加达里合众国的实验室最近研发出了第一种已知的负折射率合成物。这些被称为非线性超材料的高级合成物，很快就被大量应用于合众国最新的电容器单元和微处理器上。
+        en: Labs in the Caldari State have recently managed to construct the first known composites with negative refractive indexes. Known as nonlinear metamaterials, these advanced composites are finding increasing use in the State's latest capacitor units and microprocessors.
+        ru: В лабораториях государства Калдари недавно удалось получить первые композитные материалы с негативным коэффициентом рефракции. Им было присвоено название нелинейных метаматериалов, и они находят все более широкое применение в производстве новейших накопителей и микропроцессоров государства.
     groupID: 429
     iconID: 2678
     marketGroupID: 499
     name:
-        de: Nonlinear Metamaterials
         en: Nonlinear Metamaterials
-        fr: Métamatériaux non-linéaires
-        ja: 非線形メタマテリアル
         ru: Nonlinear Metamaterials
-        zh: 非线性超材料
     portionSize: 1
     published: true
     volume: 1.0

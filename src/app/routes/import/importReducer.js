@@ -1,5 +1,6 @@
 const initialState = {
   importResult: 0,
+  importBlueprint: 0,
 };
 
 export default function importReducer(state = initialState, action) {
@@ -20,11 +21,15 @@ export default function importReducer(state = initialState, action) {
 
       return _state;
 
+    case 'IMPORT_BLUEPRINTS':
+      _state = {...state};
+      _state.importBlueprint = action.payload;
+
+      return _state;
+
     default:
       return state;
   }
-
-
 
   return state;
 }

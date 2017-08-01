@@ -1,7 +1,7 @@
 
 import request from 'then-request'
 
-export const getImport = () => dispatch => {
+export const importMoonMatPrice = () => dispatch => {
 
   dispatch({ type: 'IMPORT_PRICE_CLEAN', payload: null })
 
@@ -50,7 +50,5 @@ export const getImport = () => dispatch => {
 
     })
   })
-
-
 
 }

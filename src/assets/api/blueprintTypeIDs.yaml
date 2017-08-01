@@ -4,12 +4,8 @@
     iconID: 96
     marketGroupID: 1595
     name:
-        de: Thermonuclear Trigger Unit Blueprint
         en: Thermonuclear Trigger Unit Blueprint
-        fr: Plan de construction Déclencheur thermonucléaire
-        ja: 熱核トリガーユニットブループリント
         ru: Thermonuclear Trigger Unit Blueprint
-        zh: 热核反应击发装置蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -19,12 +15,8 @@
     iconID: 96
     marketGroupID: 1594
     name:
-        de: Crystalline Carbonide Armor Plate Blueprint
         en: Crystalline Carbonide Armor Plate Blueprint
-        fr: Plan de construction Blindage en carbonite cristallin
-        ja: クリスタルインカーボナイドアーマープレートブループリント
         ru: Crystalline Carbonide Armor Plate Blueprint
-        zh: 碳化晶体附甲蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -34,12 +26,8 @@
     iconID: 96
     marketGroupID: 1595
     name:
-        de: Plasma Thruster Blueprint
         en: Plasma Thruster Blueprint
-        fr: Plan de construction Propulseur à plasma
-        ja: プラズマスラスターブループリント
         ru: Plasma Thruster Blueprint
-        zh: 等离子推进器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -49,12 +37,8 @@
     iconID: 96
     marketGroupID: 1595
     name:
-        de: Nanomechanical Microprocessor Blueprint
         en: Nanomechanical Microprocessor Blueprint
-        fr: Plan de construction Microprocesseur nanomécanique
-        ja: ナノメカニカルマイクロプロセッサーブループリント
         ru: Nanomechanical Microprocessor Blueprint
-        zh: 纳米机械微处理器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -64,12 +48,8 @@
     iconID: 96
     marketGroupID: 1595
     name:
-        de: Nuclear Pulse Generator Blueprint
         en: Nuclear Pulse Generator Blueprint
-        fr: Plan de construction Générateur d'impulsions nucléaires
-        ja: ニュークリアパルスジェネレーターブループリント
         ru: Nuclear Pulse Generator Blueprint
-        zh: 核脉冲发生器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -79,12 +59,8 @@
     iconID: 96
     marketGroupID: 1593
     name:
-        de: Scalar Capacitor Unit Blueprint
         en: Scalar Capacitor Unit Blueprint
-        fr: Plan de construction Capaciteur scalaire
-        ja: スケイラーキャパシタユニットブループリント
         ru: Scalar Capacitor Unit Blueprint
-        zh: 标量电容器单元蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -94,12 +70,8 @@
     iconID: 96
     marketGroupID: 1593
     name:
-        de: Titanium Diborite Armor Plate Blueprint
         en: Titanium Diborite Armor Plate Blueprint
-        fr: Plan de construction Blindage en diborite de titane
-        ja: チタンディボーライトアーマープレートブループリント
         ru: Titanium Diborite Armor Plate Blueprint
-        zh: 迪波特钛合金附甲蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -109,12 +81,8 @@
     iconID: 96
     marketGroupID: 1594
     name:
-        de: Ion Thruster Blueprint
         en: Ion Thruster Blueprint
-        fr: Plan de construction Propulseur à ions
-        ja: イオンスラスターブループリント
         ru: Ion Thruster Blueprint
-        zh: 离子推进器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -124,12 +92,8 @@
     iconID: 96
     marketGroupID: 1592
     name:
-        de: Nanoelectrical Microprocessor Blueprint
         en: Nanoelectrical Microprocessor Blueprint
-        fr: Plan de construction Microprocesseur nanoélectrique
-        ja: ナノエレクトリカルマイクロプロセッサーブループリント
         ru: Nanoelectrical Microprocessor Blueprint
-        zh: 纳米电子微处理器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -139,12 +103,8 @@
     iconID: 96
     marketGroupID: 1594
     name:
-        de: Fusion Reactor Unit Blueprint
         en: Fusion Reactor Unit Blueprint
-        fr: Plan de construction Réacteur à fusion
-        ja: 核融合リアクターユニットブループリント
         ru: Fusion Reactor Unit Blueprint
-        zh: 聚变反应堆机组蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -154,12 +114,8 @@
     iconID: 96
     marketGroupID: 1593
     name:
-        de: Graviton Pulse Generator Blueprint
         en: Graviton Pulse Generator Blueprint
-        fr: Plan de construction Générateur d'impulsions gravitationnelles
-        ja: 重力子パルスジェネレーターブループリント
         ru: Graviton Pulse Generator Blueprint
-        zh: 引力子脉冲发生器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -169,12 +125,8 @@
     iconID: 96
     marketGroupID: 1595
     name:
-        de: Ladar Sensor Cluster Blueprint
         en: Ladar Sensor Cluster Blueprint
-        fr: Plan de construction Réseau de détecteurs ladar
-        ja: 光学センサークラスターブループリント
         ru: Ladar Sensor Cluster Blueprint
-        zh: 光雷达感应器组蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -184,12 +136,8 @@
     iconID: 96
     marketGroupID: 1592
     name:
-        de: Tesseract Capacitor Unit Blueprint
         en: Tesseract Capacitor Unit Blueprint
-        fr: Plan de construction Capaciteur Tesseract
-        ja: テセラクトキャパシタユニットブループリント
         ru: Tesseract Capacitor Unit Blueprint
-        zh: 超立方电容器单元蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -199,12 +147,8 @@
     iconID: 96
     marketGroupID: 1592
     name:
-        de: EM Pulse Generator Blueprint
         en: EM Pulse Generator Blueprint
-        fr: Plan de construction Générateur d'impulsions EM
-        ja: EMパルスジェネレーターブループリント
         ru: EM Pulse Generator Blueprint
-        zh: 电磁发生器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -214,12 +158,8 @@
     iconID: 96
     marketGroupID: 1592
     name:
-        de: Radar Sensor Cluster Blueprint
         en: Radar Sensor Cluster Blueprint
-        fr: Plan de construction Réseau de détecteur radar
-        ja: 電波センサークラスタブループリント
         ru: Radar Sensor Cluster Blueprint
-        zh: 雷达感应器组蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -229,12 +169,8 @@
     iconID: 96
     marketGroupID: 1594
     name:
-        de: Oscillator Capacitor Unit Blueprint
         en: Oscillator Capacitor Unit Blueprint
-        fr: Plan de construction Capaciteur à oscillation
-        ja: オシレーターキャパシタユニットブループリント
         ru: Oscillator Capacitor Unit Blueprint
-        zh: 震荡电容器单元蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -244,12 +180,8 @@
     iconID: 96
     marketGroupID: 1592
     name:
-        de: Antimatter Reactor Unit Blueprint
         en: Antimatter Reactor Unit Blueprint
-        fr: Plan de construction Réacteur antimatière
-        ja: アンチマターリアクターユニットブループリント
         ru: Antimatter Reactor Unit Blueprint
-        zh: 反物质反应堆组件蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -259,12 +191,8 @@
     iconID: 96
     marketGroupID: 1594
     name:
-        de: Plasma Pulse Generator Blueprint
         en: Plasma Pulse Generator Blueprint
-        fr: Plan de construction Générateur d'impulsions plasma
-        ja: プラズマパルスジェネレーターブループリント
         ru: Plasma Pulse Generator Blueprint
-        zh: 等离子脉冲发生器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -274,12 +202,8 @@
     iconID: 96
     marketGroupID: 1593
     name:
-        de: Gravimetric Sensor Cluster Blueprint
         en: Gravimetric Sensor Cluster Blueprint
-        fr: Plan de construction Réseau de détecteurs gravimétriques
-        ja: 重力センサークラスタブループリント
         ru: Gravimetric Sensor Cluster Blueprint
-        zh: 引力感应器组蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -289,12 +213,8 @@
     iconID: 96
     marketGroupID: 1594
     name:
-        de: Pulse Shield Emitter Blueprint
         en: Pulse Shield Emitter Blueprint
-        fr: Plan de construction Émetteur de bouclier à impulsions
-        ja: パルスシールドエミッターブループリント
         ru: Pulse Shield Emitter Blueprint
-        zh: 脉冲护盾发射器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -304,12 +224,8 @@
     iconID: 96
     marketGroupID: 1595
     name:
-        de: Nuclear Reactor Unit Blueprint
         en: Nuclear Reactor Unit Blueprint
-        fr: Plan de construction Réacteur nucléaire
-        ja: 原子リアクターユニットブループリント
         ru: Nuclear Reactor Unit Blueprint
-        zh: 核反应堆机组蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -319,12 +235,8 @@
     iconID: 96
     marketGroupID: 1594
     name:
-        de: Particle Accelerator Unit Blueprint
         en: Particle Accelerator Unit Blueprint
-        fr: Plan de construction Accélérateur de particules
-        ja: 粒子加速器ユニットブループリント
         ru: Particle Accelerator Unit Blueprint
-        zh: 粒子加速装置蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -334,12 +246,8 @@
     iconID: 96
     marketGroupID: 1594
     name:
-        de: Magnetometric Sensor Cluster Blueprint
         en: Magnetometric Sensor Cluster Blueprint
-        fr: Plan de construction Réseau de détecteurs magnétométriques
-        ja: 磁力センサークラスタブループリント
         ru: Magnetometric Sensor Cluster Blueprint
-        zh: 磁力感应器组蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -349,12 +257,8 @@
     iconID: 96
     marketGroupID: 1595
     name:
-        de: Deflection Shield Emitter Blueprint
         en: Deflection Shield Emitter Blueprint
-        fr: Plan de construction Émetteur du bouclier de déviation
-        ja: 偏向シールドエミッターブループリント
         ru: Deflection Shield Emitter Blueprint
-        zh: 偏阻护盾发射器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -364,12 +268,8 @@
     iconID: 96
     marketGroupID: 1595
     name:
-        de: Electrolytic Capacitor Unit Blueprint
         en: Electrolytic Capacitor Unit Blueprint
-        fr: Plan de construction Capaciteur électrolytique
-        ja: 電解キャパシタユニットブループリント
         ru: Electrolytic Capacitor Unit Blueprint
-        zh: 电解电容器单元蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -379,12 +279,8 @@
     iconID: 96
     marketGroupID: 1592
     name:
-        de: Laser Focusing Crystals Blueprint
         en: Laser Focusing Crystals Blueprint
-        fr: Plan de construction Cristaux de concentration de laser
-        ja: レーザーフォーカシングクリスタルブループリント
         ru: Laser Focusing Crystals Blueprint
-        zh: 激光器定焦水晶蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -394,12 +290,8 @@
     iconID: 96
     marketGroupID: 1592
     name:
-        de: Fusion Thruster Blueprint
         en: Fusion Thruster Blueprint
-        fr: Plan de construction Propulseur à fusion
-        ja: フュージョンスラスターブループリント
         ru: Fusion Thruster Blueprint
-        zh: 聚变推进器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -409,12 +301,8 @@
     iconID: 96
     marketGroupID: 1592
     name:
-        de: Tungsten Carbide Armor Plate Blueprint
         en: Tungsten Carbide Armor Plate Blueprint
-        fr: Plan de construction Blindage en carbure de tungstène
-        ja: タングステン炭化物アーマープレートブループリント
         ru: Tungsten Carbide Armor Plate Blueprint
-        zh: 碳化钨附甲蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -424,12 +312,8 @@
     iconID: 96
     marketGroupID: 1593
     name:
-        de: Quantum Microprocessor Blueprint
         en: Quantum Microprocessor Blueprint
-        fr: Plan de construction Microprocesseur quantique
-        ja: クアンタムマイクロプロセッサーブループリント
         ru: Quantum Microprocessor Blueprint
-        zh: 量子微处理器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -439,12 +323,8 @@
     iconID: 96
     marketGroupID: 1593
     name:
-        de: Sustained Shield Emitter Blueprint
         en: Sustained Shield Emitter Blueprint
-        fr: Plan de construction Émetteur de bouclier en continu
-        ja: 持続型シールドエミッターブループリント
         ru: Sustained Shield Emitter Blueprint
-        zh: 恒定护盾发射器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -454,12 +334,8 @@
     iconID: 96
     marketGroupID: 1593
     name:
-        de: Graviton Reactor Unit Blueprint
         en: Graviton Reactor Unit Blueprint
-        fr: Plan de construction Réacteur gravitationnel
-        ja: 重力子リアクターユニットブループリント
         ru: Graviton Reactor Unit Blueprint
-        zh: 引力子反应器机组蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -469,12 +345,8 @@
     iconID: 96
     marketGroupID: 1593
     name:
-        de: Superconductor Rails Blueprint
         en: Superconductor Rails Blueprint
-        fr: Plan de construction Rails superconducteurs
-        ja: 超電導体レールブループリント
         ru: Superconductor Rails Blueprint
-        zh: 超导体轨道蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -484,12 +356,8 @@
     iconID: 96
     marketGroupID: 1595
     name:
-        de: Fernite Carbide Composite Armor Plate Blueprint
         en: Fernite Carbide Composite Armor Plate Blueprint
-        fr: Plan de construction Blindage en composé de carbure de fernite
-        ja: フェロナイト炭化化合物アーマープレートブループリント
         ru: Fernite Carbide Composite Armor Plate Blueprint
-        zh: 碳化菲尔金属合成物附甲蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -499,12 +367,8 @@
     iconID: 96
     marketGroupID: 1593
     name:
-        de: Magpulse Thruster Blueprint
         en: Magpulse Thruster Blueprint
-        fr: Plan de construction Propulseur Magpulse
-        ja: マグパルススラスターブループリント
         ru: Magpulse Thruster Blueprint
-        zh: 磁脉冲推进器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -514,12 +378,8 @@
     iconID: 96
     marketGroupID: 1594
     name:
-        de: Photon Microprocessor Blueprint
         en: Photon Microprocessor Blueprint
-        fr: Plan de construction Microprocesseur à photon
-        ja: 光子マイクロプロセッサーブループリント
         ru: Photon Microprocessor Blueprint
-        zh: 光子微处理器蓝图
     portionSize: 1
     published: true
     volume: 0.01
@@ -529,12 +389,8 @@
     iconID: 96
     marketGroupID: 1592
     name:
-        de: Linear Shield Emitter Blueprint
         en: Linear Shield Emitter Blueprint
-        fr: Plan de construction Émetteur de bouclier linéaire
-        ja: リニアシールドエミッターブループリント
         ru: Linear Shield Emitter Blueprint
-        zh: 线性护盾能量发射器蓝图
     portionSize: 1
     published: true
     volume: 0.01

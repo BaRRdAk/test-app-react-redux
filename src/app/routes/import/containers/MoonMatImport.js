@@ -1,7 +1,8 @@
 import React from 'react'
 import { connect } from 'react-redux'
 
-import { getImport } from '../actions/import'
+import { importMoonMatPrice } from '../actions/importMoonMatPrice'
+import { importBlueprints } from '../actions/importBlueprints'
 
 class MoonMatImport extends React.Component {
 
@@ -9,25 +10,22 @@ class MoonMatImport extends React.Component {
     super(props);
   }
 
-  componentWillMount() {
-
-
-  }
-
-
   render() {
-
-    console.log("this.props:", this.props);
-
-
-    // const importBtn = document.querySelectorAll('.import')[0]
-    // importBtn.addEventListener('click', () => {
-    //   alert(1)
-    // })
 
     return (
       <div>
-        <span>импортировано  {this.props.testStore.importStore.importResult} записей</span><button onClick={this.props.onImport} >Import</button>
+        <div>
+          <span>импортировано {this.props.testStore.importStore.importResult} записей</span><button onClick={this.props.onMoonMatPriceImport} >Import moonmat</button>
+        </div>
+        <div>
+          <span>импортировано {this.props.testStore.importStore.importBlueprint} чертежей</span><button onClick={this.props.onBlueprintsImport} >Import blueprints</button>
+        </div>
+        <div>
+          <button onClick={this.props.onBlueprintTypesImport} >Import blueprints type</button>
+        </div>
+        <div>
+          <button onClick={this.props.onTypesImport} >Import types</button>
+        </div>
       </div>
     )
 
@@ -39,8 +37,17 @@ export default connect(
     testStore: state
   }),
   dispatch => ({
-    onImport: () => {
-      dispatch(getImport())
+    onMoonMatPriceImport: () => {
+        dispatch(importMoonMatPrice())
+    },
+    onBlueprintsImport: () => {
+        dispatch(importBlueprints())
+    },
+    onBlueprintTypesImport: () => {
+        dispatch(importMoonMatPrice())
+    },
+    onTypesImport: () => {
+        dispatch(importMoonMatPrice())
     }
   })
 )(MoonMatImport);
