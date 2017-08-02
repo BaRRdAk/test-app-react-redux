@@ -15,10 +15,10 @@ class MoonMatImport extends React.Component {
     return (
       <div>
         <div>
-          <span>импортировано {this.props.testStore.importStore.importResult} записей</span><button onClick={this.props.onMoonMatPriceImport} >Import moonmat</button>
+          <span>импортировано {this.props.testStore.importStore.importResult} записей</span><button onClick={this.props.onImportMoonMatPrice} >Import moonmat</button>
         </div>
         <div>
-          <span>импортировано {this.props.testStore.importStore.importBlueprint} чертежей</span><button onClick={this.props.onBlueprintsImport} >Import blueprints</button>
+          <span>импортировано {this.props.testStore.importStore.importBlueprint} чертежей</span><button onClick={this.props.onImportBlueprints} >Import blueprints</button>
         </div>
         <div>
           <button onClick={this.props.onBlueprintTypesImport} >Import blueprints type</button>
@@ -37,16 +37,16 @@ export default connect(
     testStore: state
   }),
   dispatch => ({
-    onMoonMatPriceImport: () => {
+    onImportMoonMatPrice: () => {
         dispatch(importMoonMatPrice())
     },
-    onBlueprintsImport: () => {
+    onImportBlueprints: () => {
         dispatch(importBlueprints())
     },
-    onBlueprintTypesImport: () => {
+    onImportBlueprintTypes: () => {
         dispatch(importMoonMatPrice())
     },
-    onTypesImport: () => {
+    onImportTypes: () => {
         dispatch(importMoonMatPrice())
     }
   })
