@@ -6,9 +6,9 @@ export default {
 
   childRoutes: [
     {
-      path: 'ferrogelprice',
+      path: 'all',
       getComponent(nextState, cb){
-        System.import('./containers/FerrogelPrice').then((m)=> {
+        System.import('./containers/AllPrice').then((m)=> {
           cb(null, m.default)
         })
       }

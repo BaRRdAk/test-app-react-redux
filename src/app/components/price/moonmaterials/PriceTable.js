@@ -18,16 +18,14 @@ export default class PriceTable extends React.Component {
   render() {
 
     return (
-      <div>
         <table>
           <tbody>
-          <tr><th>location_id</th><th>price</th></tr>
+          <tr><th>price</th><th>volume_total</th><th>volume_remain</th></tr>
           {this.props.data.map((e, i) =>
-              <tr key={i}><td>{e.location_id}</td><td>{e.price}</td></tr>
+              <tr key={i}><td>{e.price}</td><td>{e.volume_total}</td><td>{e.volume_remain}</td></tr>
           )}
           </tbody>
         </table>
-      </div>
     )
   }
 }

@@ -3,9 +3,9 @@ export default {
   component: require('../../components/common/Layout').default,
   childRoutes: [
     {
-      path: 'test',
+      path: 'dashboard',
       getComponent(nextState, cb){
-        System.import('./containers/Test').then((m)=> {
+        System.import('./containers/Dashboard').then((m)=> {
           cb(null, m.default)
         })
       }

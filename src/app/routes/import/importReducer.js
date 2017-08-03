@@ -1,6 +1,7 @@
 const initialState = {
   importResult: 0,
-  importBlueprint: 0,
+  importPriceHistoryResult: 0,
+  importStaticDataResult: 0,
 };
 
 export default function importReducer(state = initialState, action) {
@@ -21,9 +22,26 @@ export default function importReducer(state = initialState, action) {
 
       return _state;
 
-    case 'IMPORT_BLUEPRINTS':
+    case 'IMPORT_PRICE_HISTORY':
       _state = {...state};
-      _state.importBlueprint = action.payload;
+      _state.importPriceHistoryResult = _state.importPriceHistoryResult + action.payload;
+
+      return _state;
+
+    case 'IMPORT_PRICE_HISTORY_CLEAN':
+      _state = {...state};
+      _state.importPriceHistoryResult = 0;
+
+      return _state;
+
+    case 'IMPORT_STATIC_DATA':
+      _state = {...state};
+      if(action.payload == 0){
+        _state.importStaticDataResult = action.payload;
+      } else {
+        _state.importStaticDataResult += action.payload;
+      }
+
 
       return _state;
 

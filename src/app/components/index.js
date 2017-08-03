@@ -1,3 +1,3 @@
-import Test from './test/Test'
+import Dashboard from './dashboard/Dashboard'
 
-export {Test}
+export {Dashboard}

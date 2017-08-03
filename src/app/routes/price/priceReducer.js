@@ -1,9 +1,9 @@
 
 const initialState = {
-  priceResult: [],
+  priceResult: {},
 };
 
-export default function ferrogelReducer(state = initialState, action) {
+export default function priceReducer(state = initialState, action) {
   if (action.type === 'SHOW_PRICE') {
     let _state;
 

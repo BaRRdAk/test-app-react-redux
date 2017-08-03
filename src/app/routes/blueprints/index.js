@@ -1,12 +1,12 @@
 export default {
-  path: '/',
+  path: 'blueprints',
   component: require('../../components/common/Layout').default,
 
   childRoutes: [
     {
-      path: 'import',
+      path: 'info',
       getComponent(nextState, cb){
-        System.import('./containers/importData').then((m)=> {
+        System.import('./containers/blueprintInfo').then((m)=> {
           cb(null, m.default)
         })
       }

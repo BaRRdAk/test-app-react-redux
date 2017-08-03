@@ -4,9 +4,6 @@ import {Provider} from 'react-redux'
 import {syncHistoryWithStore} from 'react-router-redux'
 import {Router, hashHistory} from 'react-router'
 
-
-import FerrogelPrice from './routes/price/containers/FerrogelPrice'
-
 import store from './store/configureStore'
 
 const history = syncHistoryWithStore(hashHistory, store);
@@ -14,11 +11,12 @@ const history = syncHistoryWithStore(hashHistory, store);
 const routes = {
 
   path: '/',
-  indexRoute: { onEnter: (nextState, replace) => replace('/test') },
+  indexRoute: { onEnter: (nextState, replace) => replace('/dashboard') },
   childRoutes: [
-    require('./routes/test').default,
+    require('./routes/dashboard').default,
     require('./routes/price').default,
     require('./routes/import').default,
+    require('./routes/blueprints').default,
 
     // comment unused routes
     // this will speed up builds
