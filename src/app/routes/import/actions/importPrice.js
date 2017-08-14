@@ -51,9 +51,4 @@ export const importPrice = () => dispatch => {
 
   }
 
-  //  история цен
-  // request('GET', 'https://esi.tech.ccp.is/latest/markets/10000002/history/?datasource=tranquility&type_id=34', {json: true}).done((res)=> {
-  //   this.setState({ array: JSON.parse(res.getBody()) });
-  // })
-
 }
