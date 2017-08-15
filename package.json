@@ -1,18 +1,26 @@
 {
-  "name": "test-app-webpack",
-  "version": "1.0.0",
-  "description": "",
+  "name": "smartadmin-reactjs",
+  "version": "1.2.4",
+  "description": "Smartadmin ReactJs template",
   "main": "index.js",
   "scripts": {
     "build": "./node_modules/.bin/webpack --config webpack.config.js --progress --colors  --env production",
     "build-dev": "./node_modules/.bin/webpack --config webpack.config.js --progress --colors  --env development",
     "dev": "./node_modules/.bin/webpack-dev-server --config webpack.config.js --progress --env development"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://smartadmin-reactjs@bitbucket.org/smartadmin-dev/smartadmin-reactjs.git"
+  },
+  "keywords": [],
+  "author": "griga",
   "license": "ISC",
+  "homepage": "https://bitbucket.org/smartadmin-dev/smartadmin-reactjs#readme",
   "dependencies": {
+    "X-editable": "github:vitalets/x-editable",
     "bootstrap": "3.3.7",
     "bootstrap-colorpicker": "2.5.1",
+    "bootstrap-duallistbox": "github:istvan-ujjmeszaros/bootstrap-duallistbox",
     "bootstrap-markdown": "2.10.0",
     "bootstrap-progressbar": "0.9.0",
     "bootstrap-slider": "9.8.0",

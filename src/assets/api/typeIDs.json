@@ -865,5 +865,41 @@
       "portionSize": 1,
       "published": true,
       "volume": 1
+   },
+   "11552": {
+     "description": {
+       "en": "Capacitor component used primarily in Caldari ships. A component in various other technology as well.",
+       "ru": "Компонент конденсатора, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+     },
+     "groupID": 334,
+     "iconID": 2197,
+     "marketGroupID": 803,
+     "mass": 1,
+     "name": {
+       "en": "Scalar Capacitor Unit",
+       "ru": "Scalar Capacitor Unit"
+     },
+     "portionSize": 1,
+     "published": true,
+     "raceID": 1,
+     "volume": 1
+   },
+   "11692": {
+     "description": {
+       "en": "Weapon Component used primarily in Minmatar Missiles. A component in various other technology as well.",
+       "ru": "Орудийный компонент, используемый в основном в ракетах производства Minmatar. Применяется и в других различных технологиях."
+     },
+     "groupID": 334,
+     "iconID": 2231,
+     "marketGroupID": 1889,
+     "mass": 1,
+     "name": {
+       "en": "Nuclear Pulse Generator",
+       "ru": "Nuclear Pulse Generator"
+     },
+     "portionSize": 1,
+     "published": true,
+     "raceID": 2,
+     "volume": 1
    }
 }
