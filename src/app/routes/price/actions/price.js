@@ -1,4 +1,4 @@
-export const getPrice = (location_id) => dispatch => {
+export const getPrice = (group_id, location_id) => dispatch => {
 
   let db = openDatabase("EVE", "0.1", "EVE Online price.", 200000)
 
@@ -18,7 +18,7 @@ export const getPrice = (location_id) => dispatch => {
 
     let myIndex = typeIDsStore.index('groupID');
 
-    let keyRangeValue = IDBKeyRange.only(429)
+    let keyRangeValue = IDBKeyRange.only(group_id)
 
     let priceByMaterial = {}
 

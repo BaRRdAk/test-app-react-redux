@@ -1,7 +1,7 @@
 
 import request from 'then-request'
 
-export const getBlueprints = () => dispatch => {
+export const getBlueprints = (locationID) => dispatch => {
 
   let db = openDatabase("EVE", "0.1", "EVE Online price.", 200000)
 
@@ -40,8 +40,6 @@ export const getBlueprints = () => dispatch => {
           typeIDsStore.get(blueprint.activities.manufacturing.products[0].typeID).onsuccess = function(event) {
             blueprint.activities.manufacturing.product = blueprint.activities.manufacturing.products[0]
             blueprint.activities.manufacturing.product.name = event.target.result.name.en;
-
-            let locationID = 60003760;
 
             db.transaction(function(tx) {
               tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price LIMIT 1", [blueprint.activities.manufacturing.products[0].typeID, locationID, false], function(tx, result) {

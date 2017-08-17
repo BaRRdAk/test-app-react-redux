@@ -1,11 +1,9 @@
 
 import request from 'then-request'
 
-export const importPrice = () => dispatch => {
+export const importPrice = (regionId) => dispatch => {
 
   dispatch({ type: 'IMPORT_PRICE_CLEAN', payload: null })
-
-  let regionId = 10000002
 
   let db = openDatabase("EVE", "0.1", "EVE Online price.", 200000)
 
