@@ -19,10 +19,10 @@ class ImportData extends React.Component {
           <span>импортировано {this.props.localState.importStore.importStaticDataResult} статических объектов</span><button onClick={this.props.onImportStaticData} >Import static data</button>
         </div>
         <div>
-          <span>импортировано {this.props.localState.importStore.importResult} записей</span><button onClick={this.props.onImportJita} >Import Jita price</button><button onClick={this.props.onImportAmarr} >Import Amarr price</button><button onClick={this.props.onImportDodixie} >Import Dodixie price</button><button onClick={this.props.onImportRens} >Import Rens price</button>
+          <span>импортировано {this.props.localState.importStore.importResult} записей</span><button onClick={this.props.onImportJita} >Import Jita price</button><button onClick={this.props.onImportAmarr} >Import Amarr price</button><button onClick={this.props.onImportDodixie} >Import Dodixie price</button><button onClick={this.props.onImportRens} >Import Rens price</button><button onClick={this.props.onImportProvidence} >Import Providence price</button>
         </div>
         <div>
-          <span>импортировано {this.props.localState.importStore.importPriceHistoryResult} записей</span><button onClick={this.props.onImportJitaHistory} >Import Jita price history</button><button onClick={this.props.onImportAmarrHistory} >Import Amarr price history</button><button onClick={this.props.onImportDodixieHistory} >Import Dodixie price history</button><button onClick={this.props.onImportRensHistory} >Import Rens price history</button>
+          <span>импортировано {this.props.localState.importStore.importPriceHistoryResult} записей</span><button onClick={this.props.onImportJitaHistory} >Import Jita price history</button><button onClick={this.props.onImportAmarrHistory} >Import Amarr price history</button><button onClick={this.props.onImportDodixieHistory} >Import Dodixie price history</button><button onClick={this.props.onImportRensHistory} >Import Rens price history</button><button onClick={this.props.onImportProvidenceHistory} >Import Providence price history</button>
         </div>
       </div>
     )
@@ -46,6 +46,9 @@ export default connect(
     onImportRens: () => {
         dispatch(importPrice(10000030))
     },
+    onImportProvidence: () => {
+        dispatch(importPrice(10000047))
+    },
     onImportJitaHistory: () => {
         dispatch(importPriceHistory(10000002))
     },
@@ -57,6 +60,9 @@ export default connect(
     },
     onImportRensHistory: () => {
         dispatch(importPriceHistory(10000030))
+    },
+    onImportProvidenceHistory: () => {
+        dispatch(importPriceHistory(10000047))
     },
     onImportStaticData: () => {
         dispatch(importStaticData())
