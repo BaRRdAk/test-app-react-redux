@@ -1,7 +1,9 @@
 
 import request from 'then-request'
 
-export const getBlueprints = (locationID) => dispatch => {
+export const getBlueprints = (locationID, systemProductionIndex) => dispatch => {
+
+  dispatch({ type: 'SYSTEM_INDEX', payload: systemProductionIndex })
 
   let db = openDatabase("EVE", "0.1", "EVE Online price.", 200000)
 

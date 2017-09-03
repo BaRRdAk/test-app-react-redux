@@ -13,6 +13,7 @@ class BlueprintInfo extends React.Component {
   render() {
 
     let blueprints = this.props.localState.blueprintStore.blueprints;
+    let systemIndex = this.props.localState.blueprintStore.systemIndex;
 
     return (
       <div>
@@ -23,7 +24,7 @@ class BlueprintInfo extends React.Component {
           {
             blueprints.map((e, i) =>
               <div key={i}>
-                <ProductionEfficiency data={e} />
+                <ProductionEfficiency data={e} systemIndex={systemIndex} />
               </div>
             )
           }
@@ -40,16 +41,16 @@ export default connect(
   }),
   dispatch => ({
     onShowAmarr: () => {
-        dispatch(getBlueprints(60008494))
+        dispatch(getBlueprints(60008494, 1.09))
     },
     onShowJita: () => {
-        dispatch(getBlueprints(60003760))
+        dispatch(getBlueprints(60003760, 3.65))
     },
     onShowRens: () => {
-        dispatch(getBlueprints(60004588))
+        dispatch(getBlueprints(60004588, 3.65))
     },
     onShowDodixie: () => {
-        dispatch(getBlueprints(60011866))
+        dispatch(getBlueprints(60011866, 3.65))
     }
   })
 )(BlueprintInfo);

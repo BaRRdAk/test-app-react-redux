@@ -3,13 +3,14 @@ import React from 'react'
 export default class ProductionEfficiency extends React.Component {
 
   componentDidMount = ()=> {
-    this.renderEfficiency(this.props.data)
+    this.renderEfficiency(this.props.data, this.props.systemIndex)
   }
   componentWillReceiveProps = (nextProps) => {
-    this.renderEfficiency(nextProps.data)
+    this.renderEfficiency(nextProps.data, this.props.systemIndex)
   }
 
-  renderEfficiency(data) {
+  renderEfficiency(data, systemIndex) {
+
     if (data) {
       data.activities.manufacturing.product.setPrice = data.activities.manufacturing.product.price * 1000;
       data.activities.manufacturing.allPrice = 0;
@@ -18,7 +19,7 @@ export default class ProductionEfficiency extends React.Component {
         e.economyQuantity = e.quantity*1000 - Math.ceil(percentEconomy*1000);
         e.setPrice = e.economyQuantity * e.price;
         data.activities.manufacturing.allPrice += e.setPrice;
-        data.activities.manufacturing.manufacturingPrice = data.activities.manufacturing.allPrice/100*1.09 + (data.activities.manufacturing.allPrice/100*1.09)/100*10
+        data.activities.manufacturing.manufacturingPrice = data.activities.manufacturing.allPrice/100*systemIndex + (data.activities.manufacturing.allPrice/100*systemIndex)/100*10
         data.activities.manufacturing.allProductionPrice = data.activities.manufacturing.allPrice + data.activities.manufacturing.manufacturingPrice
       })
 
@@ -26,9 +27,9 @@ export default class ProductionEfficiency extends React.Component {
   }
 
   render() {
-
-    let manufacturingСost = Math.ceil(this.props.data.activities.manufacturing.allProductionPrice + this.props.data.activities.manufacturing.allProductionPrice/100*2.66);
-    let salesTax = Math.ceil(this.props.data.activities.manufacturing.allProductionPrice/100*2.66);
+    let tax = this.props.data.activities.manufacturing.allProductionPrice/100*(2.57+1.2);
+    let manufacturingСost = Math.ceil(this.props.data.activities.manufacturing.allProductionPrice + tax);
+    let salesTax = Math.ceil(tax);
     let profit = Math.ceil(this.props.data.activities.manufacturing.product.setPrice - (this.props.data.activities.manufacturing.allProductionPrice + this.props.data.activities.manufacturing.allProductionPrice/100*2.66));
     let profitPercent = 100 - manufacturingСost/(this.props.data.activities.manufacturing.product.setPrice/100)
 

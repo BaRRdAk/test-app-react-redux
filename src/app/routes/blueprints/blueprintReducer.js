@@ -3,14 +3,27 @@ const initialState = {
 };
 
 export default function blueprintReducer(state = initialState, action) {
-  if (action.type === 'SHOW_BLUEPRINTS') {
-    let _state;
 
-    _state = {...state};
-    _state.blueprints = action.payload;
+  let _state;
 
-    return _state;
+  switch (action.type) {
 
+    case 'SHOW_BLUEPRINTS':
+      _state = {...state};
+      _state.blueprints = action.payload;
+
+      return _state;
+
+    case 'SYSTEM_INDEX':
+      _state = {...state};
+      _state.systemIndex = action.payload;
+
+      return _state;
+
+    default:
+      return state;
   }
+
+
   return state;
 }
