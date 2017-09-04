@@ -44,7 +44,7 @@ export default connect(
         dispatch(getBlueprints(60008494, 1.09))
     },
     onShowJita: () => {
-        dispatch(getBlueprints(60003760, 3.65))
+        dispatch(getBlueprints(60003760, 2.73))
     },
     onShowRens: () => {
         dispatch(getBlueprints(60004588, 3.65))
