@@ -1,59 +1,81 @@
 import React from 'react'
+import { connect } from 'react-redux'
 
 import request from 'then-request'
 
-export default class Dashboard extends React.Component {
+class Dashboard extends React.Component {
 
   constructor(props) {
     super(props)
 
-    this.db = openDatabase("EVE", "0.1", "EVE Online price.", 200000)
-
-    if (!this.db) {
-      console.log('Failed to connect to database.')
-    }
-
-    this.state = {
-      array: [],
-      localPrice: []
-    }
   }
 
 
   componentDidMount() {
-    let db = this.db
 
-    let localPrice = []
+    if(this.props.location.query.code != undefined){
+      console.log('code', this.props.location.query.code);
 
-    db.transaction(function(tx) {
-      tx.executeSql("SELECT * FROM Price WHERE location_id = '60003760' AND is_buy_order = 'false' ORDER BY price", [], function(tx, result) {
+      var client_id = "9e867eac9a4e465a9166e801dd5d5e0f";
+      var secret_key = "p6ImDKs7cGDMglXxTooTtLBLPoKCDymRaKazOxbf";
+      var code = this.props.location.query.code;
+      var params = "grant_type=authorization_code&code=" + code;
+      var path="https://login.eveonline.com/oauth/token";
+      var authorization_string = client_id + ":" + secret_key;
+      var authorization_header = "Basic " + btoa(authorization_string);
 
-        for (let row of result.rows) {
-          localPrice.push(row)
-        }
-      }, null)
-    })
+      console.log('authorization_header', authorization_header);
 
-    this.setState({
-      localPrice: localPrice
-    })
+      var request = new XMLHttpRequest();
+      request.onreadystatechange=this.state_change;
+      request.open("POST", path, true);
+      request.setRequestHeader("Authorization", authorization_header);
+      request.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+      //request.setRequestHeader("Host", "login.eveonline.com");
+
+      request.send(params);
+    }
+
+  }
+
+  state_change(){
+  	if (request.readyState==4){
+  		if (request.status==200){
+
+  			var serverResponse = JSON.parse(request.responseText);
+
+        console.log('AuthorizedResponse', serverResponse);
+
+  		} else {
+
+  			alert("Problem retrieving XML data");
+
+  		}
+  	}
   }
 
   render() {
-
-    const { localPrice } = this.state
-
     return (
       <div>
         <h1>Dashboard</h1>
-        <ul>
-          {
-            localPrice.map((e, i) => {
-              return <li key={i}>{e.location_id} - {e.price}</li>
-            })
-          }
-        </ul>
+        <button onClick={this.props.onAuthorize} >Authorize</button>
       </div>
     )
   }
 }
+
+export default connect(
+  state => ({
+    localState: state
+  }),
+  dispatch => ({
+    onAuthorize: () => {
+
+      var scopes = ["characterWalletRead", "characterAssetsRead", "characterIndustryJobsRead", "characterMarketOrdersRead", "characterResearchRead"];
+
+      var client_id = "9e867eac9a4e465a9166e801dd5d5e0f";
+      var authorize_url = "https://login.eveonline.com/oauth/authorize/?response_type=code&redirect_uri=http://localhost:2200%2F%23%2Fdashboard/&client_id=" + client_id + "&scope=" + scopes.join("%20") + "&state=myappstate";
+      location.href = authorize_url;
+    }
+  })
+)(Dashboard);
