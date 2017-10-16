@@ -3,62 +3,37 @@ import { connect } from 'react-redux'
 
 import request from 'then-request'
 
+import { Redirect } from 'react-router'
+
 class Dashboard extends React.Component {
 
   constructor(props) {
     super(props)
-
   }
 
 
   componentDidMount() {
 
-    if(this.props.location.query.code != undefined){
-      console.log('code', this.props.location.query.code);
-
-      var client_id = "9e867eac9a4e465a9166e801dd5d5e0f";
-      var secret_key = "p6ImDKs7cGDMglXxTooTtLBLPoKCDymRaKazOxbf";
-      var code = this.props.location.query.code;
-      var params = "grant_type=authorization_code&code=" + code;
-      var path="https://login.eveonline.com/oauth/token";
-      var authorization_string = client_id + ":" + secret_key;
-      var authorization_header = "Basic " + btoa(authorization_string);
-
-      console.log('authorization_header', authorization_header);
-
-      var request = new XMLHttpRequest();
-      request.onreadystatechange=this.state_change;
-      request.open("POST", path, true);
-      request.setRequestHeader("Authorization", authorization_header);
-      request.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
-      //request.setRequestHeader("Host", "login.eveonline.com");
-
-      request.send(params);
-    }
+      const queryString = require('query-string');
+      const parsed = queryString.parse(this.props.location.hash);
+      if(parsed['access_token']){
+        sessionStorage.setItem('access_token', parsed['access_token']);
+        this.props.router.push('/dashboard');
+      }
 
   }
 
-  state_change(){
-  	if (request.readyState==4){
-  		if (request.status==200){
-
-  			var serverResponse = JSON.parse(request.responseText);
-
-        console.log('AuthorizedResponse', serverResponse);
-
-  		} else {
-
-  			alert("Problem retrieving XML data");
-
-  		}
-  	}
-  }
 
   render() {
+
+    let buttonName = 'Authorize';
+
+     this.props.checkAuthorized();
+
     return (
       <div>
         <h1>Dashboard</h1>
-        <button onClick={this.props.onAuthorize} >Authorize</button>
+        <button onClick={this.props.onAuthorize} >{buttonName}</button>
       </div>
     )
   }
@@ -71,11 +46,30 @@ export default connect(
   dispatch => ({
     onAuthorize: () => {
 
-      var scopes = ["characterWalletRead", "characterAssetsRead", "characterIndustryJobsRead", "characterMarketOrdersRead", "characterResearchRead"];
+      let scopes = ["esi-wallet.read_character_wallet.v1", "esi-assets.read_assets.v1", "esi-industry.read_character_jobs.v1", "esi-characters.read_blueprints.v1", "esi-markets.read_character_orders.v1"];
 
-      var client_id = "9e867eac9a4e465a9166e801dd5d5e0f";
-      var authorize_url = "https://login.eveonline.com/oauth/authorize/?response_type=code&redirect_uri=http://localhost:2200%2F%23%2Fdashboard/&client_id=" + client_id + "&scope=" + scopes.join("%20") + "&state=myappstate";
+      let client_id = "9e867eac9a4e465a9166e801dd5d5e0f";
+      let authorize_url = "https://login.eveonline.com/oauth/authorize?response_type=token&redirect_uri=http%3A%2F%2Flocalhost:2200%2F%23%2Fdashboard/&realm=ESI&client_id=" + client_id + "&scope=" + scopes.join("%20") + "&state=evesso";
       location.href = authorize_url;
+    },
+    onLogout: () => {
+      sessionStorage.removeItem('access_token');
+    },
+    checkAuthorized: () => {
+      if(sessionStorage.getItem('access_token')){
+        let token = sessionStorage.getItem('access_token');
+        let url="https://esi.tech.ccp.is/latest/characters/96732334/wallet/?datasource=tranquility&token=" + token;
+
+        request('GET', url, {json: true}).done((result)=> {
+          if(result.statusCode == 200){
+            let resArray = JSON.parse(result.getBody())
+            console.log('RESULT', resArray)
+          } else {
+            sessionStorage.removeItem('access_token');
+          }
+        })
+      }
+
     }
   })
 )(Dashboard);
