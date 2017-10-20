@@ -60,7 +60,7 @@ export default connect(
         let token = sessionStorage.getItem('access_token');
         let url="https://esi.tech.ccp.is/latest/characters/96732334/wallet/?datasource=tranquility&token=" + token;
 
-        request('GET', url, {json: true}).done((result)=> {
+        request('GET', url, {json: true}).done((result) => {
           if(result.statusCode == 200){
             let resArray = JSON.parse(result.getBody())
             console.log('RESULT', resArray)
