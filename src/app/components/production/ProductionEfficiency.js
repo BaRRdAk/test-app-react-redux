@@ -13,6 +13,7 @@ export default class ProductionEfficiency extends React.Component {
 
     if (data) {
       data.activities.manufacturing.product.setPrice = data.activities.manufacturing.product.price * 1000;
+      data.activities.manufacturing.product.buySetPrice = data.activities.manufacturing.product.buy_price * 1000;
       data.activities.manufacturing.allMaterialsPrice = 0;
       data.activities.manufacturing.materials.map((e, i) => {
         let percentEconomy = e.quantity == 1 ? 0 : e.quantity/100*10;
@@ -27,17 +28,21 @@ export default class ProductionEfficiency extends React.Component {
 
   render() {
     let saleOrderTax = this.props.data.activities.manufacturing.product.setPrice/100*(2.57+1.2)
+    let buyOrderTax = this.props.data.activities.manufacturing.product.buySetPrice/100*(1.2)
     let manufacturingСost = Math.ceil(this.props.data.activities.manufacturing.manufacturingPrice);
     let salesTax = Math.ceil(saleOrderTax);
+    let buyTax = Math.ceil(buyOrderTax);
     let amountOfExpenses = Math.ceil(this.props.data.activities.manufacturing.allMaterialsPrice + this.props.data.activities.manufacturing.manufacturingPrice + saleOrderTax);
+    let buyAmountOfExpenses = Math.ceil(this.props.data.activities.manufacturing.allMaterialsPrice + this.props.data.activities.manufacturing.manufacturingPrice + buyOrderTax);
     let profit = Math.ceil(this.props.data.activities.manufacturing.product.setPrice - amountOfExpenses);
-    let profitPercent = profit/(amountOfExpenses/100)
-
+    let profitPercent = profit/(amountOfExpenses/100);
+    let profit_buy = Math.ceil(this.props.data.activities.manufacturing.product.buySetPrice - buyAmountOfExpenses);
+    let profitPercent_buy = profit_buy/(buyAmountOfExpenses/100);
 
     return (
 
         <div>
-          <div><strong>{this.props.data.activities.manufacturing.product.name}:</strong> x1000 - {String(this.props.data.activities.manufacturing.product.setPrice).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</div>
+          <div><strong>{this.props.data.activities.manufacturing.product.name}:</strong> x1000 - {String(this.props.data.activities.manufacturing.product.setPrice).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ( {String(this.props.data.activities.manufacturing.product.buySetPrice).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} )</div>
           <ul>
             {
               this.props.data.activities.manufacturing.materials.map((e, i) =>
@@ -50,6 +55,8 @@ export default class ProductionEfficiency extends React.Component {
             <li><strong>Сумма всех затрат:</strong> {String(amountOfExpenses).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
             <li><strong>Профит:</strong> {String(profit).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
             <li><strong>Профит:</strong> {Math.floor(profitPercent)}%</li>
+            <li><strong>Профит (buy):</strong> {String(profit_buy).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
+            <li><strong>Профит (buy):</strong> {Math.floor(profitPercent_buy)}%</li>
           </ul>
         </div>
     )

@@ -46,7 +46,7 @@ export default connect(
   dispatch => ({
     onAuthorize: () => {
 
-      let scopes = ["esi-wallet.read_character_wallet.v1", "esi-assets.read_assets.v1", "esi-industry.read_character_jobs.v1", "esi-characters.read_blueprints.v1", "esi-markets.read_character_orders.v1"];
+      let scopes = ["esi-wallet.read_character_wallet.v1", "esi-assets.read_assets.v1", "esi-industry.read_character_jobs.v1", "esi-characters.read_blueprints.v1", "esi-markets.read_character_orders.v1", "esi-planets.manage_planets.v1"];
 
       let client_id = "9e867eac9a4e465a9166e801dd5d5e0f";
       let authorize_url = "https://login.eveonline.com/oauth/authorize?response_type=token&redirect_uri=http%3A%2F%2Flocalhost:2200%2F%23%2Fdashboard/&realm=ESI&client_id=" + client_id + "&scope=" + scopes.join("%20") + "&state=evesso";

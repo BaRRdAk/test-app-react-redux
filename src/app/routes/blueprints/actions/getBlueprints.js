@@ -53,6 +53,16 @@ export const getBlueprints = (locationID, systemProductionIndex) => dispatch => 
               }, null)
             })
 
+            db.transaction(function(tx) {
+              tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price DESC LIMIT 1", [blueprint.activities.manufacturing.products[0].typeID, locationID, true], function(tx, result) {
+
+                for (let row of result.rows) {
+                  blueprint.activities.manufacturing.product.buy_price = row.price
+                }
+                dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
+              }, null)
+            })
+
             blueprint.activities.manufacturing.materials.map((e) => {
               typeIDsStore.get(e.typeID).onsuccess = function(event) {
                 e.name = event.target.result.name.en;
