@@ -1,470 +1,182 @@
 {
-   "17322": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1595,
-      "name": {
-         "en": "Thermonuclear Trigger Unit Blueprint",
-         "ru": "Thermonuclear Trigger Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17323": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1594,
-      "name": {
-         "en": "Crystalline Carbonide Armor Plate Blueprint",
-         "ru": "Crystalline Carbonide Armor Plate Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17324": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1595,
-      "name": {
-         "en": "Plasma Thruster Blueprint",
-         "ru": "Plasma Thruster Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17325": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1595,
-      "name": {
-         "en": "Nanomechanical Microprocessor Blueprint",
-         "ru": "Nanomechanical Microprocessor Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17326": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1595,
-      "name": {
-         "en": "Nuclear Pulse Generator Blueprint",
-         "ru": "Nuclear Pulse Generator Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17327": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1593,
-      "name": {
-         "en": "Scalar Capacitor Unit Blueprint",
-         "ru": "Scalar Capacitor Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17328": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1593,
-      "name": {
-         "en": "Titanium Diborite Armor Plate Blueprint",
-         "ru": "Titanium Diborite Armor Plate Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17329": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1594,
-      "name": {
-         "en": "Ion Thruster Blueprint",
-         "ru": "Ion Thruster Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17330": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1592,
-      "name": {
-         "en": "Nanoelectrical Microprocessor Blueprint",
-         "ru": "Nanoelectrical Microprocessor Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17331": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1594,
-      "name": {
-         "en": "Fusion Reactor Unit Blueprint",
-         "ru": "Fusion Reactor Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17332": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1593,
-      "name": {
-         "en": "Graviton Pulse Generator Blueprint",
-         "ru": "Graviton Pulse Generator Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17333": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1595,
-      "name": {
-         "en": "Ladar Sensor Cluster Blueprint",
-         "ru": "Ladar Sensor Cluster Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17334": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1592,
-      "name": {
-         "en": "Tesseract Capacitor Unit Blueprint",
-         "ru": "Tesseract Capacitor Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17335": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1592,
-      "name": {
-         "en": "EM Pulse Generator Blueprint",
-         "ru": "EM Pulse Generator Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17336": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1592,
-      "name": {
-         "en": "Radar Sensor Cluster Blueprint",
-         "ru": "Radar Sensor Cluster Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17337": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1594,
-      "name": {
-         "en": "Oscillator Capacitor Unit Blueprint",
-         "ru": "Oscillator Capacitor Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17338": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1592,
-      "name": {
-         "en": "Antimatter Reactor Unit Blueprint",
-         "ru": "Antimatter Reactor Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17339": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1594,
-      "name": {
-         "en": "Plasma Pulse Generator Blueprint",
-         "ru": "Plasma Pulse Generator Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17340": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1593,
-      "name": {
-         "en": "Gravimetric Sensor Cluster Blueprint",
-         "ru": "Gravimetric Sensor Cluster Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17341": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1594,
-      "name": {
-         "en": "Pulse Shield Emitter Blueprint",
-         "ru": "Pulse Shield Emitter Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17342": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1595,
-      "name": {
-         "en": "Nuclear Reactor Unit Blueprint",
-         "ru": "Nuclear Reactor Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17344": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1594,
-      "name": {
-         "en": "Particle Accelerator Unit Blueprint",
-         "ru": "Particle Accelerator Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17345": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1594,
-      "name": {
-         "en": "Magnetometric Sensor Cluster Blueprint",
-         "ru": "Magnetometric Sensor Cluster Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17346": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1595,
-      "name": {
-         "en": "Deflection Shield Emitter Blueprint",
-         "ru": "Deflection Shield Emitter Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17347": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1595,
-      "name": {
-         "en": "Electrolytic Capacitor Unit Blueprint",
-         "ru": "Electrolytic Capacitor Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17348": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1592,
-      "name": {
-         "en": "Laser Focusing Crystals Blueprint",
-         "ru": "Laser Focusing Crystals Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17349": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1592,
-      "name": {
-         "en": "Fusion Thruster Blueprint",
-         "ru": "Fusion Thruster Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17350": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1592,
-      "name": {
-         "en": "Tungsten Carbide Armor Plate Blueprint",
-         "ru": "Tungsten Carbide Armor Plate Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17351": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1593,
-      "name": {
-         "en": "Quantum Microprocessor Blueprint",
-         "ru": "Quantum Microprocessor Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17352": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1593,
-      "name": {
-         "en": "Sustained Shield Emitter Blueprint",
-         "ru": "Sustained Shield Emitter Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17353": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1593,
-      "name": {
-         "en": "Graviton Reactor Unit Blueprint",
-         "ru": "Graviton Reactor Unit Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17354": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1593,
-      "name": {
-         "en": "Superconductor Rails Blueprint",
-         "ru": "Superconductor Rails Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17355": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1595,
-      "name": {
-         "en": "Fernite Carbide Composite Armor Plate Blueprint",
-         "ru": "Fernite Carbide Composite Armor Plate Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17356": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1593,
-      "name": {
-         "en": "Magpulse Thruster Blueprint",
-         "ru": "Magpulse Thruster Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17357": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1594,
-      "name": {
-         "en": "Photon Microprocessor Blueprint",
-         "ru": "Photon Microprocessor Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "17359": {
-      "basePrice": 5000000,
-      "groupID": 447,
-      "iconID": 96,
-      "marketGroupID": 1592,
-      "name": {
-         "en": "Linear Shield Emitter Blueprint",
-         "ru": "Linear Shield Emitter Blueprint"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   }
+	"46204": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Titanium Carbide Reaction Formula",
+			"ru": "Titanium Carbide Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46205": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Crystalline Carbonide Reaction Formula",
+			"ru": "Crystalline Carbonide Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46206": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Fernite Carbide Reaction Formula",
+			"ru": "Fernite Carbide Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46207": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Tungsten Carbide Reaction Formula",
+			"ru": "Tungsten Carbide Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46208": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Sylramic Fibers Reaction Formula",
+			"ru": "Sylramic Fibers Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46209": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Fulleride Reaction Formula",
+			"ru": "Fulleride Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46210": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Phenolic Composites Reaction Formula",
+			"ru": "Phenolic Composites Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46211": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Nanotransistors Reaction Formula",
+			"ru": "Nanotransistors Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46212": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Hypersynaptic Fibers Reaction Formula",
+			"ru": "Hypersynaptic Fibers Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46213": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Ferrogel Reaction Formula",
+			"ru": "Ferrogel Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46214": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Fermionic Condensates Reaction Formula",
+			"ru": "Fermionic Condensates Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46215": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Plasmonic Metamaterials Reaction Formula",
+			"ru": "Plasmonic Metamaterials Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46216": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Terahertz Metamaterials Reaction Formula",
+			"ru": "Terahertz Metamaterials Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46217": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Photonic Metamaterials Reaction Formula",
+			"ru": "Photonic Metamaterials Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	},
+	"46218": {
+		"basePrice": 20000000,
+		"groupID": 1888,
+		"marketGroupID": 2403,
+		"name": {
+			"en": "Nonlinear Metamaterials Reaction Formula",
+			"ru": "Nonlinear Metamaterials Reaction Formula"
+		},
+		"portionSize": 1,
+		"published": true,
+		"volume": 0.01
+	}
 }
