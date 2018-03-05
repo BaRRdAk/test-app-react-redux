@@ -1,0 +1,167 @@
+16670:
+    basePrice: 10.0
+    description:
+        en: An exeptionally hard material created from crystallite alloys and carbon
+            polymers, crystalline carbonite is a primary component in various forms
+            of advanced Gallente technology, such as thrusters and armor plating.
+        ru: Исключительно тяжелый материал, созданный из кристаллических сплавов и
+            углеродных полимеров. Кристаллический карбонид является основным компонентом
+            разных форм продвинутых технологий Gallente, таких как щиты и обшивки.
+    groupID: 429
+    iconID: 2679
+    marketGroupID: 499
+    name:
+        en: Crystalline Carbonide
+        ru: Crystalline Carbonide
+    portionSize: 1
+    published: true
+    volume: 0.01
+16671:
+    basePrice: 10.0
+    description:
+        en: Due to its immense strength and molecular malleability, Titanium Carbide
+            has become the darling of the Caldari technological industry, seeing use
+            in everything from reactor units to weapons systems.
+        ru: Благодаря своей чрезвычайной силе и молекулярной пластичности, карбид
+            титана стал очень любим технологической промышленностью Caldari, которые
+            разглядели в нем потенциал использования как в реакторах, так и оружейных
+            системах.
+    groupID: 429
+    iconID: 2681
+    marketGroupID: 499
+    name:
+        en: Titanium Carbide
+        ru: Titanium Carbide
+    portionSize: 1
+    published: true
+    volume: 0.01
+16672:
+    basePrice: 10.0
+    description:
+        en: Tungsten Carbide is a much-used composite, greatly favored by the Amarrians
+            for construction of their advanced technologies.
+        ru: Карбид тунгстена - композитный материал, широко используемый Amarr в передовых
+            технологиях.
+    groupID: 429
+    iconID: 2682
+    marketGroupID: 499
+    name:
+        en: Tungsten Carbide
+        ru: Tungsten Carbide
+    portionSize: 1
+    published: true
+    volume: 0.01
+16673:
+    basePrice: 10.0
+    description:
+        en: A revolutionary ceramic carbide compound, much favored by the Matari both
+            for its earthy quality and its extremely wide range of technological uses.
+        ru: Революционная керамическая карбидовая смесь, любимая Minmatar как за ее
+            земные качества, так и за ряд способов ее использования в технологиях.
+    groupID: 429
+    iconID: 2680
+    marketGroupID: 499
+    name:
+        en: Fernite Carbide
+        ru: Fernite Carbide
+    portionSize: 1
+    published: true
+    volume: 0.01
+16678:
+    basePrice: 20.0
+    description:
+        en: Extremely strong fibers, used in laminated armor plating.
+        ru: Крайне прочные волокна, используемые в многослойной бронированной обшивке.
+    groupID: 429
+    iconID: 2662
+    marketGroupID: 499
+    name:
+        en: Sylramic Fibers
+        ru: Sylramic Fibers
+    portionSize: 1
+    published: true
+    volume: 0.05
+16679:
+    basePrice: 230.0
+    description:
+        en: 'Fullerides are highly superconductive materials used in capacitors, armor
+            plating and weapons systems.  '
+        ru: '  Фуллериды - высокопроводниковые материалы, используемые в конденсаторах,
+            бронированной обшивке и системах оружия.'
+    groupID: 429
+    iconID: 2684
+    marketGroupID: 499
+    name:
+        en: Fullerides
+        ru: Fullerides
+    portionSize: 1
+    published: true
+    volume: 0.15
+16680:
+    basePrice: 600.0
+    description:
+        en: A extremely heat-resistant material used in thrusters and as heat shielding.
+        ru: Чрезвычайно термостойкий материал, используемый в маневровых двигателях
+            и системах защиты от перегрева.
+    groupID: 429
+    iconID: 2661
+    marketGroupID: 499
+    name:
+        en: Phenolic Composites
+        ru: Phenolic Composites
+    portionSize: 1
+    published: true
+    volume: 0.2
+16681:
+    basePrice: 700.0
+    description:
+        en: Extremely complex molecular-level transistors used in nanoscale electronics,
+            such as microprocessors and capacitor units.
+        ru: Очень сложные молекулярные транзисторы, используемые в наноэлектронных
+            устройствах, таких как микропроцессоры или конденсаторы.
+    groupID: 429
+    iconID: 2686
+    marketGroupID: 499
+    name:
+        en: Nanotransistors
+        ru: Nanotransistors
+    portionSize: 1
+    published: true
+    volume: 0.25
+16682:
+    basePrice: 2560.0
+    description:
+        en: Whenever the transmission of visual or numerical data is a matter of life
+            and death, the data network needs the fastest possible relay system. Hypersynaptic
+            fibers, due to their immense frequency range and speed of conduction,
+            have become the industry standard for sensor arrays and targeting systems.
+        ru: Везде, где крайне важна передача наглядных или цифровых данных, для сетей
+            данных требуется как можно более быстрая релейная система. Гиперсинаптические
+            волокна обладают огромным диапазоном частот и скоростью передачи, они
+            стали стандартным материалом для сенсоров и прицельных систем.
+    groupID: 429
+    iconID: 2685
+    marketGroupID: 499
+    name:
+        en: Hypersynaptic Fibers
+        ru: Hypersynaptic Fibers
+    portionSize: 1
+    published: true
+    volume: 0.6
+16683:
+    basePrice: 5500.0
+    description:
+        en: A magnetised liquid, used to control the flow of cold plasma fields in
+            shield systems, reactor cores, pulse generators and thruster systems.
+        ru: Магнетическая жидкость, используемая, чтобы контролировать поток холодных
+            плазменных полей в щитовых системах, реакторных ядрах, пульсовых генераторах
+            и тяговых системах.
+    groupID: 429
+    iconID: 2678
+    marketGroupID: 499
+    name:
+        en: Ferrogel
+        ru: Ferrogel
+    portionSize: 1
+    published: true
+    volume: 1.0

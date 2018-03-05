@@ -1,0 +1,299 @@
+46204:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4312
+            -   quantity: 100
+                typeID: 16654
+            -   quantity: 100
+                typeID: 16658
+            products:
+            -   quantity: 10000
+                typeID: 16671
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46204
+    maxProductionLimit: 1000
+46205:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4247
+            -   quantity: 100
+                typeID: 16655
+            -   quantity: 100
+                typeID: 16659
+            products:
+            -   quantity: 10000
+                typeID: 16670
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46205
+    maxProductionLimit: 1000
+46206:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4246
+            -   quantity: 100
+                typeID: 16656
+            -   quantity: 100
+                typeID: 16660
+            products:
+            -   quantity: 10000
+                typeID: 16673
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46206
+    maxProductionLimit: 1000
+46207:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4051
+            -   quantity: 100
+                typeID: 16657
+            -   quantity: 100
+                typeID: 16661
+            products:
+            -   quantity: 10000
+                typeID: 16672
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46207
+    maxProductionLimit: 1000
+46208:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4247
+            -   quantity: 100
+                typeID: 16660
+            -   quantity: 100
+                typeID: 16665
+            products:
+            -   quantity: 6000
+                typeID: 16678
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46208
+    maxProductionLimit: 1000
+46209:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4051
+            -   quantity: 100
+                typeID: 16659
+            -   quantity: 100
+                typeID: 16662
+            products:
+            -   quantity: 3000
+                typeID: 16679
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46209
+    maxProductionLimit: 1000
+46210:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4312
+            -   quantity: 100
+                typeID: 16658
+            -   quantity: 100
+                typeID: 16663
+            -   quantity: 100
+                typeID: 17959
+            products:
+            -   quantity: 2200
+                typeID: 16680
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46210
+    maxProductionLimit: 1000
+46211:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4051
+            -   quantity: 100
+                typeID: 16661
+            -   quantity: 100
+                typeID: 16662
+            -   quantity: 100
+                typeID: 16667
+            products:
+            -   quantity: 1500
+                typeID: 16681
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46211
+    maxProductionLimit: 1000
+46212:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4312
+            -   quantity: 100
+                typeID: 16664
+            -   quantity: 100
+                typeID: 16668
+            -   quantity: 100
+                typeID: 17959
+            products:
+            -   quantity: 750
+                typeID: 16682
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46212
+    maxProductionLimit: 1000
+46213:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4246
+            -   quantity: 100
+                typeID: 16665
+            -   quantity: 100
+                typeID: 16666
+            -   quantity: 100
+                typeID: 16669
+            -   quantity: 100
+                typeID: 17960
+            products:
+            -   quantity: 400
+                typeID: 16683
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46213
+    maxProductionLimit: 1000
+46214:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4247
+            -   quantity: 100
+                typeID: 16663
+            -   quantity: 100
+                typeID: 16668
+            -   quantity: 100
+                typeID: 17769
+            -   quantity: 100
+                typeID: 17960
+            products:
+            -   quantity: 200
+                typeID: 17317
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46214
+    maxProductionLimit: 1000
+46215:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4246
+            -   quantity: 100
+                typeID: 16656
+            -   quantity: 100
+                typeID: 16667
+            products:
+            -   quantity: 300
+                typeID: 33361
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46215
+    maxProductionLimit: 1000
+46216:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4247
+            -   quantity: 100
+                typeID: 16657
+            -   quantity: 100
+                typeID: 33337
+            products:
+            -   quantity: 300
+                typeID: 33360
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46216
+    maxProductionLimit: 1000
+46217:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4312
+            -   quantity: 100
+                typeID: 16655
+            -   quantity: 100
+                typeID: 33336
+            products:
+            -   quantity: 300
+                typeID: 33359
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46217
+    maxProductionLimit: 1000
+46218:
+    activities:
+        reaction:
+            materials:
+            -   quantity: 5
+                typeID: 4051
+            -   quantity: 100
+                typeID: 16654
+            -   quantity: 100
+                typeID: 16669
+            products:
+            -   quantity: 300
+                typeID: 33362
+            skills:
+            -   level: 3
+                typeID: 45746
+            time: 10800
+    blueprintTypeID: 46218
+    maxProductionLimit: 1000
