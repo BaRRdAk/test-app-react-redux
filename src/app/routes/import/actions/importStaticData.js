@@ -14,11 +14,15 @@ export const importStaticData = () => dispatch => {
 
   rqst.onupgradeneeded = function() {
     db = rqst.result;
-    db.createObjectStore("blueprintStore", {keyPath: "blueprintTypeID"});
-    db.createObjectStore("blueprintTypeIDsStore", {keyPath: "typeID"});
+    let blueprintStore = db.createObjectStore("blueprintStore", {keyPath: "blueprintTypeID"});
+
+    let blueprintTypeIDsStore = db.createObjectStore("blueprintTypeIDsStore", {keyPath: "typeID"});
+    blueprintTypeIDsStore.createIndex("groupID", "groupID", {unique: false});
+    blueprintTypeIDsStore.createIndex("marketGroupID", "marketGroupID", {unique: false});
 
     let typeIDsStore = db.createObjectStore("typeIDsStore", {keyPath: "typeID"});
     typeIDsStore.createIndex("groupID", "groupID", {unique: false});
+    typeIDsStore.createIndex("marketGroupID", "marketGroupID", {unique: false});
 
   };
 

@@ -7,10 +7,11 @@ export default class Layout extends React.Component {
         <div>
           <ul>
             <li><a href='/#/dashboard'>dashboard</a></li>
-            <li><a href='/#/import'>import price</a></li>
-            <li><a href='/#/price/moonmat'>price moonmat</a></li>
-            <li><a href='/#/price/component'>price components</a></li>
-            <li><a href='/#/blueprints/info'>blueprints info</a></li>
+            <li><a href='/#/import'>Import market orders</a></li>
+            <li><a href='/#/price/moonmat'>Advanced moon materials price history</a></li>
+            <li><a href='/#/price/component'>Advanced components price history</a></li>
+            <li><a href='/#/blueprints/advancedComponents'>Advanced components production efficiency</a></li>
+            <li><a href='/#/blueprints/reaction'>Reaction production efficiency</a></li>
           </ul>
         </div>
         {this.props.children}

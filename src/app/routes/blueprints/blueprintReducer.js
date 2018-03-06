@@ -1,5 +1,6 @@
 const initialState = {
   blueprints: [],
+  reactionBlueprints: [],
 };
 
 export default function blueprintReducer(state = initialState, action) {
@@ -11,6 +12,12 @@ export default function blueprintReducer(state = initialState, action) {
     case 'SHOW_BLUEPRINTS':
       _state = {...state};
       _state.blueprints = action.payload;
+
+      return _state;
+
+    case 'SHOW_REACTION_BLUEPRINTS':
+      _state = {...state};
+      _state.reactionBlueprints = action.payload;
 
       return _state;
 

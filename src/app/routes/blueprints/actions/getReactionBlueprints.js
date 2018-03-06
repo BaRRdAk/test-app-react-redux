@@ -1,7 +1,7 @@
 
 import request from 'then-request'
 
-export const getBlueprints = (locationID, systemProductionIndex) => dispatch => {
+export const getReactionBlueprints = (locationID, systemProductionIndex) => dispatch => {
 
   dispatch({ type: 'SYSTEM_INDEX', payload: systemProductionIndex })
 
@@ -23,9 +23,9 @@ export const getBlueprints = (locationID, systemProductionIndex) => dispatch => 
 
     let myIndex = blueprintTypeIDsStore.index('groupID');
 
-    let keyRangeValue = IDBKeyRange.only(447);
+    let keyRangeValue = IDBKeyRange.only(1888);
 
-    let blueprints = [];
+    let reactionBlueprints = [];
 
     myIndex.openCursor(keyRangeValue).onsuccess = function(event) {
 
@@ -47,31 +47,32 @@ export const getBlueprints = (locationID, systemProductionIndex) => dispatch => 
           let typeIDsStoreTransaction = rqst.result.transaction(["typeIDsStore"], "readonly");
           let typeIDsStore = typeIDsStoreTransaction.objectStore("typeIDsStore");
 
-          typeIDsStore.get(blueprint.activities.manufacturing.products[0].typeID).onsuccess = function(event) {
-            blueprint.activities.manufacturing.product = blueprint.activities.manufacturing.products[0]
-            blueprint.activities.manufacturing.product.name = event.target.result.name.en;
+          typeIDsStore.get(blueprint.activities.reaction.products[0].typeID).onsuccess = function(event) {
+            blueprint.activities.reaction.product = blueprint.activities.reaction.products[0]
+            blueprint.activities.reaction.product.name = event.target.result.name.en;
+            blueprint.activities.reaction.product.basePrice = event.target.result.basePrice;
 
             db.transaction(function(tx) {
-              tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price LIMIT 1", [blueprint.activities.manufacturing.products[0].typeID, locationID, false], function(tx, result) {
+              tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price LIMIT 1", [blueprint.activities.reaction.products[0].typeID, locationID, false], function(tx, result) {
 
                 for (let row of result.rows) {
-                  blueprint.activities.manufacturing.product.price = row.price
+                  blueprint.activities.reaction.product.price = row.price
                 }
-                dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
+                dispatch({ type: 'SHOW_REACTION_BLUEPRINTS', payload: reactionBlueprints })
               }, null)
             })
 
             db.transaction(function(tx) {
-              tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price DESC LIMIT 1", [blueprint.activities.manufacturing.products[0].typeID, locationID, true], function(tx, result) {
+              tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price DESC LIMIT 1", [blueprint.activities.reaction.products[0].typeID, locationID, true], function(tx, result) {
 
                 for (let row of result.rows) {
-                  blueprint.activities.manufacturing.product.buy_price = row.price
+                  blueprint.activities.reaction.product.buy_price = row.price
                 }
-                dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
+                dispatch({ type: 'SHOW_REACTION_BLUEPRINTS', payload: reactionBlueprints })
               }, null)
             })
 
-            blueprint.activities.manufacturing.materials.map((e) => {
+            blueprint.activities.reaction.materials.map((e) => {
               typeIDsStore.get(e.typeID).onsuccess = function(event) {
                 e.name = event.target.result.name.en;
                 db.transaction(function(tx) {
@@ -80,16 +81,16 @@ export const getBlueprints = (locationID, systemProductionIndex) => dispatch => 
                     for (let row of result.rows) {
                       e.price = row.price
                     }
-                    dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
+                    dispatch({ type: 'SHOW_REACTION_BLUEPRINTS', payload: reactionBlueprints })
                   }, null)
                 })
 
-                dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
+                dispatch({ type: 'SHOW_REACTION_BLUEPRINTS', payload: reactionBlueprints })
               }
             })
 
-            blueprints.push(blueprint)
-            dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
+            reactionBlueprints.push(blueprint)
+            dispatch({ type: 'SHOW_REACTION_BLUEPRINTS', payload: reactionBlueprints })
           }
 
         };
