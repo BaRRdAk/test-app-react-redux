@@ -680,7 +680,7 @@
       "volume": 0.01
    },
    "16678": {
-      "basePrice": 20,
+      "basePrice": 100,
       "description": {
          "en": "Extremely strong fibers, used in laminated armor plating.",
          "ru": "Крайне прочные волокна, используемые в многослойной бронированной обшивке."
@@ -697,7 +697,7 @@
       "volume": 0.05
    },
    "16679": {
-      "basePrice": 230,
+      "basePrice": 725,
       "description": {
          "en": "Fullerides are highly superconductive materials used in capacitors, armor plating and weapons systems.",
          "ru": "Фуллериды - высокопроводниковые материалы, используемые в конденсаторах, бронированной обшивке и системах оружия."
@@ -714,7 +714,7 @@
       "volume": 0.15
    },
    "16680": {
-      "basePrice": 600,
+      "basePrice": 459,
       "description": {
          "en": "A extremely heat-resistant material used in thrusters and as heat shielding.",
          "ru": "Чрезвычайно термостойкий материал, используемый в маневровых двигателях и системах защиты от перегрева."
@@ -731,7 +731,7 @@
       "volume": 0.2
    },
    "16681": {
-      "basePrice": 700,
+      "basePrice": 1976,
       "description": {
          "en": "Extremely complex molecular-level transistors used in nanoscale electronics, such as microprocessors and capacitor units.",
          "ru": "Очень сложные молекулярные транзисторы, используемые в наноэлектронных устройствах, таких как микропроцессоры или конденсаторы."
@@ -748,7 +748,7 @@
       "volume": 0.25
    },
    "16682": {
-      "basePrice": 2560,
+      "basePrice": 2300,
       "description": {
          "en": "Whenever the transmission of visual or numerical data is a matter of life and death, the data network needs the fastest possible relay system. Hypersynaptic fibers, due to their immense frequency range and speed of conduction, have become the industry standard for sensor arrays and targeting systems.",
          "ru": "Везде, где крайне важна передача наглядных или цифровых данных, для сетей данных требуется как можно более быстрая релейная система. Гиперсинаптические волокна обладают огромным диапазоном частот и скоростью передачи, они стали стандартным материалом для сенсоров и прицельных систем."
@@ -765,7 +765,7 @@
       "volume": 0.6
    },
    "16683": {
-      "basePrice": 5500,
+      "basePrice": 5143,
       "description": {
          "en": "A magnetised liquid, used to control the flow of cold plasma fields in shield systems, reactor cores, pulse generators and thruster systems.",
          "ru": "Магнетическая жидкость, используемая, чтобы контролировать поток холодных плазменных полей в щитовых системах, реакторных ядрах, пульсовых генераторах и тяговых системах."
@@ -782,7 +782,7 @@
       "volume": 1
    },
    "17317": {
-      "basePrice": 12000,
+      "basePrice": 17768,
       "description": {
          "en": "One of the most complex composites known to man, fermionic condensates consist of superconductive boson particles all occupying the same quantum state, thus creating a nearly resistance-free environment for electric current. These condensates have therefore become a staple in advanced reactor manufacture.",
          "ru": "Фермионные конденсаты состоят из сверхпроводящих бозонных частиц в одинаковом квантовом состоянии, за счет чего они создают электропроводящую среду с почти нулевым сопротивлением. Этот конденсат используется при производстве высокоэффективных реакторов."
@@ -799,7 +799,7 @@
       "volume": 1.3
    },
    "33359": {
-      "basePrice": 3500,
+      "basePrice": 4572,
       "description": {
          "en": "A carefully engineered latticework designed for precise optical control, photonic metamaterials are a component in advanced Gallente microprocessors and capacitor units.",
          "ru": "Фотонные метаматериалы имеют сложную решетчатую структуру, обеспечивающую сверхточный оптический контроль; они широко используются в производстве новейших микропроцессоров и накопителей Галлентской Федерации."
