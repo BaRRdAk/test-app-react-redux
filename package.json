@@ -1,7 +1,7 @@
 {
-  "name": "smartadmin-reactjs",
+  "name": "test-app-react-redux",
   "version": "1.2.4",
-  "description": "Smartadmin ReactJs template",
+  "description": "EVE Online production effeciency calculator",
   "main": "index.js",
   "scripts": {
     "build": "./node_modules/.bin/webpack --config webpack.config.js --progress --colors  --env production",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://smartadmin-reactjs@bitbucket.org/smartadmin-dev/smartadmin-reactjs.git"
+    "url": "git+https://github.com/BaRRdAk/test-app-react-redux.git"
   },
   "keywords": [],
   "author": "griga",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/smartadmin-dev/smartadmin-reactjs#readme",
+  "homepage": "https://github.com/BaRRdAk/test-app-react-redux",
   "dependencies": {
     "X-editable": "github:vitalets/x-editable",
     "bootstrap": "3.3.7",
