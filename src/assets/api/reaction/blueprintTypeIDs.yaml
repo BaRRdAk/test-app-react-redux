@@ -1,150 +1,210 @@
-46204:
-    basePrice: 20000000
+46166:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Titanium Carbide Reaction Formula
-        ru: Titanium Carbide Reaction Formula
+        en: Caesarium Cadmide Reaction Formula
+        ru: Caesarium Cadmide Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46205:
-    basePrice: 20000000
+46167:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Crystalline Carbonide Reaction Formula
-        ru: Crystalline Carbonide Reaction Formula
+        en: Carbon Polymers Reaction Formula
+        ru: Carbon Polymers Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46206:
-    basePrice: 20000000
+46168:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Fernite Carbide Reaction Formula
-        ru: Fernite Carbide Reaction Formula
+        en: Ceramic Powder Reaction Formula
+        ru: Ceramic Powder Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46207:
-    basePrice: 20000000
+46169:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Tungsten Carbide Reaction Formula
-        ru: Tungsten Carbide Reaction Formula
+        en: Crystallite Alloy Reaction Formula
+        ru: Crystallite Alloy Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46208:
-    basePrice: 20000000
+46170:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Sylramic Fibers Reaction Formula
-        ru: Sylramic Fibers Reaction Formula
+        en: Dysporite Reaction Formula
+        ru: Dysporite Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46209:
-    basePrice: 20000000
+46171:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Fulleride Reaction Formula
-        ru: Fulleride Reaction Formula
+        en: Fernite Alloy Reaction Formula
+        ru: Fernite Alloy Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46210:
-    basePrice: 20000000
+46172:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Phenolic Composites Reaction Formula
-        ru: Phenolic Composites Reaction Formula
+        en: Ferrofluid Reaction Formula
+        ru: Ferrofluid Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46211:
-    basePrice: 20000000
+46173:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Nanotransistors Reaction Formula
-        ru: Nanotransistors Reaction Formula
+        en: Fluxed Condensates Reaction Formula
+        ru: Fluxed Condensates Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46212:
-    basePrice: 20000000
+46174:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Hypersynaptic Fibers Reaction Formula
-        ru: Hypersynaptic Fibers Reaction Formula
+        en: Hexite Reaction Formula
+        ru: Hexite Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46213:
-    basePrice: 20000000
+46175:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Ferrogel Reaction Formula
-        ru: Ferrogel Reaction Formula
+        en: Hyperflurite Reaction Formula
+        ru: Hyperflurite Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46214:
-    basePrice: 20000000
+46176:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Fermionic Condensates Reaction Formula
-        ru: Fermionic Condensates Reaction Formula
+        en: Neo Mercurite Reaction Formula
+        ru: Neo Mercurite Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46215:
-    basePrice: 20000000
+46177:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Plasmonic Metamaterials Reaction Formula
-        ru: Plasmonic Metamaterials Reaction Formula
+        en: Platinum Technite Reaction Formula
+        ru: Platinum Technite Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46216:
-    basePrice: 20000000
+46178:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Terahertz Metamaterials Reaction Formula
-        ru: Terahertz Metamaterials Reaction Formula
+        en: Rolled Tungsten Alloy Reaction Formula
+        ru: Rolled Tungsten Alloy Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46217:
-    basePrice: 20000000
+46179:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Photonic Metamaterials Reaction Formula
-        ru: Photonic Metamaterials Reaction Formula
+        en: Silicon Diborite Reaction Formula
+        ru: Silicon Diborite Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46218:
-    basePrice: 20000000
+46180:
+    basePrice: 10000000
     groupID: 1888
     marketGroupID: 2403
     name:
-        en: Nonlinear Metamaterials Reaction Formula
-        ru: Nonlinear Metamaterials Reaction Formula
+        en: Solerium Reaction Formula
+        ru: Solerium Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46181:
+    basePrice: 10000000
+    groupID: 1888
+    marketGroupID: 2403
+    name:
+        en: Sulfuric Acid Reaction Formula
+        ru: Sulfuric Acid Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46182:
+    basePrice: 10000000
+    groupID: 1888
+    marketGroupID: 2403
+    name:
+        en: Titanium Chromide Reaction Formula
+        ru: Titanium Chromide Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46183:
+    basePrice: 10000000
+    groupID: 1888
+    marketGroupID: 2403
+    name:
+        en: Vanadium Hafnite Reaction Formula
+        ru: Vanadium Hafnite Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46184:
+    basePrice: 10000000
+    groupID: 1888
+    marketGroupID: 2403
+    name:
+        en: Prometium Reaction Formula
+        ru: Prometium Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46185:
+    basePrice: 10000000
+    groupID: 1888
+    marketGroupID: 2403
+    name:
+        en: Thulium Hafnite Reaction Formula
+        ru: Thulium Hafnite Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46186:
+    basePrice: 10000000
+    groupID: 1888
+    marketGroupID: 2403
+    name:
+        en: Promethium Mercurite Reaction Formula
+        ru: Promethium Mercurite Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
