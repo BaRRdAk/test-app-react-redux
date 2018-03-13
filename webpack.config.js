@@ -9,6 +9,8 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const srcRoot = path.resolve(__dirname, 'src');
 const appRoot = path.resolve(srcRoot, 'app');
 
+
+
 module.exports = (env) => {
 
   const isDev = env == 'development';
@@ -16,7 +18,12 @@ module.exports = (env) => {
   return {
     context: path.resolve(__dirname),
     entry: {
-      main: './src/app/main.js'
+      main: './src/app/main.js',
+      vendor: [
+        'react', 'react-dom', 'jquery', 'moment',
+        // 'jquery-ui', 'bootstrap',
+        'react-bootstrap', 'lodash'
+      ]
     },
     output: {
       path: path.resolve(__dirname, './dist'),
@@ -91,6 +98,11 @@ module.exports = (env) => {
       stats: "minimal"
 
     },
+    stats: "minimal",
+    performance: {
+      hints: false
+    },
+    devtool: isDev ? 'eval' : 'cheap-source-map', //false, //isDev ? 'eval' : 'cheap-source-map',
 
     plugins: [
       new CleanWebpackPlugin(['dist']),
