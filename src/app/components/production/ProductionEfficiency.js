@@ -42,19 +42,29 @@ export default class ProductionEfficiency extends React.Component {
     return (
 
         <div>
-          <div><strong>{this.props.data.activities.manufacturing.product.name}:</strong> x1000 - {String(Math.ceil(this.props.data.activities.manufacturing.product.setPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ( {String(Math.ceil(this.props.data.activities.manufacturing.product.buySetPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} )</div>
+          <h3>{this.props.data.activities.manufacturing.product.name}: 1000 шт.</h3>
+          <ul>
+            <li>Цена за шт. (sell): {String(this.props.data.activities.manufacturing.product.price).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
+            <li>Цена за шт. (buy): {String(this.props.data.activities.manufacturing.product.buy_price).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')}  ISK</li>
+          </ul>
           <ul>
             {
               this.props.data.activities.manufacturing.materials.map((e, i) =>
                 <li key={i}>{e.name}: {e.economyQuantity} шт. - {String(e.price).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK - {String(Math.ceil(e.setPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
               )
             }
-            <li><strong>Цена материалов:</strong> {String(Math.ceil(this.props.data.activities.manufacturing.allMaterialsPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
-            <li><strong>Цена производства:</strong> {String(manufacturingСost).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
-            <li><strong>Налог на продажу:</strong> {String(salesTax).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
-            <li><strong>Сумма всех затрат:</strong> {String(amountOfExpenses).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
-            <li><strong>Профит (sell):</strong> {String(profit).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ({Math.floor(profitPercent)}%)</li>
-            <li><strong>Профит (buy):</strong> {String(profit_buy).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ({Math.floor(profitPercent_buy)}%)</li>
+          </ul>
+          <ul>
+            <li>Цена материалов: {String(Math.ceil(this.props.data.activities.manufacturing.allMaterialsPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
+            <li>Цена производства: {String(manufacturingСost).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
+            <li>Налог на продажу: {String(salesTax).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
+            <li>Сумма всех затрат: {String(amountOfExpenses).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
+          </ul>
+          <ul>
+            <li>Цена продажи (sell): {String(Math.ceil(this.props.data.activities.manufacturing.product.setPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
+            <li><strong>Профит (sell): {String(profit).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ({Math.floor(profitPercent)}%)</strong></li>
+            <li>Цена продажи (buy): {String(Math.ceil(this.props.data.activities.manufacturing.product.buySetPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
+            <li><strong>Профит (buy): {String(profit_buy).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ({Math.floor(profitPercent_buy)}%)</strong></li>
           </ul>
         </div>
     )

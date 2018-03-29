@@ -43,7 +43,7 @@ export default class ReactionProductionEfficiency extends React.Component {
     return (
 
         <div>
-          <div><strong>{this.props.data.activities.reaction.product.name}:</strong> 10 циклов (сутки) = {productionCountResult} шт.</div>
+          <h3>{this.props.data.activities.reaction.product.name}: 10 циклов (сутки) = {productionCountResult} шт.</h3>
           <ul>
             <li>Цена за шт. (sell): {String(this.props.data.activities.reaction.product.price).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
             <li>Цена за шт. (buy): {String(this.props.data.activities.reaction.product.buy_price).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')}  ISK</li>
