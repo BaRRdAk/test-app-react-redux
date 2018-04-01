@@ -66,6 +66,9 @@ export default class ProductionEfficiency extends React.Component {
             <li>Цена продажи (buy): {String(Math.ceil(this.props.data.activities.manufacturing.product.buySetPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</li>
             <li><strong>Профит (buy): {String(profit_buy).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ({Math.floor(profitPercent_buy)}%)</strong></li>
           </ul>
+          <ul>
+            <li>Объем выгодного спроса: {String(this.props.data.activities.manufacturing.product.profitableMarket).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} шт.</li>
+          </ul>
         </div>
     )
   }
