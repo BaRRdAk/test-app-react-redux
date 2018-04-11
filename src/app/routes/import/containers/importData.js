@@ -14,9 +14,9 @@ class ImportData extends React.Component {
   render() {
 
     return (
-      <div>
+      <div className="container">
         <div>
-          <span>импортировано {this.props.localState.importStore.importStaticDataResult} статических объектов</span><button onClick={this.props.onImportStaticData} >Import static data</button>
+          <span>импортировано {this.props.localState.importStore.importStaticDataResult} статических объектов</span><button className="btn btn-default" onClick={this.props.onImportStaticData} >Import static data</button>
         </div>
         <div>
           <span>импортировано {this.props.localState.importStore.importResult} записей</span><button onClick={this.props.onImportJita} >Import Jita price</button><button onClick={this.props.onImportAmarr} >Import Amarr price</button><button onClick={this.props.onImportDodixie} >Import Dodixie price</button><button onClick={this.props.onImportRens} >Import Rens price</button><button onClick={this.props.onImportProvidence} >Import Providence price</button>
