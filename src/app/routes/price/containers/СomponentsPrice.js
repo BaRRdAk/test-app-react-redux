@@ -179,7 +179,7 @@ class ComponentsPrice extends React.Component {
 
 
     return (
-      <div>
+      <div className="container-fluid">
 
       {
         priceComponentArray.map((e, i) =>

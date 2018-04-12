@@ -16,13 +16,26 @@ class ImportData extends React.Component {
     return (
       <div className="container">
         <div>
-          <span>импортировано {this.props.localState.importStore.importStaticDataResult} статических объектов</span><button className="btn btn-default" onClick={this.props.onImportStaticData} >Import static data</button>
+          <button className="btn btn-default" onClick={this.props.onImportStaticData} >Import static data <span className="badge">{this.props.localState.importStore.importStaticDataResult}</span></button>
+        </div>
+
+        <div>
+          <h3>Import price <span className="badge">{this.props.localState.importStore.importResult}</span></h3>
+          <div className="btn-group" role="group" aria-label="Import price">
+            <button type="button" className="btn btn-default" onClick={this.props.onImportJita}>Jita</button>
+            <button type="button" className="btn btn-default" onClick={this.props.onImportAmarr}>Amarr</button>
+            <button type="button" className="btn btn-default" onClick={this.props.onImportDodixie}>Dodixie</button>
+            <button type="button" className="btn btn-default" onClick={this.props.onImportRens}>Rens</button>
+          </div>
         </div>
         <div>
-          <span>импортировано {this.props.localState.importStore.importResult} записей</span><button onClick={this.props.onImportJita} >Import Jita price</button><button onClick={this.props.onImportAmarr} >Import Amarr price</button><button onClick={this.props.onImportDodixie} >Import Dodixie price</button><button onClick={this.props.onImportRens} >Import Rens price</button><button onClick={this.props.onImportProvidence} >Import Providence price</button>
-        </div>
-        <div>
-          <span>импортировано {this.props.localState.importStore.importPriceHistoryResult} записей</span><button onClick={this.props.onImportJitaHistory} >Import Jita price history</button><button onClick={this.props.onImportAmarrHistory} >Import Amarr price history</button><button onClick={this.props.onImportDodixieHistory} >Import Dodixie price history</button><button onClick={this.props.onImportRensHistory} >Import Rens price history</button><button onClick={this.props.onImportProvidenceHistory} >Import Providence price history</button>
+          <h3>Import price history <span className="badge">{this.props.localState.importStore.importPriceHistoryResult}</span></h3>
+          <div className="btn-group" role="group" aria-label="Import price">
+            <button type="button" className="btn btn-default" onClick={this.props.onImportJitaHistory}>Jita</button>
+            <button type="button" className="btn btn-default" onClick={this.props.onImportAmarrHistory}>Amarr</button>
+            <button type="button" className="btn btn-default" onClick={this.props.onImportDodixieHistory}>Dodixie</button>
+            <button type="button" className="btn btn-default" onClick={this.props.onImportRensHistory}>Rens</button>
+          </div>
         </div>
       </div>
     )

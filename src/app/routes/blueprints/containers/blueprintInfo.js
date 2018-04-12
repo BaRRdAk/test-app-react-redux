@@ -43,12 +43,25 @@ class BlueprintInfo extends React.Component {
 
 
     return (
-      <div>
-        <div>
-          <button onClick={this.props.onShowJita} >Show blueprints(Jita)</button><button onClick={this.props.onShowAmarr} >Show blueprints(Amarr)</button><button onClick={this.props.onShowRens} >Show blueprints(Rens)</button><button onClick={this.props.onShowDodixie} >Show blueprints(Dodixie)</button>
+      <div className="container">
+
+        <div className="row">
+          <div className="col-md-9">
+            <h3>Advanced components production efficiency</h3>
+          </div>
+          <div className="col-md-3">
+            <div className="btn-group" role="group" aria-label="">
+              <button type="button" className="btn btn-default" onClick={this.props.onShowJita}>Jita</button>
+              <button type="button" className="btn btn-default" onClick={this.props.onShowAmarr}>Amarr</button>
+              <button type="button" className="btn btn-default" onClick={this.props.onShowDodixie}>Dodixie</button>
+              <button type="button" className="btn btn-default" onClick={this.props.onShowRens}>Rens</button>
+            </div>
+          </div>
         </div>
+
         <div>
-          <h2>Amarr</h2>
+          <h4>Amarr components</h4>
+          <hr/>
             {
               amarrBlueprints.map((e, i) =>
                   <div key={i}>
@@ -56,7 +69,9 @@ class BlueprintInfo extends React.Component {
                   </div>
               )
             }
-          <h2>Galente</h2>
+
+          <h4>Galente components</h4>
+          <hr/>
             {
               galenteBlueprints.map((e, i) =>
                   <div key={i}>
@@ -64,7 +79,9 @@ class BlueprintInfo extends React.Component {
                   </div>
               )
             }
-          <h2>Caldari</h2>
+
+          <h4>Caldari components</h4>
+          <hr/>
             {
               caldariBlueprints.map((e, i) =>
                   <div key={i}>
@@ -72,7 +89,9 @@ class BlueprintInfo extends React.Component {
                   </div>
               )
             }
-          <h2>Minmatar</h2>
+
+          <h4>Minmatar components</h4>
+          <hr/>
             {
               minmatarBlueprints.map((e, i) =>
                   <div key={i}>

@@ -179,7 +179,7 @@ class MoonMatPrice extends React.Component {
 
 
     return (
-      <div>
+      <div className="container-fluid">
 
       {
         priceMatArray.map((e, i) =>

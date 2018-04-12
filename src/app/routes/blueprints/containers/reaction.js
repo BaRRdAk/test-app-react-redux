@@ -16,10 +16,22 @@ class Reaction extends React.Component {
     let systemIndex = 9.67;
 
     return (
-      <div>
-        <div>
-          <button onClick={this.props.onShowJita} >Show blueprints(Jita)</button><button onClick={this.props.onShowAmarr} >Show blueprints(Amarr)</button><button onClick={this.props.onShowRens} >Show blueprints(Rens)</button><button onClick={this.props.onShowDodixie} >Show blueprints(Dodixie)</button>
+      <div className="container">
+
+        <div className="row">
+          <div className="col-md-9">
+            <h3>Reaction production efficiency</h3>
+          </div>
+          <div className="col-md-3">
+            <div className="btn-group" role="group" aria-label="">
+              <button type="button" className="btn btn-default" onClick={this.props.onShowJita}>Jita</button>
+              <button type="button" className="btn btn-default" onClick={this.props.onShowAmarr}>Amarr</button>
+              <button type="button" className="btn btn-default" onClick={this.props.onShowDodixie}>Dodixie</button>
+              <button type="button" className="btn btn-default" onClick={this.props.onShowRens}>Rens</button>
+            </div>
+          </div>
         </div>
+
         <div>
             {
               blueprints.map((e, i) =>
