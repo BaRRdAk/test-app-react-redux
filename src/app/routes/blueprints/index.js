@@ -12,9 +12,9 @@ export default {
       }
     },
     {
-      path: 'reaction',
+      path: 'compositeReaction',
       getComponent(nextState, cb){
-        System.import('./containers/reaction').then((m)=> {
+        System.import('./containers/compositeReaction').then((m)=> {
           cb(null, m.default)
         })
       }

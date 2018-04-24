@@ -58,12 +58,12 @@ export default class ProductionEfficiency extends React.Component {
         <div>
 
           <div className="row">
-            <div className="col-md-3">
+            <div className="col-md-4">
               <a role="button" data-toggle="collapse" href={collapseLink} aria-expanded="false" aria-controls={collapseId}>
-                <h5>{this.props.data.activities.manufacturing.product.name}</h5>
+                <strong><img src={'https://image.eveonline.com/Type/' + this.props.data.activities.manufacturing.product.typeID + '_32.png'} />{this.props.data.activities.manufacturing.product.name}</strong>
               </a>
             </div>
-            <div className="col-md-3">1000 шт.</div>
+            <div className="col-md-2">1000 шт.</div>
             <div className="col-md-3"><div className={profitSellClass} >{String(profit).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ({Math.floor(profitPercent)}%)</div></div>
             <div className="col-md-3"><div className={profitBuyClass} >{String(profit_buy).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ({Math.floor(profitPercent_buy)}%)</div></div>
           </div>

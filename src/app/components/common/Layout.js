@@ -29,7 +29,7 @@ export default class Layout extends React.Component {
                   <a href="#" className="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Production efficiency <span className="caret"></span></a>
                   <ul className="dropdown-menu">
                     <li><a href='/#/blueprints/advancedComponents'>Advanced components</a></li>
-                    <li><a href='/#/blueprints/reaction'>Reaction</a></li>
+                    <li><a href='/#/blueprints/compositeReaction'>Composite reaction</a></li>
                   </ul>
                 </li>
               </ul>

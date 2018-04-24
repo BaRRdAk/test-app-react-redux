@@ -36,7 +36,7 @@ export default class ReactionProductionEfficiency extends React.Component {
     let buyOrderTax = this.props.data.activities.reaction.product.buySetPrice/100*(1.2)
     let buyTax = Math.ceil(buyOrderTax);
     //стоимость производства на заводе
-    let manufacturingСost = Math.ceil(this.props.data.activities.reaction.product.basePrice*productionCountResult/100*9.13);
+    let manufacturingСost = Math.ceil(this.props.data.activities.reaction.product.basePrice*productionCountResult/100*this.props.systemIndex);
     //общие расходы при продаже по sell
     let amountOfExpenses = Math.ceil(this.props.data.activities.reaction.allMaterialsPrice + manufacturingСost + saleOrderTax);
     //прибыль
@@ -69,7 +69,7 @@ export default class ReactionProductionEfficiency extends React.Component {
           <div className="row">
             <div className="col-md-3">
               <a role="button" data-toggle="collapse" href={collapseLink} aria-expanded="false" aria-controls={collapseId}>
-                <h5>{this.props.data.activities.reaction.product.name}</h5>
+                <strong><img src={'https://image.eveonline.com/Type/' + this.props.data.activities.reaction.product.typeID + '_32.png'} />{this.props.data.activities.reaction.product.name}</strong>
               </a>
             </div>
             <div className="col-md-3">10 циклов (сутки) = {productionCountResult} шт.</div>

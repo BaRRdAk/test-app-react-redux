@@ -1,7 +1,7 @@
 
 import request from 'then-request'
 
-export const getReactionBlueprints = (locationID, systemProductionIndex) => dispatch => {
+export const getCompositeReactionBlueprints = (locationID, systemProductionIndex) => dispatch => {
 
   dispatch({ type: 'SYSTEM_INDEX', payload: systemProductionIndex })
 
@@ -50,6 +50,7 @@ export const getReactionBlueprints = (locationID, systemProductionIndex) => disp
           typeIDsStore.get(blueprint.activities.reaction.products[0].typeID).onsuccess = function(event) {
             blueprint.activities.reaction.product = blueprint.activities.reaction.products[0]
             blueprint.activities.reaction.product.name = event.target.result.name.en;
+            blueprint.activities.reaction.product.groupID = event.target.result.groupID;
             blueprint.activities.reaction.product.basePrice = event.target.result.basePrice;
 
             db.transaction(function(tx) {
