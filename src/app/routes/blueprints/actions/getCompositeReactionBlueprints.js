@@ -52,6 +52,7 @@ export const getCompositeReactionBlueprints = (locationID, systemProductionIndex
             blueprint.activities.reaction.product.name = event.target.result.name.en;
             blueprint.activities.reaction.product.groupID = event.target.result.groupID;
             blueprint.activities.reaction.product.basePrice = event.target.result.basePrice;
+            blueprint.activities.reaction.product.profitableMarket = 0
 
             db.transaction(function(tx) {
               tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price LIMIT 1", [blueprint.activities.reaction.products[0].typeID, locationID, false], function(tx, result) {
@@ -68,6 +69,20 @@ export const getCompositeReactionBlueprints = (locationID, systemProductionIndex
 
                 for (let row of result.rows) {
                   blueprint.activities.reaction.product.buy_price = row.price
+
+                  let minPrice = row.price - row.price/100*2
+
+                  db.transaction(function(tx) {
+                    tx.executeSql("SELECT volume_remain FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? AND price > ?", [blueprint.activities.reaction.product.typeID, locationID, true, minPrice], function(tx, result) {
+
+                      for (let row of result.rows) {
+                        blueprint.activities.reaction.product.profitableMarket += row.volume_remain
+                      }
+                      dispatch({ type: 'SHOW_REACTION_BLUEPRINTS', payload: reactionBlueprints })
+                    }, null)
+                  })
+
+
                 }
                 dispatch({ type: 'SHOW_REACTION_BLUEPRINTS', payload: reactionBlueprints })
               }, null)

@@ -1,0 +1,1235 @@
+34:
+    basePrice: 2.0
+    description:
+        de: 'Die grundlegende Basiskomponente aller Strukturen im All. Ein sehr hartes,
+            aber dennoch biegbares Metall. Kann nicht zum Bau von Unterkünften verwendet
+            werden, da es bei atmosphärischen Temperaturen instabil wird. Ist im gesamten
+            Universum häufig zu finden.
+
+
+            Kann durch die Aufbereitung von folgendem Erz erhalten werden:
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF0000''>0.0</color> oder
+            darunter:
+
+            <a href=showinfo:22>Arkonor</a>, <a href=showinfo:17425>Karmesinrotes
+            Arkonor</a>, <a href=showinfo:17426>Erstklassiges Arkonor</a>
+
+            <a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Scharfes Crokite</a>,
+            <a href=showinfo:17433>Kristallines Crokite</a>
+
+            <a href=showinfo:1232>Dunkles Ochre</a>, <a href=showinfo:17436>Pechschwarzes
+            Ochre</a>, <a href=showinfo:17437>Obsidian-Ochre</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Strahlendes
+            Spodumain</a>, <a href=showinfo:17467>Schimmerndes Spodumain</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF4D00''>0.2</color> oder
+            darunter:
+
+            <a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Klares Hemorphite</a>,
+            <a href=showinfo:17445>Glänzendes Hemorphite</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFF00FF00''>0.7</color> oder
+            darunter:
+
+            <a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Leuchtendes Kernite</a>,
+            <a href=showinfo:17453>Feuriges Kernite</a>
+
+            <a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silbriges Omber</a>,
+            <a href=showinfo:17868>Goldenes Omber</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFF4DFFCC''>0.9</color> oder
+            darunter:
+
+            <a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Blaues Plagioclase</a>,
+            <a href=showinfo:17456>Reichhaltiges Plagioclase</a>
+
+            <a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solides Pyroxeres</a>,
+            <a href=showinfo:17460>Zähes Pyroxeres</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFF33FFFF''>1.0</color> oder
+            darunter:
+
+            <a href=showinfo:1228>Scordite</a>, <a href=showinfo:17463>Verdichtetes
+            Scordite</a>, <a href=showinfo:17464>Massives Scordite</a>
+
+            <a href=showinfo:1230>Veldspar</a>, <a href=showinfo:17470>Konzentriertes
+            Veldspar</a>, <a href=showinfo:17471>Dichtes Veldspar</a>'
+        en: "The main building block in space structures. A very hard, yet bendable
+            metal. Cannot be used in human habitats due to its instability at atmospheric
+            temperatures. Very common throughout the universe.\r\n\r\nMay be obtained
+            by reprocessing the following ores:\r\n\r\n<color='0xFFFF0000'>0.0</color>
+            security status solar system or lower:\r\n<a href=showinfo:22>Arkonor</a>,
+            <a href=showinfo:17425>Crimson Arkonor</a>, <a href=showinfo:17426>Prime
+            Arkonor</a>\r\n<a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Sharp
+            Crokite</a>, <a href=showinfo:17433>Crystalline Crokite</a>\r\n<a href=showinfo:1232>Dark
+            Ochre</a>, <a href=showinfo:17436>Onyx Ochre</a>, <a href=showinfo:17437>Obsidian
+            Ochre</a>\r\n<a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Bright
+            Spodumain</a>, <a href=showinfo:17467>Gleaming Spodumain</a>\r\n\r\n<color='0xFFFF4D00'>0.2</color>
+            security status solar system or lower:\r\n<a href=showinfo:1231>Hemorphite</a>,
+            <a href=showinfo:17444>Vivid Hemorphite</a>, <a href=showinfo:17445>Radiant
+            Hemorphite</a>\r\n\r\n<color='0xFF00FF00'>0.7</color> security status
+            solar system or lower:\r\n<a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Luminous
+            Kernite</a>, <a href=showinfo:17453>Fiery Kernite</a>\r\n<a href=showinfo:1227>Omber</a>,
+            <a href=showinfo:17867>Silvery Omber</a>, <a href=showinfo:17868>Golden
+            Omber</a>\r\n\r\n<color='0xFF4DFFCC'>0.9</color> security status solar
+            system or lower:\r\n<a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Azure
+            Plagioclase</a>, <a href=showinfo:17456>Rich Plagioclase</a>\r\n<a href=showinfo:1224>Pyroxeres</a>,
+            <a href=showinfo:17459>Solid Pyroxeres</a>, <a href=showinfo:17460>Viscous
+            Pyroxeres</a>\r\n\r\n<color='0xFF33FFFF'>1.0</color> security status solar
+            system or lower:\r\n<a href=showinfo:1228>Scordite</a>, <a href=showinfo:17463>Condensed
+            Scordite</a>, <a href=showinfo:17464>Massive Scordite</a>\r\n<a href=showinfo:1230>Veldspar</a>,
+            <a href=showinfo:17470>Concentrated Veldspar</a>, <a href=showinfo:17471>Dense
+            Veldspar</a>"
+        fr: 'Principal bloc de construction destiné aux structures spatiales. Ce métal,
+            à la fois très résistant et malléable, est impropre à l''habitat humain
+            en raison de son instabilité sous les températures atmosphériques. Très
+            répandu dans l''univers, Il peut s''obtenir par retraitement des minerais
+            suivants :
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF0000''>0,0</color>
+            ou inférieur :
+
+            <a href=showinfo:22>Arkonor</a>, <a href=showinfo:17425>Arkonor pourpre</a>,
+            <a href=showinfo:17426>Arkonor de choix</a>
+
+            <a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Crokite acérée</a>,
+            <a href=showinfo:17433>Crokite cristalline</a>
+
+            <a href=showinfo:1232>Ocrhe foncé</a>, <a href=showinfo:17436>Ocrhe onyx</a>,
+            <a href=showinfo:17437>Ocrhe obsidienne</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Spodumain brillant</a>,
+            <a href=showinfo:17467>Spodumain luisant</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF4D00''>0,2</color>
+            ou inférieur :
+
+            <a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Hemorphite
+            vive</a>, <a href=showinfo:17445>Hemorphite rayonnante</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFF00FF00''>0,7</color>
+            ou inférieur :
+
+            <a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Kernite lumineuse</a>,
+            <a href=showinfo:17453>Kernite ardente</a>
+
+            <a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Omber argenté</a>,
+            <a href=showinfo:17868>Omber doré</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFF4DFFCC''>0,9</color>
+            ou inférieur :
+
+            <a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Plagioclase
+            azuré</a>, <a href=showinfo:17456>Plagioclase riche</a>
+
+            <a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Pyroxeres
+            solide</a>, <a href=showinfo:17460>Pyroxeres visqueux</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFF33FFFF''>1,0</color>
+            ou inférieur :
+
+            <a href=showinfo:1228>Scordite</a>, <a href=showinfo:17463>Scordite condensée</a>,
+            <a href=showinfo:17464>Scordite massive</a>
+
+            <a href=showinfo:1230>Veldspar</a>, <a href=showinfo:17470>Veldspar concentré</a>,
+            <a href=showinfo:17471>Veldspar dense</a>'
+        ja: 宇宙建造物の中核的な建設資材。高い硬度を持ちながら、曲げることが可能な金属。大気温度の中では不安定であるため、人間の住居には使用できない。宇宙に広く存在する。以下の鉱石を再処理することによって得ることができる。
+            セキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム： <a href=showinfo:22>アーコナー</a>、<a
+            href=showinfo:17425>クリムゾンアーコナー</a>、<a href=showinfo:17426>プライムアーコナー</a>
+            <a href=showinfo:1225>クロカイト</a>、<a href=showinfo:17432>シャープクロカイト</a>、<a
+            href=showinfo:17433>クリスタルインクロカイト</a> <a href=showinfo:1232>ダークオークル</a>
+            、<a href=showinfo:17436>オニキスオークル</a>、<a href=showinfo:17437>オブシディアンオークル</a>
+            <a href=showinfo:19>スポンデュメイン</a>、<a href=showinfo:17466>ブライトスポデュメイン</a>、<a
+            href=showinfo:17467>グリーミングスポデュメイン</a> セキュリティステータスが<color='0xFFFF4D00'>0.2</color>以下のソーラーシステム：
+            <a href=showinfo:1231>ヘモファイト</a>、<a href=showinfo:17444>ビビッドヘモファイト</a>
+            、<a href=showinfo:17445>レディアントヘモファイト</a> セキュリティステータスが<color='0xFF00FF00'>0.7</color>以下のソーラーシステム：
+            <a href=showinfo:20>ケルナイト</a>、<a href=showinfo:17452>ルミナスケルナイト</a>、<a
+            href=showinfo:17453>ファイヤリーケルナイト</a> <a href=showinfo:1227>オンバー</a>、<a
+            href=showinfo:17867>銀色オンバー</a>、<a href=showinfo:17868>黄金色オンバー</a> セキュリティステータスが<color='0xFF4DFFCC'>0.9</color>以下のソーラーシステム：
+            <a href=showinfo:18>プラジオクレイス</a>、<a href=showinfo:17455>瑠璃色プラジオクレイス</a>、
+            <a href=showinfo:17456>リッチプラジオクレイス</a> <a href=showinfo:1224>パイロゼリーズ</a>、<a
+            href=showinfo:17459>ソリッドパイロゼリーズ</a>、<a href=showinfo:17460>粘着質なパイロゼリーズ</a>
+            セキュリティステータスが<color='0xFF33FFFF'>1.0</color>以下のソーラーシステム： <a href=showinfo:1228>スコダイト</a>、<a
+            href=showinfo:17463>凝縮スコダイト</a>、<a href=showinfo:17464>マッシブスコダイト</a> <a
+            href=showinfo:1230>ベルドスパー</a>、<a href=showinfo:17470>高濃度ベルドスパー</a>、<a
+            href=showinfo:17471>高密度ベルドスパー</a>
+        ru: "Основной стройматериал, используемый в открытом космосе. Представляет
+            собой очень прочный и в то же время очень пластичный металл. Не может
+            применяться для строительства наземных сооружений из-за своей нестабильности
+            при температурах, обычных для населенных людьми планет. Чрезвычайно широко
+            распространен по всей вселенной.\n\nДобывается посредством переработки
+            следующих типов руды: \n\nСС <color='0xFFFF0000'>0.0</color> и ниже:\n<a
+            href=showinfo:22>Arkonor</a>, <a href=showinfo:17425>Crimson Arkonor</a>,
+            <a href=showinfo:17426>Prime Arkonor</a>\n<a href=showinfo:1225>Crokite</a>,
+            <a href=showinfo:17432>Sharp Crokite</a>, <a href=showinfo:17433>Crystalline
+            Crokite</a>\n<a href=showinfo:1232>Dark Ochre</a>, <a href=showinfo:17436>Onyx
+            Ochre</a>, <a href=showinfo:17437>Obsidian Ochre</a>\n<a href=showinfo:19>Spodumain</a>,
+            <a href=showinfo:17466>Bright Spodumain</a>, <a href=showinfo:17467>Gleaming
+            Spodumain</a>\n\nСС <color='0xFFFF4D00'>0.2</color> и ниже:\n<a href=showinfo:1231>Hemorphite</a>,
+            <a href=showinfo:17444>Vivid Hemorphite</a>, <a href=showinfo:17445>Radiant
+            Hemorphite</a>\n\nСС <color='0xFF00FF00'>0.7</color> и ниже:\n<a href=showinfo:20>Kernite</a>,
+            <a href=showinfo:17452>Luminous Kernite</a>, <a href=showinfo:17453>Fiery
+            Kernite</a>\n<a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silvery
+            Omber</a>, <a href=showinfo:17868>Golden Omber</a>\n\nСС <color='0xFF4DFFCC'>0.9</color>
+            и ниже:\n<a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Azure
+            Plagioclase</a>, <a href=showinfo:17456>Rich Plagioclase</a>\n<a href=showinfo:1224>Pyroxeres</a>,
+            <a href=showinfo:17459>Solid Pyroxeres</a>, <a href=showinfo:17460>Viscous
+            Pyroxeres</a>\n\nСС <color='0xFF33FFFF'>1.0</color> и ниже:\n<a href=showinfo:1228>Scordite</a>,
+            <a href=showinfo:17463>Condensed Scordite</a>, <a href=showinfo:17464>Massive
+            Scordite</a>\n<a href=showinfo:1230>Veldspar</a>, <a href=showinfo:17470>Concentrated
+            Veldspar</a>, <a href=showinfo:17471>Dense Veldspar</a>"
+        zh: '太空建筑的主要建造材料。一种非常坚硬但有韧性的金属。由于它在大气温度下不稳定，因此不能用于人类生活环境。在宇宙中很常见。
+
+
+            可以从下列矿石中提炼获得：
+
+
+            安全等级<color=''0xFFFF0000''>0.0</color>及以下星系：
+
+            <a href=showinfo:22>艾克诺岩</a>、<a href=showinfo:17425>红色艾克诺岩</a>、<a href=showinfo:17426>艾克诺精华岩</a>
+
+            <a href=showinfo:1225>克洛基石</a>、<a href=showinfo:17432>斜克洛基石</a>、<a href=showinfo:17433>克洛基水晶</a>
+
+            <a href=showinfo:1232>黑赭石</a>、<a href=showinfo:17436>条纹赭</a>、<a href=showinfo:17437>黑曜赭石</a>
+
+            <a href=showinfo:19>灰岩</a>、<a href=showinfo:17466>亮灰岩</a>、<a href=showinfo:17467>发光灰岩</a>
+
+
+            安全等级<color=''0xFFFF4D00''>0.2</color>及以下星系：
+
+            <a href=showinfo:1231>希莫非特</a>、<a href=showinfo:17444>多色希莫非特</a>、<a href=showinfo:17445>辐射希莫非特</a>
+
+
+            安全等级<color=''0xFF00FF00''>0.7</color>及以下星系：
+
+            <a href=showinfo:20>水硼砂</a>、<a href=showinfo:17452>发光水硼砂</a>、<a href=showinfo:17453>灼热水硼砂</a>
+
+            <a href=showinfo:1227>奥贝尔石</a>、<a href=showinfo:17867>银色奥贝尔石</a>、<a href=showinfo:17868>金色奥贝尔石</a>
+
+
+            安全等级<color=''0xFF4DFFCC''>0.9</color>及以下星系：
+
+            <a href=showinfo:18>斜长岩</a>、<a href=showinfo:17455>蓝色斜长岩</a>、<a href=showinfo:17456>富斜长岩</a>
+
+            <a href=showinfo:1224>干焦岩</a>、<a href=showinfo:17459>固体干焦岩</a>、<a href=showinfo:17460>流体干焦岩</a>
+
+
+            安全等级<color=''0xFF33FFFF''>1.0</color>及以下星系：
+
+            <a href=showinfo:1228>灼烧岩</a>、<a href=showinfo:17463>浓缩灼烧岩</a>、<a href=showinfo:17464>厚灼烧岩</a>
+
+            <a href=showinfo:1230>凡晶石</a>、<a href=showinfo:17470>富凡晶石</a>、<a href=showinfo:17471>厚质凡晶石</a>'
+    groupID: 18
+    iconID: 22
+    marketGroupID: 1857
+    name:
+        de: Tritanium
+        en: Tritanium
+        fr: Tritanium
+        ja: トリタニウム
+        ru: Tritanium
+        zh: 三钛合金
+    portionSize: 1
+    published: true
+    volume: 0.01
+35:
+    basePrice: 8.0
+    description:
+        de: 'Ein weiches, kristallähnliches Mineral, das in einem charakteristischen
+            Orange glüht, als würde es brennen. Es wird als Halbleiter und in der
+            biochemischen Industrie verwendet. Kommt in recht vielen Asteroidenerzsorten
+            vor.
+
+
+            Kann durch die Aufbereitung von folgendem Erz erhalten werden:
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF0000''>0.0</color> oder
+            darunter:
+
+            <a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoklines Bistot</a>,
+            <a href=showinfo:17428>Triklines Bistot</a>
+
+            <a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Schillerndes
+            Gneiss</a>, <a href=showinfo:17866>Prismatisches Gneiss</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Strahlendes
+            Spodumain</a>, <a href=showinfo:17467>Schimmerndes Spodumain</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF4D00''>0.2</color> oder
+            darunter:
+
+            <a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Glasiges Hedbergite</a>,
+            <a href=showinfo:17441>Verglastes Hedbergite</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFF00FF00''>0.7</color> oder
+            darunter:
+
+            <a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silbriges Omber</a>,
+            <a href=showinfo:17868>Goldenes Omber</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFF4DFFCC''>0.9</color> oder
+            darunter:
+
+            <a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Blaues Plagioclase</a>,
+            <a href=showinfo:17456>Reichhaltiges Plagioclase</a>
+
+            <a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solides Pyroxeres</a>,
+            <a href=showinfo:17460>Zähes Pyroxeres</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFF33FFFF''>1.0</color> oder
+            darunter:
+
+            <a href=showinfo:1228>Scordite</a>, <a href=showinfo:17463>Verdichtetes
+            Scordite</a>, <a href=showinfo:17464>Massives Scordite</a>'
+        en: "A soft crystal-like mineral with a very distinguishing orange glow as
+            if on fire. Used as conduit and in the bio-chemical industry. Commonly
+            found in many asteroid-ore types.\r\n\r\nMay be obtained by reprocessing
+            the following ores:\r\n\r\n<color='0xFFFF0000'>0.0</color> security status
+            solar system or lower:\r\n<a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoclinic
+            Bistot</a>, <a href=showinfo:17428>Triclinic Bistot</a>\r\n<a href=showinfo:1229>Gneiss</a>,
+            <a href=showinfo:17865>Iridescent Gneiss</a>, <a href=showinfo:17866>Prismatic
+            Gneiss</a>\r\n<a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Bright
+            Spodumain</a>, <a href=showinfo:17467>Gleaming Spodumain</a>\r\n\r\n<color='0xFFFF4D00'>0.2</color>
+            security status solar system or lower:\r\n<a href=showinfo:21>Hedbergite</a>,
+            <a href=showinfo:17440>Vitric Hedbergite</a>, <a href=showinfo:17441>Glazed
+            Hedbergite</a>\r\n\r\n<color='0xFF00FF00'>0.7</color> security status
+            solar system or lower:\r\n<a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silvery
+            Omber</a>, <a href=showinfo:17868>Golden Omber</a>\r\n\r\n<color='0xFF4DFFCC'>0.9</color>
+            security status solar system or lower:\r\n<a href=showinfo:18>Plagioclase</a>,
+            <a href=showinfo:17455>Azure Plagioclase</a>, <a href=showinfo:17456>Rich
+            Plagioclase</a>\r\n<a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid
+            Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>\r\n\r\n<color='0xFF33FFFF'>1.0</color>
+            security status solar system or lower:\r\n<a href=showinfo:1228>Scordite</a>,
+            <a href=showinfo:17463>Condensed Scordite</a>, <a href=showinfo:17464>Massive
+            Scordite</a>"
+        fr: 'Comme s''il se consumait, ce minéral lisse comme le cristal dégage une
+            lueur orangée distinctive. Ses propriétés sont mises à profit dans l''industrie
+            biochimique, ainsi que dans la fabrication de conduits. Communément répandu
+            dans l''univers, Il peut s''obtenir par retraitement des minerais suivants :
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF0000''>0,0</color>
+            ou inférieur :
+
+            <a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Bistot monoclinique</a>,
+            <a href=showinfo:17428>Bistot triclinique</a>
+
+            <a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Gneiss irisé</a>,
+            <a href=showinfo:17866>Gneiss prismatique</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Spodumain brillant</a>,
+            <a href=showinfo:17467>Spodumain luisant</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF4D00''>0,2</color>
+            ou inférieur :
+
+            <a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Hedbergite
+            vitrifiée</a>, <a href=showinfo:17441>Hedbergite givrée</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFF00FF00''>0,7</color>
+            ou inférieur :
+
+            <a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Omber argenté</a>,
+            <a href=showinfo:17868>Omber doré</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFF4DFFCC''>0,9</color>
+            ou inférieur :
+
+            <a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Plagioclase
+            azuré</a>, <a href=showinfo:17456>Plagioclase riche</a>
+
+            <a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Pyroxeres
+            solide</a>, <a href=showinfo:17460>Pyroxeres visqueux</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFF33FFFF''>1,0</color>
+            ou inférieur :
+
+            <a href=showinfo:1228>Scordite</a>, <a href=showinfo:17463>Scordite condensée</a>,
+            <a href=showinfo:17464>Scordite massive</a>'
+        ja: 炎のように明るいオレンジ色に光る、柔らかい水晶のような鉱石。導管として、またバイオ化学産業で使用される。多くのタイプのアステロイド鉱石に含まれている。以下の鉱石を再処理することによって得ることができる。
+            セキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム： <a href=showinfo:1223>ビストット</a>、<a
+            href=showinfo:17429>単斜晶ビストット</a>、<a href=showinfo:17428>トリクリニックビストット</a>
+            <a href=showinfo:1229>ナエス</a>、<a href=showinfo:17865>虹色ナエス</a>、<a href=showinfo:17866>プリズマティックナエス</a>
+            <a href=showinfo:19>スポンデュメイン</a>、<a href=showinfo:17466>ブライトスポデュメイン</a>、<a
+            href=showinfo:17467>グリーミングスポデュメイン</a> セキュリティステータスが<color='0xFFFF4D00'>0.2</color>以下のソーラーシステム：
+            <a href=showinfo:21>ヘッドバーガイト</a>、<a href=showinfo:17440>ガラス質ヘッドバーガイト</a>、<a
+            href=showinfo:17441>グレイズドヘッドバーガイト</a> セキュリティステータスが<color='0xFF00FF00'>0.7</color>以下のソーラーシステム：
+            <a href=showinfo:1227>オンバー</a>、<a href=showinfo:17867>銀色オンバー</a>、<a href=showinfo:17868>黄金色オンバー</a>
+            セキュリティステータスが<color='0xFF4DFFCC'>0.9</color>以下のソーラーシステム： <a href=showinfo:18>プラジオクレイス</a>、<a
+            href=showinfo:17455>瑠璃色プラジオクレイス</a>、<a href=showinfo:17456>リッチプラジオクレイス</a>
+            <a href=showinfo:1224>パイロゼリーズ</a>、<a href=showinfo:17459>ソリッドパイロゼリーズ</a>、<a
+            href=showinfo:17460>粘着質なパイロゼリーズ</a> セキュリティステータスが<color='0xFF33FFFF'>1.0</color>以下のソーラーシステム：
+            <a href=showinfo:1228>スコダイト</a>、<a href=showinfo:17463>凝縮スコダイト</a>、<a
+            href=showinfo:17464>マッシブスコダイト</a>
+        ru: 'Мягкий кристаллический минерал, отличительным признаком которого является
+            оранжевое сияние, напоминающее о раскалённых металлах. Используется как
+            проводник, также применяется в биохимии. Встречается в большинстве астероидных
+            руд.
+
+
+            Добывается посредством переработки следующих типов руды:
+
+
+            СС <color=''0xFFFF0000''>0.0</color> и ниже:
+
+            <a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoclinic Bistot</a>,
+            <a href=showinfo:17428>Triclinic Bistot</a>
+
+            <a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Iridescent Gneiss</a>,
+            <a href=showinfo:17866>Prismatic Gneiss</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Bright Spodumain</a>,
+            <a href=showinfo:17467>Gleaming Spodumain</a>
+
+
+            СС <color=''0xFFFF4D00''>0.2</color> и ниже:
+
+            <a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Vitric Hedbergite</a>,
+            <a href=showinfo:17441>Glazed Hedbergite</a>
+
+
+            СС <color=''0xFF00FF00''>0.7</color> и ниже:
+
+            <a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silvery Omber</a>,
+            <a href=showinfo:17868>Golden Omber</a>
+
+
+            СС <color=''0xFF4DFFCC''>0.9</color> и ниже:
+
+            <a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Azure Plagioclase</a>,
+            <a href=showinfo:17456>Rich Plagioclase</a>
+
+            <a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid Pyroxeres</a>,
+            <a href=showinfo:17460>Viscous Pyroxeres</a>
+
+
+            СС <color=''0xFF33FFFF''>1.0</color> и ниже:
+
+            <a href=showinfo:1228>Scordite</a>, <a href=showinfo:17463>Condensed Scordite</a>,
+            <a href=showinfo:17464>Massive Scordite</a>'
+        zh: '一种类水晶的柔软矿物，有着非常易辨认的桔黄光辉，仿佛是在燃烧一样。用于导线管和生化工业。可以在许多种小行星矿石中找到。
+
+
+            可以从下列矿石中提炼获得：
+
+
+            安全等级<color=''0xFFFF0000''>0.0</color>及以下星系：
+
+            <a href=showinfo:1223>双多特石</a>、<a href=showinfo:17429>单晶双多特斜岩</a>、<a href=showinfo:17428>三晶双多特斜岩</a>
+
+            <a href=showinfo:1229>片麻岩</a>、<a href=showinfo:17865>彩色片麻岩</a>、<a href=showinfo:17866>棱柱片麻岩</a>
+
+            <a href=showinfo:19>灰岩</a>、<a href=showinfo:17466>亮灰岩</a>、<a href=showinfo:17467>发光灰岩</a>
+
+
+            安全等级<color=''0xFFFF4D00''>0.2</color>及以下星系：
+
+            <a href=showinfo:21>同位原矿</a>、<a href=showinfo:17440>玻璃状同位原矿</a>、<a href=showinfo:17441>光面同位原矿</a>
+
+
+            安全等级<color=''0xFF00FF00''>0.7</color>及以下星系：
+
+            <a href=showinfo:1227>奥贝尔石</a>、<a href=showinfo:17867>银色奥贝尔石</a>、<a href=showinfo:17868>金色奥贝尔石</a>
+
+
+            安全等级<color=''0xFF4DFFCC''>0.9</color>及以下星系：
+
+            <a href=showinfo:18>斜长岩</a>、<a href=showinfo:17455>蓝色斜长岩</a>、<a href=showinfo:17456>富斜长岩</a>
+
+            <a href=showinfo:1224>干焦岩</a>、<a href=showinfo:17459>固体干焦岩</a>、<a href=showinfo:17460>流体干焦岩</a>
+
+
+            安全等级<color=''0xFF33FFFF''>1.0</color>及以下星系：
+
+            <a href=showinfo:1228>灼烧岩</a>、<a href=showinfo:17463>浓缩灼烧岩</a>、<a href=showinfo:17464>厚灼烧岩</a>'
+    groupID: 18
+    iconID: 400
+    marketGroupID: 1857
+    name:
+        de: Pyerite
+        en: Pyerite
+        fr: Pyérite
+        ja: パイライト
+        ru: Pyerite
+        zh: 类晶体胶矿
+    portionSize: 1
+    published: true
+    volume: 0.01
+36:
+    basePrice: 32.0
+    description:
+        de: 'Ein sehr vielseitiges, metallisches Mineral, matt bis hell silbrig-grün.
+            Kann mit Tritanium vermischt werden, um extrem harte Legierungen herzustellen
+            oder kann für verschiedene Zweck auch pur verwendet werden. Kommt in den
+            meisten Regionen vor.
+
+
+            Kann durch die Aufbereitung von folgendem Erz erhalten werden:
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF0000''>0.0</color> oder
+            darunter:
+
+            <a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Schillerndes
+            Gneiss</a>, <a href=showinfo:17866>Prismatisches Gneiss</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Strahlendes
+            Spodumain</a>, <a href=showinfo:17467>Schimmerndes Spodumain</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFE58000''>0.4</color> oder
+            darunter:
+
+            <a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Reines Jaspet</a>,
+            <a href=showinfo:17449>Makelloses Jaspet</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFF00FF00''>0.7</color> oder
+            darunter:
+
+            <a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Leuchtendes Kernite</a>,
+            <a href=showinfo:17453>Feuriges Kernite</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFF4DFFCC''>0.9</color> oder
+            darunter:
+
+            <a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Blaues Plagioclase</a>,
+            <a href=showinfo:17456>Reichhaltiges Plagioclase</a>
+
+            <a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solides Pyroxeres</a>,
+            <a href=showinfo:17460>Zähes Pyroxeres</a>'
+        en: "Very flexible metallic mineral, dull to bright silvery green in color.
+            Can be mixed with tritanium to make extremely hard alloys or it can be
+            used by itself for various purposes. Fairly common in most regions.\r\n\r\nMay
+            be obtained by reprocessing the following ores:\r\n\r\n<color='0xFFFF0000'>0.0</color>
+            security status solar system or lower:\r\n<a href=showinfo:1229>Gneiss</a>,
+            <a href=showinfo:17865>Iridescent Gneiss</a>, <a href=showinfo:17866>Prismatic
+            Gneiss</a>\r\n<a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Bright
+            Spodumain</a>, <a href=showinfo:17467>Gleaming Spodumain</a>\r\n\r\n<color='0xFFE58000'>0.4</color>
+            security status solar system or lower:\r\n<a href=showinfo:1226>Jaspet</a>,
+            <a href=showinfo:17448>Pure Jaspet</a>, <a href=showinfo:17449>Pristine
+            Jaspet</a>\r\n\r\n<color='0xFF00FF00'>0.7</color> security status solar
+            system or lower:\r\n<a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Luminous
+            Kernite</a>, <a href=showinfo:17453>Fiery Kernite</a>\r\n\r\n<color='0xFF4DFFCC'>0.9</color>
+            security status solar system or lower:\r\n<a href=showinfo:18>Plagioclase</a>,
+            <a href=showinfo:17455>Azure Plagioclase</a>, <a href=showinfo:17456>Rich
+            Plagioclase</a>\r\n<a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid
+            Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>"
+        fr: 'Ce minéral métallique très souple, chamarré de vert argenté mat à brillant,
+            peut être associé au tritanium pour former un alliage extrêmement dur,
+            ou employé seul à diverses fins. Relativement répandu dans l''univers,
+            Il peut s''obtenir par retraitement des minerais suivants :
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF0000''>0,0</color>
+            ou inférieur :
+
+            <a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Gneiss irisé</a>,
+            <a href=showinfo:17866>Gneiss prismatique</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Spodumain brillant</a>,
+            <a href=showinfo:17467>Spodumain luisant</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFE58000''>0,4</color>
+            ou inférieur :
+
+            <a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Jaspet pur</a>,
+            <a href=showinfo:17449>Jaspet immaculé</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFF00FF00''>0,7</color>
+            ou inférieur :
+
+            <a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Kernite lumineuse</a>,
+            <a href=showinfo:17453>Kernite ardente</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFF4DFFCC''>0,9</color>
+            ou inférieur :
+
+            <a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Plagioclase
+            azuré</a>, <a href=showinfo:17456>Plagioclase riche</a>
+
+            <a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Pyroxeres
+            solide</a>, <a href=showinfo:17460>Pyroxeres visqueux</a>'
+        ja: "非常に柔軟性の高い金属鉱石。色は、鈍い緑から明るいメタリックな緑。トリタニウムと混ぜ合わせて非常に硬度の高い合金を作ることも、この鉱石だけで様々な用途に使用することもできる。多くのリージョンで広く産出される。以下の鉱石を再処理することによって得ることができる。
+            セキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム： <a href=showinfo:1229>ナエス</a>、<a
+            href=showinfo:17865>虹色ナエス</a>、<a href=showinfo:17866>プリズマティックナエス</a> <a
+            href=showinfo:19>スポンデュメイン</a>、<a href=showinfo:17466>ブライトスポデュメイン</a>、<a
+            href=showinfo:17467>グリーミングスポデュメイン</a> セキュリティステータスが<color='0xFFE58000'>0.4</color>以下のソーラーシステム：
+            <a href=showinfo:1226>ジャスペット</a>、<a href=showinfo:17448>ピュアジャスペット</a>、<a
+            href=showinfo:17449>プリスティンジャスペット</a> セキュリティステータスが<color='0xFF00FF00'>0.7</color>以下のソーラーシステム：\n\n
+            <a href=showinfo:20>ケルナイト</a>、<a href=showinfo:17452>ルミナスケルナイト</a>、<a
+            href=showinfo:17453>ファイヤリーケルナイト</a> セキュリティステータスが<color='0xFF4DFFCC'>0.9</color>以下のソーラーシステム：
+            <a href=showinfo:18>プラジオクレイス</a>、<a href=showinfo:17455>瑠璃色プラジオクレイス</a>、<a
+            href=showinfo:17456>リッチプラジオクレイス</a> <a href=showinfo:1224>パイロゼリーズ</a>、<a
+            href=showinfo:17459>ソリッドパイロゼリーズ</a>、<a href=showinfo:17460>粘着質なパイロゼリーズ</a>"
+        ru: 'Очень пластичный металл серебристо-зелёного цвета, яркость оттенка может
+            разниться. Используется в комбинации с Tritanium для создания сверхпрочных
+            сплавов; имеет ряд применений и в чистом виде. Часто встречается в большинстве
+            секторов.
+
+
+            Добывается посредством переработки следующих типов руды:
+
+
+            СС <color=''0xFFFF0000''>0.0</color> и ниже:
+
+            <a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Iridescent Gneiss</a>,
+            <a href=showinfo:17866>Prismatic Gneiss</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Bright Spodumain</a>,
+            <a href=showinfo:17467>Gleaming Spodumain</a>
+
+
+            СС <color=''0xFFE58000''>0.4</color> и ниже:
+
+            <a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Pure Jaspet</a>,
+            <a href=showinfo:17449>Pristine Jaspet</a>
+
+
+            СС <color=''0xFF00FF00''>0.7</color> и ниже:
+
+            <a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Luminous Kernite</a>,
+            <a href=showinfo:17453>Fiery Kernite</a>
+
+
+            СС <color=''0xFF4DFFCC''>0.9</color> и ниже:
+
+            <a href=showinfo:18>Plagioclase</a>, <a href=showinfo:17455>Azure Plagioclase</a>,
+            <a href=showinfo:17456>Rich Plagioclase</a>
+
+            <a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid Pyroxeres</a>,
+            <a href=showinfo:17460>Viscous Pyroxeres</a>'
+        zh: '非常有韧性的金属矿物，颜色为暗沉至明亮的银绿色。它可以和三钛合金混合制作极其坚硬的合金，它本身也具有多种用途。在大多数星域非常常见。
+
+
+            可以从下列矿石中提炼获得：
+
+
+            安全等级<color=''0xFFFF0000''>0.0</color>及以下星系：
+
+            <a href=showinfo:1229>片麻岩</a>、<a href=showinfo:17865>彩色片麻岩</a>、<a href=showinfo:17866>棱柱片麻岩</a>
+
+            <a href=showinfo:19>灰岩</a>、<a href=showinfo:17466>亮灰岩</a>、<a href=showinfo:17467>发光灰岩</a>
+
+
+            安全等级<color=''0xFFE58000''>0.4</color>及以下星系：
+
+            <a href=showinfo:1226>杰斯贝矿</a>、<a href=showinfo:17448>纯杰斯贝矿</a>、<a href=showinfo:17449>朴质杰斯贝矿</a>
+
+
+            安全等级<color=''0xFF00FF00''>0.7</color>及以下星系：
+
+            <a href=showinfo:20>水硼砂</a>、<a href=showinfo:17452>发光水硼砂</a>、<a href=showinfo:17453>灼热水硼砂</a>
+
+
+            安全等级<color=''0xFF4DFFCC''>0.9</color>及以下星系：
+
+            <a href=showinfo:18>斜长岩</a>、<a href=showinfo:17455>蓝色斜长岩</a>、<a href=showinfo:17456>富斜长岩</a>
+
+            <a href=showinfo:1224>干焦岩</a>、<a href=showinfo:17459>固体干焦岩</a>、<a href=showinfo:17460>流体干焦岩</a>'
+    groupID: 18
+    iconID: 401
+    marketGroupID: 1857
+    name:
+        de: Mexallon
+        en: Mexallon
+        fr: Mexallon
+        ja: メクサロン
+        ru: Mexallon
+        zh: 类银超金属
+    portionSize: 1
+    published: true
+    volume: 0.01
+37:
+    basePrice: 128.0
+    description:
+        de: 'Hellbläulicher Kristall, geformt durch intensiven Druck im tiefen Inneren
+            von großen Asteroiden und Monden. Wird bei der Fertigung von Elektronik
+            und Waffen verwendet. Große Mengen lassen sich nur in wenigen Gebieten
+            finden.
+
+
+            Kann durch die Aufbereitung von folgendem Erz erhalten werden:
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF0000''>0.0</color> oder
+            darunter:
+
+            <a href=showinfo:1232>Dunkles Ochre</a>, <a href=showinfo:17436>Pechschwarzes
+            Ochre</a>, <a href=showinfo:17437>Obsidian-Ochre</a>
+
+            <a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Schillerndes
+            Gneiss</a>, <a href=showinfo:17866>Prismatisches Gneiss</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Strahlendes
+            Spodumain</a>, <a href=showinfo:17467>Schimmerndes Spodumain</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF4D00''>0.2</color> oder
+            darunter:
+
+            <a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Glasiges Hedbergite</a>,
+            <a href=showinfo:17441>Verglastes Hedbergite</a>
+
+            <a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Klares Hemorphite</a>,
+            <a href=showinfo:17445>Glänzendes Hemorphite</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFF00FF00''>0.7</color> oder
+            darunter:
+
+            <a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Leuchtendes Kernite</a>,
+            <a href=showinfo:17453>Feuriges Kernite</a>
+
+            <a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silbriges Omber</a>,
+            <a href=showinfo:17868>Goldenes Omber</a>'
+        en: "Light-bluish crystal, formed by intense pressure deep within large asteroids
+            and moons. Used in electronic and weapon manufacturing. Only found in
+            abundance in a few areas.\r\n\r\nMay be obtained by reprocessing the following
+            ores:\r\n\r\n<color='0xFFFF0000'>0.0</color> security status solar system
+            or lower:\r\n<a href=showinfo:1232>Dark Ochre</a>, <a href=showinfo:17436>Onyx
+            Ochre</a>, <a href=showinfo:17437>Obsidian Ochre</a>\r\n<a href=showinfo:1229>Gneiss</a>,
+            <a href=showinfo:17865>Iridescent Gneiss</a>, <a href=showinfo:17866>Prismatic
+            Gneiss</a>\r\n<a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Bright
+            Spodumain</a>, <a href=showinfo:17467>Gleaming Spodumain</a>\r\n\r\n<color='0xFFFF4D00'>0.2</color>
+            security status solar system or lower:\r\n<a href=showinfo:21>Hedbergite</a>,
+            <a href=showinfo:17440>Vitric Hedbergite</a>, <a href=showinfo:17441>Glazed
+            Hedbergite</a>\r\n<a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Vivid
+            Hemorphite</a>, <a href=showinfo:17445>Radiant Hemorphite</a>\r\n\r\n<color='0xFF00FF00'>0.7</color>
+            security status solar system or lower:\r\n<a href=showinfo:20>Kernite</a>,
+            <a href=showinfo:17452>Luminous Kernite</a>, <a href=showinfo:17453>Fiery
+            Kernite</a>\r\n<a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silvery
+            Omber</a>, <a href=showinfo:17868>Golden Omber</a>"
+        fr: 'Cristal bleu clair formé par l''intense pression endogène au cœur des
+            lunes et des grands astéroïdes. Les secteurs de l''électronique et de
+            l''armement en tirent le meilleur parti. Sporadiquement foisonnant dans
+            l''univers, Il peut s''obtenir par retraitement des minerais suivants :
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF0000''>0,0</color>
+            ou inférieur :
+
+            <a href=showinfo:1232>Ocrhe foncé</a>, <a href=showinfo:17436>Ocrhe onyx</a>,
+            <a href=showinfo:17437>Ocrhe obsidienne</a>
+
+            <a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Gneiss irisé</a>,
+            <a href=showinfo:17866>Gneiss prismatique</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Spodumain brillant</a>,
+            <a href=showinfo:17467>Spodumain luisant</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF4D00''>0,2</color>
+            ou inférieur :
+
+            <a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Hedbergite
+            vitrifiée</a>, <a href=showinfo:17441>Hedbergite givrée</a>
+
+            <a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Hemorphite
+            vive</a>, <a href=showinfo:17445>Hemorphite rayonnante</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFF00FF00''>0,7</color>
+            ou inférieur :
+
+            <a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Kernite lumineuse</a>,
+            <a href=showinfo:17453>Kernite ardente</a>
+
+            <a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Omber argenté</a>,
+            <a href=showinfo:17868>Omber doré</a>'
+        ja: 淡く青みがかった水晶。大型のアステロイドや衛星の地中で強い圧力が加わることによって生成される。電子機器や武器の製造に使用される。大量に産出できるエリアは、ごくわずかしかない。以下の鉱石を再処理することによって得ることができる。
+            セキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム： <a href=showinfo:1232>ダーク
+            オークル</a>、<a href=showinfo:17436>オニキス オークル</a>、<a href=showinfo:17437>オブシディアンオークル</a>
+            <a href=showinfo:1229>ナエス</a>、<a href=showinfo:17865>虹色ナエス</a>、<a href=showinfo:17866>プリズマティックナエス</a>
+            <a href=showinfo:19>スポンデュメイン</a>、<a href=showinfo:17466>ブライトスポンデュメイン</a>、<a
+            href=showinfo:17467>グリーミングスポンデュメイン</a> セキュリティステータスが<color='0xFFFF4D00'>0.2</color>以下のソーラーシステム：
+            <a href=showinfo:21>ヘッドバーガイト</a>、<a href=showinfo:17440>ガラス質ヘッドバーガイト</a>、<a
+            href=showinfo:17441>グレイズドヘッドバーガイト</a> <a href=showinfo:1231>ヘモファイト</a>、<a
+            href=showinfo:17444>ビビッドヘモファイト</a>、<a href=showinfo:17445>レディアントヘモファイト</a>
+            セキュリティステータスが<color='0xFF00FF00'>0.7</color>以下のソーラーシステム： <a href=showinfo:20>ケルナイト</a>、<a
+            href=showinfo:17452>ルミナスケルナイト</a>、<a href=showinfo:17453>ファイヤリーケルナイト</a>
+            <a href=showinfo:1227>オンバー</a>、<a href=showinfo:17867>銀色オンバー</a>、<a href=showinfo:17868>黄金色オンバー</a>
+        ru: 'Светло-голубые кристаллы, образующиеся под большим давлением в недрах
+            крупных астероидов и лун. Применяется в электронной и оружейной промышленности.
+            Богатые месторождения редки.
+
+
+            Добывается посредством переработки следующих типов руды:
+
+
+            СС <color=''0xFFFF0000''>0.0</color> и ниже:
+
+            <a href=showinfo:1232>Dark Ochre</a>, <a href=showinfo:17436>Onyx Ochre</a>,
+            <a href=showinfo:17437>Obsidian Ochre</a>
+
+            <a href=showinfo:1229>Gneiss</a>, <a href=showinfo:17865>Iridescent Gneiss</a>,
+            <a href=showinfo:17866>Prismatic Gneiss</a>
+
+            <a href=showinfo:19>Spodumain</a>, <a href=showinfo:17466>Bright Spodumain</a>,
+            <a href=showinfo:17467>Gleaming Spodumain</a>
+
+
+            СС <color=''0xFFFF4D00''>0.2</color> и ниже:
+
+            <a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Vitric Hedbergite</a>,
+            <a href=showinfo:17441>Glazed Hedbergite</a>
+
+            <a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Vivid Hemorphite</a>,
+            <a href=showinfo:17445>Radiant Hemorphite</a>
+
+
+            СС <color=''0xFF00FF00''>0.7</color> и ниже:
+
+            <a href=showinfo:20>Kernite</a>, <a href=showinfo:17452>Luminous Kernite</a>,
+            <a href=showinfo:17453>Fiery Kernite</a>
+
+            <a href=showinfo:1227>Omber</a>, <a href=showinfo:17867>Silvery Omber</a>,
+            <a href=showinfo:17868>Golden Omber</a>'
+        zh: '在大型小行星和卫星内部高压环境中形成的淡蓝色晶体，用于电子和军火制造。只在几个区域有丰富储量。
+
+
+            可以从下列矿石中提炼获得：
+
+
+            安全等级<color=''0xFFFF0000''>0.0</color>及以下星系：
+
+            <a href=showinfo:1232>黑赭石</a>、<a href=showinfo:17436>条纹赭</a>、<a href=showinfo:17437>黑曜赭石</a>
+
+            <a href=showinfo:1229>片麻岩</a>、<a href=showinfo:17865>彩色片麻岩</a>、<a href=showinfo:17866>棱柱片麻岩</a>
+
+            <a href=showinfo:19>灰岩</a>、<a href=showinfo:17466>亮灰岩</a>、<a href=showinfo:17467>发光灰岩</a>
+
+
+            安全等级<color=''0xFFFF4D00''>0.2</color>及以下星系：
+
+            <a href=showinfo:21>同位原矿</a>、<a href=showinfo:17440>玻璃状同位原矿</a>、<a href=showinfo:17441>光面同位原矿</a>
+
+            <a href=showinfo:1231>希莫非特</a>、<a href=showinfo:17444>多色希莫非特</a>、<a href=showinfo:17445>辐射希莫非特</a>
+
+
+            安全等级<color=''0xFF00FF00''>0.7</color>及以下星系：
+
+            <a href=showinfo:20>水硼砂</a>、<a href=showinfo:17452>发光水硼砂</a>、<a href=showinfo:17453>灼热水硼砂</a>
+
+            <a href=showinfo:1227>奥贝尔石</a>、<a href=showinfo:17867>银色奥贝尔石</a>、<a href=showinfo:17868>金色奥贝尔石</a>'
+    groupID: 18
+    iconID: 402
+    marketGroupID: 1857
+    name:
+        de: Isogen
+        en: Isogen
+        fr: Isogène
+        ja: アイソゲン
+        ru: Isogen
+        zh: 同位聚合体
+    portionSize: 1
+    published: true
+    volume: 0.01
+38:
+    basePrice: 512.0
+    description:
+        de: "Ein hoch flüchtiges Mineral, das nur während einer Supernova gebildet
+            wird. Daher ist dessen Vorkommen räumlich stark einschränkt. Ein unverzichtbarer
+            Bestandteil in der Kapselfertigung, was es sehr begehrt macht. \n\nKann
+            durch die Aufbereitung von folgendem Erz erhalten werden: \n\nSonnensystem-Sicherheitsstatus
+            <color='0xFFFF0000'>0.0</color> oder darunter:\n<a href=showinfo:1225>Crokite</a>,
+            <a href=showinfo:17432>Sharp Crokite</a>, <a href=showinfo:17433>Crystalline
+            Crokite</a>\n<a href=showinfo:1232>Dark Ochre</a>, <a href=showinfo:17436>Onyx
+            Ochre</a>, <a href=showinfo:17437>Obsidian Ochre</a>\n\nSonnensystem-Sicherheitsstatus
+            <color='0xFFFF4D00'>0.2</color> oder darunter:\n<a href=showinfo:21>Hedbergite</a>,
+            <a href=showinfo:17440>Vitric Hedbergite</a>, <a href=showinfo:17441>Glazed
+            Hedbergite</a>\n<a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Vivid
+            Hemorphite</a>, <a href=showinfo:17445>Radiant Hemorphite</a>\n\nSonnensystem-Sicherheitsstatus
+            <color='0xFFE58000'>0.4</color> oder darunter:\n<a href=showinfo:1226>Jaspet</a>,
+            <a href=showinfo:17448>Pure Jaspet</a>, <a href=showinfo:17449>Pristine
+            Jaspet</a>\n\nSonnensystem-Sicherheitsstatus <color='0xFF4DFFCC'>0.9</color>
+            oder darunter:\n<a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid
+            Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>"
+        en: "A highly volatile mineral only formed during supernovas, thus severely
+            limiting the extent of its distribution. Vital ingredient in capsule production,
+            making it very coveted.\r\n\r\nMay be obtained by reprocessing the following
+            ores:\r\n\r\n<color='0xFFFF0000'>0.0</color> security status solar system
+            or lower:\r\n<a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Sharp
+            Crokite</a>, <a href=showinfo:17433>Crystalline Crokite</a>\r\n<a href=showinfo:1232>Dark
+            Ochre</a>, <a href=showinfo:17436>Onyx Ochre</a>, <a href=showinfo:17437>Obsidian
+            Ochre</a>\r\n\r\n<color='0xFFFF4D00'>0.2</color> security status solar
+            system or lower:\r\n<a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Vitric
+            Hedbergite</a>, <a href=showinfo:17441>Glazed Hedbergite</a>\r\n<a href=showinfo:1231>Hemorphite</a>,
+            <a href=showinfo:17444>Vivid Hemorphite</a>, <a href=showinfo:17445>Radiant
+            Hemorphite</a>\r\n\r\n<color='0xFFE58000'>0.4</color> security status
+            solar system or lower:\r\n<a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Pure
+            Jaspet</a>, <a href=showinfo:17449>Pristine Jaspet</a>\r\n\r\n<color='0xFF4DFFCC'>0.9</color>
+            security status solar system or lower:\r\n<a href=showinfo:1224>Pyroxeres</a>,
+            <a href=showinfo:17459>Solid Pyroxeres</a>, <a href=showinfo:17460>Viscous
+            Pyroxeres</a>"
+        fr: 'Ce minerai très volatile ne se forme que lors de la transformation d''une
+            étoile en supernova. Il est donc très rare d''en trouver. C''est un produit
+            indispensable à la fabrication des capsules. Il est donc extrêmement convoité.
+
+
+            Peut être obtenue en retraitant les minerais suivants :
+
+
+            Système solaire de statut de sécurité <color=''0xFFFF0000''>0,0</color>
+            ou inférieur : <a href=showinfo:1225>crokite</a>, <a href=showinfo:17432>crokite
+            acérée</a>, <a href=showinfo:17433>crokite cristalline</a> <a href=showinfo:1232>ochre
+            foncé</a>, <a href=showinfo:17436>ochre onyx</a>, <a href=showinfo:17437>ochre
+            obsidien</a>
+
+
+            Système solaire de statut de sécurité <color=''0xFFFF4D00''>0,2</color>
+            ou inférieur : <a href=showinfo:21>hedbergite</a>, <a href=showinfo:17440>hedbergite
+            vitrifiée</a>, <a href=showinfo:17441>hedbergite givrée</a> <a href=showinfo:1231>hemorphite</a>,
+            <a href=showinfo:17444>hemorphite vive</a>, <a href=showinfo:17445>hemorphite
+            rayonnante</a>
+
+
+            Système solaire de statut de sécurité <color=''0xFFE58000''>0,4</color>
+            ou inférieur : <a href=showinfo:1226>jaspet</a>, <a href=showinfo:17448>jaspet
+            pur</a>, <a href=showinfo:17449>jaspet immaculé</a>
+
+
+            Système solaire de statut de sécurité <color=''0xFF4DFFCC''>0,9</color>
+            ou inférieur : <a href=showinfo:1224>pyroxeres</a>, <a href=showinfo:17459>pyroxeres
+            solide</a>, <a href=showinfo:17460>pyroxeres visqueux</a>'
+        ja: "揮発性の高い鉱石で、超新星爆発によってのみ生成される。そのため、流通は極めて限られている。カプセル生産に欠かせない原料で、非常に需要が高い。\n\t\t\n以下の鉱石を再処理することによって得ることができる。\n\t\t\nセキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム：\n<a
+            href=showinfo:1225>クロカイト</a>、<a href=showinfo:17432>シャープクロカイト</a>、<a href=showinfo:17433>クリスタルインクロカイト</a>\n<a
+            href=showinfo:1232>ダークオークル</a>、<a href=showinfo:17436>オニキスオークル</a>、<a
+            href=showinfo:17437>オブシディアンオークル</a>\n\nセキュリティステータスが<color='0xFFFF4D00'>0.2</color>以下のソーラーシステム：\n<a
+            href=showinfo:21>ヘッドバーガイト</a>、<a href=showinfo:17440>ガラス質ヘッドバーガイト</a>、<a
+            href=showinfo:17441>グレイズドヘッドバーガイト</a>\n<a href=showinfo:1231>ヘモファイト</a>、<a
+            href=showinfo:17444>ビビッドヘモファイト</a>、<a href=showinfo:17445>レディアントヘモファイト</a>\n\nセキュリティステータスが<color='0xFFE58000'>0.4</color>以下のソーラーシステム：\n<a
+            href=showinfo:1226>ジャスペット</a>、<a href=showinfo:17448>ピュアジャスペット</a>、<a
+            href=showinfo:17449>プリスティンジャスペット</a>\n\nセキュリティステータスが<color='0xFF4DFFCC'>0.9</color>以下のソーラーシステム：\n<a
+            href=showinfo:1224>パイロゼリーズ</a>、<a href=showinfo:17459>ソリッドパイロゼリーズ</a>、<a
+            href=showinfo:17460>粘着質なパイロゼリーズ</a>"
+        ru: 'Крайне нестабильный минерал, образующийся лишь при рождении сверхновой
+            звезды, что в значительной степени ограничивает его доступность. Является
+            основным компонентом при создании капсул, поэтому всегда в цене. Добывается
+            посредством переработки следующих типов руды: <br><br>СС <color=''0xFFFF0000''>0.0</color>
+            и ниже: <br><a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Sharp
+            Crokite</a>, <a href=showinfo:17433>Crystalline Crokite</a> <br><a href=showinfo:1232>Dark
+            Ochre</a>, <a href=showinfo:17436>Onyx Ochre</a>, <a href=showinfo:17437>Obsidian
+            Ochre</a> <br><br>СС <color=''0xFFFF4D00''>0.2</color> и ниже: <br><a
+            href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Vitric Hedbergite</a>,
+            <a href=showinfo:17441>Glazed Hedbergite</a> <br><a href=showinfo:1231>Hemorphite</a>,
+            <a href=showinfo:17444>Vivid Hemorphite</a>, <a href=showinfo:17445>Radiant
+            Hemorphite</a> <br><br>СС <color=''0xFFE58000''>0.4</color> и ниже: <br><a
+            href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Pure Jaspet</a>,
+            <a href=showinfo:17449>Pristine Jaspet</a> <br><br>СС <color=''0xFF00FF00''>0.9</color>
+            и ниже: <br><a href=showinfo:1224>Pyroxeres</a>, <a href=showinfo:17459>Solid
+            Pyroxeres</a>, <a href=showinfo:17460>Viscous Pyroxeres</a>'
+        zh: '一种只有在超新星中才能形成的极不稳定矿物，这在很大程度上限制了它的分布。它是太空舱生产中重要的材料，因此被许多人觊觎。
+
+
+            可以从下列矿石中提炼获得：
+
+
+            安全等级<color=''0xFFFF0000''>0.0</color>及以下星系：
+
+            <a href=showinfo:1225>克洛基石</a>、<a href=showinfo:17432>斜克洛基石</a>、<a href=showinfo:17433>克洛基水晶</a>
+
+            <a href=showinfo:1232>黑赭石</a>、<a href=showinfo:17436>条纹赭</a>、<a href=showinfo:17437>黑曜赭石</a>
+
+
+            安全等级<color=''0xFFFF4D00''>0.2</color>及以下星系：
+
+            <a href=showinfo:21>同位原矿</a>、<a href=showinfo:17440>玻璃状同位原矿</a>、<a href=showinfo:17441>光面同位原矿</a>
+
+            <a href=showinfo:1231>希莫非特</a>、<a href=showinfo:17444>多色希莫非特</a>、<a href=showinfo:17445>辐射希莫非特</a>
+
+
+            安全等级<color=''0xFFE58000''>0.4</color>及以下星系：
+
+            <a href=showinfo:1226>杰斯贝矿</a>、<a href=showinfo:17448>纯杰斯贝矿</a>、<a href=showinfo:17449>朴质杰斯贝矿</a>
+
+
+            安全等级<color=''0xFF4DFFCC''>0.9</color>及以下星系：
+
+            <a href=showinfo:1224>干焦岩</a>、<a href=showinfo:17459>固体干焦岩</a>、<a href=showinfo:17460>流体干焦岩</a>'
+    groupID: 18
+    iconID: 1201
+    marketGroupID: 1857
+    name:
+        de: Nocxium
+        en: Nocxium
+        fr: Nocxium
+        ja: ノキシウム
+        ru: Nocxium
+        zh: 超新星诺克石
+    portionSize: 1
+    published: true
+    volume: 0.01
+39:
+    basePrice: 2048.0
+    description:
+        de: 'Wird nur in riesigen Geoden gefunden, Gestein, dessen Inneres aus einem
+            kristallinen Quarzkern besteht. Die seltensten und wertvollsten dieser
+            Geoden sind diejenigen, die das dunkelgrüne Zydrine enthalten. Sehr selten
+            und sehr teuer.
+
+
+            Kann durch die Aufbereitung von folgendem Erz erhalten werden:
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF0000''>0.0</color> oder
+            darunter:
+
+            <a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoklines Bistot</a>,
+            <a href=showinfo:17428>Triklines Bistot</a>
+
+            <a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Scharfes Crokite</a>,
+            <a href=showinfo:17433>Kristallines Crokite</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF4D00''>0.2</color> oder
+            darunter:
+
+            <a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Glasiges Hedbergite</a>,
+            <a href=showinfo:17441>Verglastes Hedbergite</a>
+
+            <a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Klares Hemorphite</a>,
+            <a href=showinfo:17445>Glänzendes Hemorphite</a>
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFE58000''>0.4</color> oder
+            darunter:
+
+            <a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Reines Jaspet</a>,
+            <a href=showinfo:17449>Makelloses Jaspet</a>'
+        en: "Only found in huge geodes; rocks on the outside with crystal-like quartz
+            on the inside. The rarest and most precious of these geodes are those
+            that contain the dark green zydrine within. Very rare and very expensive.\r\n\r\nMay
+            be obtained by reprocessing the following ores:\r\n\r\n<color='0xFFFF0000'>0.0</color>
+            security status solar system or lower:\r\n<a href=showinfo:1223>Bistot</a>,
+            <a href=showinfo:17429>Monoclinic Bistot</a>, <a href=showinfo:17428>Triclinic
+            Bistot</a>\r\n<a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Sharp
+            Crokite</a>, <a href=showinfo:17433>Crystalline Crokite</a>\r\n\r\n<color='0xFFFF4D00'>0.2</color>
+            security status solar system or lower:\r\n<a href=showinfo:21>Hedbergite</a>,
+            <a href=showinfo:17440>Vitric Hedbergite</a>, <a href=showinfo:17441>Glazed
+            Hedbergite</a>\r\n<a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Vivid
+            Hemorphite</a>, <a href=showinfo:17445>Radiant Hemorphite</a>\r\n\r\n<color='0xFFE58000'>0.4</color>
+            security status solar system or lower:\r\n<a href=showinfo:1226>Jaspet</a>,
+            <a href=showinfo:17448>Pure Jaspet</a>, <a href=showinfo:17449>Pristine
+            Jaspet</a>"
+        fr: 'Ce minéral, enfoui sous la couche de roche de géodes colossales au cœur
+            de quartz cristallin, est convoité pour sa forme la plus précieuse et
+            la plus rare : la zydrine vert foncé. Particulièrement rare et onéreux,
+            Il peut s''obtenir par retraitement des minerais suivants :
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF0000''>0,0</color>
+            ou inférieur :
+
+            <a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Bistot monoclinique</a>,
+            <a href=showinfo:17428>Bistot triclinique</a>
+
+            <a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Crokite acérée</a>,
+            <a href=showinfo:17433>Crokite cristalline</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF4D00''>0,2</color>
+            ou inférieur :
+
+            <a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Hedbergite
+            vitrifiée</a>, <a href=showinfo:17441>Hedbergite givrée</a>
+
+            <a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Hemorphite
+            vive</a>, <a href=showinfo:17445>Hemorphite rayonnante</a>
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFE58000''>0,4</color>
+            ou inférieur :
+
+            <a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Jaspet pur</a>,
+            <a href=showinfo:17449>Jaspet immaculé</a>'
+        ja: 非常に大きな晶洞石（外側は岩で、内部は水晶のような石英）にのみ含まれる。暗緑色のザイドリンを含む晶洞石は、最も珍しく、高い価値がある。極めて珍しく、非常に高価。以下の鉱石を再処理することによって得ることができる。
+            セキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム： <a href=showinfo:1223>ビストット</a>、<a
+            href=showinfo:17429>単斜晶ビストット</a>、<a href=showinfo:17428>トリクリニックビストット</a>
+            <a href=showinfo:1225>クロカイト</a>、<a href=showinfo:17432>シャープクロカイト</a>、<a
+            href=showinfo:17433>クリスタルインクロカイト</a> セキュリティステータスが<color='0xFFFF4D00'>0.2</color>以下のソーラーシステム：
+            <a href=showinfo:21>ヘッドバーガイト</a>、<a href=showinfo:17440>ガラス質ヘッドバーガイト</a>、<a
+            href=showinfo:17441>グレイズドヘッドバーガイト</a> <a href=showinfo:1231>ヘモファイト</a>,
+            、<a href=showinfo:17444>ビビッドヘモファイト</a>、<a href=showinfo:17445>レディアントヘモファイト</a>
+            セキュリティステータスが<color='0xFFE58000'>0.4</color>以下のソーラーシステム： <a href=showinfo:1226>ジャスペット</a>、<a
+            href=showinfo:17448>ピュアジャスペット</a>、<a href=showinfo:17449>プリスティンジャスペット</a>
+        ru: 'Встречается только в крупных геодах ― образованиях с наружной оболочкой
+            из камня и сердцевиной из кварцевых кристаллов. Самые редкие и ценнейшие
+            геоды содержат темно-зеленый минерал, Zydrine. Это очень редкий и дорогой
+            материал.
+
+
+            Добывается посредством переработки следующих типов руды:
+
+
+            СС <color=''0xFFFF0000''>0.0</color> и ниже:
+
+            <a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoclinic Bistot</a>,
+            <a href=showinfo:17428>Triclinic Bistot</a>
+
+            <a href=showinfo:1225>Crokite</a>, <a href=showinfo:17432>Sharp Crokite</a>,
+            <a href=showinfo:17433>Crystalline Crokite</a>
+
+
+            СС <color=''0xFFFF4D00''>0.2</color> и ниже:
+
+            <a href=showinfo:21>Hedbergite</a>, <a href=showinfo:17440>Vitric Hedbergite</a>,
+            <a href=showinfo:17441>Glazed Hedbergite</a>
+
+            <a href=showinfo:1231>Hemorphite</a>, <a href=showinfo:17444>Vivid Hemorphite</a>,
+            <a href=showinfo:17445>Radiant Hemorphite</a>
+
+
+            СС <color=''0xFFE58000''>0.4</color> и ниже:
+
+            <a href=showinfo:1226>Jaspet</a>, <a href=showinfo:17448>Pure Jaspet</a>,
+            <a href=showinfo:17449>Pristine Jaspet</a>'
+        zh: '只存在于巨大的晶洞中：它的外层是岩石，而内层是水晶般的石英。在所有晶洞中，最稀有最珍贵的是那些内含暗绿色晶状石英核岩的，它们非常稀有而且非常昂贵。
+
+
+            可以从下列矿石中提炼获得：
+
+
+            安全等级<color=''0xFFFF0000''>0.0</color>及以下星系：
+
+            <a href=showinfo:1223>双多特石</a>、<a href=showinfo:17429>单晶双多特斜岩</a>、<a href=showinfo:17428>三晶双多特斜岩</a>
+
+            <a href=showinfo:1225>克洛基石</a>、<a href=showinfo:17432>斜克洛基石</a>、<a href=showinfo:17433>克洛基水晶</a>
+
+
+            安全等级<color=''0xFFFF4D00''>0.2</color>及以下星系：
+
+            <a href=showinfo:21>同位原矿</a>、<a href=showinfo:17440>玻璃状同位原矿</a>、<a href=showinfo:17441>光面同位原矿</a>
+
+            <a href=showinfo:1231>希莫非特</a>、<a href=showinfo:17444>多色希莫非特</a>、<a href=showinfo:17445>辐射希莫非特</a>
+
+
+            安全等级<color=''0xFFE58000''>0.4</color>及以下星系：
+
+            <a href=showinfo:1226>杰斯贝矿</a>、<a href=showinfo:17448>纯杰斯贝矿</a>、<a href=showinfo:17449>朴质杰斯贝矿</a>'
+    groupID: 18
+    iconID: 404
+    marketGroupID: 1857
+    name:
+        de: Zydrine
+        en: Zydrine
+        fr: Zydrine
+        ja: ザイドリン
+        ru: Zydrine
+        zh: 晶状石英核岩
+    portionSize: 1
+    published: true
+    volume: 0.01
+40:
+    basePrice: 8192.0
+    description:
+        de: 'Ein äußerst seltenes Mineral, das in Kometen gefunden wird und gelegentlich
+            auf Asteroiden, die durch Gaswolken geflogen sind. Es hat einzigartige,
+            hochexplosive Bestandteile, die es in der Waffenindustrie sehr wertvoll
+            machen.
+
+
+            Kann durch die Aufbereitung von folgendem Erz erhalten werden:
+
+
+            Sonnensystem-Sicherheitsstatus <color=''0xFFFF0000''>0.0</color> oder
+            darunter:
+
+            <a href=showinfo:22>Arkonor</a>, <a href=showinfo:17425>Karmesinrotes
+            Arkonor</a>, <a href=showinfo:17426>Erstklassiges Arkonor</a>
+
+            <a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoklines Bistot</a>,
+            <a href=showinfo:17428>Triklines Bistot</a>'
+        en: "An extremely rare mineral found in comets and very occasionally in asteroids
+            that have traveled through gas clouds. Has unique explosive traits that
+            make it very valuable in the armaments industry.\r\n\r\nMay be obtained
+            by reprocessing the following ores:\r\n\r\n<color='0xFFFF0000'>0.0</color>
+            security status solar system or lower:\r\n<a href=showinfo:22>Arkonor</a>,
+            <a href=showinfo:17425>Crimson Arkonor</a>, <a href=showinfo:17426>Prime
+            Arkonor</a>\r\n<a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoclinic
+            Bistot</a>, <a href=showinfo:17428>Triclinic Bistot</a>"
+        fr: 'Ce minéral extrêmement rare ne prospère que dans les comètes, et exceptionnellement
+            dans des astéroïdes ayant traversé des nuages de gaz. Ses propriétés explosives
+            redoutables ont depuis longtemps séduit l''industrie de l''armement.
+
+
+            Il peut s''obtenir par retraitement des minerais suivants :
+
+
+            Systèmes solaires de statut de sécurité <color=''0xFFFF0000''>0,0</color>
+            ou inférieur :
+
+            <a href=showinfo:22>Arkonor</a>, <a href=showinfo:17425>Arkonor pourpre</a>,
+            <a href=showinfo:17426>Arkonor de choix</a>
+
+            <a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Bistot monoclinique</a>,
+            <a href=showinfo:17428>Bistot triclinique</a>'
+        ja: 彗星の中か、ガス雲の中を通り抜けた場所にあるアステロイドでごくまれに見つかる、極めて希少な鉱石。特異な爆発特性を持ち、兵器産業において非常に価値がある。以下の鉱石を再処理することによって得ることができる。
+            セキュリティステータスが<color='0xFFFF0000'>0.0</color>以下のソーラーシステム： <a href=showinfo:22>アーコナー</a>、<a
+            href=showinfo:17425>クリムゾンアーコナー</a>、<a href=showinfo:17426>プライムアーコナー</a>
+            <a href=showinfo:1223>ビストット</a>、<a href=showinfo:17429>単斜晶ビストット</a>、<a
+            href=showinfo:17428>トリクリニックビストット</a>
+        ru: 'Очень редкий минерал, входящий в состав комет и некоторых астероидов,
+            прошедших сквозь газовые облака. Обладает уникальными свойствами при подрыве,
+            что делает его незаменимым для военной промышленности.
+
+
+            Добывается посредством переработки следующих типов руды:
+
+
+            СС <color=''0xFFFF0000''>0.0</color> и ниже:
+
+            <a href=showinfo:22>Arkonor</a>, <a href=showinfo:17425>Crimson Arkonor</a>,
+            <a href=showinfo:17426>Prime Arkonor</a>
+
+            <a href=showinfo:1223>Bistot</a>, <a href=showinfo:17429>Monoclinic Bistot</a>,
+            <a href=showinfo:17428>Triclinic Bistot</a>'
+        zh: '一种存在于彗星中的极其稀有的矿物，偶尔也会在穿过了气云的小行星中发现。具有独一无二的爆炸特性，因此在军工产业中非常有价值。
+
+
+            可以从下列矿石中提炼获得：
+
+
+            安全等级<color=''0xFFFF0000''>0.0</color>及以下星系：
+
+            <a href=showinfo:22>艾克诺岩</a>、<a href=showinfo:17425>红色艾克诺岩</a>、<a href=showinfo:17426>艾克诺精华岩</a>
+
+            <a href=showinfo:1223>双多特石</a>、<a href=showinfo:17429>单晶双多特斜岩</a>、<a href=showinfo:17428>三晶双多特斜岩</a>'
+    groupID: 18
+    iconID: 405
+    marketGroupID: 1857
+    name:
+        de: Megacyte
+        en: Megacyte
+        fr: Mégacyte
+        ja: メガサイト
+        ru: Megacyte
+        zh: 超噬矿
+    portionSize: 1
+    published: true
+    volume: 0.01

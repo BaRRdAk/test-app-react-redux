@@ -91,7 +91,7 @@ export default class ProductionEfficiency extends React.Component {
                   {
                     this.props.data.activities.manufacturing.materials.map((e, i) =>
                     <div key={i}>
-                    <dt>{e.name}</dt>
+                    <dt><img src={'https://image.eveonline.com/Type/' + e.typeID + '_32.png'} />{e.name}</dt>
                     <dd>{e.economyQuantity} шт. - {String(e.price).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK - {String(Math.ceil(e.setPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</dd>
                     </div>
                     )

@@ -1,0 +1,579 @@
+30370:
+    description:
+        de: Fullerite besteht aus verdichteten Fullerenmolekülen und ist üblicherweise
+            Bestandteil interstellarer Gaswolken. Es zählt wegen seiner besonderen
+            Beschaffenheit zu den nützlichsten Materialien, die den Menschen bekannt
+            sind. Technologie auf Fulleren-Basis kommt in der Elektroindustrie, in
+            Schiffsantrieben sowie im Maschinenbau zum Einsatz. Außerdem ist das Erz
+            Bestandteil extrem harter Metalllegierungen und hitzeresistenter Waffensysteme.
+            Obwohl alle Imperien grundlegende Kenntnisse über die Verarbeitung von
+            Fulleren besitzen, machten allein die Jove die Verwendung des Stoffes
+            zur Wissenschaft. In vielerlei Hinsicht sind sie anderen Rassen deshalb
+            technologisch um einiges voraus.
+        en: "Fullerite is the solid-state manifestation of fullerene molecules and
+            can be found naturally occurring within interstellar gas clouds. Fullerites
+            are coveted for the unique structural properties that make them some of
+            the most useful materials known to humankind. Fullerene-based technology
+            has applications in electronics, propulsion and engineering as well as
+            the construction of ultra-hard metal alloys and heat-resistant weapons
+            systems.\r\n\r\nAlthough all of the empires have developed a rudimentary
+            understanding of how to manipulate fullerene, only the Jovians are known
+            to have mastered the science. This has allowed them to maintain a significant
+            technological advantage over other races in many crucial areas. "
+        fr: 'La fullerite est la manifestation à l''état solide des molécules de fullerène,
+            que l''on trouve dans les nuages de gaz interstellaires. Les fullerites
+            sont recherchées pour leurs propriétés structurelles uniques, qui en font
+            l''un des matériaux connus les plus utiles pour l''humanité. La technologie
+            à base de fullerène est aussi bien utilisée en électronique, en propulsion
+            et en ingénierie, ainsi que dans la construction d''alliages de métaux
+            ultra-résistants et les systèmes d''armement résistants à la chaleur.
+
+
+            Si tous les Empires ont développé des connaissances rudimentaires dans
+            la manipulation des fullerènes, seuls les Jove ont réussi à maîtriser
+            cette science. Cela leur a notamment permis de conserver un avantage technologique
+            certain sur les autres espèces, et ce dans de nombreux domaines déterminants. '
+        ja: ' フラライトはフラーレン分子が固体となったもので、惑星間のガス雲内に自然発生しているのが見つかることがある。フラライトは独特な構造特性を持つことから需要が高く、人類にとって非常に有用な資源である。エレクトロニクス、推進力、エンジニアリングへの応用や超硬合金と耐熱兵器システムの生産といった用途に、フラーレンを活用したテクノロジーは使用される。フラーレンの基礎知識は全ての帝国に広まっていたが、その原理を習得したことで知られているのはジョビのみである。これにより、数多くの重要な分野でジョビは他種族よりも技術面で有利な立場を維持できるようになった。'
+        ru: ' Фуллериты — кристаллические образования, состоящие из молекул фуллеренов
+            и присутствующие в естественном состоянии в межзвeздных газовых облаках.
+            Фуллериты пользуются большим спросом за счет своих уникальных структурных
+            свойств, делающих их наиболее полезным материалом, из всех известных человечеству.
+            Технологии на основе фуллеренов применяются в электронике, двигателестроении
+            и машиностроении, а также в изготовлении сверхтвёрдых металлических сплавов
+            и термостойких систем вооружения.
+
+
+            Хотя все империи освоили элементарные способы обращения с фуллеренами,
+            только Jove смогли достичь совершенства в этой науке. Это позволило им
+            поддерживать значительное технологическое превосходство над другими расами
+            во многих ключевых отраслях.'
+        zh: "富勒体是固体状态的富勒烯分子，可以在自然宇宙气云中找到它。它的独特结构使其成为人类世界中最具有价值的原料之一。以富勒烯为基础的原料技术已经应用于电子、推进以及工程建设等方面，另外在超强合金与高耐热武器系统制造方面也有应用。\r\n\r\n虽然各个国家都已掌握了此类原料的基本运用技术，但只有朱庇特人被认为是富勒烯应用方面的真正专家。这也是其他各国难以在关键科技上撼动朱庇特领先地位的原因之一。"
+    graphicID: 3218
+    groupID: 711
+    iconID: 3218
+    marketGroupID: 1859
+    name:
+        de: Fullerite-C50
+        en: Fullerite-C50
+        fr: Fulleride-C50
+        ja: フルライト-C50
+        ru: Fullerite-C50
+        zh: 富勒体-C50
+    portionSize: 1
+    published: true
+    radius: 100.0
+    volume: 1.0
+30371:
+    description:
+        de: Fullerite besteht aus verdichteten Fullerenmolekülen und ist üblicherweise
+            Bestandteil interstellarer Gaswolken. Es zählt wegen seiner besonderen
+            Beschaffenheit zu den nützlichsten Materialien, die den Menschen bekannt
+            sind. Technologie auf Fulleren-Basis kommt in der Elektroindustrie, in
+            Schiffsantrieben sowie im Maschinenbau zum Einsatz. Außerdem ist das Erz
+            Bestandteil extrem harter Metalllegierungen und hitzeresistenter Waffensysteme.
+            Obwohl alle Imperien grundlegende Kenntnisse über die Verarbeitung von
+            Fulleren besitzen, machten allein die Jove die Verwendung des Stoffes
+            zur Wissenschaft. In vielerlei Hinsicht sind sie anderen Rassen deshalb
+            technologisch um einiges voraus.
+        en: "Fullerite is the solid-state manifestation of fullerene molecules and
+            can be found naturally occurring within interstellar gas clouds. Fullerites
+            are coveted for the unique structural properties that make them some of
+            the most useful materials known to humankind. Fullerene-based technology
+            has applications in electronics, propulsion and engineering as well as
+            the construction of ultra-hard metal alloys and heat-resistant weapons
+            systems.\r\n\r\nAlthough all of the empires have developed a rudimentary
+            understanding of how to manipulate fullerene, only the Jovians are known
+            to have mastered the science. This has allowed them to maintain a significant
+            technological advantage over other races in many crucial areas. "
+        fr: 'La fullerite est la manifestation à l''état solide des molécules de fullerène,
+            que l''on trouve dans les nuages de gaz interstellaires. Les fullerites
+            sont recherchées pour leurs propriétés structurelles uniques, qui en font
+            l''un des matériaux connus les plus utiles pour l''humanité. La technologie
+            à base de fullerène est aussi bien utilisée en électronique, en propulsion
+            et en ingénierie, ainsi que dans la construction d''alliages de métaux
+            ultra-résistants et les systèmes d''armement résistants à la chaleur.
+
+
+            Si tous les Empires ont développé des connaissances rudimentaires dans
+            la manipulation des fullerènes, seuls les Jove ont réussi à maîtriser
+            cette science. Cela leur a notamment permis de conserver un avantage technologique
+            certain sur les autres espèces, et ce dans de nombreux domaines déterminants. '
+        ja: ' フラライトはフラーレン分子が固体となったもので、惑星間のガス雲内に自然発生しているのが見つかることがある。フラライトは独特な構造特性を持つことから需要が高く、人類にとって非常に有用な資源である。エレクトロニクス、推進力、エンジニアリングへの応用や超硬合金と耐熱兵器システムの生産といった用途に、フラーレンを活用したテクノロジーは使用される。フラーレンの基礎知識は全ての帝国に広まっていたが、その原理を習得したことで知られているのはジョビのみである。これにより、数多くの重要な分野でジョビは他種族よりも技術面で有利な立場を維持できるようになった。'
+        ru: ' Фуллериты — кристаллические образования, состоящие из молекул фуллеренов
+            и присутствующие в естественном состоянии в межзвeздных газовых облаках.
+            Фуллериты пользуются большим спросом за счет своих уникальных структурных
+            свойств, делающих их наиболее полезным материалом, из всех известных человечеству.
+            Технологии на основе фуллеренов применяются в электронике, двигателестроении
+            и машиностроении, а также в изготовлении сверхтвёрдых металлических сплавов
+            и термостойких систем вооружения.
+
+
+            Хотя все империи освоили элементарные способы обращения с фуллеренами,
+            только Jove смогли достичь совершенства в этой науке. Это позволило им
+            поддерживать значительное технологическое превосходство над другими расами
+            во многих ключевых отраслях.'
+        zh: "富勒体是固体状态的富勒烯分子，可以在自然宇宙气云中找到它。它的独特结构使其成为人类世界中最具有价值的原料之一。以富勒烯为基础的原料技术已经应用于电子、推进以及工程建设等方面，另外在超强合金与高耐热武器系统制造方面也有应用。\r\n\r\n虽然各个国家都已掌握了此类原料的基本运用技术，但只有朱庇特人被认为是富勒烯应用方面的真正专家。这也是其他各国难以在关键科技上撼动朱庇特领先地位的原因之一。"
+    graphicID: 3218
+    groupID: 711
+    iconID: 3218
+    marketGroupID: 1859
+    name:
+        de: Fullerite-C60
+        en: Fullerite-C60
+        fr: Fulleride-C60
+        ja: フルライト-C60
+        ru: Fullerite-C60
+        zh: 富勒体-C60
+    portionSize: 1
+    published: true
+    radius: 100.0
+    volume: 1.0
+30372:
+    description:
+        de: Fullerite besteht aus verdichteten Fullerenmolekülen und ist üblicherweise
+            Bestandteil interstellarer Gaswolken. Es zählt wegen seiner besonderen
+            Beschaffenheit zu den nützlichsten Materialien, die den Menschen bekannt
+            sind. Technologie auf Fulleren-Basis kommt in der Elektroindustrie, in
+            Schiffsantrieben sowie im Maschinenbau zum Einsatz. Außerdem ist das Erz
+            Bestandteil extrem harter Metalllegierungen und hitzeresistenter Waffensysteme.
+            Obwohl alle Imperien grundlegende Kenntnisse über die Verarbeitung von
+            Fulleren besitzen, machten allein die Jove die Verwendung des Stoffes
+            zur Wissenschaft. In vielerlei Hinsicht sind sie anderen Rassen deshalb
+            technologisch um einiges voraus.
+        en: "Fullerite is the solid-state manifestation of fullerene molecules and
+            can be found naturally occurring within interstellar gas clouds. Fullerites
+            are coveted for the unique structural properties that make them some of
+            the most useful materials known to humankind. Fullerene-based technology
+            has applications in electronics, propulsion and engineering as well as
+            the construction of ultra-hard metal alloys and heat-resistant weapons
+            systems.\r\n\r\nAlthough all of the empires have developed a rudimentary
+            understanding of how to manipulate fullerene, only the Jovians are known
+            to have mastered the science. This has allowed them to maintain a significant
+            technological advantage over other races in many crucial areas. "
+        fr: 'La fullerite est la manifestation à l''état solide des molécules de fullerène,
+            que l''on trouve dans les nuages de gaz interstellaires. Les fullerites
+            sont recherchées pour leurs propriétés structurelles uniques, qui en font
+            l''un des matériaux connus les plus utiles pour l''humanité. La technologie
+            à base de fullerène est aussi bien utilisée en électronique, en propulsion
+            et en ingénierie, ainsi que dans la construction d''alliages de métaux
+            ultra-résistants et les systèmes d''armement résistants à la chaleur.
+
+
+            Si tous les Empires ont développé des connaissances rudimentaires dans
+            la manipulation des fullerènes, seuls les Jove ont réussi à maîtriser
+            cette science. Cela leur a notamment permis de conserver un avantage technologique
+            certain sur les autres espèces, et ce dans de nombreux domaines déterminants. '
+        ja: ' フラライトはフラーレン分子が固体となったもので、惑星間のガス雲内に自然発生しているのが見つかることがある。フラライトは独特な構造特性を持つことから需要が高く、人類にとって非常に有用な資源である。エレクトロニクス、推進力、エンジニアリングへの応用や超硬合金と耐熱兵器システムの生産といった用途に、フラーレンを活用したテクノロジーは使用される。フラーレンの基礎知識は全ての帝国に広まっていたが、その原理を習得したことで知られているのはジョビのみである。これにより、数多くの重要な分野でジョビは他種族よりも技術面で有利な立場を維持できるようになった。'
+        ru: ' Фуллериты — кристаллические образования, состоящие из молекул фуллеренов
+            и присутствующие в естественном состоянии в межзвeздных газовых облаках.
+            Фуллериты пользуются большим спросом за счет своих уникальных структурных
+            свойств, делающих их наиболее полезным материалом, из всех известных человечеству.
+            Технологии на основе фуллеренов применяются в электронике, двигателестроении
+            и машиностроении, а также в изготовлении сверхтвёрдых металлических сплавов
+            и термостойких систем вооружения.
+
+
+            Хотя все империи освоили элементарные способы обращения с фуллеренами,
+            только Jove смогли достичь совершенства в этой науке. Это позволило им
+            поддерживать значительное технологическое превосходство над другими расами
+            во многих ключевых отраслях.'
+        zh: "富勒体是固体状态的富勒烯分子，可以在自然宇宙气云中找到它。它的独特结构使其成为人类世界中最具有价值的原料之一。以富勒烯为基础的原料技术已经应用于电子、推进以及工程建设等方面，另外在超强合金与高耐热武器系统制造方面也有应用。\r\n\r\n虽然各个国家都已掌握了此类原料的基本运用技术，但只有朱庇特人被认为是富勒烯应用方面的真正专家。这也是其他各国难以在关键科技上撼动朱庇特领先地位的原因之一。"
+    graphicID: 3220
+    groupID: 711
+    iconID: 3220
+    marketGroupID: 1859
+    name:
+        de: Fullerite-C70
+        en: Fullerite-C70
+        fr: Fullerite-C70
+        ja: フルライト-C70
+        ru: Fullerite-C70
+        zh: 富勒体-C70
+    portionSize: 1
+    published: true
+    radius: 100.0
+    volume: 1.0
+30373:
+    description:
+        de: Fullerite besteht aus verdichteten Fullerenmolekülen und ist üblicherweise
+            Bestandteil interstellarer Gaswolken. Es zählt wegen seiner besonderen
+            Beschaffenheit zu den nützlichsten Materialien, die den Menschen bekannt
+            sind. Technologie auf Fulleren-Basis kommt in der Elektroindustrie, in
+            Schiffsantrieben sowie im Maschinenbau zum Einsatz. Außerdem ist das Erz
+            Bestandteil extrem harter Metalllegierungen und hitzeresistenter Waffensysteme.
+            Obwohl alle Imperien grundlegende Kenntnisse über die Verarbeitung von
+            Fulleren besitzen, machten allein die Jove die Verwendung des Stoffes
+            zur Wissenschaft. In vielerlei Hinsicht sind sie anderen Rassen deshalb
+            technologisch um einiges voraus.
+        en: "Fullerite is the solid-state manifestation of fullerene molecules and
+            can be found naturally occurring within interstellar gas clouds. Fullerites
+            are coveted for the unique structural properties that make them some of
+            the most useful materials known to humankind. Fullerene-based technology
+            has applications in electronics, propulsion and engineering as well as
+            the construction of ultra-hard metal alloys and heat-resistant weapons
+            systems. \r\n\r\nAlthough all of the empires have developed a rudimentary
+            understanding of how to manipulate fullerene, only the Jovians are known
+            to have mastered the science. This has allowed them to maintain a significant
+            technological advantage over other races in many crucial areas. "
+        fr: "La fullerite est la manifestation à l'état solide des molécules de fullerène,
+            que l'on trouve dans les nuages de gaz interstellaires. Les fullerites
+            sont recherchées pour leurs propriétés structurelles uniques, qui en font
+            l'un des matériaux connus les plus utiles pour l'humanité. La technologie
+            à base de fullerène est aussi bien utilisée en électronique, en propulsion
+            et en ingénierie, ainsi que dans la construction d'alliages de métaux
+            ultra-résistants et les systèmes d'armement résistants à la chaleur. \n\nSi
+            tous les Empires ont développé des connaissances rudimentaires dans la
+            manipulation des fullerènes, seuls les Jove ont réussi à maîtriser cette
+            science. Cela leur a notamment permis de conserver un avantage technologique
+            certain sur les autres espèces, et ce dans de nombreux domaines déterminants. "
+        ja: ' フラライトはフラーレン分子が固体となったもので、惑星間ガス雲内に自然発生しているのが見つかることがある。フラライトは独特な構造特性を持つことから需要が高く、人類にとって非常に有用な資源である。エレクトロニクス、推進力、エンジニアリングへの応用や超硬合金と耐熱兵器システムの生産といった用途に、フラーレンを活用したテクノロジーは使用される。フラーレンの基礎知識は全ての帝国に広まっていたが、その原理を習得したことで知られているのはジョビのみである。これにより、数多くの重要な分野でジョビは他種族よりも技術面で有利な立場を維持できるようになった。'
+        ru: ' Фуллериты — кристаллические образования, состоящие из молекул фуллеренов
+            и присутствующие в естественном состоянии в межзвeздных газовых облаках.
+            Фуллериты пользуются большим спросом за счет своих уникальных структурных
+            свойств, делающих их наиболее полезным материалом, из всех известных человечеству.
+            Технологии на основе фуллеренов применяются в электронике, двигателестроении
+            и машиностроении, а также в изготовлении сверхтвёрдых металлических сплавов
+            и термостойких систем вооружения.
+
+
+            Хотя все империи освоили элементарные способы обращения с фуллеренами,
+            только Jove смогли достичь совершенства в этой науке. Это позволило им
+            поддерживать значительное технологическое превосходство над другими расами
+            во многих ключевых отраслях.'
+        zh: "富勒体是固体状态的富勒烯分子，可以在自然宇宙气云中找到它。它的独特结构使其成为人类世界中最具有价值的原料之一。以富勒烯为基础的原料技术已经应用于电子、推进以及工程建设等方面，另外在超强合金与高耐热武器系统制造方面也有应用。\r\n\r\n虽然各个国家都已掌握了此类原料的基本运用技术，但只有朱庇特人被认为是富勒烯应用方面的真正专家。这也是其他各国难以在关键科技上撼动朱庇特领先地位的原因之一。"
+    graphicID: 3223
+    groupID: 711
+    iconID: 3223
+    marketGroupID: 1859
+    name:
+        de: Fullerite-C72
+        en: Fullerite-C72
+        fr: Fullerite-C72
+        ja: フルライト-C72
+        ru: Fullerite-C72
+        zh: 富勒体-C72
+    portionSize: 1
+    published: true
+    radius: 100.0
+    volume: 2.0
+30374:
+    description:
+        de: Fullerite besteht aus verdichteten Fullerenmolekülen und ist üblicherweise
+            Bestandteil interstellarer Gaswolken. Es zählt wegen seiner besonderen
+            Beschaffenheit zu den nützlichsten Materialien, die den Menschen bekannt
+            sind. Technologie auf Fulleren-Basis kommt in der Elektroindustrie, in
+            Schiffsantrieben sowie im Maschinenbau zum Einsatz. Außerdem ist das Erz
+            Bestandteil extrem harter Metalllegierungen und hitzeresistenter Waffensysteme.
+            Obwohl alle Imperien grundlegende Kenntnisse über die Verarbeitung von
+            Fulleren besitzen, machten allein die Jove die Verwendung des Stoffes
+            zur Wissenschaft. In vielerlei Hinsicht sind sie anderen Rassen deshalb
+            technologisch um einiges voraus.
+        en: "Fullerite is the solid-state manifestation of fullerene molecules and
+            can be found naturally occurring within interstellar gas clouds. Fullerites
+            are coveted for the unique structural properties that make them some of
+            the most useful materials known to humankind. Fullerene-based technology
+            has applications in electronics, propulsion and engineering as well as
+            the construction of ultra-hard metal alloys and heat-resistant weapons
+            systems. \r\n\r\nAlthough all of the empires have developed a rudimentary
+            understanding of how to manipulate fullerene, only the Jovians are known
+            to have mastered the science. This has allowed them to maintain a significant
+            technological advantage over other races in many crucial areas. "
+        fr: "La fullerite est la manifestation à l'état solide des molécules de fullerène,
+            que l'on trouve dans les nuages de gaz interstellaires. Les fullerites
+            sont recherchées pour leurs propriétés structurelles uniques, qui en font
+            l'un des matériaux connus les plus utiles pour l'humanité. La technologie
+            à base de fullerène est aussi bien utilisée en électronique, en propulsion
+            et en ingénierie, ainsi que dans la construction d'alliages de métaux
+            ultra-résistants et les systèmes d'armement résistants à la chaleur. \n\nSi
+            tous les Empires ont développé des connaissances rudimentaires dans la
+            manipulation des fullerènes, seuls les Jove ont réussi à maîtriser cette
+            science. Cela leur a notamment permis de conserver un avantage technologique
+            certain sur les autres espèces, et ce dans de nombreux domaines déterminants. "
+        ja: ' フラライトはフラーレン分子が固体となったもので、惑星間のガス雲内に自然発生しているのが見つかることがある。フラライトは独特な構造特性を持つことから需要が高く、人類にとって非常に有用な資源である。エレクトロニクス、推進力、エンジニアリングへの応用や超硬合金と耐熱兵器システムの生産といった用途に、フラーレンを活用したテクノロジーは使用される。フラーレンの基礎知識は全ての帝国に広まっていたが、その原理を習得したことで知られているのはジョビのみである。これにより、数多くの重要な分野でジョビは他種族よりも技術面で有利な立場を維持できるようになった。'
+        ru: ' Фуллериты — кристаллические образования, состоящие из молекул фуллеренов
+            и присутствующие в естественном состоянии в межзвeздных газовых облаках.
+            Фуллериты пользуются большим спросом за счет своих уникальных структурных
+            свойств, делающих их наиболее полезным материалом, из всех известных человечеству.
+            Технологии на основе фуллеренов применяются в электронике, двигателестроении
+            и машиностроении, а также в изготовлении сверхтвёрдых металлических сплавов
+            и термостойких систем вооружения.
+
+
+            Хотя все империи освоили элементарные способы обращения с фуллеренами,
+            только Jove смогли достичь совершенства в этой науке. Это позволило им
+            поддерживать значительное технологическое превосходство над другими расами
+            во многих ключевых отраслях.'
+        zh: "富勒体是固体状态的富勒烯分子，可以在自然宇宙气云中找到它。它的独特结构使其成为人类世界中最具有价值的原料之一。以富勒烯为基础的原料技术已经应用于电子、推进以及工程建设等方面，另外在超强合金与高耐热武器系统制造方面也有应用。\r\n\r\n虽然各个国家都已掌握了此类原料的基本运用技术，但只有朱庇特人被认为是富勒烯应用方面的真正专家。这也是其他各国难以在关键科技上撼动朱庇特领先地位的原因之一。"
+    graphicID: 3222
+    groupID: 711
+    iconID: 3222
+    marketGroupID: 1859
+    name:
+        de: Fullerite-C84
+        en: Fullerite-C84
+        fr: Fullerite-C84
+        ja: フルライト-C84
+        ru: Fullerite-C84
+        zh: 富勒体-C84
+    portionSize: 1
+    published: true
+    radius: 100.0
+    volume: 2.0
+30375:
+    description:
+        de: Fullerite besteht aus verdichteten Fullerenmolekülen und ist üblicherweise
+            Bestandteil interstellarer Gaswolken. Es zählt wegen seiner besonderen
+            Beschaffenheit zu den nützlichsten Materialien, die den Menschen bekannt
+            sind. Technologie auf Fulleren-Basis kommt in der Elektroindustrie, in
+            Schiffsantrieben sowie im Maschinenbau zum Einsatz. Außerdem ist das Erz
+            Bestandteil extrem harter Metalllegierungen und hitzeresistenter Waffensysteme.
+            Obwohl alle Imperien grundlegende Kenntnisse über die Verarbeitung von
+            Fulleren besitzen, machten allein die Jove die Verwendung des Stoffes
+            zur Wissenschaft. In vielerlei Hinsicht sind sie anderen Rassen deshalb
+            technologisch um einiges voraus.
+        en: "Fullerite is the solid-state manifestation of fullerene molecules and
+            can be found naturally occurring within interstellar gas clouds. Fullerites
+            are coveted for the unique structural properties that make them some of
+            the most useful materials known to humankind. Fullerene-based technology
+            has applications in electronics, propulsion and engineering as well as
+            the construction of ultra-hard metal alloys and heat-resistant weapons
+            systems.\r\n\r\nAlthough all of the empires have developed a rudimentary
+            understanding of how to manipulate fullerene, only the Jovians are known
+            to have mastered the science. This has allowed them to maintain a significant
+            technological advantage over other races in many crucial areas."
+        fr: 'La fullerite est la manifestation à l''état solide des molécules de fullerène,
+            que l''on trouve dans les nuages de gaz interstellaires. Les fullerites
+            sont recherchées pour leurs propriétés structurelles uniques, qui en font
+            l''un des matériaux connus les plus utiles pour l''humanité. La technologie
+            à base de fullerène est aussi bien utilisée en électronique, en propulsion
+            et en ingénierie, ainsi que dans la construction d''alliages de métaux
+            ultra-résistants et les systèmes d''armement résistants à la chaleur.
+
+
+            Si tous les Empires ont développé des connaissances rudimentaires dans
+            la manipulation des fullerènes, seuls les Jove ont réussi à maîtriser
+            cette science. Cela leur a notamment permis de conserver un avantage technologique
+            certain sur les autres espèces, et ce dans de nombreux domaines déterminants.'
+        ja: フラライトはフラーレン分子が固体となったもので、惑星間のガス雲内に自然発生しているのが見つかることがある。フラライトは独特な構造特性を持つことから需要が高く、人類にとって非常に有用な資源である。エレクトロニクス、推進力、エンジニアリングへの応用や超硬合金と耐熱兵器システムの生産といった用途に、フラーレンを活用したテクノロジーは使用される。フラーレンの基礎知識は全ての帝国に広まっていたが、その原理を習得したことで知られているのはジョビのみである。これにより、数多くの重要な分野でジョビは他種族よりも技術面で有利な立場を維持できるようになった。
+        ru: ' Фуллериты — кристаллические образования, состоящие из молекул фуллеренов
+            и присутствующие в естественном состоянии в межзвeздных газовых облаках.
+            Фуллериты пользуются большим спросом за счет своих уникальных структурных
+            свойств, делающих их наиболее полезным материалом, из всех известных человечеству.
+            Технологии на основе фуллеренов применяются в электронике, двигателестроении
+            и машиностроении, а также в изготовлении сверхтвёрдых металлических сплавов
+            и термостойких систем вооружения.
+
+
+            Хотя все империи освоили элементарные способы обращения с фуллеренами,
+            только Jove смогли достичь совершенства в этой науке. Это позволило им
+            поддерживать значительное технологическое превосходство над другими расами
+            во многих ключевых отраслях.'
+        zh: "富勒体是固体状态的富勒烯分子，可以在自然宇宙气云中找到它。它的独特结构使其成为人类世界中最具有价值的原料之一。以富勒烯为基础的原料技术已经应用于电子、推进以及工程建设等方面，另外在超强合金与高耐热武器系统制造方面也有应用。\r\n\r\n虽然各个国家都已掌握了此类原料的基本运用技术，但只有朱庇特人被认为是富勒烯应用方面的真正专家。这也是其他各国难以在关键科技上撼动朱庇特领先地位的原因之一。"
+    graphicID: 3222
+    groupID: 711
+    iconID: 3222
+    marketGroupID: 1859
+    name:
+        de: Fullerite-C28
+        en: Fullerite-C28
+        fr: Fullerite-C28
+        ja: フルライト-C28
+        ru: Fullerite-C28
+        zh: 富勒体-C28
+    portionSize: 1
+    published: true
+    radius: 100.0
+    volume: 2.0
+30376:
+    description:
+        de: Fullerite besteht aus verdichteten Fullerenmolekülen und ist üblicherweise
+            Bestandteil interstellarer Gaswolken. Es zählt wegen seiner besonderen
+            Beschaffenheit zu den nützlichsten Materialien, die den Menschen bekannt
+            sind. Technologie auf Fulleren-Basis kommt in der Elektroindustrie, in
+            Schiffsantrieben sowie im Maschinenbau zum Einsatz. Außerdem ist das Erz
+            Bestandteil extrem harter Metalllegierungen und hitzeresistenter Waffensysteme.
+            Obwohl alle Imperien grundlegende Kenntnisse über die Verarbeitung von
+            Fulleren besitzen, machten allein die Jove die Verwendung des Stoffes
+            zur Wissenschaft. In vielerlei Hinsicht sind sie anderen Rassen deshalb
+            technologisch um einiges voraus.
+        en: "Fullerite is the solid-state manifestation of fullerene molecules and
+            can be found naturally occurring within interstellar gas clouds. Fullerites
+            are coveted for the unique structural properties that make them some of
+            the most useful materials known to humankind. Fullerene-based technology
+            has applications in electronics, propulsion and engineering as well as
+            the construction of ultra-hard metal alloys and heat-resistant weapons
+            systems.\r\n\r\nAlthough all of the empires have developed a rudimentary
+            understanding of how to manipulate fullerene, only the Jovians are known
+            to have mastered the science. This has allowed them to maintain a significant
+            technological advantage over other races in many crucial areas. "
+        fr: 'La fullerite est la manifestation à l''état solide des molécules de fullerène,
+            que l''on trouve dans les nuages de gaz interstellaires. Les fullerites
+            sont recherchées pour leurs propriétés structurelles uniques, qui en font
+            l''un des matériaux connus les plus utiles pour l''humanité. La technologie
+            à base de fullerène est aussi bien utilisée en électronique, en propulsion
+            et en ingénierie, ainsi que dans la construction d''alliages de métaux
+            ultra-résistants et les systèmes d''armement résistants à la chaleur.
+
+
+            Si tous les Empires ont développé des connaissances rudimentaires dans
+            la manipulation des fullerènes, seuls les Jove ont réussi à maîtriser
+            cette science. Cela leur a notamment permis de conserver un avantage technologique
+            certain sur les autres espèces, et ce dans de nombreux domaines déterminants. '
+        ja: ' フラライトはフラーレン分子が固体となったもので、惑星間のガス雲内に自然発生しているのが見つかることがある。フラライトは独特な構造特性を持つことから需要が高く、人類にとって非常に有用な資源である。エレクトロニクス、推進力、エンジニアリングへの応用や超硬合金と耐熱兵器システムの生産といった用途に、フラーレンを活用したテクノロジーは使用される。フラーレンの基礎知識は全ての帝国に広まっていたが、その原理を習得したことで知られているのはジョビのみである。これにより、数多くの重要な分野でジョビは他種族よりも技術面で有利な立場を維持できるようになった。'
+        ru: ' Фуллериты — кристаллические образования, состоящие из молекул фуллеренов
+            и присутствующие в естественном состоянии в межзвeздных газовых облаках.
+            Фуллериты пользуются большим спросом за счет своих уникальных структурных
+            свойств, делающих их наиболее полезным материалом, из всех известных человечеству.
+            Технологии на основе фуллеренов применяются в электронике, двигателестроении
+            и машиностроении, а также в изготовлении сверхтвёрдых металлических сплавов
+            и термостойких систем вооружения.
+
+
+            Хотя все империи освоили элементарные способы обращения с фуллеренами,
+            только Jove смогли достичь совершенства в этой науке. Это позволило им
+            поддерживать значительное технологическое превосходство над другими расами
+            во многих ключевых отраслях.'
+        zh: "富勒体是固体状态的富勒烯分子，可以在自然宇宙气云中找到它。它的独特结构使其成为人类世界中最具有价值的原料之一。以富勒烯为基础的原料技术已经应用于电子、推进以及工程建设等方面，另外在超强合金与高耐热武器系统制造方面也有应用。\r\n\r\n虽然各个国家都已掌握了此类原料的基本运用技术，但只有朱庇特人被认为是富勒烯应用方面的真正专家。这也是其他各国难以在关键科技上撼动朱庇特领先地位的原因之一。"
+    graphicID: 3225
+    groupID: 711
+    iconID: 3225
+    marketGroupID: 1859
+    name:
+        de: Fullerite-C32
+        en: Fullerite-C32
+        fr: Fullerite-C32
+        ja: フルライト-C32
+        ru: Fullerite-C32
+        zh: 富勒体-C32
+    portionSize: 1
+    published: true
+    radius: 100.0
+    volume: 5.0
+30377:
+    description:
+        de: Fullerite besteht aus verdichteten Fullerenmolekülen und ist üblicherweise
+            Bestandteil interstellarer Gaswolken. Es zählt wegen seiner besonderen
+            Beschaffenheit zu den nützlichsten Materialien, die den Menschen bekannt
+            sind. Technologie auf Fulleren-Basis kommt in der Elektroindustrie, in
+            Schiffsantrieben sowie im Maschinenbau zum Einsatz. Außerdem ist das Erz
+            Bestandteil extrem harter Metalllegierungen und hitzeresistenter Waffensysteme.
+            Obwohl alle Imperien grundlegende Kenntnisse über die Verarbeitung von
+            Fulleren besitzen, machten allein die Jove die Verwendung des Stoffes
+            zur Wissenschaft. In vielerlei Hinsicht sind sie anderen Rassen deshalb
+            technologisch um einiges voraus.
+        en: "Fullerite is the solid-state manifestation of fullerene molecules and
+            can be found naturally occurring within interstellar gas clouds. Fullerites
+            are coveted for the unique structural properties that make them some of
+            the most useful materials known to humankind. Fullerene-based technology
+            has applications in electronics, propulsion and engineering as well as
+            the construction of ultra-hard metal alloys and heat-resistant weapons
+            systems.\r\n\r\nAlthough all of the empires have developed a rudimentary
+            understanding of how to manipulate fullerene, only the Jovians are known
+            to have mastered the science. This has allowed them to maintain a significant
+            technological advantage over other races in many crucial areas. "
+        fr: 'La fullerite est la manifestation à l''état solide des molécules de fullerène,
+            que l''on trouve dans les nuages de gaz interstellaires. Les fullerites
+            sont recherchées pour leurs propriétés structurelles uniques, qui en font
+            l''un des matériaux connus les plus utiles pour l''humanité. La technologie
+            à base de fullerène est aussi bien utilisée en électronique, en propulsion
+            et en ingénierie, ainsi que dans la construction d''alliages de métaux
+            ultra-résistants et les systèmes d''armement résistants à la chaleur.
+
+
+            Si tous les Empires ont développé des connaissances rudimentaires dans
+            la manipulation des fullerènes, seuls les Jove ont réussi à maîtriser
+            cette science. Cela leur a notamment permis de conserver un avantage technologique
+            certain sur les autres espèces, et ce dans de nombreux domaines déterminants. '
+        ja: ' フラライトはフラーレン分子が固体となったもので、惑星間のガス雲内に自然発生しているのが見つかることがある。フラライトは独特な構造特性を持つことから需要が高く、人類にとって非常に有用な資源である。エレクトロニクス、推進力、エンジニアリングへの応用や超硬合金と耐熱兵器システムの生産といった用途に、フラーレンを活用したテクノロジーは使用される。フラーレンの基礎知識は全ての帝国に広まっていたが、その原理を習得したことで知られているのはジョビのみである。これにより、数多くの重要な分野でジョビは他種族よりも技術面で有利な立場を維持できるようになった。'
+        ru: ' Фуллериты — кристаллические образования, состоящие из молекул фуллеренов
+            и присутствующие в естественном состоянии в межзвeздных газовых облаках.
+            Фуллериты пользуются большим спросом за счет своих уникальных структурных
+            свойств, делающих их наиболее полезным материалом, из всех известных человечеству.
+            Технологии на основе фуллеренов применяются в электронике, двигателестроении
+            и машиностроении, а также в изготовлении сверхтвёрдых металлических сплавов
+            и термостойких систем вооружения.
+
+
+            Хотя все империи освоили элементарные способы обращения с фуллеренами,
+            только Jove смогли достичь совершенства в этой науке. Это позволило им
+            поддерживать значительное технологическое превосходство над другими расами
+            во многих ключевых отраслях.'
+        zh: "富勒体是固体状态的富勒烯分子，可以在自然宇宙气云中找到它。它的独特结构使其成为人类世界中最具有价值的原料之一。以富勒烯为基础的原料技术已经应用于电子、推进以及工程建设等方面，另外在超强合金与高耐热武器系统制造方面也有应用。\r\n\r\n虽然各个国家都已掌握了此类原料的基本运用技术，但只有朱庇特人被认为是富勒烯应用方面的真正专家。这也是其他各国难以在关键科技上撼动朱庇特领先地位的原因之一。"
+    graphicID: 3224
+    groupID: 711
+    iconID: 3224
+    marketGroupID: 1859
+    name:
+        de: Fullerite-C320
+        en: Fullerite-C320
+        fr: Fullerite-C320
+        ja: フルライト-C320
+        ru: Fullerite-C320
+        zh: 富勒体-C320
+    portionSize: 1
+    published: true
+    radius: 100.0
+    volume: 5.0
+30378:
+    description:
+        de: Fullerite besteht aus verdichteten Fullerenmolekülen und ist üblicherweise
+            Bestandteil interstellarer Gaswolken. Es zählt wegen seiner besonderen
+            Beschaffenheit zu den nützlichsten Materialien, die den Menschen bekannt
+            sind. Technologie auf Fulleren-Basis kommt in der Elektroindustrie, in
+            Schiffsantrieben sowie im Maschinenbau zum Einsatz. Außerdem ist das Erz
+            Bestandteil extrem harter Metalllegierungen und hitzeresistenter Waffensysteme.
+            Obwohl alle Imperien grundlegende Kenntnisse über die Verarbeitung von
+            Fulleren besitzen, machten allein die Jove die Verwendung des Stoffes
+            zur Wissenschaft. In vielerlei Hinsicht sind sie anderen Rassen deshalb
+            technologisch um einiges voraus.
+        en: "Fullerite is the solid-state manifestation of fullerene molecules and
+            can be found naturally occurring within interstellar gas clouds. Fullerites
+            are coveted for the unique structural properties that make them some of
+            the most useful materials known to humankind. Fullerene-based technology
+            has applications in electronics, propulsion and engineering as well as
+            the construction of ultra-hard metal alloys and heat-resistant weapons
+            systems. \r\n\r\nAlthough all of the empires have developed a rudimentary
+            understanding of how to manipulate fullerene, only the Jovians are known
+            to have mastered the science. This has allowed them to maintain a significant
+            technological advantage over other races in many crucial areas. "
+        fr: "La fullerite est la manifestation à l'état solide des molécules de fullerène,
+            que l'on trouve dans les nuages de gaz interstellaires. Les fullerites
+            sont recherchées pour leurs propriétés structurelles uniques, qui en font
+            l'un des matériaux connus les plus utiles pour l'humanité. La technologie
+            à base de fullerène est aussi bien utilisée en électronique, en propulsion
+            et en ingénierie, ainsi que dans la construction d'alliages de métaux
+            ultra-résistants et les systèmes d'armement résistants à la chaleur. \n\nSi
+            tous les Empires ont développé des connaissances rudimentaires dans la
+            manipulation des fullerènes, seuls les Jove ont réussi à maîtriser cette
+            science. Cela leur a notamment permis de conserver un avantage technologique
+            certain sur les autres espèces, et ce dans de nombreux domaines déterminants. "
+        ja: ' フラライトはフラーレン分子が固体となったもので、惑星間のガス雲内に自然発生しているのが見つかることがある。フラライトは独特な構造特性を持つことから需要が高く、人類にとって非常に有用な資源である。エレクトロニクス、推進力、エンジニアリングへの応用や超硬合金と耐熱兵器システムの生産といった用途に、フラーレンを活用したテクノロジーは使用される。フラーレンの基礎知識は全ての帝国に広まっていたが、その原理を習得したことで知られているのはジョビのみである。これにより、数多くの重要な分野でジョビは他種族よりも技術面で有利な立場を維持できるようになった。'
+        ru: ' Фуллериты — кристаллические образования, состоящие из молекул фуллеренов
+            и присутствующие в естественном состоянии в межзвeздных газовых облаках.
+            Фуллериты пользуются большим спросом за счет своих уникальных структурных
+            свойств, делающих их наиболее полезным материалом, из всех известных человечеству.
+            Технологии на основе фуллеренов применяются в электронике, двигателестроении
+            и машиностроении, а также в изготовлении сверхтвёрдых металлических сплавов
+            и термостойких систем вооружения.
+
+
+            Хотя все империи освоили элементарные способы обращения с фуллеренами,
+            только Jove смогли достичь совершенства в этой науке. Это позволило им
+            поддерживать значительное технологическое превосходство над другими расами
+            во многих ключевых отраслях.'
+        zh: "富勒体是固体状态的富勒烯分子，可以在自然宇宙气云中找到它。它的独特结构使其成为人类世界中最具有价值的原料之一。以富勒烯为基础的原料技术已经应用于电子、推进以及工程建设等方面，另外在超强合金与高耐热武器系统制造方面也有应用。\r\n\r\n虽然各个国家都已掌握了此类原料的基本运用技术，但只有朱庇特人被认为是富勒烯应用方面的真正专家。这也是其他各国难以在关键科技上撼动朱庇特领先地位的原因之一。"
+    graphicID: 3224
+    groupID: 711
+    iconID: 3224
+    marketGroupID: 1859
+    name:
+        de: Fullerite-C540
+        en: Fullerite-C540
+        fr: Fulleride-C540
+        ja: フルライト-C540
+        ru: Fullerite-C540
+        zh: 富勒体-C540
+    portionSize: 1
+    published: true
+    radius: 100.0
+    volume: 10.0

@@ -90,6 +90,8 @@ export default class ReactionProductionEfficiency extends React.Component {
                   <dd> {String(this.props.data.activities.reaction.product.buy_price).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</dd>
                   <dt>Цена за партию (buy)</dt>
                   <dd>{String(this.props.data.activities.reaction.product.buy_price*productionCountResult).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</dd>
+                  <dt>Объем спроса</dt>
+                  <dd>{String(this.props.data.activities.reaction.product.profitableMarket).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} шт.</dd>
                 </dl>
               </div>
               <div className="col-md-4">
@@ -97,7 +99,7 @@ export default class ReactionProductionEfficiency extends React.Component {
                   {
                     this.props.data.activities.reaction.materials.map((e, i) =>
                     <div key={i}>
-                    <dt>{e.name}</dt>
+                    <dt><img src={'https://image.eveonline.com/Type/' + e.typeID + '_32.png'} />{e.name}</dt>
                     <dd>{e.economyQuantity} шт. - {String(e.price).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK - {String(Math.ceil(e.setPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</dd>
                     </div>
                     )
