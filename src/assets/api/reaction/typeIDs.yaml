@@ -1,296 +1,135 @@
-16633:
-    basePrice: 2
+30370:
     description:
-        en: Raw fossil fuels such as petroleum and mineral oil. Hydrocarbons are crucial building blocks in the production of organic chemicals, plastics and waxes, and are thus one of the most useful materials harvestable from any source.
-        ru: Ископаемое топливо, такое как нефть и минеральное масло. Углероды — основной материал для производства органических химических веществ, пластмасс и пластичных материалов, и, таким образом, они представляют собой ценнейшее вещество.
-    groupID: 427
-    iconID: 2669
-    marketGroupID: 501
+        en: ""
+        ru: ''
+    graphicID: 3218
+    groupID: 711
+    iconID: 3218
+    marketGroupID: 1859
     name:
-        en: Hydrocarbons
-        ru: Hydrocarbons
+        en: Fullerite-C50
+        ru: Fullerite-C50
     portionSize: 1
     published: true
-    volume: 0.05
-16634:
-    basePrice: 2
+    radius: 100.0
+    volume: 1.0
+30371:
     description:
-        en: Nitrogen, oxygen, neon, helium, xenon, methane, nitrous oxide, ozone - a host of trapped vapours that can be used to catalyze numerous chemical processes.
-        ru: Азот, кислород, неон, гелий, ксенон, метан, закись азота, озон - разнообразные атмосферные газы, которые могут служить катализатором многочисленных химических процессов.
-    groupID: 427
-    iconID: 2668
-    marketGroupID: 501
+        en: ""
+        ru: ''
+    graphicID: 3218
+    groupID: 711
+    iconID: 3218
+    marketGroupID: 1859
     name:
-        en: Atmospheric Gases
-        ru: Atmospheric Gases
+        en: Fullerite-C60
+        ru: Fullerite-C60
     portionSize: 1
     published: true
-    volume: 0.05
-16635:
-    basePrice: 2
+    radius: 100.0
+    volume: 1.0
+30372:
     description:
-        en: Deposits formed by the precipitation of mineral-rich water. Usable for many purposes, mostly as building-block components for more complex materials.
-        ru: Осадки, образующиеся в воде с высоким содержанием минералов. Используются для различных целей, главным образом для создания более сложных материалов.
-    groupID: 427
-    iconID: 2667
-    marketGroupID: 501
+        en: ""
+        ru: ''
+    graphicID: 3220
+    groupID: 711
+    iconID: 3220
+    marketGroupID: 1859
     name:
-        en: Evaporite Deposits
-        ru: Evaporite Deposits
+        en: Fullerite-C70
+        ru: Fullerite-C70
     portionSize: 1
     published: true
-    volume: 0.05
-16636:
-    basePrice: 2
+    radius: 100.0
+    volume: 1.0
+30373:
     description:
-        en: Various types of silicon-based and oxygen-based rock formations.
-        ru: Различные виды скальных образований на основе кремния и кислорода.
-    groupID: 427
-    iconID: 2670
-    marketGroupID: 501
+        en: ""
+        ru: ''
+    graphicID: 3223
+    groupID: 711
+    iconID: 3223
+    marketGroupID: 1859
     name:
-        en: Silicates
-        ru: Silicates
+        en: Fullerite-C72
+        ru: Fullerite-C72
     portionSize: 1
     published: true
-    volume: 0.05
-16637:
-    basePrice: 8
+    radius: 100.0
+    volume: 2.0
+30374:
     description:
-        en: One of the hardest metals in existence. Able to form extremely durable alloys with various other elements, and very useful in a number of deep-space scenarios.
-        ru: Один из самых твердых из существующих металлов. Вместе с другими элементами может образовывать исключительно прочные сплавы, благодаря чему очень полезен в космосе.
-    groupID: 427
-    iconID: 2580
-    marketGroupID: 501
-    mass: 7720
+        en: ""
+        ru: ''
+    graphicID: 3222
+    groupID: 711
+    iconID: 3222
+    marketGroupID: 1859
     name:
-        en: Tungsten
-        ru: Tungsten
+        en: Fullerite-C84
+        ru: Fullerite-C84
     portionSize: 1
     published: true
-    volume: 0.05
-16638:
-    basePrice: 8
+    radius: 100.0
+    volume: 2.0
+30375:
     description:
-        en: An extremely fatigue-resistant yet light-weight metallic element, useful as a refractory metal and employable in a wide variety of potential scenarios. One of the primary building blocks of a whole host of materials.
-        ru: Очень прочный и в то же время легкий металл с отражательными свойствами широкого спектра применения. Используется в качестве основы для производства огромного числа материалов.
-    groupID: 427
-    iconID: 2582
-    marketGroupID: 501
-    mass: 1800
+        en: ""
+        ru: ''
+    graphicID: 3222
+    groupID: 711
+    iconID: 3222
+    marketGroupID: 1859
     name:
-        en: Titanium
-        ru: Titanium
+        en: Fullerite-C28
+        ru: Fullerite-C28
     portionSize: 1
     published: true
-    volume: 0.05
-16639:
-    basePrice: 8
+    radius: 100.0
+    volume: 2.0
+30376:
     description:
-        en: A transition element harnessed from rare minerals, Scandium commonly sees use as a component of high-intensity light fixtures for deep-space environments, as well as being a strong building block in many deep-space structures and spacecraft due to its extremely high melting point.
-        ru: Скандий — это переходный химический элемент, получаемый путем переработки редких минералов. Чаще всего он используется при производстве сверхмощных источников света для использования в дальнем космосе; благодаря невероятно высокой температуре плавления его также применяют при создании космических кораблей и сооружений.
-    groupID: 427
-    iconID: 2577
-    marketGroupID: 501
-    mass: 1196
+        en: ""
+        ru: ''
+    graphicID: 3225
+    groupID: 711
+    iconID: 3225
+    marketGroupID: 1859
     name:
-        en: Scandium
-        ru: Scandium
+        en: Fullerite-C32
+        ru: Fullerite-C32
     portionSize: 1
     published: true
-    volume: 0.05
-16640:
-    basePrice: 8
+    radius: 100.0
+    volume: 5.0
+30377:
     description:
-        en: A silvery ferromagnetic element, used among other things in superalloys, magnetics, battery electrodes, and various metals and steels.
-        ru: Серебристый ферромагнетический элемент, используемый в суперсплавах, магнетике, электродах и разнообрзных металлах и стали.
-    groupID: 427
-    iconID: 2570
-    marketGroupID: 501
-    mass: 3544
+        en: ""
+        ru: ''
+    graphicID: 3224
+    groupID: 711
+    iconID: 3224
+    marketGroupID: 1859
     name:
-        en: Cobalt
-        ru: Cobalt
+        en: Fullerite-C320
+        ru: Fullerite-C320
     portionSize: 1
     published: true
-    volume: 0.05
-16641:
-    basePrice: 16
+    radius: 100.0
+    volume: 5.0
+30378:
     description:
-        en: A steel-gray, lustrous metal with a wide variety of applications. Commonly used as a catalyst for chemical processes.
-        ru: Блестящий сероватый металл, применяемый в различных областях. Обычно используется в качестве катализатора в химических реакциях.
-    groupID: 427
-    iconID: 2569
-    marketGroupID: 501
-    mass: 4290
+        en: ""
+        ru: ''
+    graphicID: 3224
+    groupID: 711
+    iconID: 3224
+    marketGroupID: 1859
     name:
-        en: Chromium
-        ru: Chromium
+        en: Fullerite-C540
+        ru: Fullerite-C540
     portionSize: 1
     published: true
-    volume: 0.05
-16642:
-    basePrice: 16
-    description:
-        en: A soft, white metal with a wide-ranging arsenal of applications both nuclear and structural. Also a versatile catalyst in compound form.
-        ru: Мягкий белый металл, применяющийся в различных областях, от ядерной энергетики до строительства. Также может служить катализатором.
-    groupID: 427
-    iconID: 2581
-    marketGroupID: 501
-    mass: 6000
-    name:
-        en: Vanadium
-        ru: Vanadium
-    portionSize: 1
-    published: true
-    volume: 0.05
-16643:
-    basePrice: 16
-    description:
-        en: A soft, malleable metal often occuring with zinc ores. Has a wide variety of applications; used in electroplating, superconductors, and as an alloy in various types of structure and equipment.
-        ru: Мягкий, ковкий металл, часто встречающийся в цинковых рудах. Применяется во множестве областей, в том числе в гальванике и сверхпроводниках; в составе сплавов применяется как конструкционный материал в строительстве и производстве оборудования.
-    groupID: 427
-    iconID: 2567
-    marketGroupID: 501
-    mass: 3476
-    name:
-        en: Cadmium
-        ru: Cadmium
-    portionSize: 1
-    published: true
-    volume: 0.05
-16644:
-    basePrice: 16
-    description:
-        en: A corrosion-resistant precious metal with an extremely wide range of applications. Often used as a chemical catalyst.
-        ru: Ценный нержавеющий металл, применяемый в различных областях. Часто используется в качестве катализатора в химических реакциях.
-    groupID: 427
-    iconID: 2575
-    marketGroupID: 501
-    mass: 21460
-    name:
-        en: Platinum
-        ru: Platinum
-    portionSize: 1
-    published: true
-    volume: 0.05
-16646:
-    basePrice: 64
-    description:
-        en: Also known as quicksilver, mercury is a silvery liquid metal whose primary characteristic is the ease with which it forms amalgamatic alloys with other metals. It is therefore extremely useful as a base-block component.
-        ru: Ртуть, которую также называют живое серебро, — жидкий металл серебристого цвета. Его основная характеристика — легкость, с которой он образует амальгамы с другими металлами. Очень часто используется как основа для производства лигатурных материалов.
-    groupID: 427
-    iconID: 2573
-    marketGroupID: 501
-    mass: 10826
-    name:
-        en: Mercury
-        ru: Mercury
-    portionSize: 1
-    published: true
-    volume: 0.05
-16647:
-    basePrice: 64
-    description:
-        en: A golden Alkali metal used primarily in propulsion systems. Also performs a variety of catalytic functions in the nuclear and photoelectric arenas.
-        ru: Щелочной металл золотистого цвета, используется, в основном, в двигателях. Также служит катализатором в ядерной энергетике и фотоэлектрике.
-    groupID: 427
-    iconID: 2568
-    marketGroupID: 501
-    mass: 1544
-    name:
-        en: Caesium
-        ru: Caesium
-    portionSize: 1
-    published: true
-    volume: 0.05
-16648:
-    basePrice: 64
-    description:
-        en: A silvery, corrosion-resistant metal used in various metal alloys and, to a lesser extent, in hybrid weapons systems.
-        ru: Серебристый, стойкий к коррозии метал, используемый во многих сплавах и комбинированных оружейных системах.
-    groupID: 427
-    iconID: 2572
-    marketGroupID: 501
-    mass: 10640
-    name:
-        en: Hafnium
-        ru: Hafnium
-    portionSize: 1
-    published: true
-    volume: 0.05
-16649:
-    basePrice: 64
-    description:
-        en: A silvery metal, primarily used as a corrosion inhibitor and a superconductor.
-        ru: Серебристый металл, преимущественно используется в качестве ингибитора коррозии и высокопробного проводника.
-    groupID: 427
-    iconID: 2578
-    marketGroupID: 501
-    mass: 8800
-    name:
-        en: Technetium
-        ru: Technetium
-    portionSize: 1
-    published: true
-    volume: 0.05
-16650:
-    basePrice: 256
-    description:
-        en: A relatively rare soft metal, easily dissolvable in mineral acids. Used primarily in the production of laser materials.
-        ru: Относительно редкий мягкий металл, легко растворяется в минеральных кислотах. Используется для производства лазерных материалов.
-    groupID: 427
-    iconID: 2571
-    marketGroupID: 501
-    mass: 8550
-    name:
-        en: Dysprosium
-        ru: Dysprosium
-    portionSize: 1
-    published: true
-    volume: 0.05
-16651:
-    basePrice: 256
-    description:
-        en: A rare, silvery metal. Due to its atmospheric reactiveness, Neodymium is used primarily for light-refractive purposes and as a colorant for other materials.
-        ru: Редкий серебристый металл. Из-за реакции с атмосферой неодим используется в основном для отражения света и в качестве красителя для других материалов.
-    groupID: 427
-    iconID: 2574
-    marketGroupID: 501
-    mass: 7010
-    name:
-        en: Neodymium
-        ru: Neodymium
-    portionSize: 1
-    published: true
-    volume: 0.05
-16652:
-    basePrice: 256
-    description:
-        en: An extremely radioactive luminescent metal, sometimes used as a heating component and a building block for laser generators.
-        ru: Крайне радиоактивный люминесцентный металл, иногда используемый в качестве согревающего компонента и компонента лазерных генераторов.
-    groupID: 427
-    iconID: 2576
-    marketGroupID: 501
-    mass: 7260
-    name:
-        en: Promethium
-        ru: Promethium
-    portionSize: 1
-    published: true
-    volume: 0.05
-16653:
-    basePrice: 256
-    description:
-        en: A soft, rare, silvery-gray metal. Used in the creation of lasers, in addition to possessing a range of radiation-related production applications.
-        ru: Редкий мягкий серебристо-серый металл. Используется для производства лазеров, а также применяется в областях, связанных с радиоактивным излучением.
-    groupID: 427
-    iconID: 2579
-    marketGroupID: 501
-    mass: 9320
-    name:
-        en: Thulium
-        ru: Thulium
-    portionSize: 1
-    published: true
-    volume: 0.05
+    radius: 100.0
+    volume: 10.0

@@ -1,7 +1,7 @@
 
 import request from 'then-request'
 
-export const getCompositeReactionBlueprints = (locationID, systemProductionIndex) => dispatch => {
+export const getReactionBlueprints = (blueprintsGroupID, locationID, systemProductionIndex) => dispatch => {
 
   dispatch({ type: 'SYSTEM_INDEX', payload: systemProductionIndex })
 
@@ -23,7 +23,7 @@ export const getCompositeReactionBlueprints = (locationID, systemProductionIndex
 
     let myIndex = blueprintTypeIDsStore.index('groupID');
 
-    let keyRangeValue = IDBKeyRange.only(1888);
+    let keyRangeValue = IDBKeyRange.only(blueprintsGroupID);
 
     let reactionBlueprints = [];
 

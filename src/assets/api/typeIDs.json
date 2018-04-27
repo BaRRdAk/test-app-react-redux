@@ -1,1705 +1,2157 @@
 {
-   "11530": {
-      "description": {
-         "en": "Propulsion Component used primarily in Minmatar ships as well as some propulsion tech. A component in various other technology as well.",
-         "ru": "Реактивный компонент, используемый в основном на кораблях Minmatar и в других системах реактивной тяги. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2179,
-      "marketGroupID": 1889,
-      "mass": 1,
-      "name": {
-         "en": "Plasma Thruster",
-         "ru": "Plasma Thruster"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 2,
-      "volume": 1
-   },
-   "11531": {
-      "description": {
-         "en": "Propulsion Component used primarily in Gallente ships. A component in various other technology as well.",
-         "ru": "Реактивный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2178,
-      "marketGroupID": 1888,
-      "mass": 1,
-      "name": {
-         "en": "Ion Thruster",
-         "ru": "Ion Thruster"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 8,
-      "volume": 1
-   },
-   "11532": {
-      "description": {
-         "en": "Propulsion Component used primarily in Amarr ships. A component in various other technology as well.",
-         "ru": "Реактивный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2180,
-      "marketGroupID": 802,
-      "mass": 1,
-      "name": {
-         "en": "Fusion Thruster",
-         "ru": "Fusion Thruster"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 4,
-      "volume": 1
-   },
-   "11533": {
-      "description": {
-         "en": "Propulsion Component used primarily in Caldari ships. A component in various other technology as well.",
-         "ru": "Реактивный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2177,
-      "marketGroupID": 803,
-      "mass": 1,
-      "name": {
-         "en": "Magpulse Thruster",
-         "ru": "Magpulse Thruster"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 1,
-      "volume": 1
-   },
-   "11534": {
-      "description": {
-         "en": "Sensor Component used primarily in Caldari ships. A component in various other technology as well.",
-         "ru": "Сенсорный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2181,
-      "marketGroupID": 803,
-      "mass": 1,
-      "name": {
-         "en": "Gravimetric Sensor Cluster",
-         "ru": "Gravimetric Sensor Cluster"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 1,
-      "volume": 1
-   },
-   "11535": {
-      "description": {
-         "en": "Sensor Component used primarily in Gallente ships. A component in various other technology as well.",
-         "ru": "Сенсорный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2182,
-      "marketGroupID": 1888,
-      "mass": 1,
-      "name": {
-         "en": "Magnetometric Sensor Cluster",
-         "ru": "Magnetometric Sensor Cluster"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 8,
-      "volume": 1
-   },
-   "11536": {
-      "description": {
-         "en": "Sensor Component used primarily in Minmatar ships. A component in various other technology as well.",
-         "ru": "Сенсорный компонент, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2183,
-      "marketGroupID": 1889,
-      "mass": 1,
-      "name": {
-         "en": "Ladar Sensor Cluster",
-         "ru": "Ladar Sensor Cluster"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 2,
-      "volume": 1
-   },
-   "11537": {
-      "description": {
-         "en": "Sensor Component used primarily in Amarr ships. A component in various other technology as well.",
-         "ru": "Сенсорный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2184,
-      "marketGroupID": 802,
-      "mass": 1,
-      "name": {
-         "en": "Radar Sensor Cluster",
-         "ru": "Radar Sensor Cluster"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 4,
-      "volume": 1
-   },
-   "11538": {
-      "description": {
-         "en": "CPU Component used primarily in Minmatar ships. A component in various other technology as well.",
-         "ru": "Компонент центрального процессора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2187,
-      "marketGroupID": 1889,
-      "mass": 1,
-      "name": {
-         "en": "Nanomechanical Microprocessor",
-         "ru": "Nanomechanical Microprocessor"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 2,
-      "volume": 1
-   },
-   "11539": {
-      "description": {
-         "en": "CPU Component used primarily in Amarr ships. A component in various other technology as well.",
-         "ru": "Компонент центрального процессора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2188,
-      "marketGroupID": 802,
-      "mass": 1,
-      "name": {
-         "en": "Nanoelectrical Microprocessor",
-         "ru": "Nanoelectrical Microprocessor"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 4,
-      "volume": 1
-   },
-   "11540": {
-      "description": {
-         "en": "CPU Component used primarily in Caldari ships. A component in various other technology as well.",
-         "ru": "Компонент центрального процессора, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2185,
-      "marketGroupID": 803,
-      "mass": 1,
-      "name": {
-         "en": "Quantum Microprocessor",
-         "ru": "Quantum Microprocessor"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 1,
-      "volume": 1
-   },
-   "11541": {
-      "description": {
-         "en": "CPU Component used primarily in Gallente ships. A component in various other technology as well.",
-         "ru": "Компонент центрального процессора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2186,
-      "marketGroupID": 1888,
-      "mass": 1,
-      "name": {
-         "en": "Photon Microprocessor",
-         "ru": "Photon Microprocessor"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 8,
-      "volume": 1
-   },
-   "11542": {
-      "description": {
-         "en": "Armor Component used primarily in Minmatar ships. A component in various other technology as well.",
-         "ru": "Компонент брони, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2191,
-      "marketGroupID": 1889,
-      "mass": 1,
-      "name": {
-         "en": "Fernite Carbide Composite Armor Plate",
-         "ru": "Fernite Carbide Composite Armor Plate"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 2,
-      "volume": 1
-   },
-   "11543": {
-      "description": {
-         "en": "Armor Component used primarily in Amarr ships. A component in various other technology as well.",
-         "ru": "Компонент брони, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2192,
-      "marketGroupID": 802,
-      "mass": 1,
-      "name": {
-         "en": "Tungsten Carbide Armor Plate",
-         "ru": "Tungsten Carbide Armor Plate"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 4,
-      "volume": 1
-   },
-   "11544": {
-      "description": {
-         "en": "Armor Component used primarily in Caldari ships. A component in various other technology as well.",
-         "ru": "Компонент брони, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2189,
-      "marketGroupID": 803,
-      "mass": 1,
-      "name": {
-         "en": "Titanium Diborite Armor Plate",
-         "ru": "Titanium Diborite Armor Plate"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 1,
-      "volume": 1
-   },
-   "11545": {
-      "description": {
-         "en": "Armor Component used primarily in Gallente ships. A component in various other technology as well.",
-         "ru": "Компонент брони, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2190,
-      "marketGroupID": 1888,
-      "mass": 1,
-      "name": {
-         "en": "Crystalline Carbonide Armor Plate",
-         "ru": "Crystalline Carbonide Armor Plate"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 8,
-      "volume": 1
-   },
-   "11547": {
-      "description": {
-         "en": "Power Core component used primarily in Gallente ships. A component in various other technologies as well.",
-         "ru": "Компонент силовой установки, используемый преимущественно на галлентских кораблях. Кроме того, применяется в ряде других проектов."
-      },
-      "groupID": 334,
-      "iconID": 2194,
-      "marketGroupID": 1888,
-      "mass": 1,
-      "name": {
-         "en": "Fusion Reactor Unit",
-         "ru": "Fusion Reactor Unit"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 8,
-      "volume": 1
-   },
-   "11548": {
-      "description": {
-         "en": "Power Core component used primarily in Minmatar ships. A component in various other technology as well.",
-         "ru": "Компонент силового ядра, используемый преимущественно на кораблях Minmatar. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2195,
-      "marketGroupID": 1889,
-      "mass": 1,
-      "name": {
-         "en": "Nuclear Reactor Unit",
-         "ru": "Nuclear Reactor Unit"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 2,
-      "volume": 1
-   },
-   "11549": {
-      "description": {
-         "en": "Power Core component used primarily in Amarr ships. A component in various other technology as well.",
-         "ru": "Компонент силового ядра, используемый преимущественно на кораблях Amarr. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2196,
-      "marketGroupID": 802,
-      "mass": 1,
-      "name": {
-         "en": "Antimatter Reactor Unit",
-         "ru": "Antimatter Reactor Unit"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 4,
-      "volume": 1
-   },
-   "11550": {
-      "description": {
-         "en": "Power Core component used primarily in Caldari ships. A component in various other technology as well.",
-         "ru": "Компонент энергосети, используемый преимущественно на кораблях Caldari. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2193,
-      "marketGroupID": 803,
-      "mass": 1,
-      "name": {
-         "en": "Graviton Reactor Unit",
-         "ru": "Graviton Reactor Unit"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 1,
-      "volume": 1
-   },
-   "11551": {
-      "description": {
-         "en": "Capacitor component used primarily in Minmatar ships. A component in various other technology as well.",
-         "ru": "Компонент конденсатора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2199,
-      "marketGroupID": 1889,
-      "mass": 1,
-      "name": {
-         "en": "Electrolytic Capacitor Unit",
-         "ru": "Electrolytic Capacitor Unit"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 2,
-      "volume": 1
-   },
-   "11553": {
-      "description": {
-         "en": "Capacitor component used primarily in Gallente ships. A component in various other technology as well.",
-         "ru": "Компонент конденсатора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2198,
-      "marketGroupID": 1888,
-      "mass": 1,
-      "name": {
-         "en": "Oscillator Capacitor Unit",
-         "ru": "Oscillator Capacitor Unit"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 8,
-      "volume": 1
-   },
-   "11554": {
-      "description": {
-         "en": "Capacitor component used primarily in Amarr ships. A component in various other technology as well.",
-         "ru": "Компонент конденсатора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2200,
-      "marketGroupID": 802,
-      "mass": 1,
-      "name": {
-         "en": "Tesseract Capacitor Unit",
-         "ru": "Tesseract Capacitor Unit"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 4,
-      "volume": 1
-   },
-   "11555": {
-      "description": {
-         "en": "Shield Component used primarily in Minmatar ships. A component in various other technology as well.",
-         "ru": "Компонент щита, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2203,
-      "marketGroupID": 1889,
-      "mass": 1,
-      "name": {
-         "en": "Deflection Shield Emitter",
-         "ru": "Deflection Shield Emitter"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 2,
-      "volume": 1
-   },
-   "11556": {
-      "description": {
-         "en": "Shield Component used primarily in Gallente ships. A component in various other technology as well.",
-         "ru": "Компонент щита, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2202,
-      "marketGroupID": 1888,
-      "mass": 1,
-      "name": {
-         "en": "Pulse Shield Emitter",
-         "ru": "Pulse Shield Emitter"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 8,
-      "volume": 1
-   },
-   "11557": {
-      "description": {
-         "en": "Shield Component used primarily in Amarr ships. A component in various other technology as well.",
-         "ru": "Компонент щита, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2204,
-      "marketGroupID": 802,
-      "mass": 1,
-      "name": {
-         "en": "Linear Shield Emitter",
-         "ru": "Linear Shield Emitter"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 4,
-      "volume": 1
-   },
-   "11558": {
-      "description": {
-         "en": "Shield Component used primarily in Caldari ships. A component in various other technology as well.",
-         "ru": "Компонент щита, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2201,
-      "marketGroupID": 803,
-      "mass": 1,
-      "name": {
-         "en": "Sustained Shield Emitter",
-         "ru": "Sustained Shield Emitter"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 1,
-      "volume": 1
-   },
-   "11688": {
-      "description": {
-         "en": "Weapon Component used primarily in Blasters. A component in various other technology as well.",
-         "ru": "Орудийный компонент, используемый в основном в бластерах. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2233,
-      "marketGroupID": 1888,
-      "mass": 1,
-      "name": {
-         "en": "Particle Accelerator Unit",
-         "ru": "Particle Accelerator Unit"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 8,
-      "volume": 1
-   },
-   "11689": {
-      "description": {
-         "en": "Weapon Component used primarily in Lasers. A component in various other technology as well.",
-         "ru": "Орудийный компонент, используемый в основном в лазерах. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2234,
-      "marketGroupID": 802,
-      "mass": 1,
-      "name": {
-         "en": "Laser Focusing Crystals",
-         "ru": "Laser Focusing Crystals"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 4,
-      "volume": 1
-   },
-   "11690": {
-      "description": {
-         "en": "Weapon Component used primarily in Railguns. A component in various other technology as well.",
-         "ru": "Орудийный компонент, используемый в основном в рейлганах. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2227,
-      "marketGroupID": 803,
-      "mass": 1,
-      "name": {
-         "en": "Superconductor Rails",
-         "ru": "Superconductor Rails"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 1,
-      "volume": 1
-   },
-   "11691": {
-      "description": {
-         "en": "Weapon Component used primarily in Cannons. A component in various other technology as well.",
-         "ru": "Орудийный компонент, используемый в основном в артиллерии. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2228,
-      "marketGroupID": 1889,
-      "mass": 1,
-      "name": {
-         "en": "Thermonuclear Trigger Unit",
-         "ru": "Thermonuclear Trigger Unit"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 2,
-      "volume": 1
-   },
-   "11693": {
-      "description": {
-         "en": "Weapon Component used primarily in Caldari Missiles. A component in various other technology as well.",
-         "ru": "Орудийный компонент, используемый в основном в ракетах производства Caldari. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2229,
-      "marketGroupID": 803,
-      "mass": 1,
-      "name": {
-         "en": "Graviton Pulse Generator",
-         "ru": "Graviton Pulse Generator"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 1,
-      "volume": 1
-   },
-   "11694": {
-      "description": {
-         "en": "Weapon Component used primarily in Amarr Missiles. A component in various other technology as well.",
-         "ru": "Орудийный компонент, используемый в основном в ракетах производства Amarr. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2232,
-      "marketGroupID": 802,
-      "mass": 1,
-      "name": {
-         "en": "EM Pulse Generator",
-         "ru": "EM Pulse Generator"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 4,
-      "volume": 1
-   },
-   "11695": {
-      "description": {
-         "en": "Weapon Component used primarily in Gallente Missiles. A component in various other technology as well.",
-         "ru": "Орудийный компонент, используемый в основном в ракетах производства Gallente. Применяется и в других различных технологиях."
-      },
-      "groupID": 334,
-      "iconID": 2230,
-      "marketGroupID": 1888,
-      "mass": 1,
-      "name": {
-         "en": "Plasma Pulse Generator",
-         "ru": "Plasma Pulse Generator"
-      },
-      "portionSize": 1,
-      "published": true,
-      "raceID": 8,
-      "volume": 1
-   },
-   "16670": {
-      "basePrice": 10,
-      "description": {
-         "en": "An exeptionally hard material created from crystallite alloys and carbon polymers, crystalline carbonite is a primary component in various forms of advanced Gallente technology, such as thrusters and armor plating.",
-         "ru": "Исключительно тяжелый материал, созданный из кристаллических сплавов и углеродных полимеров. Кристаллический карбонид является основным компонентом разных форм продвинутых технологий Gallente, таких как щиты и обшивки."
-      },
-      "groupID": 429,
-      "iconID": 2679,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Crystalline Carbonide",
-         "ru": "Crystalline Carbonide"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "16671": {
-      "basePrice": 10,
-      "description": {
-         "en": "Due to its immense strength and molecular malleability, Titanium Carbide has become the darling of the Caldari technological industry, seeing use in everything from reactor units to weapons systems.",
-         "ru": "Благодаря своей чрезвычайной силе и молекулярной пластичности, карбид титана стал очень любим технологической промышленностью Caldari, которые разглядели в нем потенциал использования как в реакторах, так и оружейных системах."
-      },
-      "groupID": 429,
-      "iconID": 2681,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Titanium Carbide",
-         "ru": "Titanium Carbide"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "16672": {
-      "basePrice": 10,
-      "description": {
-         "en": "Tungsten Carbide is a much-used composite, greatly favored by the Amarrians for construction of their advanced technologies.",
-         "ru": "Карбид тунгстена - композитный материал, широко используемый Amarr в передовых технологиях."
-      },
-      "groupID": 429,
-      "iconID": 2682,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Tungsten Carbide",
-         "ru": "Tungsten Carbide"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "16673": {
-      "basePrice": 10,
-      "description": {
-         "en": "A revolutionary ceramic carbide compound, much favored by the Matari both for its earthy quality and its extremely wide range of technological uses.",
-         "ru": "Революционная керамическая карбидовая смесь, любимая Minmatar как за ее земные качества, так и за ряд способов ее использования в технологиях."
-      },
-      "groupID": 429,
-      "iconID": 2680,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Fernite Carbide",
-         "ru": "Fernite Carbide"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.01
-   },
-   "16678": {
-      "basePrice": 109,
-      "description": {
-         "en": "Extremely strong fibers, used in laminated armor plating.",
-         "ru": "Крайне прочные волокна, используемые в многослойной бронированной обшивке."
-      },
-      "groupID": 429,
-      "iconID": 2662,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Sylramic Fibers",
-         "ru": "Sylramic Fibers"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.05
-   },
-   "16679": {
-      "basePrice": 861,
-      "description": {
-         "en": "Fullerides are highly superconductive materials used in capacitors, armor plating and weapons systems.",
-         "ru": "Фуллериды - высокопроводниковые материалы, используемые в конденсаторах, бронированной обшивке и системах оружия."
-      },
-      "groupID": 429,
-      "iconID": 2684,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Fullerides",
-         "ru": "Fullerides"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.15
-   },
-   "16680": {
-      "basePrice": 490,
-      "description": {
-         "en": "A extremely heat-resistant material used in thrusters and as heat shielding.",
-         "ru": "Чрезвычайно термостойкий материал, используемый в маневровых двигателях и системах защиты от перегрева."
-      },
-      "groupID": 429,
-      "iconID": 2661,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Phenolic Composites",
-         "ru": "Phenolic Composites"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.2
-   },
-   "16681": {
-      "basePrice": 2310,
-      "description": {
-         "en": "Extremely complex molecular-level transistors used in nanoscale electronics, such as microprocessors and capacitor units.",
-         "ru": "Очень сложные молекулярные транзисторы, используемые в наноэлектронных устройствах, таких как микропроцессоры или конденсаторы."
-      },
-      "groupID": 429,
-      "iconID": 2686,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Nanotransistors",
-         "ru": "Nanotransistors"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.25
-   },
-   "16682": {
-      "basePrice": 2352,
-      "description": {
-         "en": "Whenever the transmission of visual or numerical data is a matter of life and death, the data network needs the fastest possible relay system. Hypersynaptic fibers, due to their immense frequency range and speed of conduction, have become the industry standard for sensor arrays and targeting systems.",
-         "ru": "Везде, где крайне важна передача наглядных или цифровых данных, для сетей данных требуется как можно более быстрая релейная система. Гиперсинаптические волокна обладают огромным диапазоном частот и скоростью передачи, они стали стандартным материалом для сенсоров и прицельных систем."
-      },
-      "groupID": 429,
-      "iconID": 2685,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Hypersynaptic Fibers",
-         "ru": "Hypersynaptic Fibers"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 0.6
-   },
-   "16683": {
-      "basePrice": 5512,
-      "description": {
-         "en": "A magnetised liquid, used to control the flow of cold plasma fields in shield systems, reactor cores, pulse generators and thruster systems.",
-         "ru": "Магнетическая жидкость, используемая, чтобы контролировать поток холодных плазменных полей в щитовых системах, реакторных ядрах, пульсовых генераторах и тяговых системах."
-      },
-      "groupID": 429,
-      "iconID": 2678,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Ferrogel",
-         "ru": "Ferrogel"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 1
-   },
-   "17317": {
-      "basePrice": 18860,
-      "description": {
-         "en": "One of the most complex composites known to man, fermionic condensates consist of superconductive boson particles all occupying the same quantum state, thus creating a nearly resistance-free environment for electric current. These condensates have therefore become a staple in advanced reactor manufacture.",
-         "ru": "Фермионные конденсаты состоят из сверхпроводящих бозонных частиц в одинаковом квантовом состоянии, за счет чего они создают электропроводящую среду с почти нулевым сопротивлением. Этот конденсат используется при производстве высокоэффективных реакторов."
-      },
-      "groupID": 429,
-      "iconID": 2683,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Fermionic Condensates",
-         "ru": "Fermionic Condensates"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 1.3
-   },
-   "33359": {
-      "basePrice": 4759,
-      "description": {
-         "en": "A carefully engineered latticework designed for precise optical control, photonic metamaterials are a component in advanced Gallente microprocessors and capacitor units.",
-         "ru": "Фотонные метаматериалы имеют сложную решетчатую структуру, обеспечивающую сверхточный оптический контроль; они широко используются в производстве новейших микропроцессоров и накопителей Галлентской Федерации."
-      },
-      "groupID": 429,
-      "iconID": 2678,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Photonic Metamaterials",
-         "ru": "Photonic Metamaterials"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 1
-   },
-   "33360": {
-      "basePrice": 6811,
-      "description": {
-         "en": "An advanced composite designed to manipulate electromagnetic waves just beyond the microwave band, terahertz metamaterials are found in the latest generation of processors and capacitor units in the Amarr Empire.",
-         "ru": "Терагерцевые метаматериалы представляют собой усовершенствованный композитный материал, предназначенный для манипулирования электромагнитными волнами с частотой, лишь немного превышающей частоты микроволнового диапазона, и они применяются для производства новейшего поколения процессоров и накопителей империи Амарр."
-      },
-      "groupID": 429,
-      "iconID": 2678,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Terahertz Metamaterials",
-         "ru": "Terahertz Metamaterials"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 1
-   },
-   "33361": {
-      "basePrice": 3793,
-      "description": {
-         "en": "Carefully fabricated composites of neo mercurite and fernite alloy, plasmonic metamaterials are a key component in advanced Minmatar processors and capacitor units.",
-         "ru": "Плазмонические метаматериалы -- сложные композиты из неомеркурита и фернитового сплава, и в республике Минматар они являются ключевым компонентом в производстве новейшего поколения процессоров и накопителей. "
-      },
-      "groupID": 429,
-      "iconID": 2678,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Plasmonic Metamaterials",
-         "ru": "Plasmonic Metamaterials"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 1
-   },
-   "33362": {
-      "basePrice": 2960,
-      "description": {
-         "en": "Labs in the Caldari State have recently managed to construct the first known composites with negative refractive indexes. Known as nonlinear metamaterials, these advanced composites are finding increasing use in the State's latest capacitor units and microprocessors.",
-         "ru": "В лабораториях государства Калдари недавно удалось получить первые композитные материалы с негативным коэффициентом рефракции. Им было присвоено название нелинейных метаматериалов, и они находят все более широкое применение в производстве новейших накопителей и микропроцессоров государства."
-      },
-      "groupID": 429,
-      "iconID": 2678,
-      "marketGroupID": 499,
-      "name": {
-         "en": "Nonlinear Metamaterials",
-         "ru": "Nonlinear Metamaterials"
-      },
-      "portionSize": 1,
-      "published": true,
-      "volume": 1
-   },
-   "11552": {
-     "description": {
-       "en": "Capacitor component used primarily in Caldari ships. A component in various other technology as well.",
-       "ru": "Компонент конденсатора, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
-     },
-     "groupID": 334,
-     "iconID": 2197,
-     "marketGroupID": 803,
-     "mass": 1,
-     "name": {
-       "en": "Scalar Capacitor Unit",
-       "ru": "Scalar Capacitor Unit"
-     },
-     "portionSize": 1,
-     "published": true,
-     "raceID": 1,
-     "volume": 1
-   },
-   "11692": {
-     "description": {
-       "en": "Weapon Component used primarily in Minmatar Missiles. A component in various other technology as well.",
-       "ru": "Орудийный компонент, используемый в основном в ракетах производства Minmatar. Применяется и в других различных технологиях."
-     },
-     "groupID": 334,
-     "iconID": 2231,
-     "marketGroupID": 1889,
-     "mass": 1,
-     "name": {
-       "en": "Nuclear Pulse Generator",
-       "ru": "Nuclear Pulse Generator"
-     },
-     "portionSize": 1,
-     "published": true,
-     "raceID": 2,
-     "volume": 1
-   },
+  "11530": {
+    "description": {
+      "en": "Propulsion Component used primarily in Minmatar ships as well as some propulsion tech. A component in various other technology as well.",
+      "ru": "Реактивный компонент, используемый в основном на кораблях Minmatar и в других системах реактивной тяги. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2179,
+    "marketGroupID": 1889,
+    "mass": 1,
+    "name": {
+      "en": "Plasma Thruster",
+      "ru": "Plasma Thruster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 2,
+    "volume": 1
+  },
+  "11531": {
+    "description": {
+      "en": "Propulsion Component used primarily in Gallente ships. A component in various other technology as well.",
+      "ru": "Реактивный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2178,
+    "marketGroupID": 1888,
+    "mass": 1,
+    "name": {
+      "en": "Ion Thruster",
+      "ru": "Ion Thruster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 8,
+    "volume": 1
+  },
+  "11532": {
+    "description": {
+      "en": "Propulsion Component used primarily in Amarr ships. A component in various other technology as well.",
+      "ru": "Реактивный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2180,
+    "marketGroupID": 802,
+    "mass": 1,
+    "name": {
+      "en": "Fusion Thruster",
+      "ru": "Fusion Thruster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 1
+  },
+  "11533": {
+    "description": {
+      "en": "Propulsion Component used primarily in Caldari ships. A component in various other technology as well.",
+      "ru": "Реактивный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2177,
+    "marketGroupID": 803,
+    "mass": 1,
+    "name": {
+      "en": "Magpulse Thruster",
+      "ru": "Magpulse Thruster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "volume": 1
+  },
+  "11534": {
+    "description": {
+      "en": "Sensor Component used primarily in Caldari ships. A component in various other technology as well.",
+      "ru": "Сенсорный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2181,
+    "marketGroupID": 803,
+    "mass": 1,
+    "name": {
+      "en": "Gravimetric Sensor Cluster",
+      "ru": "Gravimetric Sensor Cluster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "volume": 1
+  },
+  "11535": {
+    "description": {
+      "en": "Sensor Component used primarily in Gallente ships. A component in various other technology as well.",
+      "ru": "Сенсорный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2182,
+    "marketGroupID": 1888,
+    "mass": 1,
+    "name": {
+      "en": "Magnetometric Sensor Cluster",
+      "ru": "Magnetometric Sensor Cluster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 8,
+    "volume": 1
+  },
+  "11536": {
+    "description": {
+      "en": "Sensor Component used primarily in Minmatar ships. A component in various other technology as well.",
+      "ru": "Сенсорный компонент, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2183,
+    "marketGroupID": 1889,
+    "mass": 1,
+    "name": {
+      "en": "Ladar Sensor Cluster",
+      "ru": "Ladar Sensor Cluster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 2,
+    "volume": 1
+  },
+  "11537": {
+    "description": {
+      "en": "Sensor Component used primarily in Amarr ships. A component in various other technology as well.",
+      "ru": "Сенсорный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2184,
+    "marketGroupID": 802,
+    "mass": 1,
+    "name": {
+      "en": "Radar Sensor Cluster",
+      "ru": "Radar Sensor Cluster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 1
+  },
+  "11538": {
+    "description": {
+      "en": "CPU Component used primarily in Minmatar ships. A component in various other technology as well.",
+      "ru": "Компонент центрального процессора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2187,
+    "marketGroupID": 1889,
+    "mass": 1,
+    "name": {
+      "en": "Nanomechanical Microprocessor",
+      "ru": "Nanomechanical Microprocessor"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 2,
+    "volume": 1
+  },
+  "11539": {
+    "description": {
+      "en": "CPU Component used primarily in Amarr ships. A component in various other technology as well.",
+      "ru": "Компонент центрального процессора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2188,
+    "marketGroupID": 802,
+    "mass": 1,
+    "name": {
+      "en": "Nanoelectrical Microprocessor",
+      "ru": "Nanoelectrical Microprocessor"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 1
+  },
+  "11540": {
+    "description": {
+      "en": "CPU Component used primarily in Caldari ships. A component in various other technology as well.",
+      "ru": "Компонент центрального процессора, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2185,
+    "marketGroupID": 803,
+    "mass": 1,
+    "name": {
+      "en": "Quantum Microprocessor",
+      "ru": "Quantum Microprocessor"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "volume": 1
+  },
+  "11541": {
+    "description": {
+      "en": "CPU Component used primarily in Gallente ships. A component in various other technology as well.",
+      "ru": "Компонент центрального процессора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2186,
+    "marketGroupID": 1888,
+    "mass": 1,
+    "name": {
+      "en": "Photon Microprocessor",
+      "ru": "Photon Microprocessor"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 8,
+    "volume": 1
+  },
+  "11542": {
+    "description": {
+      "en": "Armor Component used primarily in Minmatar ships. A component in various other technology as well.",
+      "ru": "Компонент брони, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2191,
+    "marketGroupID": 1889,
+    "mass": 1,
+    "name": {
+      "en": "Fernite Carbide Composite Armor Plate",
+      "ru": "Fernite Carbide Composite Armor Plate"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 2,
+    "volume": 1
+  },
+  "11543": {
+    "description": {
+      "en": "Armor Component used primarily in Amarr ships. A component in various other technology as well.",
+      "ru": "Компонент брони, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2192,
+    "marketGroupID": 802,
+    "mass": 1,
+    "name": {
+      "en": "Tungsten Carbide Armor Plate",
+      "ru": "Tungsten Carbide Armor Plate"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 1
+  },
+  "11544": {
+    "description": {
+      "en": "Armor Component used primarily in Caldari ships. A component in various other technology as well.",
+      "ru": "Компонент брони, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2189,
+    "marketGroupID": 803,
+    "mass": 1,
+    "name": {
+      "en": "Titanium Diborite Armor Plate",
+      "ru": "Titanium Diborite Armor Plate"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "volume": 1
+  },
+  "11545": {
+    "description": {
+      "en": "Armor Component used primarily in Gallente ships. A component in various other technology as well.",
+      "ru": "Компонент брони, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2190,
+    "marketGroupID": 1888,
+    "mass": 1,
+    "name": {
+      "en": "Crystalline Carbonide Armor Plate",
+      "ru": "Crystalline Carbonide Armor Plate"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 8,
+    "volume": 1
+  },
+  "11547": {
+    "description": {
+      "en": "Power Core component used primarily in Gallente ships. A component in various other technologies as well.",
+      "ru": "Компонент силовой установки, используемый преимущественно на галлентских кораблях. Кроме того, применяется в ряде других проектов."
+    },
+    "groupID": 334,
+    "iconID": 2194,
+    "marketGroupID": 1888,
+    "mass": 1,
+    "name": {
+      "en": "Fusion Reactor Unit",
+      "ru": "Fusion Reactor Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 8,
+    "volume": 1
+  },
+  "11548": {
+    "description": {
+      "en": "Power Core component used primarily in Minmatar ships. A component in various other technology as well.",
+      "ru": "Компонент силового ядра, используемый преимущественно на кораблях Minmatar. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2195,
+    "marketGroupID": 1889,
+    "mass": 1,
+    "name": {
+      "en": "Nuclear Reactor Unit",
+      "ru": "Nuclear Reactor Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 2,
+    "volume": 1
+  },
+  "11549": {
+    "description": {
+      "en": "Power Core component used primarily in Amarr ships. A component in various other technology as well.",
+      "ru": "Компонент силового ядра, используемый преимущественно на кораблях Amarr. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2196,
+    "marketGroupID": 802,
+    "mass": 1,
+    "name": {
+      "en": "Antimatter Reactor Unit",
+      "ru": "Antimatter Reactor Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 1
+  },
+  "11550": {
+    "description": {
+      "en": "Power Core component used primarily in Caldari ships. A component in various other technology as well.",
+      "ru": "Компонент энергосети, используемый преимущественно на кораблях Caldari. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2193,
+    "marketGroupID": 803,
+    "mass": 1,
+    "name": {
+      "en": "Graviton Reactor Unit",
+      "ru": "Graviton Reactor Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "volume": 1
+  },
+  "11551": {
+    "description": {
+      "en": "Capacitor component used primarily in Minmatar ships. A component in various other technology as well.",
+      "ru": "Компонент конденсатора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2199,
+    "marketGroupID": 1889,
+    "mass": 1,
+    "name": {
+      "en": "Electrolytic Capacitor Unit",
+      "ru": "Electrolytic Capacitor Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 2,
+    "volume": 1
+  },
+  "11553": {
+    "description": {
+      "en": "Capacitor component used primarily in Gallente ships. A component in various other technology as well.",
+      "ru": "Компонент конденсатора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2198,
+    "marketGroupID": 1888,
+    "mass": 1,
+    "name": {
+      "en": "Oscillator Capacitor Unit",
+      "ru": "Oscillator Capacitor Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 8,
+    "volume": 1
+  },
+  "11554": {
+    "description": {
+      "en": "Capacitor component used primarily in Amarr ships. A component in various other technology as well.",
+      "ru": "Компонент конденсатора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2200,
+    "marketGroupID": 802,
+    "mass": 1,
+    "name": {
+      "en": "Tesseract Capacitor Unit",
+      "ru": "Tesseract Capacitor Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 1
+  },
+  "11555": {
+    "description": {
+      "en": "Shield Component used primarily in Minmatar ships. A component in various other technology as well.",
+      "ru": "Компонент щита, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2203,
+    "marketGroupID": 1889,
+    "mass": 1,
+    "name": {
+      "en": "Deflection Shield Emitter",
+      "ru": "Deflection Shield Emitter"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 2,
+    "volume": 1
+  },
+  "11556": {
+    "description": {
+      "en": "Shield Component used primarily in Gallente ships. A component in various other technology as well.",
+      "ru": "Компонент щита, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2202,
+    "marketGroupID": 1888,
+    "mass": 1,
+    "name": {
+      "en": "Pulse Shield Emitter",
+      "ru": "Pulse Shield Emitter"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 8,
+    "volume": 1
+  },
+  "11557": {
+    "description": {
+      "en": "Shield Component used primarily in Amarr ships. A component in various other technology as well.",
+      "ru": "Компонент щита, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2204,
+    "marketGroupID": 802,
+    "mass": 1,
+    "name": {
+      "en": "Linear Shield Emitter",
+      "ru": "Linear Shield Emitter"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 1
+  },
+  "11558": {
+    "description": {
+      "en": "Shield Component used primarily in Caldari ships. A component in various other technology as well.",
+      "ru": "Компонент щита, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2201,
+    "marketGroupID": 803,
+    "mass": 1,
+    "name": {
+      "en": "Sustained Shield Emitter",
+      "ru": "Sustained Shield Emitter"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "volume": 1
+  },
+  "11688": {
+    "description": {
+      "en": "Weapon Component used primarily in Blasters. A component in various other technology as well.",
+      "ru": "Орудийный компонент, используемый в основном в бластерах. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2233,
+    "marketGroupID": 1888,
+    "mass": 1,
+    "name": {
+      "en": "Particle Accelerator Unit",
+      "ru": "Particle Accelerator Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 8,
+    "volume": 1
+  },
+  "11689": {
+    "description": {
+      "en": "Weapon Component used primarily in Lasers. A component in various other technology as well.",
+      "ru": "Орудийный компонент, используемый в основном в лазерах. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2234,
+    "marketGroupID": 802,
+    "mass": 1,
+    "name": {
+      "en": "Laser Focusing Crystals",
+      "ru": "Laser Focusing Crystals"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 1
+  },
+  "11690": {
+    "description": {
+      "en": "Weapon Component used primarily in Railguns. A component in various other technology as well.",
+      "ru": "Орудийный компонент, используемый в основном в рейлганах. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2227,
+    "marketGroupID": 803,
+    "mass": 1,
+    "name": {
+      "en": "Superconductor Rails",
+      "ru": "Superconductor Rails"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "volume": 1
+  },
+  "11691": {
+    "description": {
+      "en": "Weapon Component used primarily in Cannons. A component in various other technology as well.",
+      "ru": "Орудийный компонент, используемый в основном в артиллерии. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2228,
+    "marketGroupID": 1889,
+    "mass": 1,
+    "name": {
+      "en": "Thermonuclear Trigger Unit",
+      "ru": "Thermonuclear Trigger Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 2,
+    "volume": 1
+  },
+  "11693": {
+    "description": {
+      "en": "Weapon Component used primarily in Caldari Missiles. A component in various other technology as well.",
+      "ru": "Орудийный компонент, используемый в основном в ракетах производства Caldari. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2229,
+    "marketGroupID": 803,
+    "mass": 1,
+    "name": {
+      "en": "Graviton Pulse Generator",
+      "ru": "Graviton Pulse Generator"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "volume": 1
+  },
+  "11694": {
+    "description": {
+      "en": "Weapon Component used primarily in Amarr Missiles. A component in various other technology as well.",
+      "ru": "Орудийный компонент, используемый в основном в ракетах производства Amarr. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2232,
+    "marketGroupID": 802,
+    "mass": 1,
+    "name": {
+      "en": "EM Pulse Generator",
+      "ru": "EM Pulse Generator"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 1
+  },
+  "11695": {
+    "description": {
+      "en": "Weapon Component used primarily in Gallente Missiles. A component in various other technology as well.",
+      "ru": "Орудийный компонент, используемый в основном в ракетах производства Gallente. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2230,
+    "marketGroupID": 1888,
+    "mass": 1,
+    "name": {
+      "en": "Plasma Pulse Generator",
+      "ru": "Plasma Pulse Generator"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 8,
+    "volume": 1
+  },
+  "16670": {
+    "basePrice": 10,
+    "description": {
+      "en": "An exeptionally hard material created from crystallite alloys and carbon polymers, crystalline carbonite is a primary component in various forms of advanced Gallente technology, such as thrusters and armor plating.",
+      "ru": "Исключительно тяжелый материал, созданный из кристаллических сплавов и углеродных полимеров. Кристаллический карбонид является основным компонентом разных форм продвинутых технологий Gallente, таких как щиты и обшивки."
+    },
+    "groupID": 429,
+    "iconID": 2679,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Crystalline Carbonide",
+      "ru": "Crystalline Carbonide"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "16671": {
+    "basePrice": 10,
+    "description": {
+      "en": "Due to its immense strength and molecular malleability, Titanium Carbide has become the darling of the Caldari technological industry, seeing use in everything from reactor units to weapons systems.",
+      "ru": "Благодаря своей чрезвычайной силе и молекулярной пластичности, карбид титана стал очень любим технологической промышленностью Caldari, которые разглядели в нем потенциал использования как в реакторах, так и оружейных системах."
+    },
+    "groupID": 429,
+    "iconID": 2681,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Titanium Carbide",
+      "ru": "Titanium Carbide"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "16672": {
+    "basePrice": 10,
+    "description": {
+      "en": "Tungsten Carbide is a much-used composite, greatly favored by the Amarrians for construction of their advanced technologies.",
+      "ru": "Карбид тунгстена - композитный материал, широко используемый Amarr в передовых технологиях."
+    },
+    "groupID": 429,
+    "iconID": 2682,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Tungsten Carbide",
+      "ru": "Tungsten Carbide"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "16673": {
+    "basePrice": 10,
+    "description": {
+      "en": "A revolutionary ceramic carbide compound, much favored by the Matari both for its earthy quality and its extremely wide range of technological uses.",
+      "ru": "Революционная керамическая карбидовая смесь, любимая Minmatar как за ее земные качества, так и за ряд способов ее использования в технологиях."
+    },
+    "groupID": 429,
+    "iconID": 2680,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Fernite Carbide",
+      "ru": "Fernite Carbide"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "16678": {
+    "basePrice": 109,
+    "description": {
+      "en": "Extremely strong fibers, used in laminated armor plating.",
+      "ru": "Крайне прочные волокна, используемые в многослойной бронированной обшивке."
+    },
+    "groupID": 429,
+    "iconID": 2662,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Sylramic Fibers",
+      "ru": "Sylramic Fibers"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16679": {
+    "basePrice": 861,
+    "description": {
+      "en": "Fullerides are highly superconductive materials used in capacitors, armor plating and weapons systems.",
+      "ru": "Фуллериды - высокопроводниковые материалы, используемые в конденсаторах, бронированной обшивке и системах оружия."
+    },
+    "groupID": 429,
+    "iconID": 2684,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Fullerides",
+      "ru": "Fullerides"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.15
+  },
+  "16680": {
+    "basePrice": 490,
+    "description": {
+      "en": "A extremely heat-resistant material used in thrusters and as heat shielding.",
+      "ru": "Чрезвычайно термостойкий материал, используемый в маневровых двигателях и системах защиты от перегрева."
+    },
+    "groupID": 429,
+    "iconID": 2661,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Phenolic Composites",
+      "ru": "Phenolic Composites"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16681": {
+    "basePrice": 2310,
+    "description": {
+      "en": "Extremely complex molecular-level transistors used in nanoscale electronics, such as microprocessors and capacitor units.",
+      "ru": "Очень сложные молекулярные транзисторы, используемые в наноэлектронных устройствах, таких как микропроцессоры или конденсаторы."
+    },
+    "groupID": 429,
+    "iconID": 2686,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Nanotransistors",
+      "ru": "Nanotransistors"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.25
+  },
+  "16682": {
+    "basePrice": 2352,
+    "description": {
+      "en": "Whenever the transmission of visual or numerical data is a matter of life and death, the data network needs the fastest possible relay system. Hypersynaptic fibers, due to their immense frequency range and speed of conduction, have become the industry standard for sensor arrays and targeting systems.",
+      "ru": "Везде, где крайне важна передача наглядных или цифровых данных, для сетей данных требуется как можно более быстрая релейная система. Гиперсинаптические волокна обладают огромным диапазоном частот и скоростью передачи, они стали стандартным материалом для сенсоров и прицельных систем."
+    },
+    "groupID": 429,
+    "iconID": 2685,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Hypersynaptic Fibers",
+      "ru": "Hypersynaptic Fibers"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.6
+  },
+  "16683": {
+    "basePrice": 5512,
+    "description": {
+      "en": "A magnetised liquid, used to control the flow of cold plasma fields in shield systems, reactor cores, pulse generators and thruster systems.",
+      "ru": "Магнетическая жидкость, используемая, чтобы контролировать поток холодных плазменных полей в щитовых системах, реакторных ядрах, пульсовых генераторах и тяговых системах."
+    },
+    "groupID": 429,
+    "iconID": 2678,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Ferrogel",
+      "ru": "Ferrogel"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "17317": {
+    "basePrice": 18860,
+    "description": {
+      "en": "One of the most complex composites known to man, fermionic condensates consist of superconductive boson particles all occupying the same quantum state, thus creating a nearly resistance-free environment for electric current. These condensates have therefore become a staple in advanced reactor manufacture.",
+      "ru": "Фермионные конденсаты состоят из сверхпроводящих бозонных частиц в одинаковом квантовом состоянии, за счет чего они создают электропроводящую среду с почти нулевым сопротивлением. Этот конденсат используется при производстве высокоэффективных реакторов."
+    },
+    "groupID": 429,
+    "iconID": 2683,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Fermionic Condensates",
+      "ru": "Fermionic Condensates"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1.3
+  },
+  "33359": {
+    "basePrice": 4759,
+    "description": {
+      "en": "A carefully engineered latticework designed for precise optical control, photonic metamaterials are a component in advanced Gallente microprocessors and capacitor units.",
+      "ru": "Фотонные метаматериалы имеют сложную решетчатую структуру, обеспечивающую сверхточный оптический контроль; они широко используются в производстве новейших микропроцессоров и накопителей Галлентской Федерации."
+    },
+    "groupID": 429,
+    "iconID": 2678,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Photonic Metamaterials",
+      "ru": "Photonic Metamaterials"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "33360": {
+    "basePrice": 6811,
+    "description": {
+      "en": "An advanced composite designed to manipulate electromagnetic waves just beyond the microwave band, terahertz metamaterials are found in the latest generation of processors and capacitor units in the Amarr Empire.",
+      "ru": "Терагерцевые метаматериалы представляют собой усовершенствованный композитный материал, предназначенный для манипулирования электромагнитными волнами с частотой, лишь немного превышающей частоты микроволнового диапазона, и они применяются для производства новейшего поколения процессоров и накопителей империи Амарр."
+    },
+    "groupID": 429,
+    "iconID": 2678,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Terahertz Metamaterials",
+      "ru": "Terahertz Metamaterials"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "33361": {
+    "basePrice": 3793,
+    "description": {
+      "en": "Carefully fabricated composites of neo mercurite and fernite alloy, plasmonic metamaterials are a key component in advanced Minmatar processors and capacitor units.",
+      "ru": "Плазмонические метаматериалы -- сложные композиты из неомеркурита и фернитового сплава, и в республике Минматар они являются ключевым компонентом в производстве новейшего поколения процессоров и накопителей. "
+    },
+    "groupID": 429,
+    "iconID": 2678,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Plasmonic Metamaterials",
+      "ru": "Plasmonic Metamaterials"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "33362": {
+    "basePrice": 2960,
+    "description": {
+      "en": "Labs in the Caldari State have recently managed to construct the first known composites with negative refractive indexes. Known as nonlinear metamaterials, these advanced composites are finding increasing use in the State's latest capacitor units and microprocessors.",
+      "ru": "В лабораториях государства Калдари недавно удалось получить первые композитные материалы с негативным коэффициентом рефракции. Им было присвоено название нелинейных метаматериалов, и они находят все более широкое применение в производстве новейших накопителей и микропроцессоров государства."
+    },
+    "groupID": 429,
+    "iconID": 2678,
+    "marketGroupID": 499,
+    "name": {
+      "en": "Nonlinear Metamaterials",
+      "ru": "Nonlinear Metamaterials"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "11552": {
+    "description": {
+      "en": "Capacitor component used primarily in Caldari ships. A component in various other technology as well.",
+      "ru": "Компонент конденсатора, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2197,
+    "marketGroupID": 803,
+    "mass": 1,
+    "name": {
+      "en": "Scalar Capacitor Unit",
+      "ru": "Scalar Capacitor Unit"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 1,
+    "volume": 1
+  },
+  "11692": {
+    "description": {
+      "en": "Weapon Component used primarily in Minmatar Missiles. A component in various other technology as well.",
+      "ru": "Орудийный компонент, используемый в основном в ракетах производства Minmatar. Применяется и в других различных технологиях."
+    },
+    "groupID": 334,
+    "iconID": 2231,
+    "marketGroupID": 1889,
+    "mass": 1,
+    "name": {
+      "en": "Nuclear Pulse Generator",
+      "ru": "Nuclear Pulse Generator"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 2,
+    "volume": 1
+  },
 
 
-   "4051": {
-     "basePrice": 95,
-     "description": {
-       "en": "Frustrated with the inefficiencies involved in tracking multiple fuel types, Thukker logisticians pioneered the development of prepackaged fuel. In YC 111, after a successful trial period, they converted the Tribes entire starbase network to use fuel blocks. Capsuleers were forced to wait for this innovation while CONCORD dithered over how to handle the transition period, but were finally granted clearance in YC 113. This is a block of fuel designed for Caldari control towers and Standup service modules. Forty blocks are sufficient to run a standard large tower for one hour, while medium and small towers require twenty and ten blocks respectively over the same period. Standup service modules are designed to be fit to Upwell structures such as the advanced Citadel structure line. These service modules consume fuel blocks while running and are capable of using any of the four fuel block types, for maximum convenience.",
-       "ru": "Столкнувшись с неприятной необходимостью следить за запасами разных видов топлива, таккерские специалисты по логистике стали первопроходцами в разработке топливных блоков. После успешных испытаний в 111 году они перевели всю систему своих ПОСов на топливные блоки. Капсулёры были лишены этой замечательной новинки, пока КОНКОРД решал вопросы организации перехода на новый вид топлива. В 113 году топливные блоки стали доступны и им. Это топливный блок, спроектированный для калдарских башен управления, а также для служебных стационар-модулей. Для работы стандартной большой башни на протяжении часа необходимо сорок блоков, в то время как для средних и малых башен достаточно двадцати и десяти блоков соответственно. Служебные стационар-модули разработаны для установки на сооружениях, сконструированных по проектам  консорциума «Апвелл» — например на цитаделях. Для обеспечения работы стационар-модулей используются топливные блоки любого из четырёх доступных типов."
-     },
-     "groupID": 1136,
-     "iconID": 10834,
-     "marketGroupID": 1870,
-     "name": {
-       "en": "Nitrogen Fuel Block",
-       "ru": "Nitrogen Fuel Block"
-     },
-     "portionSize": 40,
-     "published": true,
-     "volume": 5
-   },
-   "4246": {
-     "basePrice": 95,
-     "description": {
-       "en": "Frustrated with the inefficiencies involved in tracking multiple fuel types, Thukker logisticians pioneered the development of prepackaged fuel. In YC 111, after a successful trial period, they converted the Tribes entire starbase network to use fuel blocks. Capsuleers were forced to wait for this innovation while CONCORD dithered over how to handle the transition period, but were finally granted clearance in YC 113. This is a block of fuel designed for Minmatar control towers and Standup service modules. Forty blocks are sufficient to run a standard large tower for one hour, while medium and small towers require twenty and ten blocks respectively over the same period. Standup service modules are designed to be fit to Upwell structures such as the advanced Citadel structure line. These service modules consume fuel blocks while running and are capable of using any of the four fuel block types, for maximum convenience.",
-       "ru": "Столкнувшись с неприятной необходимостью следить за запасами разных видов топлива, таккерские специалисты по логистике стали первопроходцами в разработке топливных блоков. После успешных испытаний в 111 году они перевели всю систему своих ПОСов на топливные блоки. Капсулёры были лишены этой замечательной новинки, пока КОНКОРД решал вопросы организации перехода на новый вид топлива. В 113 году топливные блоки стали доступны и им. Это топливный блок, спроектированный для минматарских башен управления, а также для служебных стационар-модулей. Для работы стандартной большой башни на протяжении часа необходимо сорок блоков, в то время как для средних и малых башен достаточно двадцати и десяти блоков соответственно. Служебные стационар-модули разработаны для установки на сооружениях, сконструированных по проектам  консорциума «Апвелл» — например на цитаделях. Для обеспечения работы стационар-модулей используются топливные блоки любого из четырёх доступных типов."
-     },
-     "groupID": 1136,
-     "iconID": 10836,
-     "marketGroupID": 1870,
-     "name": {
-       "en": "Hydrogen Fuel Block",
-       "ru": "Hydrogen Fuel Block"
-     },
-     "portionSize": 40,
-     "published": true,
-     "volume": 5
-   },
-   "4247": {
-     "basePrice": 95,
-     "description": {
-       "en": "Frustrated with the inefficiencies involved in tracking multiple fuel types, Thukker logisticians pioneered the development of prepackaged fuel. In YC 111, after a successful trial period, they converted the Tribes entire starbase network to use fuel blocks. Capsuleers were forced to wait for this innovation while CONCORD dithered over how to handle the transition period, but were finally granted clearance in YC 113. This is a block of fuel designed for Amarr control towers and Standup service modules. Forty blocks are sufficient to run a standard large tower for one hour, while medium and small towers require twenty and ten blocks respectively over the same period. Standup service modules are designed to be fit to Upwell structures such as the advanced Citadel structure line. These service modules consume fuel blocks while running and are capable of using any of the four fuel block types, for maximum convenience.",
-       "ru": "Столкнувшись с неприятной необходимостью следить за запасами разных видов топлива, таккерские специалисты по логистике стали первопроходцами в разработке топливных блоков. После успешных испытаний в 111 году они перевели всю систему своих ПОСов на топливные блоки. Капсулёры были лишены этой замечательной новинки, пока КОНКОРД решал вопросы организации перехода на новый вид топлива. В 113 году топливные блоки стали доступны и им. Это топливный блок, спроектированный для амаррских башен управления, а также для служебных стационар-модулей. Для работы стандартной большой башни на протяжении часа необходимо сорок блоков, в то время как для средних и малых башен достаточно двадцати и десяти блоков соответственно. Служебные стационар-модули разработаны для установки на сооружениях, сконструированных по проектам  консорциума «Апвелл» — например на цитаделях. Для обеспечения работы стационар-модулей используются топливные блоки любого из четырёх доступных типов."
-     },
-     "groupID": 1136,
-     "iconID": 10835,
-     "marketGroupID": 1870,
-     "name": {
-       "en": "Helium Fuel Block",
-       "ru": "Helium Fuel Block"
-     },
-     "portionSize": 40,
-     "published": true,
-     "volume": 5
-   },
-   "4312": {
-     "basePrice": 95,
-     "description": {
-       "en": "Frustrated with the inefficiencies involved in tracking multiple fuel types, Thukker logisticians pioneered the development of prepackaged fuel. In YC 111, after a successful trial period, they converted the Tribes entire starbase network to use fuel blocks. Capsuleers were forced to wait for this innovation while CONCORD dithered over how to handle the transition period, but were finally granted clearance in YC 113. This is a block of fuel designed for Gallente control towers  and Standup service modules. Forty blocks are sufficient to run a standard large tower for one hour, while medium and small towers require twenty and ten blocks respectively over the same period. Standup service modules are designed to be fit to Upwell structures such as the advanced Citadel structure line. These service modules consume fuel blocks while running and are capable of using any of the four fuel block types, for maximum convenience.",
-       "ru": "Столкнувшись с неприятной необходимостью следить за запасами разных видов топлива, таккерские специалисты по логистике стали первопроходцами в разработке топливных блоков. После успешных испытаний в 111 году они перевели всю систему своих ПОСов на топливные блоки. Капсулёры были лишены этой замечательной новинки, пока КОНКОРД решал вопросы организации перехода на новый вид топлива. В 113 году топливные блоки стали доступны и им. Это топливный блок, спроектированный для галлентских башен управления, а также для служебных стационар-модулей. Для работы стандартной большой башни на протяжении часа необходимо сорок блоков, в то время как для средних и малых башен достаточно двадцати и десяти блоков соответственно. Служебные стационар-модули разработаны для установки на сооружениях, сконструированных по проектам  консорциума «Апвелл» — например на цитаделях. Для обеспечения работы стационар-модулей используются топливные блоки любого из четырёх доступных типов."
-     },
-     "groupID": 1136,
-     "iconID": 10833,
-     "marketGroupID": 1870,
-     "name": {
-       "en": "Oxygen Fuel Block",
-       "ru": "Oxygen Fuel Block"
-     },
-     "portionSize": 40,
-     "published": true,
-     "volume": 5
-   },
-   "16654": {
-     "basePrice": 4132,
-     "description": {
-       "en": "Titanium Chromide is in high demand among technicians and manufacturers for its unique combination of strength, light weight and catalytic potential.",
-       "ru": "Titanium Chromide высоко востребован технологами и производителями за его уникальную комбинацию силы, легкого веса и каталитического потенциала."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Titanium Chromide",
-       "ru": "Titanium Chromide"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16655": {
-     "basePrice": 40,
-     "description": {
-       "en": "A polynuclear heterometallic compound created from cobalt and cadmium. Crystallite alloys are a fundamental building block in the creation of crystalline composites.",
-       "ru": "Многоядерное гетерометаллическое соединение, созданное из кобальта и кадмия. Сплавы кристаллита служат основой для создания композитных материалов."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Crystallite Alloy",
-       "ru": "Crystallite Alloy"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16656": {
-     "basePrice": 40,
-     "description": {
-       "en": "An intensely durable and extremely versatile alloy, Fernite, when combined with certain other materials, is a crucial stepping stone in the creation of a whole host of advanced technologies.",
-       "ru": "Интенсивнно стойкий и чрезвычайно многофункциональный сплав Fernite, в комбинации с определенными другими материалами - основа создания целого ряда новых технологий."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Fernite Alloy",
-       "ru": "Fernite Alloy"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16657": {
-     "basePrice": 40,
-     "description": {
-       "en": "An extremely strong compound, made from tungsten rolled in a sheath of platinum. A crucial component in the creation of carbides which have a wide field of utility in the manufacture of various equipment.",
-       "ru": "Исключительно прочное соединение, изготавливается из катаных листов вольфрама и платины. Важнейший компонент для создания карбидов, широко применяющихся для производства оборудования."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Rolled Tungsten Alloy",
-       "ru": "Rolled Tungsten Alloy"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16658": {
-     "basePrice": 8,
-     "description": {
-       "en": "A mineral composite which, in large quantities, gives off a distinct crystalline glow. When combined with other composites, is usable for a variety of manufacturing purposes.",
-       "ru": "Минеральный композит, который при достижении большого объема начинает характерно светиться. При сочетании с другими композитами используется для промышленных целей."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Silicon Diborite",
-       "ru": "Silicon Diborite"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16659": {
-     "basePrice": 8,
-     "description": {
-       "en": "A synthetic carbon compound created from raw hydrocarbons and silicate rock materials. Important ingredients in a variety of carbon- and gel-based composites.",
-       "ru": "Синтетический углеродный композит, созданный из углеводородного сырья и кремниевых материалов. Применяется для создания композитов и гелей на основе углерода."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Carbon Polymers",
-       "ru": "Carbon Polymers"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16660": {
-     "basePrice": 8,
-     "description": {
-       "en": "A fine powder synthesized from various natural gases and solids through reactant processes. Used as a strengthening agent in both armor plating and shield generators, as well as constituting an important part of many other composite materials.",
-       "ru": "Мелкий порошок, полученный посредством синтеза природных газов и твердых веществ. Используется для укрепления брони и генераторов щитов, а также в составе различных композитов."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Ceramic Powder",
-       "ru": "Ceramic Powder"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16661": {
-     "basePrice": 8,
-     "description": {
-       "en": "A strong mineral acid, used in many chemical reactions and production processes. One of the most widely used chemicals in history.",
-       "ru": "Сильная минеральная кислота, используется во многих химических реакциях и в производстве. Один из наиболее широко используемых химикатов в истории."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Sulfuric Acid",
-       "ru": "Sulfuric Acid"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16662": {
-     "basePrice": 80,
-     "description": {
-       "en": "An intensely resilient alloy composed of platinum and technetium. Highly sought-after in the machinery and armament industries.",
-       "ru": "Очень прочный сплав из платины и технеция. Используется в машиностроении и производстве вооружения."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Platinum Technite",
-       "ru": "Platinum Technite"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16663": {
-     "basePrice": 80,
-     "description": {
-       "en": "A dark-golden hued alloy composed of cadmium and caesium. Often confused with tritanium due to its tint. An essential ingredient in various composites and condensates.",
-       "ru": "Сплав темно-золотистого цвета, состоящий из кадмия и цезия. Из-за характерного оттенка его часто путают с тританием. Важный компонент различных композитных материалов и конденсатов."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Caesarium Cadmide",
-       "ru": "Caesarium Cadmide"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16664": {
-     "basePrice": 120,
-     "description": {
-       "en": "When chromium and caesium are combined with raw silicates in the proper proportions, Solerium is created. Since its initial discovery, Solerium's uniquely shifting dark-to-bright red hue has prompted poet and musician alike to create hymns in praise of its uniquely shifting deep red hue.",
-       "ru": "Солериум образуется при соединении хрома и цезия с сырьевыми силикатами. Со времени открытия этого вещества он вдохновил многих поэтов и музыкантов благодаря своему характерному переливчатому густо-красному цвету."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Solerium",
-       "ru": "Solerium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16665": {
-     "basePrice": 5389,
-     "description": {
-       "en": "A chemical compound, formed through electrosporadic oxidization of chromium and platinum.  Has a wide range of applications in the production of advanced technology and is highly sought-after by industrial manufacturers.",
-       "ru": "Химическое вещество, образующееся при гальваническом окислении хрома и платины. Применяется в высокотехнологичном производстве и пользуется огромным спросом у промышленников."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Hexite",
-       "ru": "Hexite"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16666": {
-     "basePrice": 320,
-     "description": {
-       "en": "Hyperflurite is one of the most radioactive substances known to man. Composed of a mixture of radioactive metals and raw hydrocarbons, this luminescent goop provides catalysis for a variety of generative and reactive machine processes.",
-       "ru": "Hyperflurite — одно из наиболее радиоактивных веществ, известных человечеству. Эта светящаяся вязкая масса, состоящая из смеси радиоактивных металлов и сырых углеродов, представляет собой прекрасный катализатор различных реакций."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Hyperflurite",
-       "ru": "Hyperflurite"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16667": {
-     "basePrice": 320,
-     "description": {
-       "en": "A silvery, shimmering liquid compound, Neo Mercurite is a crucial element in many forms of advanced sensor and processor technology.",
-       "ru": "Серебристая, мерцающая жидкая смесь Neo Mercurite – жизненно важный компонент многих форм усовершенствованных датчиков и процессорных технологий."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Neo Mercurite",
-       "ru": "Neo Mercurite"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16668": {
-     "basePrice": 320,
-     "description": {
-       "en": "Quicksilver mixed with dysprosium forms the soft but extremely resilient dysporite, an amalgamatic alloy which plays a key role in most advanced sensor and reactor technologies.",
-       "ru": "Ртуть, смешанная с Dysprosium, формирует Dysporite – чрезвычайно упругий сплав, который является основным компонентом в производстве современных сенсоров и сканеров."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Dysporite",
-       "ru": "Dysporite"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16669": {
-     "basePrice": 512,
-     "description": {
-       "en": "Ferrofluids are superparamagnetic fluids containing tiny particles of magnetic solids suspended in liquid. The primary component in the creation of ferrogels.",
-       "ru": "Ferrofluid — парамагнитные жидкости, представляющие собой взвесь мелких частиц магнитных материалов в жидкости. Это основной компонент, использующийся при создании феррогелей."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Ferrofluid",
-       "ru": "Ferrofluid"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "17769": {
-     "basePrice": 512,
-     "description": {
-       "en": "When combined with other materials and alloys, fluxed condensates help contribute to a unique quantum state highly conducive to efficient reactor operation.",
-       "ru": "В комбинации с другими сплавами жидкие конденсаты помогают создать уникальное квантовое состояние, способствующее эффективному управлению реактором."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Fluxed Condensates",
-       "ru": "Fluxed Condensates"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "17959": {
-     "basePrice": 80,
-     "description": {
-       "en": "A stable binary compound composed of vanadium and hafnium. Performs a variety of catalytic functions, and is an important intermediate for more complex construction processes.",
-       "ru": "Стабильное бинарное соединение ванадия и гафния. Выполняет различные каталитические функции и является важным промежуточным продуктом для более сложных строительных процессов."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Vanadium Hafnite",
-       "ru": "Vanadium Hafnite"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "17960": {
-     "basePrice": 320,
-     "description": {
-       "en": "A highly radioactive cadmium-promethium compound, used as a catalytic agent in the manufacturing of thrusters, reactor units and shield emitters, among other things.",
-       "ru": "Крайне реактивная смесь кадмия-прометия, используемая в качестве катализатора в производстве двигателей, реакторов и генераторов щита."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Prometium",
-       "ru": "Prometium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "20431": {
-     "basePrice": 250000,
-     "description": {
-       "en": "An extremely dense but flexible alloy of Morphite that seems to be a common component in most Talocan technology. Although the process of creating Black Morphite is somewhat understood it still requires huge amounts of ingrediences to synthesize in usable quantities.",
-       "ru": "Крайне плотный, но плавкий сплав Morphite, который, похоже, является одним из основных компонентов в технологии Talocan. Процесс создания Black Morphite более или менее изучен, однако чтобы получить такое соединение в достаточном для применения количестве, требуется множество компонентов."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "mass": 100000,
-     "name": {
-       "en": "Black Morphite",
-       "ru": "Black Morphite"
-     },
-     "portionSize": 1,
-     "published": false,
-     "volume": 0.01
-   },
-   "33336": {
-     "basePrice": 2529,
-     "description": {
-       "en": "Despite its unremarkable gray appearance, Thulium Hafnite has proven to be extremely effective as shielding against electromagnetic radiation and free neutrons. It is a valuable component in the production of processor and capacitor technologies, especially in the Gallente Federation.",
-       "ru": "Несмотря на свой невзрачный серый вид, Thulium Hafnite обладает замечательными экранирующими свойствами от электромагнитного излучения и свободных нейтронов. Он широко используется при производстве процессоров и в технологических разработках накопителей, особенно в федерации Галленте."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Thulium Hafnite",
-       "ru": "Thulium Hafnite"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "33337": {
-     "basePrice": 320,
-     "description": {
-       "en": "A metallic radioactive compound, Promethium Mercurite emits a faint green glow visible to the naked eye. It is a crucial part of a new generation of processors and capacitor units being developed by the Amarr Empire.",
-       "ru": "Металлическое радиоактивное соединение Promethium Mercurite издает слабое зеленоватое сияние, заметное даже невооруженным глазом. Это чрезвычайно важный компонент нового поколения процессоров и накопителей, разрабатываемых в империи Амарр."
-     },
-     "groupID": 428,
-     "iconID": 2664,
-     "marketGroupID": 500,
-     "name": {
-       "en": "Promethium Mercurite",
-       "ru": "Promethium Mercurite"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.2
-   },
-   "16633": {
-     "basePrice": 2,
-     "description": {
-       "en": "Raw fossil fuels such as petroleum and mineral oil. Hydrocarbons are crucial building blocks in the production of organic chemicals, plastics and waxes, and are thus one of the most useful materials harvestable from any source.",
-       "ru": "Ископаемое топливо, такое как нефть и минеральное масло. Углероды — основной материал для производства органических химических веществ, пластмасс и пластичных материалов, и, таким образом, они представляют собой ценнейшее вещество."
-     },
-     "groupID": 427,
-     "iconID": 2669,
-     "marketGroupID": 501,
-     "name": {
-       "en": "Hydrocarbons",
-       "ru": "Hydrocarbons"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16634": {
-     "basePrice": 2,
-     "description": {
-       "en": "Nitrogen, oxygen, neon, helium, xenon, methane, nitrous oxide, ozone - a host of trapped vapours that can be used to catalyze numerous chemical processes.",
-       "ru": "Азот, кислород, неон, гелий, ксенон, метан, закись азота, озон - разнообразные атмосферные газы, которые могут служить катализатором многочисленных химических процессов."
-     },
-     "groupID": 427,
-     "iconID": 2668,
-     "marketGroupID": 501,
-     "name": {
-       "en": "Atmospheric Gases",
-       "ru": "Atmospheric Gases"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16635": {
-     "basePrice": 2,
-     "description": {
-       "en": "Deposits formed by the precipitation of mineral-rich water. Usable for many purposes, mostly as building-block components for more complex materials.",
-       "ru": "Осадки, образующиеся в воде с высоким содержанием минералов. Используются для различных целей, главным образом для создания более сложных материалов."
-     },
-     "groupID": 427,
-     "iconID": 2667,
-     "marketGroupID": 501,
-     "name": {
-       "en": "Evaporite Deposits",
-       "ru": "Evaporite Deposits"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16636": {
-     "basePrice": 2,
-     "description": {
-       "en": "Various types of silicon-based and oxygen-based rock formations.",
-       "ru": "Различные виды скальных образований на основе кремния и кислорода."
-     },
-     "groupID": 427,
-     "iconID": 2670,
-     "marketGroupID": 501,
-     "name": {
-       "en": "Silicates",
-       "ru": "Silicates"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16637": {
-     "basePrice": 8,
-     "description": {
-       "en": "One of the hardest metals in existence. Able to form extremely durable alloys with various other elements, and very useful in a number of deep-space scenarios.",
-       "ru": "Один из самых твердых из существующих металлов. Вместе с другими элементами может образовывать исключительно прочные сплавы, благодаря чему очень полезен в космосе."
-     },
-     "groupID": 427,
-     "iconID": 2580,
-     "marketGroupID": 501,
-     "mass": 7720,
-     "name": {
-       "en": "Tungsten",
-       "ru": "Tungsten"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16638": {
-     "basePrice": 8,
-     "description": {
-       "en": "An extremely fatigue-resistant yet light-weight metallic element, useful as a refractory metal and employable in a wide variety of potential scenarios. One of the primary building blocks of a whole host of materials.",
-       "ru": "Очень прочный и в то же время легкий металл с отражательными свойствами широкого спектра применения. Используется в качестве основы для производства огромного числа материалов."
-     },
-     "groupID": 427,
-     "iconID": 2582,
-     "marketGroupID": 501,
-     "mass": 1800,
-     "name": {
-       "en": "Titanium",
-       "ru": "Titanium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16639": {
-     "basePrice": 8,
-     "description": {
-       "en": "A transition element harnessed from rare minerals, Scandium commonly sees use as a component of high-intensity light fixtures for deep-space environments, as well as being a strong building block in many deep-space structures and spacecraft due to its extremely high melting point.",
-       "ru": "Скандий — это переходный химический элемент, получаемый путем переработки редких минералов. Чаще всего он используется при производстве сверхмощных источников света для использования в дальнем космосе; благодаря невероятно высокой температуре плавления его также применяют при создании космических кораблей и сооружений."
-     },
-     "groupID": 427,
-     "iconID": 2577,
-     "marketGroupID": 501,
-     "mass": 1196,
-     "name": {
-       "en": "Scandium",
-       "ru": "Scandium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16640": {
-     "basePrice": 8,
-     "description": {
-       "en": "A silvery ferromagnetic element, used among other things in superalloys, magnetics, battery electrodes, and various metals and steels.",
-       "ru": "Серебристый ферромагнетический элемент, используемый в суперсплавах, магнетике, электродах и разнообрзных металлах и стали."
-     },
-     "groupID": 427,
-     "iconID": 2570,
-     "marketGroupID": 501,
-     "mass": 3544,
-     "name": {
-       "en": "Cobalt",
-       "ru": "Cobalt"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16641": {
-     "basePrice": 16,
-     "description": {
-       "en": "A steel-gray, lustrous metal with a wide variety of applications. Commonly used as a catalyst for chemical processes.",
-       "ru": "Блестящий сероватый металл, применяемый в различных областях. Обычно используется в качестве катализатора в химических реакциях."
-     },
-     "groupID": 427,
-     "iconID": 2569,
-     "marketGroupID": 501,
-     "mass": 4290,
-     "name": {
-       "en": "Chromium",
-       "ru": "Chromium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16642": {
-     "basePrice": 16,
-     "description": {
-       "en": "A soft, white metal with a wide-ranging arsenal of applications both nuclear and structural. Also a versatile catalyst in compound form.",
-       "ru": "Мягкий белый металл, применяющийся в различных областях, от ядерной энергетики до строительства. Также может служить катализатором."
-     },
-     "groupID": 427,
-     "iconID": 2581,
-     "marketGroupID": 501,
-     "mass": 6000,
-     "name": {
-       "en": "Vanadium",
-       "ru": "Vanadium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16643": {
-     "basePrice": 16,
-     "description": {
-       "en": "A soft, malleable metal often occuring with zinc ores. Has a wide variety of applications; used in electroplating, superconductors, and as an alloy in various types of structure and equipment.",
-       "ru": "Мягкий, ковкий металл, часто встречающийся в цинковых рудах. Применяется во множестве областей, в том числе в гальванике и сверхпроводниках; в составе сплавов применяется как конструкционный материал в строительстве и производстве оборудования."
-     },
-     "groupID": 427,
-     "iconID": 2567,
-     "marketGroupID": 501,
-     "mass": 3476,
-     "name": {
-       "en": "Cadmium",
-       "ru": "Cadmium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16644": {
-     "basePrice": 16,
-     "description": {
-       "en": "A corrosion-resistant precious metal with an extremely wide range of applications. Often used as a chemical catalyst.",
-       "ru": "Ценный нержавеющий металл, применяемый в различных областях. Часто используется в качестве катализатора в химических реакциях."
-     },
-     "groupID": 427,
-     "iconID": 2575,
-     "marketGroupID": 501,
-     "mass": 21460,
-     "name": {
-       "en": "Platinum",
-       "ru": "Platinum"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16646": {
-     "basePrice": 64,
-     "description": {
-       "en": "Also known as quicksilver, mercury is a silvery liquid metal whose primary characteristic is the ease with which it forms amalgamatic alloys with other metals. It is therefore extremely useful as a base-block component.",
-       "ru": "Ртуть, которую также называют живое серебро, — жидкий металл серебристого цвета. Его основная характеристика — легкость, с которой он образует амальгамы с другими металлами. Очень часто используется как основа для производства лигатурных материалов."
-     },
-     "groupID": 427,
-     "iconID": 2573,
-     "marketGroupID": 501,
-     "mass": 10826,
-     "name": {
-       "en": "Mercury",
-       "ru": "Mercury"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16647": {
-     "basePrice": 64,
-     "description": {
-       "en": "A golden Alkali metal used primarily in propulsion systems. Also performs a variety of catalytic functions in the nuclear and photoelectric arenas.",
-       "ru": "Щелочной металл золотистого цвета, используется, в основном, в двигателях. Также служит катализатором в ядерной энергетике и фотоэлектрике."
-     },
-     "groupID": 427,
-     "iconID": 2568,
-     "marketGroupID": 501,
-     "mass": 1544,
-     "name": {
-       "en": "Caesium",
-       "ru": "Caesium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16648": {
-     "basePrice": 64,
-     "description": {
-       "en": "A silvery, corrosion-resistant metal used in various metal alloys and, to a lesser extent, in hybrid weapons systems.",
-       "ru": "Серебристый, стойкий к коррозии метал, используемый во многих сплавах и комбинированных оружейных системах."
-     },
-     "groupID": 427,
-     "iconID": 2572,
-     "marketGroupID": 501,
-     "mass": 10640,
-     "name": {
-       "en": "Hafnium",
-       "ru": "Hafnium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16649": {
-     "basePrice": 64,
-     "description": {
-       "en": "A silvery metal, primarily used as a corrosion inhibitor and a superconductor.",
-       "ru": "Серебристый металл, преимущественно используется в качестве ингибитора коррозии и высокопробного проводника."
-     },
-     "groupID": 427,
-     "iconID": 2578,
-     "marketGroupID": 501,
-     "mass": 8800,
-     "name": {
-       "en": "Technetium",
-       "ru": "Technetium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16650": {
-     "basePrice": 256,
-     "description": {
-       "en": "A relatively rare soft metal, easily dissolvable in mineral acids. Used primarily in the production of laser materials.",
-       "ru": "Относительно редкий мягкий металл, легко растворяется в минеральных кислотах. Используется для производства лазерных материалов."
-     },
-     "groupID": 427,
-     "iconID": 2571,
-     "marketGroupID": 501,
-     "mass": 8550,
-     "name": {
-       "en": "Dysprosium",
-       "ru": "Dysprosium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16651": {
-     "basePrice": 256,
-     "description": {
-       "en": "A rare, silvery metal. Due to its atmospheric reactiveness, Neodymium is used primarily for light-refractive purposes and as a colorant for other materials.",
-       "ru": "Редкий серебристый металл. Из-за реакции с атмосферой неодим используется в основном для отражения света и в качестве красителя для других материалов."
-     },
-     "groupID": 427,
-     "iconID": 2574,
-     "marketGroupID": 501,
-     "mass": 7010,
-     "name": {
-       "en": "Neodymium",
-       "ru": "Neodymium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16652": {
-     "basePrice": 256,
-     "description": {
-       "en": "An extremely radioactive luminescent metal, sometimes used as a heating component and a building block for laser generators.",
-       "ru": "Крайне радиоактивный люминесцентный металл, иногда используемый в качестве согревающего компонента и компонента лазерных генераторов."
-     },
-     "groupID": 427,
-     "iconID": 2576,
-     "marketGroupID": 501,
-     "mass": 7260,
-     "name": {
-       "en": "Promethium",
-       "ru": "Promethium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   },
-   "16653": {
-     "basePrice": 256,
-     "description": {
-       "en": "A soft, rare, silvery-gray metal. Used in the creation of lasers, in addition to possessing a range of radiation-related production applications.",
-       "ru": "Редкий мягкий серебристо-серый металл. Используется для производства лазеров, а также применяется в областях, связанных с радиоактивным излучением."
-     },
-     "groupID": 427,
-     "iconID": 2579,
-     "marketGroupID": 501,
-     "mass": 9320,
-     "name": {
-       "en": "Thulium",
-       "ru": "Thulium"
-     },
-     "portionSize": 1,
-     "published": true,
-     "volume": 0.05
-   }
+  "4051": {
+    "basePrice": 95,
+    "description": {
+      "en": "Frustrated with the inefficiencies involved in tracking multiple fuel types, Thukker logisticians pioneered the development of prepackaged fuel. In YC 111, after a successful trial period, they converted the Tribes entire starbase network to use fuel blocks. Capsuleers were forced to wait for this innovation while CONCORD dithered over how to handle the transition period, but were finally granted clearance in YC 113. This is a block of fuel designed for Caldari control towers and Standup service modules. Forty blocks are sufficient to run a standard large tower for one hour, while medium and small towers require twenty and ten blocks respectively over the same period. Standup service modules are designed to be fit to Upwell structures such as the advanced Citadel structure line. These service modules consume fuel blocks while running and are capable of using any of the four fuel block types, for maximum convenience.",
+      "ru": "Столкнувшись с неприятной необходимостью следить за запасами разных видов топлива, таккерские специалисты по логистике стали первопроходцами в разработке топливных блоков. После успешных испытаний в 111 году они перевели всю систему своих ПОСов на топливные блоки. Капсулёры были лишены этой замечательной новинки, пока КОНКОРД решал вопросы организации перехода на новый вид топлива. В 113 году топливные блоки стали доступны и им. Это топливный блок, спроектированный для калдарских башен управления, а также для служебных стационар-модулей. Для работы стандартной большой башни на протяжении часа необходимо сорок блоков, в то время как для средних и малых башен достаточно двадцати и десяти блоков соответственно. Служебные стационар-модули разработаны для установки на сооружениях, сконструированных по проектам  консорциума «Апвелл» — например на цитаделях. Для обеспечения работы стационар-модулей используются топливные блоки любого из четырёх доступных типов."
+    },
+    "groupID": 1136,
+    "iconID": 10834,
+    "marketGroupID": 1870,
+    "name": {
+      "en": "Nitrogen Fuel Block",
+      "ru": "Nitrogen Fuel Block"
+    },
+    "portionSize": 40,
+    "published": true,
+    "volume": 5
+  },
+  "4246": {
+    "basePrice": 95,
+    "description": {
+      "en": "Frustrated with the inefficiencies involved in tracking multiple fuel types, Thukker logisticians pioneered the development of prepackaged fuel. In YC 111, after a successful trial period, they converted the Tribes entire starbase network to use fuel blocks. Capsuleers were forced to wait for this innovation while CONCORD dithered over how to handle the transition period, but were finally granted clearance in YC 113. This is a block of fuel designed for Minmatar control towers and Standup service modules. Forty blocks are sufficient to run a standard large tower for one hour, while medium and small towers require twenty and ten blocks respectively over the same period. Standup service modules are designed to be fit to Upwell structures such as the advanced Citadel structure line. These service modules consume fuel blocks while running and are capable of using any of the four fuel block types, for maximum convenience.",
+      "ru": "Столкнувшись с неприятной необходимостью следить за запасами разных видов топлива, таккерские специалисты по логистике стали первопроходцами в разработке топливных блоков. После успешных испытаний в 111 году они перевели всю систему своих ПОСов на топливные блоки. Капсулёры были лишены этой замечательной новинки, пока КОНКОРД решал вопросы организации перехода на новый вид топлива. В 113 году топливные блоки стали доступны и им. Это топливный блок, спроектированный для минматарских башен управления, а также для служебных стационар-модулей. Для работы стандартной большой башни на протяжении часа необходимо сорок блоков, в то время как для средних и малых башен достаточно двадцати и десяти блоков соответственно. Служебные стационар-модули разработаны для установки на сооружениях, сконструированных по проектам  консорциума «Апвелл» — например на цитаделях. Для обеспечения работы стационар-модулей используются топливные блоки любого из четырёх доступных типов."
+    },
+    "groupID": 1136,
+    "iconID": 10836,
+    "marketGroupID": 1870,
+    "name": {
+      "en": "Hydrogen Fuel Block",
+      "ru": "Hydrogen Fuel Block"
+    },
+    "portionSize": 40,
+    "published": true,
+    "volume": 5
+  },
+  "4247": {
+    "basePrice": 95,
+    "description": {
+      "en": "Frustrated with the inefficiencies involved in tracking multiple fuel types, Thukker logisticians pioneered the development of prepackaged fuel. In YC 111, after a successful trial period, they converted the Tribes entire starbase network to use fuel blocks. Capsuleers were forced to wait for this innovation while CONCORD dithered over how to handle the transition period, but were finally granted clearance in YC 113. This is a block of fuel designed for Amarr control towers and Standup service modules. Forty blocks are sufficient to run a standard large tower for one hour, while medium and small towers require twenty and ten blocks respectively over the same period. Standup service modules are designed to be fit to Upwell structures such as the advanced Citadel structure line. These service modules consume fuel blocks while running and are capable of using any of the four fuel block types, for maximum convenience.",
+      "ru": "Столкнувшись с неприятной необходимостью следить за запасами разных видов топлива, таккерские специалисты по логистике стали первопроходцами в разработке топливных блоков. После успешных испытаний в 111 году они перевели всю систему своих ПОСов на топливные блоки. Капсулёры были лишены этой замечательной новинки, пока КОНКОРД решал вопросы организации перехода на новый вид топлива. В 113 году топливные блоки стали доступны и им. Это топливный блок, спроектированный для амаррских башен управления, а также для служебных стационар-модулей. Для работы стандартной большой башни на протяжении часа необходимо сорок блоков, в то время как для средних и малых башен достаточно двадцати и десяти блоков соответственно. Служебные стационар-модули разработаны для установки на сооружениях, сконструированных по проектам  консорциума «Апвелл» — например на цитаделях. Для обеспечения работы стационар-модулей используются топливные блоки любого из четырёх доступных типов."
+    },
+    "groupID": 1136,
+    "iconID": 10835,
+    "marketGroupID": 1870,
+    "name": {
+      "en": "Helium Fuel Block",
+      "ru": "Helium Fuel Block"
+    },
+    "portionSize": 40,
+    "published": true,
+    "volume": 5
+  },
+  "4312": {
+    "basePrice": 95,
+    "description": {
+      "en": "Frustrated with the inefficiencies involved in tracking multiple fuel types, Thukker logisticians pioneered the development of prepackaged fuel. In YC 111, after a successful trial period, they converted the Tribes entire starbase network to use fuel blocks. Capsuleers were forced to wait for this innovation while CONCORD dithered over how to handle the transition period, but were finally granted clearance in YC 113. This is a block of fuel designed for Gallente control towers  and Standup service modules. Forty blocks are sufficient to run a standard large tower for one hour, while medium and small towers require twenty and ten blocks respectively over the same period. Standup service modules are designed to be fit to Upwell structures such as the advanced Citadel structure line. These service modules consume fuel blocks while running and are capable of using any of the four fuel block types, for maximum convenience.",
+      "ru": "Столкнувшись с неприятной необходимостью следить за запасами разных видов топлива, таккерские специалисты по логистике стали первопроходцами в разработке топливных блоков. После успешных испытаний в 111 году они перевели всю систему своих ПОСов на топливные блоки. Капсулёры были лишены этой замечательной новинки, пока КОНКОРД решал вопросы организации перехода на новый вид топлива. В 113 году топливные блоки стали доступны и им. Это топливный блок, спроектированный для галлентских башен управления, а также для служебных стационар-модулей. Для работы стандартной большой башни на протяжении часа необходимо сорок блоков, в то время как для средних и малых башен достаточно двадцати и десяти блоков соответственно. Служебные стационар-модули разработаны для установки на сооружениях, сконструированных по проектам  консорциума «Апвелл» — например на цитаделях. Для обеспечения работы стационар-модулей используются топливные блоки любого из четырёх доступных типов."
+    },
+    "groupID": 1136,
+    "iconID": 10833,
+    "marketGroupID": 1870,
+    "name": {
+      "en": "Oxygen Fuel Block",
+      "ru": "Oxygen Fuel Block"
+    },
+    "portionSize": 40,
+    "published": true,
+    "volume": 5
+  },
+  "16654": {
+    "basePrice": 4132,
+    "description": {
+      "en": "Titanium Chromide is in high demand among technicians and manufacturers for its unique combination of strength, light weight and catalytic potential.",
+      "ru": "Titanium Chromide высоко востребован технологами и производителями за его уникальную комбинацию силы, легкого веса и каталитического потенциала."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Titanium Chromide",
+      "ru": "Titanium Chromide"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16655": {
+    "basePrice": 40,
+    "description": {
+      "en": "A polynuclear heterometallic compound created from cobalt and cadmium. Crystallite alloys are a fundamental building block in the creation of crystalline composites.",
+      "ru": "Многоядерное гетерометаллическое соединение, созданное из кобальта и кадмия. Сплавы кристаллита служат основой для создания композитных материалов."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Crystallite Alloy",
+      "ru": "Crystallite Alloy"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16656": {
+    "basePrice": 40,
+    "description": {
+      "en": "An intensely durable and extremely versatile alloy, Fernite, when combined with certain other materials, is a crucial stepping stone in the creation of a whole host of advanced technologies.",
+      "ru": "Интенсивнно стойкий и чрезвычайно многофункциональный сплав Fernite, в комбинации с определенными другими материалами - основа создания целого ряда новых технологий."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Fernite Alloy",
+      "ru": "Fernite Alloy"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16657": {
+    "basePrice": 40,
+    "description": {
+      "en": "An extremely strong compound, made from tungsten rolled in a sheath of platinum. A crucial component in the creation of carbides which have a wide field of utility in the manufacture of various equipment.",
+      "ru": "Исключительно прочное соединение, изготавливается из катаных листов вольфрама и платины. Важнейший компонент для создания карбидов, широко применяющихся для производства оборудования."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Rolled Tungsten Alloy",
+      "ru": "Rolled Tungsten Alloy"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16658": {
+    "basePrice": 8,
+    "description": {
+      "en": "A mineral composite which, in large quantities, gives off a distinct crystalline glow. When combined with other composites, is usable for a variety of manufacturing purposes.",
+      "ru": "Минеральный композит, который при достижении большого объема начинает характерно светиться. При сочетании с другими композитами используется для промышленных целей."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Silicon Diborite",
+      "ru": "Silicon Diborite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16659": {
+    "basePrice": 8,
+    "description": {
+      "en": "A synthetic carbon compound created from raw hydrocarbons and silicate rock materials. Important ingredients in a variety of carbon- and gel-based composites.",
+      "ru": "Синтетический углеродный композит, созданный из углеводородного сырья и кремниевых материалов. Применяется для создания композитов и гелей на основе углерода."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Carbon Polymers",
+      "ru": "Carbon Polymers"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16660": {
+    "basePrice": 8,
+    "description": {
+      "en": "A fine powder synthesized from various natural gases and solids through reactant processes. Used as a strengthening agent in both armor plating and shield generators, as well as constituting an important part of many other composite materials.",
+      "ru": "Мелкий порошок, полученный посредством синтеза природных газов и твердых веществ. Используется для укрепления брони и генераторов щитов, а также в составе различных композитов."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Ceramic Powder",
+      "ru": "Ceramic Powder"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16661": {
+    "basePrice": 8,
+    "description": {
+      "en": "A strong mineral acid, used in many chemical reactions and production processes. One of the most widely used chemicals in history.",
+      "ru": "Сильная минеральная кислота, используется во многих химических реакциях и в производстве. Один из наиболее широко используемых химикатов в истории."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Sulfuric Acid",
+      "ru": "Sulfuric Acid"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16662": {
+    "basePrice": 80,
+    "description": {
+      "en": "An intensely resilient alloy composed of platinum and technetium. Highly sought-after in the machinery and armament industries.",
+      "ru": "Очень прочный сплав из платины и технеция. Используется в машиностроении и производстве вооружения."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Platinum Technite",
+      "ru": "Platinum Technite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16663": {
+    "basePrice": 80,
+    "description": {
+      "en": "A dark-golden hued alloy composed of cadmium and caesium. Often confused with tritanium due to its tint. An essential ingredient in various composites and condensates.",
+      "ru": "Сплав темно-золотистого цвета, состоящий из кадмия и цезия. Из-за характерного оттенка его часто путают с тританием. Важный компонент различных композитных материалов и конденсатов."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Caesarium Cadmide",
+      "ru": "Caesarium Cadmide"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16664": {
+    "basePrice": 120,
+    "description": {
+      "en": "When chromium and caesium are combined with raw silicates in the proper proportions, Solerium is created. Since its initial discovery, Solerium's uniquely shifting dark-to-bright red hue has prompted poet and musician alike to create hymns in praise of its uniquely shifting deep red hue.",
+      "ru": "Солериум образуется при соединении хрома и цезия с сырьевыми силикатами. Со времени открытия этого вещества он вдохновил многих поэтов и музыкантов благодаря своему характерному переливчатому густо-красному цвету."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Solerium",
+      "ru": "Solerium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16665": {
+    "basePrice": 5389,
+    "description": {
+      "en": "A chemical compound, formed through electrosporadic oxidization of chromium and platinum.  Has a wide range of applications in the production of advanced technology and is highly sought-after by industrial manufacturers.",
+      "ru": "Химическое вещество, образующееся при гальваническом окислении хрома и платины. Применяется в высокотехнологичном производстве и пользуется огромным спросом у промышленников."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Hexite",
+      "ru": "Hexite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16666": {
+    "basePrice": 320,
+    "description": {
+      "en": "Hyperflurite is one of the most radioactive substances known to man. Composed of a mixture of radioactive metals and raw hydrocarbons, this luminescent goop provides catalysis for a variety of generative and reactive machine processes.",
+      "ru": "Hyperflurite — одно из наиболее радиоактивных веществ, известных человечеству. Эта светящаяся вязкая масса, состоящая из смеси радиоактивных металлов и сырых углеродов, представляет собой прекрасный катализатор различных реакций."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Hyperflurite",
+      "ru": "Hyperflurite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16667": {
+    "basePrice": 320,
+    "description": {
+      "en": "A silvery, shimmering liquid compound, Neo Mercurite is a crucial element in many forms of advanced sensor and processor technology.",
+      "ru": "Серебристая, мерцающая жидкая смесь Neo Mercurite – жизненно важный компонент многих форм усовершенствованных датчиков и процессорных технологий."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Neo Mercurite",
+      "ru": "Neo Mercurite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16668": {
+    "basePrice": 320,
+    "description": {
+      "en": "Quicksilver mixed with dysprosium forms the soft but extremely resilient dysporite, an amalgamatic alloy which plays a key role in most advanced sensor and reactor technologies.",
+      "ru": "Ртуть, смешанная с Dysprosium, формирует Dysporite – чрезвычайно упругий сплав, который является основным компонентом в производстве современных сенсоров и сканеров."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Dysporite",
+      "ru": "Dysporite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16669": {
+    "basePrice": 512,
+    "description": {
+      "en": "Ferrofluids are superparamagnetic fluids containing tiny particles of magnetic solids suspended in liquid. The primary component in the creation of ferrogels.",
+      "ru": "Ferrofluid — парамагнитные жидкости, представляющие собой взвесь мелких частиц магнитных материалов в жидкости. Это основной компонент, использующийся при создании феррогелей."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Ferrofluid",
+      "ru": "Ferrofluid"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "17769": {
+    "basePrice": 512,
+    "description": {
+      "en": "When combined with other materials and alloys, fluxed condensates help contribute to a unique quantum state highly conducive to efficient reactor operation.",
+      "ru": "В комбинации с другими сплавами жидкие конденсаты помогают создать уникальное квантовое состояние, способствующее эффективному управлению реактором."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Fluxed Condensates",
+      "ru": "Fluxed Condensates"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "17959": {
+    "basePrice": 80,
+    "description": {
+      "en": "A stable binary compound composed of vanadium and hafnium. Performs a variety of catalytic functions, and is an important intermediate for more complex construction processes.",
+      "ru": "Стабильное бинарное соединение ванадия и гафния. Выполняет различные каталитические функции и является важным промежуточным продуктом для более сложных строительных процессов."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Vanadium Hafnite",
+      "ru": "Vanadium Hafnite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "17960": {
+    "basePrice": 320,
+    "description": {
+      "en": "A highly radioactive cadmium-promethium compound, used as a catalytic agent in the manufacturing of thrusters, reactor units and shield emitters, among other things.",
+      "ru": "Крайне реактивная смесь кадмия-прометия, используемая в качестве катализатора в производстве двигателей, реакторов и генераторов щита."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Prometium",
+      "ru": "Prometium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "20431": {
+    "basePrice": 250000,
+    "description": {
+      "en": "An extremely dense but flexible alloy of Morphite that seems to be a common component in most Talocan technology. Although the process of creating Black Morphite is somewhat understood it still requires huge amounts of ingrediences to synthesize in usable quantities.",
+      "ru": "Крайне плотный, но плавкий сплав Morphite, который, похоже, является одним из основных компонентов в технологии Talocan. Процесс создания Black Morphite более или менее изучен, однако чтобы получить такое соединение в достаточном для применения количестве, требуется множество компонентов."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "mass": 100000,
+    "name": {
+      "en": "Black Morphite",
+      "ru": "Black Morphite"
+    },
+    "portionSize": 1,
+    "published": false,
+    "volume": 0.01
+  },
+  "33336": {
+    "basePrice": 2529,
+    "description": {
+      "en": "Despite its unremarkable gray appearance, Thulium Hafnite has proven to be extremely effective as shielding against electromagnetic radiation and free neutrons. It is a valuable component in the production of processor and capacitor technologies, especially in the Gallente Federation.",
+      "ru": "Несмотря на свой невзрачный серый вид, Thulium Hafnite обладает замечательными экранирующими свойствами от электромагнитного излучения и свободных нейтронов. Он широко используется при производстве процессоров и в технологических разработках накопителей, особенно в федерации Галленте."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Thulium Hafnite",
+      "ru": "Thulium Hafnite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "33337": {
+    "basePrice": 320,
+    "description": {
+      "en": "A metallic radioactive compound, Promethium Mercurite emits a faint green glow visible to the naked eye. It is a crucial part of a new generation of processors and capacitor units being developed by the Amarr Empire.",
+      "ru": "Металлическое радиоактивное соединение Promethium Mercurite издает слабое зеленоватое сияние, заметное даже невооруженным глазом. Это чрезвычайно важный компонент нового поколения процессоров и накопителей, разрабатываемых в империи Амарр."
+    },
+    "groupID": 428,
+    "iconID": 2664,
+    "marketGroupID": 500,
+    "name": {
+      "en": "Promethium Mercurite",
+      "ru": "Promethium Mercurite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "16633": {
+    "basePrice": 2,
+    "description": {
+      "en": "Raw fossil fuels such as petroleum and mineral oil. Hydrocarbons are crucial building blocks in the production of organic chemicals, plastics and waxes, and are thus one of the most useful materials harvestable from any source.",
+      "ru": "Ископаемое топливо, такое как нефть и минеральное масло. Углероды — основной материал для производства органических химических веществ, пластмасс и пластичных материалов, и, таким образом, они представляют собой ценнейшее вещество."
+    },
+    "groupID": 427,
+    "iconID": 2669,
+    "marketGroupID": 501,
+    "name": {
+      "en": "Hydrocarbons",
+      "ru": "Hydrocarbons"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16634": {
+    "basePrice": 2,
+    "description": {
+      "en": "Nitrogen, oxygen, neon, helium, xenon, methane, nitrous oxide, ozone - a host of trapped vapours that can be used to catalyze numerous chemical processes.",
+      "ru": "Азот, кислород, неон, гелий, ксенон, метан, закись азота, озон - разнообразные атмосферные газы, которые могут служить катализатором многочисленных химических процессов."
+    },
+    "groupID": 427,
+    "iconID": 2668,
+    "marketGroupID": 501,
+    "name": {
+      "en": "Atmospheric Gases",
+      "ru": "Atmospheric Gases"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16635": {
+    "basePrice": 2,
+    "description": {
+      "en": "Deposits formed by the precipitation of mineral-rich water. Usable for many purposes, mostly as building-block components for more complex materials.",
+      "ru": "Осадки, образующиеся в воде с высоким содержанием минералов. Используются для различных целей, главным образом для создания более сложных материалов."
+    },
+    "groupID": 427,
+    "iconID": 2667,
+    "marketGroupID": 501,
+    "name": {
+      "en": "Evaporite Deposits",
+      "ru": "Evaporite Deposits"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16636": {
+    "basePrice": 2,
+    "description": {
+      "en": "Various types of silicon-based and oxygen-based rock formations.",
+      "ru": "Различные виды скальных образований на основе кремния и кислорода."
+    },
+    "groupID": 427,
+    "iconID": 2670,
+    "marketGroupID": 501,
+    "name": {
+      "en": "Silicates",
+      "ru": "Silicates"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16637": {
+    "basePrice": 8,
+    "description": {
+      "en": "One of the hardest metals in existence. Able to form extremely durable alloys with various other elements, and very useful in a number of deep-space scenarios.",
+      "ru": "Один из самых твердых из существующих металлов. Вместе с другими элементами может образовывать исключительно прочные сплавы, благодаря чему очень полезен в космосе."
+    },
+    "groupID": 427,
+    "iconID": 2580,
+    "marketGroupID": 501,
+    "mass": 7720,
+    "name": {
+      "en": "Tungsten",
+      "ru": "Tungsten"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16638": {
+    "basePrice": 8,
+    "description": {
+      "en": "An extremely fatigue-resistant yet light-weight metallic element, useful as a refractory metal and employable in a wide variety of potential scenarios. One of the primary building blocks of a whole host of materials.",
+      "ru": "Очень прочный и в то же время легкий металл с отражательными свойствами широкого спектра применения. Используется в качестве основы для производства огромного числа материалов."
+    },
+    "groupID": 427,
+    "iconID": 2582,
+    "marketGroupID": 501,
+    "mass": 1800,
+    "name": {
+      "en": "Titanium",
+      "ru": "Titanium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16639": {
+    "basePrice": 8,
+    "description": {
+      "en": "A transition element harnessed from rare minerals, Scandium commonly sees use as a component of high-intensity light fixtures for deep-space environments, as well as being a strong building block in many deep-space structures and spacecraft due to its extremely high melting point.",
+      "ru": "Скандий — это переходный химический элемент, получаемый путем переработки редких минералов. Чаще всего он используется при производстве сверхмощных источников света для использования в дальнем космосе; благодаря невероятно высокой температуре плавления его также применяют при создании космических кораблей и сооружений."
+    },
+    "groupID": 427,
+    "iconID": 2577,
+    "marketGroupID": 501,
+    "mass": 1196,
+    "name": {
+      "en": "Scandium",
+      "ru": "Scandium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16640": {
+    "basePrice": 8,
+    "description": {
+      "en": "A silvery ferromagnetic element, used among other things in superalloys, magnetics, battery electrodes, and various metals and steels.",
+      "ru": "Серебристый ферромагнетический элемент, используемый в суперсплавах, магнетике, электродах и разнообрзных металлах и стали."
+    },
+    "groupID": 427,
+    "iconID": 2570,
+    "marketGroupID": 501,
+    "mass": 3544,
+    "name": {
+      "en": "Cobalt",
+      "ru": "Cobalt"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16641": {
+    "basePrice": 16,
+    "description": {
+      "en": "A steel-gray, lustrous metal with a wide variety of applications. Commonly used as a catalyst for chemical processes.",
+      "ru": "Блестящий сероватый металл, применяемый в различных областях. Обычно используется в качестве катализатора в химических реакциях."
+    },
+    "groupID": 427,
+    "iconID": 2569,
+    "marketGroupID": 501,
+    "mass": 4290,
+    "name": {
+      "en": "Chromium",
+      "ru": "Chromium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16642": {
+    "basePrice": 16,
+    "description": {
+      "en": "A soft, white metal with a wide-ranging arsenal of applications both nuclear and structural. Also a versatile catalyst in compound form.",
+      "ru": "Мягкий белый металл, применяющийся в различных областях, от ядерной энергетики до строительства. Также может служить катализатором."
+    },
+    "groupID": 427,
+    "iconID": 2581,
+    "marketGroupID": 501,
+    "mass": 6000,
+    "name": {
+      "en": "Vanadium",
+      "ru": "Vanadium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16643": {
+    "basePrice": 16,
+    "description": {
+      "en": "A soft, malleable metal often occuring with zinc ores. Has a wide variety of applications; used in electroplating, superconductors, and as an alloy in various types of structure and equipment.",
+      "ru": "Мягкий, ковкий металл, часто встречающийся в цинковых рудах. Применяется во множестве областей, в том числе в гальванике и сверхпроводниках; в составе сплавов применяется как конструкционный материал в строительстве и производстве оборудования."
+    },
+    "groupID": 427,
+    "iconID": 2567,
+    "marketGroupID": 501,
+    "mass": 3476,
+    "name": {
+      "en": "Cadmium",
+      "ru": "Cadmium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16644": {
+    "basePrice": 16,
+    "description": {
+      "en": "A corrosion-resistant precious metal with an extremely wide range of applications. Often used as a chemical catalyst.",
+      "ru": "Ценный нержавеющий металл, применяемый в различных областях. Часто используется в качестве катализатора в химических реакциях."
+    },
+    "groupID": 427,
+    "iconID": 2575,
+    "marketGroupID": 501,
+    "mass": 21460,
+    "name": {
+      "en": "Platinum",
+      "ru": "Platinum"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16646": {
+    "basePrice": 64,
+    "description": {
+      "en": "Also known as quicksilver, mercury is a silvery liquid metal whose primary characteristic is the ease with which it forms amalgamatic alloys with other metals. It is therefore extremely useful as a base-block component.",
+      "ru": "Ртуть, которую также называют живое серебро, — жидкий металл серебристого цвета. Его основная характеристика — легкость, с которой он образует амальгамы с другими металлами. Очень часто используется как основа для производства лигатурных материалов."
+    },
+    "groupID": 427,
+    "iconID": 2573,
+    "marketGroupID": 501,
+    "mass": 10826,
+    "name": {
+      "en": "Mercury",
+      "ru": "Mercury"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16647": {
+    "basePrice": 64,
+    "description": {
+      "en": "A golden Alkali metal used primarily in propulsion systems. Also performs a variety of catalytic functions in the nuclear and photoelectric arenas.",
+      "ru": "Щелочной металл золотистого цвета, используется, в основном, в двигателях. Также служит катализатором в ядерной энергетике и фотоэлектрике."
+    },
+    "groupID": 427,
+    "iconID": 2568,
+    "marketGroupID": 501,
+    "mass": 1544,
+    "name": {
+      "en": "Caesium",
+      "ru": "Caesium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16648": {
+    "basePrice": 64,
+    "description": {
+      "en": "A silvery, corrosion-resistant metal used in various metal alloys and, to a lesser extent, in hybrid weapons systems.",
+      "ru": "Серебристый, стойкий к коррозии метал, используемый во многих сплавах и комбинированных оружейных системах."
+    },
+    "groupID": 427,
+    "iconID": 2572,
+    "marketGroupID": 501,
+    "mass": 10640,
+    "name": {
+      "en": "Hafnium",
+      "ru": "Hafnium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16649": {
+    "basePrice": 64,
+    "description": {
+      "en": "A silvery metal, primarily used as a corrosion inhibitor and a superconductor.",
+      "ru": "Серебристый металл, преимущественно используется в качестве ингибитора коррозии и высокопробного проводника."
+    },
+    "groupID": 427,
+    "iconID": 2578,
+    "marketGroupID": 501,
+    "mass": 8800,
+    "name": {
+      "en": "Technetium",
+      "ru": "Technetium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16650": {
+    "basePrice": 256,
+    "description": {
+      "en": "A relatively rare soft metal, easily dissolvable in mineral acids. Used primarily in the production of laser materials.",
+      "ru": "Относительно редкий мягкий металл, легко растворяется в минеральных кислотах. Используется для производства лазерных материалов."
+    },
+    "groupID": 427,
+    "iconID": 2571,
+    "marketGroupID": 501,
+    "mass": 8550,
+    "name": {
+      "en": "Dysprosium",
+      "ru": "Dysprosium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16651": {
+    "basePrice": 256,
+    "description": {
+      "en": "A rare, silvery metal. Due to its atmospheric reactiveness, Neodymium is used primarily for light-refractive purposes and as a colorant for other materials.",
+      "ru": "Редкий серебристый металл. Из-за реакции с атмосферой неодим используется в основном для отражения света и в качестве красителя для других материалов."
+    },
+    "groupID": 427,
+    "iconID": 2574,
+    "marketGroupID": 501,
+    "mass": 7010,
+    "name": {
+      "en": "Neodymium",
+      "ru": "Neodymium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16652": {
+    "basePrice": 256,
+    "description": {
+      "en": "An extremely radioactive luminescent metal, sometimes used as a heating component and a building block for laser generators.",
+      "ru": "Крайне радиоактивный люминесцентный металл, иногда используемый в качестве согревающего компонента и компонента лазерных генераторов."
+    },
+    "groupID": 427,
+    "iconID": 2576,
+    "marketGroupID": 501,
+    "mass": 7260,
+    "name": {
+      "en": "Promethium",
+      "ru": "Promethium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "16653": {
+    "basePrice": 256,
+    "description": {
+      "en": "A soft, rare, silvery-gray metal. Used in the creation of lasers, in addition to possessing a range of radiation-related production applications.",
+      "ru": "Редкий мягкий серебристо-серый металл. Используется для производства лазеров, а также применяется в областях, связанных с радиоактивным излучением."
+    },
+    "groupID": 427,
+    "iconID": 2579,
+    "marketGroupID": 501,
+    "mass": 9320,
+    "name": {
+      "en": "Thulium",
+      "ru": "Thulium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.05
+  },
+  "30303": {
+    "basePrice": 1006,
+    "description": {
+      "en": "Fulleroferrocene is a rare organometallic compound used to strengthen and supplement other materials. Most commonly, it is used to improve the structural integrity of metal alloys, but research is continuing on its potential applications in nanomechanical devices.",
+      "ru": "Фуллереноферроцен — редкое органо-металлическое вещество, используемое для усиления других материалов. Чаще всего его используют для улучшения структурной целостности металлических сплавов, но исследуются и возможности его применения в наномеханических устройствах."
+    },
+    "groupID": 974,
+    "iconID": 3739,
+    "marketGroupID": 1860,
+    "name": {
+      "en": "Fulleroferrocene",
+      "ru": "Fulleroferrocene"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.1
+  },
+  "30304": {
+    "basePrice": 5731,
+    "description": {
+      "en": "The discovery of these microscopic, tubular structures has helped pave new paths in the construction of advanced starships. Known for their unrivaled strength-to-weight ratio, composite metals made of unique PPD fullerene fibers have become the standard for defensive plating. Atomic-scale, nanomechanical systems used inside repair modules often employ fullerene fibers as well.",
+      "ru": "Открытие этих микроскопических пустотелых структур помогло проложить новые тропы в разработках передовых космических кораблей. Известные своим непревзойденным отношением предела прочности к весу, композитные металлы, изготовленные из уникальных волокон фуллерена PPD, стали стандартом для защитных покрытий. Наномеханические системы, входящие в состав ремонтных модулей, зачастую также используют волокна фуллерена."
+    },
+    "groupID": 974,
+    "iconID": 3740,
+    "marketGroupID": 1860,
+    "name": {
+      "en": "PPD Fullerene Fibers",
+      "ru": "PPD Fullerene Fibers"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.5
+  },
+  "30305": {
+    "basePrice": 1435,
+    "description": {
+      "en": "Originally this material was only used in the construction of advanced semiconductors, a role in which it still performs admirably. In recent years, however, structural engineers have proven that it has even better applications in nano-electromechanical systems. The unique “superlubricity” – a state of zero or near-zero friction – between mechanical components made of F.I.G significantly limits wear, allowing the tiny devices to operate for exceptionally long periods without the need for maintenance.",
+      "ru": "Первоначально данное вещество использовалось в изготовлении новейших полупроводников, его роль не уменьшилась и в наши дни. Впрочем, в последние несколько лет инженерам удалось доказать его ещё большую эффективность при использовании в наноэлектромеханических системах. Уникальная «суперскользкость» — свойство нулевой или почти нулевой силы трения — между механическими компонентами, изготовленными из этого вещества, значительно препятствует износу, позволяя миниатюрным устройствам служить довольно долгий время без замены."
+    },
+    "groupID": 974,
+    "iconID": 3741,
+    "marketGroupID": 1860,
+    "name": {
+      "en": "Fullerene Intercalated Graphite",
+      "ru": "Fullerene Intercalated Graphite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "raceID": 4,
+    "volume": 0.8
+  },
+  "30306": {
+    "basePrice": 2983,
+    "description": {
+      "en": "One of the most useful organic semiconductors discovered in recent years, methanofullerene can be blended with other polymers to create incredibly efficient solar cells, offering a near-endless source of power in places that would otherwise be difficult to supply.",
+      "ru": "Один из наиболее полезных органических полупроводников, открытых за последние годы, метанофуллерен может использоваться в соединении с другими полимерами для производства особенно эффективных солнечных батарей. Это позволяет создавать практически бесконечные источники энергии там, куда проблематично подводить питание."
+    },
+    "groupID": 974,
+    "iconID": 3745,
+    "marketGroupID": 1860,
+    "name": {
+      "en": "Methanofullerene",
+      "ru": "Methanofullerene"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.75
+  },
+  "30307": {
+    "basePrice": 2204,
+    "description": {
+      "en": "This fullerene-lanthanum compound is made by encasing a single lanthanum atom in a cage of carbon atoms. The incredibly high melting point of lanthanum compounds make them ideal for the construction of offensive hardpoints, where heat dissipation is critical to keeping weapons systems operating effectively.",
+      "ru": "Это соединение фуллерен-лантана изготовлено путем внедрения атома лантана в ячейку из атомов углерода. Невероятно высокая тугоплавкость лантановых соединений делает их идеальным для использования в точках монтажа, так как для эффективной работы систем вооружения быстрое рассеивание тепла является необходимым условием."
+    },
+    "groupID": 974,
+    "iconID": 3746,
+    "marketGroupID": 1860,
+    "name": {
+      "en": "Lanthanum Metallofullerene",
+      "ru": "Lanthanum Metallofullerene"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "30308": {
+    "basePrice": 6447,
+    "description": {
+      "en": "A fullerene-scandium compound made by encasing a single scandium atom in a cage of carbon atoms. Scandium is a grey-white element that has historically been incredibly hard to find. Scandium-tipped missiles were once valued for their armor-piercing qualities, which allowed them to wreck havoc deep inside starship hulls. The only thing holding the weapons industry back from these and other similar applications has been the low supply of the material.",
+      "ru": "Это соединение фуллерен-скандия изготовлено путем внедрении единого атома скандия в ячейку из атомов углерода. Скандий — серо-белый элемент, который было всегда трудно обнаружить. Ракеты с наконечниками из скандия когда-то ценились за их бронебойные качества, что позволяло им причинять ущерб глубоко внутри корпусов космических кораблей. Единственной причиной, удерживающей военную промышленность от использования этих и похожих прикладных технологий, было крайне малое количество этого материала."
+    },
+    "groupID": 974,
+    "iconID": 3744,
+    "marketGroupID": 1860,
+    "name": {
+      "en": "Scandium Metallofullerene",
+      "ru": "Scandium Metallofullerene"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.65
+  },
+  "30309": {
+    "basePrice": 17846,
+    "description": {
+      "en": "Single-walled nanotubes such as these have been at the forefront of advanced electronics production for centuries. The nanoribbons make for some of the best, and smallest, conductors in the world, offering scientists new ways forward in the miniaturization of electronics systems.",
+      "ru": "Эти одностеночные нанотрубки на протяжении веков стояли на первом плане передового электронного производства. Нановолокна являются одними из лучших и наименьших по размеру проводников в мире, предлагая ученым новые возможности в развитии минитюризации электронных систем."
+    },
+    "groupID": 974,
+    "iconID": 3753,
+    "marketGroupID": 1860,
+    "name": {
+      "en": "Graphene Nanoribbons",
+      "ru": "Graphene Nanoribbons"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1.5
+  },
+  "30310": {
+    "basePrice": 42849,
+    "description": {
+      "en": "C-86 epoxy resin is most commonly applied as a thin film to the structures housing propulsion systems. The tremendous flame-retardant properties of materials covered in the resin help prevent heat buildup and minimize onboard fires.",
+      "ru": "Эпоксидный полимер С-86 обычно наносят тонкой пленкой на корпуса двигательных установок. Его поразительные огнеупорные свойства позволяют избежать перегрева систем корабля и свести к минимуму вероятность возникновения пожаров."
+    },
+    "groupID": 974,
+    "iconID": 3750,
+    "marketGroupID": 1860,
+    "name": {
+      "en": "Carbon-86 Epoxy Resin",
+      "ru": "Carbon-86 Epoxy Resin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.4
+  },
+  "30311": {
+    "basePrice": 52222,
+    "description": {
+      "en": "Difficult to procure and expensive to create, this rare chemical compound plays an important role as a neuroprotective agent for capsule pilots. It is integrated into the life-support systems on board a capsuleer's vessel, where it helps limit brain cell death and neurodegeneration.",
+      "ru": "Редкое химическое соединение, технология синтеза которого сложна и дорогостояща. Используется пилотами-капсулёрами в качестве нейропротективного средства, применяется в системах жизнеобеспечения пилотируемых ими космических кораблей, играя ключевую роль в процессах предотвращения нейродегенерации и отмирания клеток головного мозга."
+    },
+    "groupID": 974,
+    "iconID": 3751,
+    "marketGroupID": 1860,
+    "name": {
+      "en": "C3-FTM Acid",
+      "ru": "C3-FTM Acid"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "34": {
+    "basePrice": 2,
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "groupID": 18,
+    "iconID": 22,
+    "marketGroupID": 1857,
+    "name": {
+      "en": "Tritanium",
+      "ru": "Tritanium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "35": {
+    "basePrice": 8,
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "groupID": 18,
+    "iconID": 400,
+    "marketGroupID": 1857,
+    "name": {
+      "en": "Pyerite",
+      "ru": "Pyerite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "36": {
+    "basePrice": 32,
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "groupID": 18,
+    "iconID": 401,
+    "marketGroupID": 1857,
+    "name": {
+      "en": "Mexallon",
+      "ru": "Mexallon"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "37": {
+    "basePrice": 128,
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "groupID": 18,
+    "iconID": 402,
+    "marketGroupID": 1857,
+    "name": {
+      "en": "Isogen",
+      "ru": "Isogen"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "38": {
+    "basePrice": 512,
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "groupID": 18,
+    "iconID": 1201,
+    "marketGroupID": 1857,
+    "name": {
+      "en": "Nocxium",
+      "ru": "Nocxium"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "39": {
+    "basePrice": 2048,
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "groupID": 18,
+    "iconID": 404,
+    "marketGroupID": 1857,
+    "name": {
+      "en": "Zydrine",
+      "ru": "Zydrine"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "40": {
+    "basePrice": 8192,
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "groupID": 18,
+    "iconID": 405,
+    "marketGroupID": 1857,
+    "name": {
+      "en": "Megacyte",
+      "ru": "Megacyte"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "11399": {
+    "basePrice": 32768,
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "groupID": 18,
+    "iconID": 2103,
+    "marketGroupID": 1857,
+    "name": {
+      "en": "Morphite",
+      "ru": "Morphite"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "30370": {
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "graphicID": 3218,
+    "groupID": 711,
+    "iconID": 3218,
+    "marketGroupID": 1859,
+    "name": {
+      "en": "Fullerite-C50",
+      "ru": "Fullerite-C50"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 1
+  },
+  "30371": {
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "graphicID": 3218,
+    "groupID": 711,
+    "iconID": 3218,
+    "marketGroupID": 1859,
+    "name": {
+      "en": "Fullerite-C60",
+      "ru": "Fullerite-C60"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 1
+  },
+  "30372": {
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "graphicID": 3220,
+    "groupID": 711,
+    "iconID": 3220,
+    "marketGroupID": 1859,
+    "name": {
+      "en": "Fullerite-C70",
+      "ru": "Fullerite-C70"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 1
+  },
+  "30373": {
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "graphicID": 3223,
+    "groupID": 711,
+    "iconID": 3223,
+    "marketGroupID": 1859,
+    "name": {
+      "en": "Fullerite-C72",
+      "ru": "Fullerite-C72"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 2
+  },
+  "30374": {
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "graphicID": 3222,
+    "groupID": 711,
+    "iconID": 3222,
+    "marketGroupID": 1859,
+    "name": {
+      "en": "Fullerite-C84",
+      "ru": "Fullerite-C84"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 2
+  },
+  "30375": {
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "graphicID": 3222,
+    "groupID": 711,
+    "iconID": 3222,
+    "marketGroupID": 1859,
+    "name": {
+      "en": "Fullerite-C28",
+      "ru": "Fullerite-C28"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 2
+  },
+  "30376": {
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "graphicID": 3225,
+    "groupID": 711,
+    "iconID": 3225,
+    "marketGroupID": 1859,
+    "name": {
+      "en": "Fullerite-C32",
+      "ru": "Fullerite-C32"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 5
+  },
+  "30377": {
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "graphicID": 3224,
+    "groupID": 711,
+    "iconID": 3224,
+    "marketGroupID": 1859,
+    "name": {
+      "en": "Fullerite-C320",
+      "ru": "Fullerite-C320"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 5
+  },
+  "30378": {
+    "description": {
+      "en": "",
+      "ru": ""
+    },
+    "graphicID": 3224,
+    "groupID": 711,
+    "iconID": 3224,
+    "marketGroupID": 1859,
+    "name": {
+      "en": "Fullerite-C540",
+      "ru": "Fullerite-C540"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  }
 }

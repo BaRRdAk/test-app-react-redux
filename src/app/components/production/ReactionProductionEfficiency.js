@@ -9,15 +9,21 @@ export default class ReactionProductionEfficiency extends React.Component {
     this.renderEfficiency(nextProps.data, this.props.systemIndex)
   }
 
-  renderEfficiency(data, systemIndex) {
 
+
+  renderEfficiency(data, systemIndex) {
+    let cycleCount = 10;
+    if(this.props.data.activities.reaction.product.groupID == 974){
+      cycleCount = 12
+    }
     if (data) {
-      data.activities.reaction.product.setPrice = data.activities.reaction.product.price * data.activities.reaction.product.quantity * 10;
-      data.activities.reaction.product.buySetPrice = data.activities.reaction.product.buy_price * data.activities.reaction.product.quantity * 10;
+
+      data.activities.reaction.product.setPrice = data.activities.reaction.product.price * data.activities.reaction.product.quantity * cycleCount;
+      data.activities.reaction.product.buySetPrice = data.activities.reaction.product.buy_price * data.activities.reaction.product.quantity * cycleCount;
       data.activities.reaction.allMaterialsPrice = 0;
       data.activities.reaction.materials.map((e, i) => {
         let percentEconomy = e.quantity == 1 ? 0 : e.quantity/100*2;
-        e.economyQuantity = e.quantity*10 - Math.ceil(percentEconomy*10);
+        e.economyQuantity = e.quantity*cycleCount - Math.ceil(percentEconomy*cycleCount);
         e.setPrice = e.economyQuantity * e.price;
         data.activities.reaction.allMaterialsPrice += e.setPrice;
         data.activities.reaction.manufacturingPrice = data.activities.reaction.allMaterialsPrice/100*systemIndex;
@@ -28,7 +34,11 @@ export default class ReactionProductionEfficiency extends React.Component {
 
   render() {
     //количество продукции
-    let productionCountResult = this.props.data.activities.reaction.product.quantity*10;
+    let cycleCount = 10;
+    if(this.props.data.activities.reaction.product.groupID == 974){
+      cycleCount = 12
+    }
+    let productionCountResult = this.props.data.activities.reaction.product.quantity*cycleCount;
     //цена операции продажи по ордеру
     let saleOrderTax = this.props.data.activities.reaction.product.setPrice/100*(2.57+1.2)
     let salesTax = Math.ceil(saleOrderTax);
@@ -72,7 +82,7 @@ export default class ReactionProductionEfficiency extends React.Component {
                 <strong><img src={'https://image.eveonline.com/Type/' + this.props.data.activities.reaction.product.typeID + '_32.png'} />{this.props.data.activities.reaction.product.name}</strong>
               </a>
             </div>
-            <div className="col-md-3">10 циклов (сутки) = {productionCountResult} шт.</div>
+            <div className="col-md-3">{cycleCount} циклов (сутки) = {productionCountResult} шт.</div>
             <div className="col-md-3"><div className={profitSellClass} >{String(profit).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ({Math.floor(profitPercent)}%)</div></div>
             <div className="col-md-3"><div className={profitBuyClass} >{String(profit_buy).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK ({Math.floor(profitPercent_buy)}%)</div></div>
           </div>
