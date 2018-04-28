@@ -13,9 +13,6 @@ export default class ReactionProductionEfficiency extends React.Component {
 
   renderEfficiency(data, systemIndex) {
     let cycleCount = 10;
-    if(this.props.data.activities.reaction.product.groupID == 974){
-      cycleCount = 12
-    }
     if (data) {
 
       data.activities.reaction.product.setPrice = data.activities.reaction.product.price * data.activities.reaction.product.quantity * cycleCount;
@@ -35,9 +32,6 @@ export default class ReactionProductionEfficiency extends React.Component {
   render() {
     //количество продукции
     let cycleCount = 10;
-    if(this.props.data.activities.reaction.product.groupID == 974){
-      cycleCount = 12
-    }
     let productionCountResult = this.props.data.activities.reaction.product.quantity*cycleCount;
     //цена операции продажи по ордеру
     let saleOrderTax = this.props.data.activities.reaction.product.setPrice/100*(2.57+1.2)
