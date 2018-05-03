@@ -26,6 +26,14 @@ export default {
           cb(null, m.default)
         })
       }
+    },
+    {
+      path: 'bioReaction',
+      getComponent(nextState, cb){
+        System.import('./containers/bioReaction').then((m)=> {
+          cb(null, m.default)
+        })
+      }
     }
   ]
 };

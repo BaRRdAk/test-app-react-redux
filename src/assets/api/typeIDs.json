@@ -2153,5 +2153,925 @@
     "published": true,
     "radius": 100,
     "volume": 10
+  },
+  "41": {
+    "basePrice": 20,
+    "description": {
+      "en": "Production waste can mean garbage to some but valuable resource material to others.",
+      "ru": "Для кого-то отходы производства - мусор, а для кого-то - ценный материальный ресурс."
+    },
+    "groupID": 280,
+    "iconID": 1179,
+    "marketGroupID": 20,
+    "mass": 2500,
+    "name": {
+      "en": "Garbage",
+      "ru": "Garbage"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.25
+  },
+  "3645": {
+    "basePrice": 35,
+    "description": {
+      "en": "Water is one of the basic conditional elements of human survival. Most worlds have this compound in relative short supply and hence must rely on starship freight.",
+      "ru": "Вода — одна из основ человеческого выживания. Большинство миров испытывает нехватку воды и зависит от межзвездных поставок."
+    },
+    "groupID": 1042,
+    "iconID": 1178,
+    "marketGroupID": 1334,
+    "name": {
+      "en": "Water",
+      "ru": "Water"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.38
+  },
+  "3683": {
+    "basePrice": 95,
+    "description": {
+      "en": "Oxygen is a commodity in constant demand. While most stations have their own supply units, smaller depots and space crafts rely on imports.",
+      "ru": "Кислород - продукт, спрос на который никогда не падает. В то время как большинство станций имеют собственные запасы, небольшие депо и космические корабли зависят от его импорта."
+    },
+    "groupID": 1042,
+    "iconID": 1183,
+    "marketGroupID": 1334,
+    "name": {
+      "en": "Oxygen",
+      "ru": "Oxygen"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.38
+  },
+  "3773": {
+    "basePrice": 630,
+    "description": {
+      "en": "A clear, colorless, fuming, poisonous, highly acidic aqueous solution of hydrogen chloride, used as a chemical intermediate and in petroleum production, ore reduction, and food processing.",
+      "ru": "Прозрачное, бесцветное, дымящееся, ядовитое и чрезвычайно кислотное соединение хлорида водорода, используемое как промежуточное звено в производстве нефти, переработке руды и продуктов питания."
+    },
+    "groupID": 284,
+    "iconID": 1199,
+    "marketGroupID": 20,
+    "mass": 100,
+    "name": {
+      "en": "Hydrochloric Acid",
+      "ru": "Hydrochloric Acid"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.5
+  },
+  "9850": {
+    "basePrice": 455,
+    "description": {
+      "en": "Alcoholic beverages made by distilling a fermented mash of grains.",
+      "ru": "Алкогольный напиток, произведенный путем дистиляции молотого зерна. "
+    },
+    "groupID": 280,
+    "iconID": 1369,
+    "marketGroupID": 492,
+    "mass": 2500,
+    "name": {
+      "en": "Spirits",
+      "ru": "Spirits"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.2
+  },
+  "25237": {
+    "basePrice": 512,
+    "description": {
+      "en": "Standard Blue pill compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Стандартный состав Blue Pill в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Standard Blue Pill Booster",
+      "ru": "Pure Standard Blue Pill Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25241": {
+    "basePrice": 512,
+    "description": {
+      "en": "Improved Blue Pill compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Улучшенный состав Blue Pill в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Improved Blue Pill Booster",
+      "ru": "Pure Improved Blue Pill Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25242": {
+    "basePrice": 512,
+    "description": {
+      "en": "Standard Crash compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Стандартный состав Crash в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Standard Crash Booster",
+      "ru": "Pure Standard Crash Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25252": {
+    "basePrice": 512,
+    "description": {
+      "en": "Standard Frentix compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Стандартный состав Frentix, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Standard Frentix Booster",
+      "ru": "Pure Standard Frentix Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25268": {
+    "description": {
+      "en": "Cytoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. It is used in electronics and weapon manufacturing, as well as the production of high-grade combat boosters. Cytoserocin can only be found in a few areas, such as interstellar gas clouds out in low security and 0.0 space.  ",
+      "ru": "  Cytoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Оно используется в производстве электронных систем и вооружения, а также при изготовлении высококачественных боевых бустеров. Cytoserocin встречается довольно редко; как правило, его можно найти в межзвездных газовых облаках в пространстве с низким уровнем безопасности и 0,0."
+    },
+    "graphicID": 3225,
+    "groupID": 711,
+    "iconID": 3225,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Amber Cytoserocin",
+      "ru": "Amber Cytoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "25273": {
+    "description": {
+      "en": "Cytoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. It is used in electronics and weapon manufacturing, as well as the production of high-grade combat boosters. Cytoserocin can only be found in a few areas, such as interstellar gas clouds out in low security and 0.0 space.  ",
+      "ru": "  Cytoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Оно используется в производстве электронных систем и вооружения, а также при изготовлении высококачественных боевых бустеров. Cytoserocin встречается довольно редко; как правило, его можно найти в межзвездных газовых облаках в пространстве с низким уровнем безопасности и 0,0."
+    },
+    "graphicID": 3224,
+    "groupID": 711,
+    "iconID": 3224,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Golden Cytoserocin",
+      "ru": "Golden Cytoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "25274": {
+    "description": {
+      "en": "Cytoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. It is used in electronics and weapon manufacturing, as well as the production of high-grade combat boosters. Cytoserocin can only be found in a few areas, such as interstellar gas clouds out in low security and 0.0 space.  ",
+      "ru": "  Cytoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Оно используется в производстве электронных систем и вооружения, а также при изготовлении высококачественных боевых бустеров. Cytoserocin встречается довольно редко; как правило, его можно найти в межзвездных газовых облаках в пространстве с низким уровнем безопасности и 0,0."
+    },
+    "graphicID": 3221,
+    "groupID": 711,
+    "iconID": 3221,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Viridian Cytoserocin",
+      "ru": "Viridian Cytoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "25275": {
+    "description": {
+      "en": "Cytoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. It is used in electronics and weapon manufacturing, as well as the production of high-grade combat boosters. Cytoserocin can only be found in a few areas, such as interstellar gas clouds out in low security and 0.0 space.  ",
+      "ru": "  Cytoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Оно используется в производстве электронных систем и вооружения, а также при изготовлении высококачественных боевых бустеров. Cytoserocin встречается довольно редко; как правило, его можно найти в межзвездных газовых облаках в пространстве с низким уровнем безопасности и 0,0."
+    },
+    "graphicID": 3219,
+    "groupID": 711,
+    "iconID": 3219,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Celadon Cytoserocin",
+      "ru": "Celadon Cytoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "25276": {
+    "description": {
+      "en": "Cytoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. It is used in electronics and weapon manufacturing, as well as the production of high-grade combat boosters. Cytoserocin can only be found in a few areas, such as interstellar gas clouds out in low security and 0.0 space.  ",
+      "ru": "  Cytoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Оно используется в производстве электронных систем и вооружения, а также при изготовлении высококачественных боевых бустеров. Cytoserocin встречается довольно редко; как правило, его можно найти в межзвездных газовых облаках в пространстве с низким уровнем безопасности и 0,0."
+    },
+    "graphicID": 3223,
+    "groupID": 711,
+    "iconID": 3223,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Malachite Cytoserocin",
+      "ru": "Malachite Cytoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "25277": {
+    "description": {
+      "en": "Cytoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. It is used in electronics and weapon manufacturing, as well as the production of high-grade combat boosters. Cytoserocin can only be found in a few areas, such as interstellar gas clouds out in low security and 0.0 space.  ",
+      "ru": "  Cytoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Оно используется в производстве электронных систем и вооружения, а также при изготовлении высококачественных боевых бустеров. Cytoserocin встречается довольно редко; как правило, его можно найти в межзвездных газовых облаках в пространстве с низким уровнем безопасности и 0,0."
+    },
+    "graphicID": 3222,
+    "groupID": 711,
+    "iconID": 3222,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Lime Cytoserocin",
+      "ru": "Lime Cytoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "25278": {
+    "description": {
+      "en": "Cytoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. It is used in electronics and weapon manufacturing, as well as the production of high-grade combat boosters. Cytoserocin can only be found in a few areas, such as interstellar gas clouds out in low security and 0.0 space.  ",
+      "ru": "  Cytoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Оно используется в производстве электронных систем и вооружения, а также при изготовлении высококачественных боевых бустеров. Cytoserocin встречается довольно редко; как правило, его можно найти в межзвездных газовых облаках в пространстве с низким уровнем безопасности и 0,0."
+    },
+    "graphicID": 3218,
+    "groupID": 711,
+    "iconID": 3218,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Vermillion Cytoserocin",
+      "ru": "Vermillion Cytoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "25279": {
+    "description": {
+      "en": "Cytoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. It is used in electronics and weapon manufacturing, as well as the production of high-grade combat boosters. Cytoserocin can only be found in a few areas, such as interstellar gas clouds out in low security and 0.0 space.  ",
+      "ru": "  Cytoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Оно используется в производстве электронных систем и вооружения, а также при изготовлении высококачественных боевых бустеров. Cytoserocin встречается довольно редко; как правило, его можно найти в межзвездных газовых облаках в пространстве с низким уровнем безопасности и 0,0."
+    },
+    "graphicID": 3220,
+    "groupID": 711,
+    "iconID": 3220,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Azure Cytoserocin",
+      "ru": "Azure Cytoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "25283": {
+    "basePrice": 512,
+    "description": {
+      "en": "Strong Blue Pill compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Сильнодействующий состав Blue Pill, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Strong Blue Pill Booster",
+      "ru": "Pure Strong Blue Pill Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25330": {
+    "basePrice": 512,
+    "description": {
+      "en": "Standard Drop compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Стандартный состав Drop, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Standard Drop Booster",
+      "ru": "Pure Standard Drop Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25331": {
+    "basePrice": 512,
+    "description": {
+      "en": "Standard Exile compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Стандартный состав Exile, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Standard Exile Booster",
+      "ru": "Pure Standard Exile Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25332": {
+    "basePrice": 512,
+    "description": {
+      "en": "Standard Mindflood compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Стандартный состав Mindflood, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Standard Mindflood Booster",
+      "ru": "Pure Standard Mindflood Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25333": {
+    "basePrice": 512,
+    "description": {
+      "en": "Standard X-Instinct compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Стандартный состав X-Instinct, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Standard X-Instinct Booster",
+      "ru": "Pure Standard X-Instinct Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25334": {
+    "basePrice": 512,
+    "description": {
+      "en": "Standard Sooth Sayer compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Стандартный состав Sooth Sayer, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Standard Sooth Sayer Booster",
+      "ru": "Pure Standard Sooth Sayer Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25335": {
+    "basePrice": 512,
+    "description": {
+      "en": "Improved Crash compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Улучшенный состав Crash в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Improved Crash Booster",
+      "ru": "Pure Improved Crash Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25336": {
+    "basePrice": 512,
+    "description": {
+      "en": "Improved Drop compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Улучшенный состав Drop в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Improved Drop Booster",
+      "ru": "Pure Improved Drop Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25337": {
+    "basePrice": 512,
+    "description": {
+      "en": "Improved Exile compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Улучшенный состав Exile в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Improved Exile Booster",
+      "ru": "Pure Improved Exile Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25338": {
+    "basePrice": 512,
+    "description": {
+      "en": "Improved Mindflood compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Улучшенный состав Mindflood в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Improved Mindflood Booster",
+      "ru": "Pure Improved Mindflood Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25339": {
+    "basePrice": 512,
+    "description": {
+      "en": "Improved Frentix compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Улучшенный состав Frentix в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Improved Frentix Booster",
+      "ru": "Pure Improved Frentix Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25340": {
+    "basePrice": 512,
+    "description": {
+      "en": "Improved X-Instinct compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Улучшенный состав X-Instinct в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Improved X-Instinct Booster",
+      "ru": "Pure Improved X-Instinct Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25341": {
+    "basePrice": 512,
+    "description": {
+      "en": "Improved Sooth Sayer compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Улучшенный состав Sooth Sayer в его первоначальном виде, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Improved Sooth Sayer Booster",
+      "ru": "Pure Improved Sooth Sayer Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25342": {
+    "basePrice": 512,
+    "description": {
+      "en": "Strong Crash compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Сильнодействующий состав Crash, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Strong Crash Booster",
+      "ru": "Pure Strong Crash Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25343": {
+    "basePrice": 512,
+    "description": {
+      "en": "Strong Drop compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Сильнодействующий состав Drop, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Strong Drop Booster",
+      "ru": "Pure Strong Drop Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25344": {
+    "basePrice": 512,
+    "description": {
+      "en": "Strong Exile compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Сильнодействующий состав Exile, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Strong Exile Booster",
+      "ru": "Pure Strong Exile Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25345": {
+    "basePrice": 512,
+    "description": {
+      "en": "Strong Mindflood compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Сильнодействующий состав MIndfood, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Strong Mindflood Booster",
+      "ru": "Pure Strong Mindflood Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25346": {
+    "basePrice": 512,
+    "description": {
+      "en": "Strong Frentix compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Сильнодействующий состав Frentix, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Strong Frentix Booster",
+      "ru": "Pure Strong Frentix Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25347": {
+    "basePrice": 512,
+    "description": {
+      "en": "Strong X-Instinct compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Сильнодействующий состав X-Instinct, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Strong X-Instinct Booster",
+      "ru": "Pure Strong X-Instinct Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "25348": {
+    "basePrice": 512,
+    "description": {
+      "en": "Strong Sooth Sayer compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Сильнодействующий состав Sooth Sayer, готовый для преобразования в финальную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Strong Sooth Sayer Booster",
+      "ru": "Pure Strong Sooth Sayer Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "28686": {
+    "basePrice": 512,
+    "description": {
+      "en": "Synth Blue Pill compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Синтетический состав Blue Pill в чистом виде, готово к переработке в окончательную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Synth Blue Pill Booster",
+      "ru": "Pure Synth Blue Pill Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "28687": {
+    "basePrice": 512,
+    "description": {
+      "en": "Synth Crash compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Синтетический состав Synth Crash в чистом виде, готово к переработке в окончательную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Synth Crash Booster",
+      "ru": "Pure Synth Crash Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "28688": {
+    "basePrice": 512,
+    "description": {
+      "en": "Synth Drop compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Синтетический состав Synth Drop в чистом виде, готово к переработке в окончательную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Synth Drop Booster",
+      "ru": "Pure Synth Drop Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "28689": {
+    "basePrice": 512,
+    "description": {
+      "en": "Synth Exile compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Синтетический состав Synth Exile в чистом виде, готово к переработке в окончательную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Synth Exile Booster",
+      "ru": "Pure Synth Exile Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "28690": {
+    "basePrice": 512,
+    "description": {
+      "en": "Synth Frentix compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Синтетический состав Synth Frentix в чистом виде, готово к переработке в окончательную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Synth Frentix Booster",
+      "ru": "Pure Synth Frentix Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "28691": {
+    "basePrice": 512,
+    "description": {
+      "en": "Synth Mindflood compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Синтетический состав Synth Mindflood в чистом виде, готово к переработке в окончательную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Synth Mindflood Booster",
+      "ru": "Pure Synth Mindflood Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "28692": {
+    "basePrice": 512,
+    "description": {
+      "en": "Synth Sooth Sayer compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Синтетический состав Synth Sooth Sayer в чистом виде, готово к переработке в окончательную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Synth Sooth Sayer Booster",
+      "ru": "Pure Synth Sooth Sayer Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "28693": {
+    "basePrice": 512,
+    "description": {
+      "en": "Synth X-Instinct compound in its uncut form, ready to be processed into the final version of the combat booster.",
+      "ru": "Синтетический состав Synth Sooth Sayer в чистом виде, готово к переработке в окончательную версию боевого бустера."
+    },
+    "groupID": 712,
+    "iconID": 21829,
+    "marketGroupID": 1858,
+    "name": {
+      "en": "Pure Synth X-Instinct Booster",
+      "ru": "Pure Synth X-Instinct Booster"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 1
+  },
+  "28694": {
+    "description": {
+      "en": "Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. ",
+      "ru": " Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности."
+    },
+    "graphicID": 3225,
+    "groupID": 711,
+    "iconID": 3225,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Amber Mykoserocin",
+      "ru": "Amber Mykoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "28695": {
+    "description": {
+      "en": "Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. ",
+      "ru": " Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности."
+    },
+    "graphicID": 3220,
+    "groupID": 711,
+    "iconID": 3220,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Azure Mykoserocin",
+      "ru": "Azure Mykoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "28696": {
+    "description": {
+      "en": "Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. ",
+      "ru": " Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности."
+    },
+    "graphicID": 3219,
+    "groupID": 711,
+    "iconID": 3219,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Celadon Mykoserocin",
+      "ru": "Celadon Mykoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "28697": {
+    "description": {
+      "en": "Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. ",
+      "ru": " Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности."
+    },
+    "graphicID": 3224,
+    "groupID": 711,
+    "iconID": 3224,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Golden Mykoserocin",
+      "ru": "Golden Mykoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "28698": {
+    "description": {
+      "en": "Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. ",
+      "ru": " Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности."
+    },
+    "graphicID": 3222,
+    "groupID": 711,
+    "iconID": 3222,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Lime Mykoserocin",
+      "ru": "Lime Mykoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "28699": {
+    "description": {
+      "en": "Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. ",
+      "ru": " Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности."
+    },
+    "graphicID": 3223,
+    "groupID": 711,
+    "iconID": 3223,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Malachite Mykoserocin",
+      "ru": "Malachite Mykoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "28700": {
+    "description": {
+      "en": "Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. ",
+      "ru": " Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности."
+    },
+    "graphicID": 3218,
+    "groupID": 711,
+    "iconID": 3218,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Vermillion Mykoserocin",
+      "ru": "Vermillion Mykoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
+  },
+  "28701": {
+    "description": {
+      "en": "Mykoserocin is a crystalline compound formed by intense pressure deep within large asteroids and moons. The crystals are commonly used in electronics and weapon manufacturing, as well as the creation of legalized Synth booster variants. Mykoserocin can only be found in abundance in a few areas, such as interstellar gas clouds within high security space. ",
+      "ru": " Mykoserocin - кристаллическое вещество, формирующееся под высоким давлением в глубине больших астероидов или лун. Эти кристаллы часто используются  в производстве электронных систем и вооружения, а также при изготовлении легальных бустеров Synth. В изобилии Mykoserocin встречается лишь в немногих областях, таких как межзвездные облака в пространстве с высоким уровнем безопасности."
+    },
+    "graphicID": 3221,
+    "groupID": 711,
+    "iconID": 3221,
+    "marketGroupID": 983,
+    "name": {
+      "en": "Viridian Mykoserocin",
+      "ru": "Viridian Mykoserocin"
+    },
+    "portionSize": 1,
+    "published": true,
+    "radius": 100,
+    "volume": 10
   }
 }

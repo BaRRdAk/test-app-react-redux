@@ -1,210 +1,320 @@
-46166:
+46219:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Caesarium Cadmide Reaction Formula
-        ru: Caesarium Cadmide Reaction Formula
+        en: Synth Drop Booster Reaction Formula
+        ru: Synth Drop Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46167:
+46220:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Carbon Polymers Reaction Formula
-        ru: Carbon Polymers Reaction Formula
+        en: Synth Exile Booster Reaction Formula
+        ru: Synth Exile Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46168:
+46221:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Ceramic Powder Reaction Formula
-        ru: Ceramic Powder Reaction Formula
+        en: Synth Frentix Booster Reaction Formula
+        ru: Synth Frentix Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46169:
+46222:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Crystallite Alloy Reaction Formula
-        ru: Crystallite Alloy Reaction Formula
+        en: Standard Frentix Booster Reaction Formula
+        ru: Standard Frentix Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46170:
+46223:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Dysporite Reaction Formula
-        ru: Dysporite Reaction Formula
+        en: Standard Drop Booster Reaction Formula
+        ru: Standard Drop Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46171:
+46224:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Fernite Alloy Reaction Formula
-        ru: Fernite Alloy Reaction Formula
+        en: Standard Exile Booster Reaction Formula
+        ru: Standard Exile Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46172:
+46225:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Ferrofluid Reaction Formula
-        ru: Ferrofluid Reaction Formula
+        en: Standard Mindflood Booster Reaction Formula
+        ru: Standard Mindflood Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46173:
+46226:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Fluxed Condensates Reaction Formula
-        ru: Fluxed Condensates Reaction Formula
+        en: Standard X-Instinct Booster Reaction Formula
+        ru: Standard X-Instinct Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46174:
+46227:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Hexite Reaction Formula
-        ru: Hexite Reaction Formula
+        en: Standard Sooth Sayer Booster Reaction Formula
+        ru: Standard Sooth Sayer Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46175:
+46228:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Hyperflurite Reaction Formula
-        ru: Hyperflurite Reaction Formula
+        en: Synth Mindflood Booster Reaction Formula
+        ru: Synth Mindflood Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46176:
+46229:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Neo Mercurite Reaction Formula
-        ru: Neo Mercurite Reaction Formula
+        en: Synth Sooth Sayer Booster Reaction Formula
+        ru: Synth Sooth Sayer Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46177:
+46230:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Platinum Technite Reaction Formula
-        ru: Platinum Technite Reaction Formula
+        en: Standard Blue Pill Booster Reaction Formula
+        ru: Standard Blue Pill Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46178:
+46231:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Rolled Tungsten Alloy Reaction Formula
-        ru: Rolled Tungsten Alloy Reaction Formula
+        en: Standard Crash Booster Reaction Formula
+        ru: Standard Crash Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46179:
+46232:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Silicon Diborite Reaction Formula
-        ru: Silicon Diborite Reaction Formula
+        en: Synth X-Instinct Booster Reaction Formula
+        ru: Synth X-Instinct Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46180:
+46233:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Solerium Reaction Formula
-        ru: Solerium Reaction Formula
+        en: Synth Blue Pill Booster Reaction Formula
+        ru: Synth Blue Pill Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46181:
+46234:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Sulfuric Acid Reaction Formula
-        ru: Sulfuric Acid Reaction Formula
+        en: Synth Crash Booster Reaction Formula
+        ru: Synth Crash Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46182:
+46235:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Titanium Chromide Reaction Formula
-        ru: Titanium Chromide Reaction Formula
+        en: Strong Blue Pill Booster Reaction Formula
+        ru: Strong Blue Pill Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46183:
+46236:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Vanadium Hafnite Reaction Formula
-        ru: Vanadium Hafnite Reaction Formula
+        en: Improved Crash Booster Reaction Formula
+        ru: Improved Crash Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46184:
+46237:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Prometium Reaction Formula
-        ru: Prometium Reaction Formula
+        en: Improved Drop Booster Reaction Formula
+        ru: Improved Drop Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46185:
+46238:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Thulium Hafnite Reaction Formula
-        ru: Thulium Hafnite Reaction Formula
+        en: Improved Exile Booster Reaction Formula
+        ru: Improved Exile Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01
-46186:
+46240:
     basePrice: 10000000
-    groupID: 1888
-    marketGroupID: 2403
+    groupID: 1890
+    marketGroupID: 2402
     name:
-        en: Promethium Mercurite Reaction Formula
-        ru: Promethium Mercurite Reaction Formula
+        en: Improved Mindflood Booster Reaction Formula
+        ru: Improved Mindflood Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46241:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Improved Frentix Booster Reaction Formula
+        ru: Improved Frentix Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46242:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Improved X-Instinct Booster Reaction Formula
+        ru: Improved X-Instinct Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46243:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Improved Sooth Sayer Booster Reaction Formula
+        ru: Improved Sooth Sayer Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46244:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Strong Crash Booster Reaction Formula
+        ru: Strong Crash Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46245:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Strong Drop Booster Reaction Formula
+        ru: Strong Drop Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46246:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Strong Exile Booster Reaction Formula
+        ru: Strong Exile Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46247:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Strong Mindflood Booster Reaction Formula
+        ru: Strong Mindflood Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46248:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Strong Frentix Booster Reaction Formula
+        ru: Strong Frentix Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46249:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Strong X-Instinct Booster Reaction Formula
+        ru: Strong X-Instinct Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46250:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Strong Sooth Sayer Booster Reaction Formula
+        ru: Strong Sooth Sayer Booster Reaction Formula
+    portionSize: 1
+    published: true
+    volume: 0.01
+46251:
+    basePrice: 10000000
+    groupID: 1890
+    marketGroupID: 2402
+    name:
+        en: Improved Blue Pill Booster Reaction Formula
+        ru: Improved Blue Pill Booster Reaction Formula
     portionSize: 1
     published: true
     volume: 0.01

@@ -1008,5 +1008,389 @@
     "portionSize": 1,
     "published": true,
     "volume": 0.01
+  },
+  "46219": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Synth Drop Booster Reaction Formula",
+      "ru": "Synth Drop Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46220": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Synth Exile Booster Reaction Formula",
+      "ru": "Synth Exile Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46221": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Synth Frentix Booster Reaction Formula",
+      "ru": "Synth Frentix Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46222": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Standard Frentix Booster Reaction Formula",
+      "ru": "Standard Frentix Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46223": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Standard Drop Booster Reaction Formula",
+      "ru": "Standard Drop Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46224": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Standard Exile Booster Reaction Formula",
+      "ru": "Standard Exile Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46225": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Standard Mindflood Booster Reaction Formula",
+      "ru": "Standard Mindflood Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46226": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Standard X-Instinct Booster Reaction Formula",
+      "ru": "Standard X-Instinct Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46227": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Standard Sooth Sayer Booster Reaction Formula",
+      "ru": "Standard Sooth Sayer Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46228": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Synth Mindflood Booster Reaction Formula",
+      "ru": "Synth Mindflood Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46229": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Synth Sooth Sayer Booster Reaction Formula",
+      "ru": "Synth Sooth Sayer Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46230": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Standard Blue Pill Booster Reaction Formula",
+      "ru": "Standard Blue Pill Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46231": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Standard Crash Booster Reaction Formula",
+      "ru": "Standard Crash Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46232": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Synth X-Instinct Booster Reaction Formula",
+      "ru": "Synth X-Instinct Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46233": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Synth Blue Pill Booster Reaction Formula",
+      "ru": "Synth Blue Pill Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46234": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Synth Crash Booster Reaction Formula",
+      "ru": "Synth Crash Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46235": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Strong Blue Pill Booster Reaction Formula",
+      "ru": "Strong Blue Pill Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46236": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Improved Crash Booster Reaction Formula",
+      "ru": "Improved Crash Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46237": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Improved Drop Booster Reaction Formula",
+      "ru": "Improved Drop Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46238": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Improved Exile Booster Reaction Formula",
+      "ru": "Improved Exile Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46240": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Improved Mindflood Booster Reaction Formula",
+      "ru": "Improved Mindflood Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46241": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Improved Frentix Booster Reaction Formula",
+      "ru": "Improved Frentix Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46242": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Improved X-Instinct Booster Reaction Formula",
+      "ru": "Improved X-Instinct Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46243": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Improved Sooth Sayer Booster Reaction Formula",
+      "ru": "Improved Sooth Sayer Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46244": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Strong Crash Booster Reaction Formula",
+      "ru": "Strong Crash Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46245": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Strong Drop Booster Reaction Formula",
+      "ru": "Strong Drop Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46246": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Strong Exile Booster Reaction Formula",
+      "ru": "Strong Exile Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46247": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Strong Mindflood Booster Reaction Formula",
+      "ru": "Strong Mindflood Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46248": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Strong Frentix Booster Reaction Formula",
+      "ru": "Strong Frentix Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46249": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Strong X-Instinct Booster Reaction Formula",
+      "ru": "Strong X-Instinct Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46250": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Strong Sooth Sayer Booster Reaction Formula",
+      "ru": "Strong Sooth Sayer Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
+  },
+  "46251": {
+    "basePrice": 10000000,
+    "groupID": 1890,
+    "marketGroupID": 2402,
+    "name": {
+      "en": "Improved Blue Pill Booster Reaction Formula",
+      "ru": "Improved Blue Pill Booster Reaction Formula"
+    },
+    "portionSize": 1,
+    "published": true,
+    "volume": 0.01
   }
 }

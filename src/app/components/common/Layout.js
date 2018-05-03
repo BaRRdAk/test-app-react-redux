@@ -31,6 +31,7 @@ export default class Layout extends React.Component {
                     <li><a href='/#/blueprints/advancedComponents'>Advanced components</a></li>
                     <li><a href='/#/blueprints/compositeReaction'>Composite reaction</a></li>
                     <li><a href='/#/blueprints/polimerReaction'>Polimer reaction</a></li>
+                    <li><a href='/#/blueprints/bioReaction'>Bio reaction</a></li>
                   </ul>
                 </li>
               </ul>

@@ -2955,5 +2955,917 @@
     },
     "blueprintTypeID": 46165,
     "maxProductionLimit": 1000
+  },
+  "46219": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4312
+        }, {
+          "quantity": 20,
+          "typeID": 41
+        }, {
+          "quantity": 40,
+          "typeID": 28701
+        }],
+        "products": [{
+          "quantity": 30,
+          "typeID": 28688
+        }],
+        "skills": [{
+          "level": 1,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46219,
+    "maxProductionLimit": 1000
+  },
+  "46220": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4312
+        }, {
+          "quantity": 20,
+          "typeID": 41
+        }, {
+          "quantity": 40,
+          "typeID": 28696
+        }],
+        "products": [{
+          "quantity": 30,
+          "typeID": 28689
+        }],
+        "skills": [{
+          "level": 1,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46220,
+    "maxProductionLimit": 1000
+  },
+  "46221": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4247
+        }, {
+          "quantity": 20,
+          "typeID": 41
+        }, {
+          "quantity": 40,
+          "typeID": 28698
+        }],
+        "products": [{
+          "quantity": 30,
+          "typeID": 28690
+        }],
+        "skills": [{
+          "level": 1,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46221,
+    "maxProductionLimit": 1000
+  },
+  "46222": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4247
+        }, {
+          "quantity": 20,
+          "typeID": 3645
+        }, {
+          "quantity": 20,
+          "typeID": 25277
+        }],
+        "products": [{
+          "quantity": 15,
+          "typeID": 25252
+        }],
+        "skills": [{
+          "level": 2,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46222,
+    "maxProductionLimit": 1000
+  },
+  "46223": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4312
+        }, {
+          "quantity": 20,
+          "typeID": 3645
+        }, {
+          "quantity": 20,
+          "typeID": 25274
+        }],
+        "products": [{
+          "quantity": 15,
+          "typeID": 25330
+        }],
+        "skills": [{
+          "level": 2,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46223,
+    "maxProductionLimit": 1000
+  },
+  "46224": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4312
+        }, {
+          "quantity": 20,
+          "typeID": 3645
+        }, {
+          "quantity": 20,
+          "typeID": 25275
+        }],
+        "products": [{
+          "quantity": 15,
+          "typeID": 25331
+        }],
+        "skills": [{
+          "level": 2,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46224,
+    "maxProductionLimit": 1000
+  },
+  "46225": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4247
+        }, {
+          "quantity": 20,
+          "typeID": 3645
+        }, {
+          "quantity": 20,
+          "typeID": 25276
+        }],
+        "products": [{
+          "quantity": 15,
+          "typeID": 25332
+        }],
+        "skills": [{
+          "level": 2,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46225,
+    "maxProductionLimit": 1000
+  },
+  "46226": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4246
+        }, {
+          "quantity": 20,
+          "typeID": 3645
+        }, {
+          "quantity": 20,
+          "typeID": 25278
+        }],
+        "products": [{
+          "quantity": 15,
+          "typeID": 25333
+        }],
+        "skills": [{
+          "level": 2,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46226,
+    "maxProductionLimit": 1000
+  },
+  "46227": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4246
+        }, {
+          "quantity": 20,
+          "typeID": 3645
+        }, {
+          "quantity": 20,
+          "typeID": 25279
+        }],
+        "products": [{
+          "quantity": 15,
+          "typeID": 25334
+        }],
+        "skills": [{
+          "level": 2,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46227,
+    "maxProductionLimit": 1000
+  },
+  "46228": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4247
+        }, {
+          "quantity": 20,
+          "typeID": 41
+        }, {
+          "quantity": 40,
+          "typeID": 28699
+        }],
+        "products": [{
+          "quantity": 30,
+          "typeID": 28691
+        }],
+        "skills": [{
+          "level": 1,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46228,
+    "maxProductionLimit": 1000
+  },
+  "46229": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4246
+        }, {
+          "quantity": 20,
+          "typeID": 41
+        }, {
+          "quantity": 40,
+          "typeID": 28695
+        }],
+        "products": [{
+          "quantity": 30,
+          "typeID": 28692
+        }],
+        "skills": [{
+          "level": 1,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46229,
+    "maxProductionLimit": 1000
+  },
+  "46230": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4051
+        }, {
+          "quantity": 20,
+          "typeID": 3645
+        }, {
+          "quantity": 20,
+          "typeID": 25268
+        }],
+        "products": [{
+          "quantity": 15,
+          "typeID": 25237
+        }],
+        "skills": [{
+          "level": 2,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46230,
+    "maxProductionLimit": 1000
+  },
+  "46231": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4051
+        }, {
+          "quantity": 20,
+          "typeID": 3645
+        }, {
+          "quantity": 20,
+          "typeID": 25273
+        }],
+        "products": [{
+          "quantity": 15,
+          "typeID": 25242
+        }],
+        "skills": [{
+          "level": 2,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46231,
+    "maxProductionLimit": 1000
+  },
+  "46232": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4246
+        }, {
+          "quantity": 20,
+          "typeID": 41
+        }, {
+          "quantity": 40,
+          "typeID": 28700
+        }],
+        "products": [{
+          "quantity": 30,
+          "typeID": 28693
+        }],
+        "skills": [{
+          "level": 1,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46232,
+    "maxProductionLimit": 1000
+  },
+  "46233": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4051
+        }, {
+          "quantity": 20,
+          "typeID": 41
+        }, {
+          "quantity": 40,
+          "typeID": 28694
+        }],
+        "products": [{
+          "quantity": 30,
+          "typeID": 28686
+        }],
+        "skills": [{
+          "level": 1,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46233,
+    "maxProductionLimit": 1000
+  },
+  "46234": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4051
+        }, {
+          "quantity": 20,
+          "typeID": 41
+        }, {
+          "quantity": 40,
+          "typeID": 28697
+        }],
+        "products": [{
+          "quantity": 30,
+          "typeID": 28687
+        }],
+        "skills": [{
+          "level": 1,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46234,
+    "maxProductionLimit": 1000
+  },
+  "46235": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4051
+        }, {
+          "quantity": 12,
+          "typeID": 25241
+        }, {
+          "quantity": 15,
+          "typeID": 25332
+        }, {
+          "quantity": 20,
+          "typeID": 3773
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25283
+        }],
+        "skills": [{
+          "level": 4,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46235,
+    "maxProductionLimit": 1000
+  },
+  "46236": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4051
+        }, {
+          "quantity": 15,
+          "typeID": 25237
+        }, {
+          "quantity": 15,
+          "typeID": 25242
+        }, {
+          "quantity": 20,
+          "typeID": 9850
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25335
+        }],
+        "skills": [{
+          "level": 3,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46236,
+    "maxProductionLimit": 1000
+  },
+  "46237": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4312
+        }, {
+          "quantity": 15,
+          "typeID": 25330
+        }, {
+          "quantity": 15,
+          "typeID": 25331
+        }, {
+          "quantity": 20,
+          "typeID": 3683
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25336
+        }],
+        "skills": [{
+          "level": 3,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46237,
+    "maxProductionLimit": 1000
+  },
+  "46238": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4312
+        }, {
+          "quantity": 15,
+          "typeID": 25330
+        }, {
+          "quantity": 15,
+          "typeID": 25331
+        }, {
+          "quantity": 20,
+          "typeID": 9850
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25337
+        }],
+        "skills": [{
+          "level": 3,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46238,
+    "maxProductionLimit": 1000
+  },
+  "46240": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4247
+        }, {
+          "quantity": 15,
+          "typeID": 25252
+        }, {
+          "quantity": 15,
+          "typeID": 25332
+        }, {
+          "quantity": 20,
+          "typeID": 3683
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25338
+        }],
+        "skills": [{
+          "level": 3,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46240,
+    "maxProductionLimit": 1000
+  },
+  "46241": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4247
+        }, {
+          "quantity": 15,
+          "typeID": 25252
+        }, {
+          "quantity": 15,
+          "typeID": 25332
+        }, {
+          "quantity": 20,
+          "typeID": 9850
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25339
+        }],
+        "skills": [{
+          "level": 3,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46241,
+    "maxProductionLimit": 1000
+  },
+  "46242": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4246
+        }, {
+          "quantity": 15,
+          "typeID": 25333
+        }, {
+          "quantity": 15,
+          "typeID": 25334
+        }, {
+          "quantity": 20,
+          "typeID": 3683
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25340
+        }],
+        "skills": [{
+          "level": 3,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46242,
+    "maxProductionLimit": 1000
+  },
+  "46243": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4246
+        }, {
+          "quantity": 15,
+          "typeID": 25333
+        }, {
+          "quantity": 15,
+          "typeID": 25334
+        }, {
+          "quantity": 20,
+          "typeID": 9850
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25341
+        }],
+        "skills": [{
+          "level": 3,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46243,
+    "maxProductionLimit": 1000
+  },
+  "46244": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4051
+        }, {
+          "quantity": 12,
+          "typeID": 25335
+        }, {
+          "quantity": 15,
+          "typeID": 25252
+        }, {
+          "quantity": 20,
+          "typeID": 3773
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25342
+        }],
+        "skills": [{
+          "level": 4,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46244,
+    "maxProductionLimit": 1000
+  },
+  "46245": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4312
+        }, {
+          "quantity": 12,
+          "typeID": 25336
+        }, {
+          "quantity": 15,
+          "typeID": 25333
+        }, {
+          "quantity": 20,
+          "typeID": 3773
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25343
+        }],
+        "skills": [{
+          "level": 4,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46245,
+    "maxProductionLimit": 1000
+  },
+  "46246": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4312
+        }, {
+          "quantity": 12,
+          "typeID": 25337
+        }, {
+          "quantity": 15,
+          "typeID": 25334
+        }, {
+          "quantity": 20,
+          "typeID": 3773
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25344
+        }],
+        "skills": [{
+          "level": 4,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46246,
+    "maxProductionLimit": 1000
+  },
+  "46247": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4247
+        }, {
+          "quantity": 12,
+          "typeID": 25338
+        }, {
+          "quantity": 15,
+          "typeID": 25242
+        }, {
+          "quantity": 20,
+          "typeID": 3773
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25345
+        }],
+        "skills": [{
+          "level": 4,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46247,
+    "maxProductionLimit": 1000
+  },
+  "46248": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4247
+        }, {
+          "quantity": 12,
+          "typeID": 25339
+        }, {
+          "quantity": 15,
+          "typeID": 25237
+        }, {
+          "quantity": 100,
+          "typeID": 3773
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25346
+        }],
+        "skills": [{
+          "level": 4,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46248,
+    "maxProductionLimit": 1000
+  },
+  "46249": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4246
+        }, {
+          "quantity": 12,
+          "typeID": 25340
+        }, {
+          "quantity": 15,
+          "typeID": 25331
+        }, {
+          "quantity": 20,
+          "typeID": 3773
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25347
+        }],
+        "skills": [{
+          "level": 4,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46249,
+    "maxProductionLimit": 1000
+  },
+  "46250": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4246
+        }, {
+          "quantity": 12,
+          "typeID": 25341
+        }, {
+          "quantity": 15,
+          "typeID": 25330
+        }, {
+          "quantity": 20,
+          "typeID": 3773
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25348
+        }],
+        "skills": [{
+          "level": 4,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46250,
+    "maxProductionLimit": 1000
+  },
+  "46251": {
+    "activities": {
+      "reaction": {
+        "materials": [{
+          "quantity": 5,
+          "typeID": 4051
+        }, {
+          "quantity": 15,
+          "typeID": 25237
+        }, {
+          "quantity": 15,
+          "typeID": 25242
+        }, {
+          "quantity": 20,
+          "typeID": 3683
+        }],
+        "products": [{
+          "quantity": 12,
+          "typeID": 25241
+        }],
+        "skills": [{
+          "level": 3,
+          "typeID": 45746
+        }],
+        "time": 10800
+      }
+    },
+    "blueprintTypeID": 46251,
+    "maxProductionLimit": 1000
   }
 }
