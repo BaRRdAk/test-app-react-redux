@@ -20,7 +20,7 @@ class BioReaction extends React.Component {
 
         <div className="row">
           <div className="col-md-9">
-            <h3>Polimer reaction production efficiency</h3>
+            <h3>Bio reaction production efficiency</h3>
           </div>
           <div className="col-md-3">
             <div className="btn-group" role="group" aria-label="">
