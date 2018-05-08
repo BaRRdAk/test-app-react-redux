@@ -48,19 +48,19 @@ export default connect(
   }),
   dispatch => ({
     onImportJita: () => {
-        dispatch(importPrice(10000002))
+        dispatch(importPrice(10000002, null))
     },
     onImportAmarr: () => {
-        dispatch(importPrice(10000043))
+        dispatch(importPrice(10000043, null))
     },
     onImportDodixie: () => {
-        dispatch(importPrice(10000032))
+        dispatch(importPrice(10000032, null))
     },
     onImportRens: () => {
-        dispatch(importPrice(10000030))
+        dispatch(importPrice(10000030, null))
     },
     onImportProvidence: () => {
-        dispatch(importPrice(10000047))
+        dispatch(importPrice(10000047, null))
     },
     onImportJitaHistory: () => {
         dispatch(importPriceHistory(10000002))
