@@ -59,9 +59,6 @@ export default connect(
     onImportRens: () => {
         dispatch(importPrice(10000030, null))
     },
-    onImportProvidence: () => {
-        dispatch(importPrice(10000047, null))
-    },
     onImportJitaHistory: () => {
         dispatch(importPriceHistory(10000002))
     },

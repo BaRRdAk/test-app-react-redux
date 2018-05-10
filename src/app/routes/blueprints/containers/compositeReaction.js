@@ -1,6 +1,7 @@
 import React from 'react'
 import { connect } from 'react-redux'
 
+import { importPrice } from '../../import/actions/importPrice'
 import { getReactionBlueprints } from '../actions/getReactionBlueprints'
 import ReactionProductionEfficiency from '../../../components/production/ReactionProductionEfficiency'
 
@@ -35,7 +36,17 @@ class CompositeReaction extends React.Component {
 
     return (
       <div className="container">
-
+        <div className="row">
+          <div className="">
+            <h3>Import price components <span className="badge">{this.props.localState.importStore.importResult}</span></h3>
+            <div className="btn-group" role="group" aria-label="Import price">
+              <button type="button" className="btn btn-default" onClick={this.props.onImportJita}>Jita</button>
+              <button type="button" className="btn btn-default" onClick={this.props.onImportAmarr}>Amarr</button>
+              <button type="button" className="btn btn-default" onClick={this.props.onImportDodixie}>Dodixie</button>
+              <button type="button" className="btn btn-default" onClick={this.props.onImportRens}>Rens</button>
+            </div>
+          </div>
+        </div>
         <div className="row">
           <div className="col-md-9">
             <h3>Composite reaction production efficiency</h3>
@@ -85,6 +96,18 @@ export default connect(
     localState: state
   }),
   dispatch => ({
+    onImportJita: () => {
+        dispatch(importPrice(10000002, [429,428,1136,427]))
+    },
+    onImportAmarr: () => {
+        dispatch(importPrice(10000043, [429,428,1136,427]))
+    },
+    onImportDodixie: () => {
+        dispatch(importPrice(10000032, [429,428,1136,427]))
+    },
+    onImportRens: () => {
+        dispatch(importPrice(10000030, [429,428,1136,427]))
+    },
     onShowAmarr: () => {
         dispatch(getReactionBlueprints(1888, 60008494, 1.09))
     },
