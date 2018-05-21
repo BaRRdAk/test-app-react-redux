@@ -2,7 +2,7 @@ import React from 'react'
 import { connect } from 'react-redux'
 
 import { importPrice } from '../../import/actions/importPrice'
-import { getReactionBlueprints } from '../actions/getReactionBlueprints'
+import { getPolimerReactionBlueprints } from '../actions/getPolimerReactionBlueprints'
 import ReactionProductionEfficiency from '../../../components/production/ReactionProductionEfficiency'
 
 class PolimerReaction extends React.Component {
@@ -13,7 +13,7 @@ class PolimerReaction extends React.Component {
 
   render() {
 
-    let blueprints = this.props.localState.blueprintStore.reactionBlueprints;
+    let blueprints = this.props.localState.blueprintStore.polimerReactionBlueprints;
     let systemIndex = 9.67;
 
     return (
@@ -79,16 +79,16 @@ export default connect(
         dispatch(importPrice(10000030, [711,18,974,1136]))
     },
     onShowAmarr: () => {
-        dispatch(getReactionBlueprints(1889, 60008494, 1.09))
+        dispatch(getPolimerReactionBlueprints(1889, 60008494, 1.09))
     },
     onShowJita: () => {
-        dispatch(getReactionBlueprints(1889, 60003760, 9.13))
+        dispatch(getPolimerReactionBlueprints(1889, 60003760, 9.13))
     },
     onShowRens: () => {
-        dispatch(getReactionBlueprints(1889, 60004588, 3.65))
+        dispatch(getPolimerReactionBlueprints(1889, 60004588, 3.65))
     },
     onShowDodixie: () => {
-        dispatch(getReactionBlueprints(1889, 60011866, 3.65))
+        dispatch(getPolimerReactionBlueprints(1889, 60011866, 3.65))
     }
   })
 )(PolimerReaction);

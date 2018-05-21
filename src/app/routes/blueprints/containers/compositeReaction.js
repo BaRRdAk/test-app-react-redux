@@ -2,7 +2,7 @@ import React from 'react'
 import { connect } from 'react-redux'
 
 import { importPrice } from '../../import/actions/importPrice'
-import { getReactionBlueprints } from '../actions/getReactionBlueprints'
+import { getCompositeReactionBlueprints } from '../actions/getCompositeReactionBlueprints'
 import ReactionProductionEfficiency from '../../../components/production/ReactionProductionEfficiency'
 
 class CompositeReaction extends React.Component {
@@ -13,7 +13,7 @@ class CompositeReaction extends React.Component {
 
   render() {
 
-    let blueprints = this.props.localState.blueprintStore.reactionBlueprints;
+    let blueprints = this.props.localState.blueprintStore.compositeReactionBlueprints;
     let systemIndex = 9.67;
 
     let advacedMoonMaterialsBlueprints = [];
@@ -109,16 +109,16 @@ export default connect(
         dispatch(importPrice(10000030, [429,428,1136,427]))
     },
     onShowAmarr: () => {
-        dispatch(getReactionBlueprints(1888, 60008494, 1.09))
+        dispatch(getCompositeReactionBlueprints(1888, 60008494, 1.09))
     },
     onShowJita: () => {
-        dispatch(getReactionBlueprints(1888, 60003760, 9.13))
+        dispatch(getCompositeReactionBlueprints(1888, 60003760, 9.13))
     },
     onShowRens: () => {
-        dispatch(getReactionBlueprints(1888, 60004588, 3.65))
+        dispatch(getCompositeReactionBlueprints(1888, 60004588, 3.65))
     },
     onShowDodixie: () => {
-        dispatch(getReactionBlueprints(1888, 60011866, 3.65))
+        dispatch(getCompositeReactionBlueprints(1888, 60011866, 3.65))
     }
   })
 )(CompositeReaction);

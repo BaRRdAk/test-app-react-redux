@@ -1,6 +1,9 @@
 const initialState = {
   blueprints: [],
   reactionBlueprints: [],
+  compositeReactionBlueprints: [],
+  bioReactionBlueprints: [],
+  polimerReactionBlueprints: [],
 };
 
 export default function blueprintReducer(state = initialState, action) {
@@ -18,6 +21,24 @@ export default function blueprintReducer(state = initialState, action) {
     case 'SHOW_REACTION_BLUEPRINTS':
       _state = {...state};
       _state.reactionBlueprints = action.payload;
+
+      return _state;
+
+    case 'SHOW_COMPOSITE_REACTION_BLUEPRINTS':
+      _state = {...state};
+      _state.compositeReactionBlueprints = action.payload;
+
+      return _state;
+
+    case 'SHOW_BIO_REACTION_BLUEPRINTS':
+      _state = {...state};
+      _state.bioReactionBlueprints = action.payload;
+
+      return _state;
+
+    case 'SHOW_POLIMER_REACTION_BLUEPRINTS':
+      _state = {...state};
+      _state.polimerReactionBlueprints = action.payload;
 
       return _state;
 

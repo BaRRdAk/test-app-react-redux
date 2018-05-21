@@ -2,7 +2,7 @@ import React from 'react'
 import { connect } from 'react-redux'
 
 import { importPrice } from '../../import/actions/importPrice'
-import { getReactionBlueprints } from '../actions/getReactionBlueprints'
+import { getBioReactionBlueprints } from '../actions/getBioReactionBlueprints'
 import ReactionProductionEfficiency from '../../../components/production/ReactionProductionEfficiency'
 
 class BioReaction extends React.Component {
@@ -13,7 +13,7 @@ class BioReaction extends React.Component {
 
   render() {
 
-    let blueprints = this.props.localState.blueprintStore.reactionBlueprints;
+    let blueprints = this.props.localState.blueprintStore.bioReactionBlueprints;
     let systemIndex = 9.67;
 
     return (
@@ -78,16 +78,16 @@ export default connect(
         dispatch(importPrice(10000030, [712,1136,711,1042,284,280]))
     },
     onShowAmarr: () => {
-        dispatch(getReactionBlueprints(1890, 60008494, 1.09))
+        dispatch(getBioReactionBlueprints(1890, 60008494, 1.09))
     },
     onShowJita: () => {
-        dispatch(getReactionBlueprints(1890, 60003760, 9.13))
+        dispatch(getBioReactionBlueprints(1890, 60003760, 9.13))
     },
     onShowRens: () => {
-        dispatch(getReactionBlueprints(1890, 60004588, 3.65))
+        dispatch(getBioReactionBlueprints(1890, 60004588, 3.65))
     },
     onShowDodixie: () => {
-        dispatch(getReactionBlueprints(1890, 60011866, 3.65))
+        dispatch(getBioReactionBlueprints(1890, 60011866, 3.65))
     }
   })
 )(BioReaction);
