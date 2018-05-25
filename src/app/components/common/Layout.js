@@ -30,6 +30,7 @@ export default class Layout extends React.Component {
                   <ul className="dropdown-menu">
                     <li><a href='/#/blueprints/advancedComponents'>Advanced components</a></li>
                     <li><a href='/#/blueprints/compositeReaction'>Composite reaction</a></li>
+                    <li><a href='/#/blueprints/compositeReactionMix'>Composite reaction mix</a></li>
                     <li><a href='/#/blueprints/polimerReaction'>Polimer reaction</a></li>
                     <li><a href='/#/blueprints/bioReaction'>Bio reaction</a></li>
                   </ul>

@@ -20,6 +20,14 @@ export default {
       }
     },
     {
+      path: 'compositeReactionMix',
+      getComponent(nextState, cb){
+        System.import('./containers/compositeReactionMix').then((m)=> {
+          cb(null, m.default)
+        })
+      }
+    },
+    {
       path: 'polimerReaction',
       getComponent(nextState, cb){
         System.import('./containers/polimerReaction').then((m)=> {

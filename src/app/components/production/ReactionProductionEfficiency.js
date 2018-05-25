@@ -103,7 +103,7 @@ export default class ReactionProductionEfficiency extends React.Component {
                   {
                     this.props.data.activities.reaction.materials.map((e, i) =>
                     <div key={i}>
-                    <dt><img src={'https://image.eveonline.com/Type/' + e.typeID + '_32.png'} />{e.name}</dt>
+                    <dt><img src={'https://image.eveonline.com/Type/' + e.typeID + '_32.png'} />{e.name} {e.region_name}</dt>
                     <dd>{e.economyQuantity} шт. - {String(e.price).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK - {String(Math.ceil(e.setPrice)).replace(/(\d)(?=(\d{3})+(\D|$))/g, '$1 ')} ISK</dd>
                     </div>
                     )
