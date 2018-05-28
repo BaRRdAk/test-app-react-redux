@@ -1,12 +1,11 @@
 
 import request from 'then-request'
 
-export const getCompositeReactionMixBlueprints = (blueprintsGroupID, systemProductionIndex) => dispatch => {
+export const getAdvancedComponentsMixBlueprints = (blueprintsGroupID, systemProductionIndex) => dispatch => {
 
   let domainRegionId = 10000043
   let jitaHubId = 60003760
   let ammarHubId = 60008494
-
 
   dispatch({ type: 'SYSTEM_INDEX', payload: systemProductionIndex })
 
@@ -30,7 +29,7 @@ export const getCompositeReactionMixBlueprints = (blueprintsGroupID, systemProdu
 
     let keyRangeValue = IDBKeyRange.only(blueprintsGroupID);
 
-    let reactionBlueprints = [];
+    let blueprints = [];
 
     myIndex.openCursor(keyRangeValue).onsuccess = function(event) {
 
@@ -52,48 +51,47 @@ export const getCompositeReactionMixBlueprints = (blueprintsGroupID, systemProdu
           let typeIDsStoreTransaction = rqst.result.transaction(["typeIDsStore"], "readonly");
           let typeIDsStore = typeIDsStoreTransaction.objectStore("typeIDsStore");
 
-          typeIDsStore.get(blueprint.activities.reaction.products[0].typeID).onsuccess = function(event) {
-            blueprint.activities.reaction.product = blueprint.activities.reaction.products[0]
-            blueprint.activities.reaction.product.name = event.target.result.name.en;
-            blueprint.activities.reaction.product.groupID = event.target.result.groupID;
-            blueprint.activities.reaction.product.basePrice = event.target.result.basePrice;
-            blueprint.activities.reaction.product.profitableMarket = 0
+          typeIDsStore.get(blueprint.activities.manufacturing.products[0].typeID).onsuccess = function(event) {
+            blueprint.activities.manufacturing.product = blueprint.activities.manufacturing.products[0]
+            blueprint.activities.manufacturing.product.name = event.target.result.name.en;
+            blueprint.activities.manufacturing.product.profitableMarket = 0
 
             db.transaction(function(tx) {
-              tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price LIMIT 1", [blueprint.activities.reaction.products[0].typeID, ammarHubId, false], function(tx, result) {
+              tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price LIMIT 1", [blueprint.activities.manufacturing.products[0].typeID, ammarHubId, false], function(tx, result) {
 
                 for (let row of result.rows) {
-                  blueprint.activities.reaction.product.price = row.price
+                  blueprint.activities.manufacturing.product.price = row.price
                 }
-                dispatch({ type: 'SHOW_COMPOSITE_REACTION_BLUEPRINTS', payload: reactionBlueprints })
+                dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
               }, null)
             })
 
             db.transaction(function(tx) {
-              tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price DESC LIMIT 1", [blueprint.activities.reaction.products[0].typeID, ammarHubId, true], function(tx, result) {
+              tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price DESC LIMIT 1", [blueprint.activities.manufacturing.products[0].typeID, ammarHubId, true], function(tx, result) {
 
                 for (let row of result.rows) {
-                  blueprint.activities.reaction.product.buy_price = row.price
+                  blueprint.activities.manufacturing.product.buy_price = row.price
 
                   let minPrice = row.price - row.price/100*2
 
                   db.transaction(function(tx) {
-                    tx.executeSql("SELECT volume_remain FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? AND price > ?", [blueprint.activities.reaction.product.typeID, ammarHubId, true, minPrice], function(tx, result) {
+                    tx.executeSql("SELECT volume_remain FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? AND price > ?", [blueprint.activities.manufacturing.product.typeID, ammarHubId, true, minPrice], function(tx, result) {
 
                       for (let row of result.rows) {
-                        blueprint.activities.reaction.product.profitableMarket += row.volume_remain
+                        blueprint.activities.manufacturing.product.profitableMarket += row.volume_remain
                       }
-                      dispatch({ type: 'SHOW_COMPOSITE_REACTION_BLUEPRINTS', payload: reactionBlueprints })
+                      dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
                     }, null)
                   })
 
-
                 }
-                dispatch({ type: 'SHOW_COMPOSITE_REACTION_BLUEPRINTS', payload: reactionBlueprints })
+
+                dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
               }, null)
+
             })
 
-            blueprint.activities.reaction.materials.map((e) => {
+            blueprint.activities.manufacturing.materials.map((e) => {
               typeIDsStore.get(e.typeID).onsuccess = function(event) {
                 e.name = event.target.result.name.en;
                 db.transaction(function(tx) {
@@ -106,20 +104,18 @@ export const getCompositeReactionMixBlueprints = (blueprintsGroupID, systemProdu
                       if(parseInt(row.region_id) == 10000043){
                         e.region_name = "(Domain)"
                       } else if (row.region_id == 10000002){
-                        e.region_name = "(Jita)"
-                      }
-
+                        e.region_name = "(Jita)" }
                     }
-                    dispatch({ type: 'SHOW_COMPOSITE_REACTION_BLUEPRINTS', payload: reactionBlueprints })
+                    dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
                   }, null)
                 })
 
-                dispatch({ type: 'SHOW_COMPOSITE_REACTION_BLUEPRINTS', payload: reactionBlueprints })
+                dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
               }
             })
 
-            reactionBlueprints.push(blueprint)
-            dispatch({ type: 'SHOW_COMPOSITE_REACTION_BLUEPRINTS', payload: reactionBlueprints })
+            blueprints.push(blueprint)
+            dispatch({ type: 'SHOW_BLUEPRINTS', payload: blueprints })
           }
 
         };

@@ -12,6 +12,14 @@ export default {
       }
     },
     {
+      path: 'advancedComponentsMix',
+      getComponent(nextState, cb){
+        System.import('./containers/advancedComponentsMix').then((m)=> {
+          cb(null, m.default)
+        })
+      }
+    },
+    {
       path: 'compositeReaction',
       getComponent(nextState, cb){
         System.import('./containers/compositeReaction').then((m)=> {
