@@ -18,6 +18,17 @@ class Dashboard extends React.Component {
       const parsed = queryString.parse(this.props.location.hash);
       if(parsed['access_token']){
         sessionStorage.setItem('access_token', parsed['access_token']);
+
+        let verifyURL="https://esi.evetech.net/verify/?datasource=tranquility&token=" + sessionStorage.getItem('access_token');
+
+        request('GET', verifyURL, {json: true}).done((result) => {
+          if(result.statusCode == 200){
+            let resArray = JSON.parse(result.getBody())
+            sessionStorage.setItem('CharacterID', resArray.CharacterID);
+            sessionStorage.setItem('CharacterName', resArray.CharacterName);
+          }
+        })
+
         this.props.router.push('/dashboard');
       }
 
@@ -28,12 +39,13 @@ class Dashboard extends React.Component {
 
     let buttonName = 'Authorize';
 
-     this.props.checkAuthorized();
+    this.props.checkAuthorized();
 
     return (
       <div>
         <h1>Dashboard</h1>
         <button onClick={this.props.onAuthorize} >{buttonName}</button>
+        <div>{sessionStorage.getItem('CharacterName')}</div>
       </div>
     )
   }
@@ -57,17 +69,46 @@ export default connect(
     },
     checkAuthorized: () => {
       if(sessionStorage.getItem('access_token')){
-        let token = sessionStorage.getItem('access_token');
-        let url="https://esi.tech.ccp.is/latest/characters/96732334/wallet/?datasource=tranquility&token=" + token;
 
-        request('GET', url, {json: true}).done((result) => {
+        let token = sessionStorage.getItem('access_token');
+        let characterID = sessionStorage.getItem('CharacterID');
+
+
+        let walletURL="https://esi.tech.ccp.is/latest/characters/" + characterID + "/wallet/?datasource=tranquility&token=" + token;
+
+        request('GET', walletURL, {json: true}).done((result) => {
           if(result.statusCode == 200){
-            let resArray = JSON.parse(result.getBody())
-            console.log('RESULT', resArray)
+            let wallet = JSON.parse(result.getBody())
           } else {
             sessionStorage.removeItem('access_token');
           }
         })
+
+
+        let ordersURL="https://esi.tech.ccp.is/latest/characters/" + characterID + "/orders/?datasource=tranquility&token=" + token;
+
+        request('GET', ordersURL, {json: true}).done((result) => {
+          if(result.statusCode == 200){
+            let ordersArray = JSON.parse(result.getBody())
+            console.log('ORDERS', ordersArray)
+          } else {
+            sessionStorage.removeItem('access_token');
+          }
+        })
+
+        let jobsURL="https://esi.tech.ccp.is/latest/characters/" + characterID + "/industry/jobs/?datasource=tranquility&token=" + token;
+
+        request('GET', jobsURL, {json: true}).done((result) => {
+          if(result.statusCode == 200){
+            let jobsArray = JSON.parse(result.getBody())
+            console.log('JOBS', jobsArray)
+          } else {
+            sessionStorage.removeItem('access_token');
+          }
+        })
+
+
+
       }
 
     }
