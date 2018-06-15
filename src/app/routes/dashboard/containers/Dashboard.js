@@ -5,20 +5,21 @@ import request from 'then-request'
 
 import { Redirect } from 'react-router'
 
+import { getCharacter } from '../action/getCharacter'
+import CharacterInfo from '../../../components/character/CharacterInfo'
+
 class Dashboard extends React.Component {
 
   constructor(props) {
     super(props)
   }
 
-
   componentDidMount() {
 
       const queryString = require('query-string');
       const parsed = queryString.parse(this.props.location.hash);
       if(parsed['access_token']){
-        sessionStorage.setItem('access_token', parsed['access_token']);
-
+        sessionStorage.setItem('access_token', parsed['access_token'])
         let verifyURL="https://esi.evetech.net/verify/?datasource=tranquility&token=" + sessionStorage.getItem('access_token');
 
         request('GET', verifyURL, {json: true}).done((result) => {
@@ -28,24 +29,41 @@ class Dashboard extends React.Component {
             sessionStorage.setItem('CharacterName', resArray.CharacterName);
           }
         })
-
         this.props.router.push('/dashboard');
       }
 
   }
 
 
+  verify() {
+
+  }
+
   render() {
 
     let buttonName = 'Authorize';
+    let infoButton;
+    let action = null
 
-    this.props.checkAuthorized();
+    if (sessionStorage.getItem('CharacterName')) {
+      buttonName = 'Logout';
+      infoButton = <button onClick={this.props.onShowInfo} >{sessionStorage.getItem('CharacterName')}</button>;
+      action = this.props.onLogout
+    } else {
+      buttonName = 'Authorize';
+      infoButton = "";
+      action = this.props.onAuthorize
+    }
 
     return (
       <div>
-        <h1>Dashboard</h1>
-        <button onClick={this.props.onAuthorize} >{buttonName}</button>
-        <div>{sessionStorage.getItem('CharacterName')}</div>
+
+        <button onClick={action} >{buttonName}</button>
+
+        {infoButton}
+
+        <CharacterInfo data={this.props.localState.characterStore} />
+
       </div>
     )
   }
@@ -66,51 +84,14 @@ export default connect(
     },
     onLogout: () => {
       sessionStorage.removeItem('access_token');
+      sessionStorage.removeItem('CharacterID');
+      sessionStorage.removeItem('CharacterName');
     },
-    checkAuthorized: () => {
-      if(sessionStorage.getItem('access_token')){
+    onShowInfo: () => {
+      let token = sessionStorage.getItem('access_token');
+      let characterID = sessionStorage.getItem('CharacterID');
+      dispatch(getCharacter(token, characterID))
+    },
 
-        let token = sessionStorage.getItem('access_token');
-        let characterID = sessionStorage.getItem('CharacterID');
-
-
-        let walletURL="https://esi.tech.ccp.is/latest/characters/" + characterID + "/wallet/?datasource=tranquility&token=" + token;
-
-        request('GET', walletURL, {json: true}).done((result) => {
-          if(result.statusCode == 200){
-            let wallet = JSON.parse(result.getBody())
-          } else {
-            sessionStorage.removeItem('access_token');
-          }
-        })
-
-
-        let ordersURL="https://esi.tech.ccp.is/latest/characters/" + characterID + "/orders/?datasource=tranquility&token=" + token;
-
-        request('GET', ordersURL, {json: true}).done((result) => {
-          if(result.statusCode == 200){
-            let ordersArray = JSON.parse(result.getBody())
-            console.log('ORDERS', ordersArray)
-          } else {
-            sessionStorage.removeItem('access_token');
-          }
-        })
-
-        let jobsURL="https://esi.tech.ccp.is/latest/characters/" + characterID + "/industry/jobs/?datasource=tranquility&token=" + token;
-
-        request('GET', jobsURL, {json: true}).done((result) => {
-          if(result.statusCode == 200){
-            let jobsArray = JSON.parse(result.getBody())
-            console.log('JOBS', jobsArray)
-          } else {
-            sessionStorage.removeItem('access_token');
-          }
-        })
-
-
-
-      }
-
-    }
   })
 )(Dashboard);
