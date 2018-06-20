@@ -56,7 +56,7 @@ class Dashboard extends React.Component {
     }
 
     return (
-      <div>
+      <div className="container">
 
         <button onClick={action} >{buttonName}</button>
 
