@@ -2,6 +2,7 @@ const initialState = {
   wallet: 0,
   orders: [],
   jobs: [],
+  wallet_transactions: [],
 };
 
 export default function characterReducer(state = initialState, action) {
@@ -13,6 +14,12 @@ export default function characterReducer(state = initialState, action) {
     case 'SHOW_CHARACTER_WALLET':
       _state = {...state};
       _state.wallet = action.payload;
+
+      return _state;
+
+    case 'SHOW_CHARACTER_WALLET_TRANSACTIONS':
+      _state = {...state};
+      _state.wallet_transactions = action.payload;
 
       return _state;
 

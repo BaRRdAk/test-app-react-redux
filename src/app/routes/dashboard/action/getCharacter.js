@@ -35,5 +35,13 @@ console.log(sessionStorage.getItem('CharacterName'));
     }
   })
 
+  let transactionsURL="https://esi.tech.ccp.is/latest/characters/" + characterID + "/wallet/transactions/?datasource=tranquility&page=1&token=" + token;
+
+  request('GET', transactionsURL, {json: true}).done((result) => {
+    if(result.statusCode == 200){
+      let walletTransactionsArray = JSON.parse(result.getBody())
+      dispatch({ type: 'SHOW_CHARACTER_WALLET_TRANSACTIONS', payload: walletTransactionsArray })
+    }
+  })
 
 }
