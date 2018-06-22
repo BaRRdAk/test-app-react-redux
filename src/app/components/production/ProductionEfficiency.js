@@ -29,11 +29,13 @@ export default class ProductionEfficiency extends React.Component {
   render() {
     let saleOrderTax = this.props.data.activities.manufacturing.product.setPrice/100*(2.57+1.2)
     let buyOrderTax = this.props.data.activities.manufacturing.product.buySetPrice/100*(1.2)
-    let manufacturingСost = Math.ceil(this.props.data.activities.manufacturing.manufacturingPrice);
+    //let manufacturingСost = Math.ceil(this.props.data.activities.manufacturing.manufacturingPrice);
+    //стоимость производства на заводе
+    let manufacturingСost = Math.ceil(this.props.data.activities.manufacturing.product.basePrice*1000/100*this.props.systemIndex);
     let salesTax = Math.ceil(saleOrderTax);
     let buyTax = Math.ceil(buyOrderTax);
-    let amountOfExpenses = Math.ceil(this.props.data.activities.manufacturing.allMaterialsPrice + this.props.data.activities.manufacturing.manufacturingPrice + saleOrderTax);
-    let buyAmountOfExpenses = Math.ceil(this.props.data.activities.manufacturing.allMaterialsPrice + this.props.data.activities.manufacturing.manufacturingPrice + buyOrderTax);
+    let amountOfExpenses = Math.ceil(this.props.data.activities.manufacturing.allMaterialsPrice + manufacturingСost + saleOrderTax);
+    let buyAmountOfExpenses = Math.ceil(this.props.data.activities.manufacturing.allMaterialsPrice + manufacturingСost + buyOrderTax);
     let profit = Math.ceil(this.props.data.activities.manufacturing.product.setPrice - amountOfExpenses);
     let profitPercent = profit/(amountOfExpenses/100);
     let profit_buy = Math.ceil(this.props.data.activities.manufacturing.product.buySetPrice - buyAmountOfExpenses);

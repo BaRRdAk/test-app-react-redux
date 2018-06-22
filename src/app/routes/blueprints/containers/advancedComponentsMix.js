@@ -121,7 +121,7 @@ export default connect(
         dispatch(importPrice(10000043, [334,429]))
     },
     onShowDomainJita: () => {
-        dispatch(getAdvancedComponentsMixBlueprints(447, 1.3))
+        dispatch(getAdvancedComponentsMixBlueprints(447, 5.3))
     }
   })
 )(AdvancedComponentsMix);

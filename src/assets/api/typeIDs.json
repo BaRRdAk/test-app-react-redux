@@ -1,5 +1,6 @@
 {
   "11530": {
+    "basePrice": 9955,
     "description": {
       "en": "Propulsion Component used primarily in Minmatar ships as well as some propulsion tech. A component in various other technology as well.",
       "ru": "Реактивный компонент, используемый в основном на кораблях Minmatar и в других системах реактивной тяги. Применяется и в других различных технологиях."
@@ -18,6 +19,7 @@
     "volume": 1
   },
   "11531": {
+    "basePrice": 9512,
     "description": {
       "en": "Propulsion Component used primarily in Gallente ships. A component in various other technology as well.",
       "ru": "Реактивный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
@@ -36,6 +38,7 @@
     "volume": 1
   },
   "11532": {
+    "basePrice": 9350,
     "description": {
       "en": "Propulsion Component used primarily in Amarr ships. A component in various other technology as well.",
       "ru": "Реактивный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
@@ -54,6 +57,7 @@
     "volume": 1
   },
   "11533": {
+    "basePrice": 9482,
     "description": {
       "en": "Propulsion Component used primarily in Caldari ships. A component in various other technology as well.",
       "ru": "Реактивный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
@@ -72,6 +76,7 @@
     "volume": 1
   },
   "11534": {
+    "basePrice": 12237,
     "description": {
       "en": "Sensor Component used primarily in Caldari ships. A component in various other technology as well.",
       "ru": "Сенсорный компонент, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
@@ -90,6 +95,7 @@
     "volume": 1
   },
   "11535": {
+    "basePrice": 12288,
     "description": {
       "en": "Sensor Component used primarily in Gallente ships. A component in various other technology as well.",
       "ru": "Сенсорный компонент, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
@@ -108,6 +114,7 @@
     "volume": 1
   },
   "11536": {
+    "basePrice": 13037,
     "description": {
       "en": "Sensor Component used primarily in Minmatar ships. A component in various other technology as well.",
       "ru": "Сенсорный компонент, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
@@ -126,6 +133,7 @@
     "volume": 1
   },
   "11537": {
+    "basePrice": 12014,
     "description": {
       "en": "Sensor Component used primarily in Amarr ships. A component in various other technology as well.",
       "ru": "Сенсорный компонент, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
@@ -144,6 +152,7 @@
     "volume": 1
   },
   "11538": {
+    "basePrice": 41147,
     "description": {
       "en": "CPU Component used primarily in Minmatar ships. A component in various other technology as well.",
       "ru": "Компонент центрального процессора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
@@ -162,6 +171,7 @@
     "volume": 1
   },
   "11539": {
+    "basePrice": 40635,
     "description": {
       "en": "CPU Component used primarily in Amarr ships. A component in various other technology as well.",
       "ru": "Компонент центрального процессора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
@@ -180,6 +190,7 @@
     "volume": 1
   },
   "11540": {
+    "basePrice": 37127,
     "description": {
       "en": "CPU Component used primarily in Caldari ships. A component in various other technology as well.",
       "ru": "Компонент центрального процессора, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
@@ -198,6 +209,7 @@
     "volume": 1
   },
   "11541": {
+    "basePrice": 48972,
     "description": {
       "en": "CPU Component used primarily in Gallente ships. A component in various other technology as well.",
       "ru": "Компонент центрального процессора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
@@ -216,6 +228,7 @@
     "volume": 1
   },
   "11542": {
+    "basePrice": 8803,
     "description": {
       "en": "Armor Component used primarily in Minmatar ships. A component in various other technology as well.",
       "ru": "Компонент брони, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
@@ -234,6 +247,7 @@
     "volume": 1
   },
   "11543": {
+    "basePrice": 6757,
     "description": {
       "en": "Armor Component used primarily in Amarr ships. A component in various other technology as well.",
       "ru": "Компонент брони, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
@@ -252,6 +266,7 @@
     "volume": 1
   },
   "11544": {
+    "basePrice": 7202,
     "description": {
       "en": "Armor Component used primarily in Caldari ships. A component in various other technology as well.",
       "ru": "Компонент брони, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
@@ -270,6 +285,7 @@
     "volume": 1
   },
   "11545": {
+    "basePrice": 7305,
     "description": {
       "en": "Armor Component used primarily in Gallente ships. A component in various other technology as well.",
       "ru": "Компонент брони, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
@@ -288,6 +304,7 @@
     "volume": 1
   },
   "11547": {
+    "basePrice": 28917,
     "description": {
       "en": "Power Core component used primarily in Gallente ships. A component in various other technologies as well.",
       "ru": "Компонент силовой установки, используемый преимущественно на галлентских кораблях. Кроме того, применяется в ряде других проектов."
@@ -306,6 +323,7 @@
     "volume": 1
   },
   "11548": {
+    "basePrice": 29224,
     "description": {
       "en": "Power Core component used primarily in Minmatar ships. A component in various other technology as well.",
       "ru": "Компонент силового ядра, используемый преимущественно на кораблях Minmatar. Применяется и в других различных технологиях."
@@ -324,6 +342,7 @@
     "volume": 1
   },
   "11549": {
+    "basePrice": 28805,
     "description": {
       "en": "Power Core component used primarily in Amarr ships. A component in various other technology as well.",
       "ru": "Компонент силового ядра, используемый преимущественно на кораблях Amarr. Применяется и в других различных технологиях."
@@ -342,6 +361,7 @@
     "volume": 1
   },
   "11550": {
+    "basePrice": 28896,
     "description": {
       "en": "Power Core component used primarily in Caldari ships. A component in various other technology as well.",
       "ru": "Компонент энергосети, используемый преимущественно на кораблях Caldari. Применяется и в других различных технологиях."
@@ -360,6 +380,7 @@
     "volume": 1
   },
   "11551": {
+    "basePrice": 44157,
     "description": {
       "en": "Capacitor component used primarily in Minmatar ships. A component in various other technology as well.",
       "ru": "Компонент конденсатора, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
@@ -378,6 +399,7 @@
     "volume": 1
   },
   "11553": {
+    "basePrice": 51642,
     "description": {
       "en": "Capacitor component used primarily in Gallente ships. A component in various other technology as well.",
       "ru": "Компонент конденсатора, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
@@ -396,6 +418,7 @@
     "volume": 1
   },
   "11554": {
+    "basePrice": 43180,
     "description": {
       "en": "Capacitor component used primarily in Amarr ships. A component in various other technology as well.",
       "ru": "Компонент конденсатора, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
@@ -414,6 +437,7 @@
     "volume": 1
   },
   "11555": {
+    "basePrice": 10116,
     "description": {
       "en": "Shield Component used primarily in Minmatar ships. A component in various other technology as well.",
       "ru": "Компонент щита, используемый в основном на кораблях Minmatar. Применяется и в других различных технологиях."
@@ -432,6 +456,7 @@
     "volume": 1
   },
   "11556": {
+    "basePrice": 9367,
     "description": {
       "en": "Shield Component used primarily in Gallente ships. A component in various other technology as well.",
       "ru": "Компонент щита, используемый в основном на кораблях Gallente. Применяется и в других различных технологиях."
@@ -450,6 +475,7 @@
     "volume": 1
   },
   "11557": {
+    "basePrice": 9093,
     "description": {
       "en": "Shield Component used primarily in Amarr ships. A component in various other technology as well.",
       "ru": "Компонент щита, используемый в основном на кораблях Amarr. Применяется и в других различных технологиях."
@@ -468,6 +494,7 @@
     "volume": 1
   },
   "11558": {
+    "basePrice": 9316,
     "description": {
       "en": "Shield Component used primarily in Caldari ships. A component in various other technology as well.",
       "ru": "Компонент щита, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
@@ -486,6 +513,7 @@
     "volume": 1
   },
   "11688": {
+    "basePrice": 22094,
     "description": {
       "en": "Weapon Component used primarily in Blasters. A component in various other technology as well.",
       "ru": "Орудийный компонент, используемый в основном в бластерах. Применяется и в других различных технологиях."
@@ -504,6 +532,7 @@
     "volume": 1
   },
   "11689": {
+    "basePrice": 20055,
     "description": {
       "en": "Weapon Component used primarily in Lasers. A component in various other technology as well.",
       "ru": "Орудийный компонент, используемый в основном в лазерах. Применяется и в других различных технологиях."
@@ -522,6 +551,7 @@
     "volume": 1
   },
   "11690": {
+    "basePrice": 20368,
     "description": {
       "en": "Weapon Component used primarily in Railguns. A component in various other technology as well.",
       "ru": "Орудийный компонент, используемый в основном в рейлганах. Применяется и в других различных технологиях."
@@ -540,6 +570,7 @@
     "volume": 1
   },
   "11691": {
+    "basePrice": 21497,
     "description": {
       "en": "Weapon Component used primarily in Cannons. A component in various other technology as well.",
       "ru": "Орудийный компонент, используемый в основном в артиллерии. Применяется и в других различных технологиях."
@@ -558,6 +589,7 @@
     "volume": 1
   },
   "11693": {
+    "basePrice": 22043,
     "description": {
       "en": "Weapon Component used primarily in Caldari Missiles. A component in various other technology as well.",
       "ru": "Орудийный компонент, используемый в основном в ракетах производства Caldari. Применяется и в других различных технологиях."
@@ -576,6 +608,7 @@
     "volume": 1
   },
   "11694": {
+    "basePrice": 21820,
     "description": {
       "en": "Weapon Component used primarily in Amarr Missiles. A component in various other technology as well.",
       "ru": "Орудийный компонент, используемый в основном в ракетах производства Amarr. Применяется и в других различных технологиях."
@@ -594,6 +627,7 @@
     "volume": 1
   },
   "11695": {
+    "basePrice": 22094,
     "description": {
       "en": "Weapon Component used primarily in Gallente Missiles. A component in various other technology as well.",
       "ru": "Орудийный компонент, используемый в основном в ракетах производства Gallente. Применяется и в других различных технологиях."
@@ -867,6 +901,7 @@
     "volume": 1
   },
   "11552": {
+    "basePrice": 40774,
     "description": {
       "en": "Capacitor component used primarily in Caldari ships. A component in various other technology as well.",
       "ru": "Компонент конденсатора, используемый в основном на кораблях Caldari. Применяется и в других различных технологиях."
@@ -885,6 +920,7 @@
     "volume": 1
   },
   "11692": {
+    "basePrice": 22843,
     "description": {
       "en": "Weapon Component used primarily in Minmatar Missiles. A component in various other technology as well.",
       "ru": "Орудийный компонент, используемый в основном в ракетах производства Minmatar. Применяется и в других различных технологиях."
