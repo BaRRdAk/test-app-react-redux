@@ -51,6 +51,7 @@ export const getBlueprints = (locationID, systemProductionIndex) => dispatch => 
             blueprint.activities.manufacturing.product = blueprint.activities.manufacturing.products[0]
             blueprint.activities.manufacturing.product.name = event.target.result.name.en;
             blueprint.activities.manufacturing.product.profitableMarket = 0
+            blueprint.activities.manufacturing.product.basePrice = event.target.result.basePrice;
 
             db.transaction(function(tx) {
               tx.executeSql("SELECT price FROM Price WHERE type_id = ? AND location_id = ? AND is_buy_order = ? ORDER BY price LIMIT 1", [blueprint.activities.manufacturing.products[0].typeID, locationID, false], function(tx, result) {
