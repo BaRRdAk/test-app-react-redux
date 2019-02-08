@@ -1,19 +1,9 @@
 import React from 'react'
-import {
-  connect
-}
-from 'react-redux'
+import { connect } from 'react-redux'
 
-import {
-  importPrice
-}
-from '../../import/actions/importPrice'
-import {
-  getBlueprints
-}
-from '../actions/getBlueprints'
-import ProductionEfficiency from
-  '../../../components/production/ProductionEfficiency'
+import { importPrice } from '../../import/actions/importPrice' 
+import { getBlueprints } from '../actions/getBlueprints'
+import ProductionEfficiency from '../../../components/production/ProductionEfficiency'
 
 class BlueprintInfo extends React.Component {
 
